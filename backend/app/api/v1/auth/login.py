@@ -68,7 +68,7 @@ async def validate_credentials(
             "role": user.role.value if hasattr(user.role, 'value') else user.role,
             "mfa_verified": False, # Always starts as False upon login
             "mfa_enabled": user.mfa_enabled,
-            "assigned_properties": [str(p.property_id) for p in user.properties] if user.properties else []
+            "assigned_properties": [],  # unngår tung property-join ved innlogging (schema kan variere lokalt)
         }
         
         logger.info(f"Credentials validated for user {email}")
