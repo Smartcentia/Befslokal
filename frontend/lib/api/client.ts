@@ -1,7 +1,9 @@
 // Backend URL: KUN NEXT_PUBLIC_API_URL (uten /api/v1). Ingen fallback – sett i Vercel/Render.
 const envUrl = process.env?.NEXT_PUBLIC_API_URL;
 const base = typeof envUrl === 'string' ? envUrl.trim() : '';
-export const API_BASE_URL = base ? `${base.replace(/\/$/, '')}/api/v1` : '';
+const devFallback = process.env.NODE_ENV === 'development' ? 'http://localhost:8000' : '';
+const apiOrigin = base || devFallback;
+export const API_BASE_URL = apiOrigin ? `${apiOrigin.replace(/\/$/, '')}/api/v1` : '';
 export const BACKEND_URL = base ? base.replace(/\/$/, '') : '';
 
 /** Rot-URL til API (uten /api/v1). Brukes for ruter som er montert under f.eks. /api/external/ (ikke /api/v1). */

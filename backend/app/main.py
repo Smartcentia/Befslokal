@@ -251,10 +251,15 @@ allow_creds = True
 
 logger.info("Final configured CORS origins: %s", origins)
 
+_local_cors_regex = (
+    r"https://.*\.vercel\.app|http://(localhost|127\.0\.0\.1)(:\d+)?"
+    if settings.ENVIRONMENT in ("local", "development")
+    else r"https://.*\.vercel\.app"
+)
 app.add_middleware(
     CORSMiddleware,
     allow_origins=origins,
-    allow_origin_regex=r"https://.*\.vercel\.app", # Support ALL Vercel Deployments
+    allow_origin_regex=_local_cors_regex,
     allow_credentials=allow_creds,
     allow_methods=["GET", "POST", "PUT", "DELETE", "PATCH", "OPTIONS"],
     allow_headers=["*"],
@@ -267,11 +272,13 @@ from starlette.requests import Request as StarletteRequest
 
 # Single source for CORS - uses settings.get_cors_origins_list()
 CORS_ALLOWED_ORIGIN_REGEX = re.compile(r"https://.*\.vercel\.app")
+CORS_LOCAL_ORIGIN_REGEX = re.compile(r"^https?://(localhost|127\.0\.0\.1)(:\d+)?$")
 
 def get_cors_headers_for_origin(origin: str) -> dict:
     """Return CORS headers if origin is allowed. Uses settings.get_cors_origins_list() as single source."""
     allowed_origins = settings.get_cors_origins_list()
-    if origin in allowed_origins or CORS_ALLOWED_ORIGIN_REGEX.match(origin or ""):
+    local_ok = settings.ENVIRONMENT in ("local", "development") and CORS_LOCAL_ORIGIN_REGEX.match(origin or "")
+    if origin in allowed_origins or CORS_ALLOWED_ORIGIN_REGEX.match(origin or "") or local_ok:
         return {
             "Access-Control-Allow-Origin": origin,
             "Access-Control-Allow-Credentials": "true",

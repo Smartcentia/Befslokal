@@ -56,16 +56,18 @@ async def get_current_user(
             detail="Invalid user data in token",
         )
 
-    # Check for existing user in database
+    # Check for existing user in database (unngå tung properties-join lokalt)
     from sqlalchemy import select
-    result = await db.execute(select(User).where(User.email == email))
+    from sqlalchemy.orm import noload
+    result = await db.execute(
+        select(User).options(noload(User.properties)).where(User.email == email)
+    )
     user = result.scalar_one_or_none()
 
     # Ensure system user always has Admin role if bypass is used
     if user and email == "system@befs.no" and user.role != UserRole.ADMIN:
         user.role = UserRole.ADMIN
         await db.commit()
-        await db.refresh(user)
         logger.info("Upgraded existing system user to ADMIN role")
 
     if user and not getattr(user, "is_active", True):

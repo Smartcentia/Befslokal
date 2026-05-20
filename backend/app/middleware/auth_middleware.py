@@ -12,12 +12,14 @@ logger = logging.getLogger(__name__)
 
 # CORS: single source from config (Fix 5 - CODE_REVIEW_30-01)
 ALLOWED_ORIGIN_REGEX = re.compile(r"https://.*\.vercel\.app")
+LOCAL_ORIGIN_REGEX = re.compile(r"^https?://(localhost|127\.0\.0\.1)(:\d+)?$")
 
 
 def get_cors_headers(origin: str) -> dict:
     """Get CORS headers based on request origin (uses settings.get_cors_origins_list())."""
     allowed = settings.get_cors_origins_list()
-    if origin in allowed or ALLOWED_ORIGIN_REGEX.match(origin or ""):
+    local_ok = settings.ENVIRONMENT in ("local", "development") and LOCAL_ORIGIN_REGEX.match(origin or "")
+    if origin in allowed or ALLOWED_ORIGIN_REGEX.match(origin or "") or local_ok:
         return {
             "access-control-allow-origin": origin,
             "access-control-allow-credentials": "true",
