@@ -41,3 +41,28 @@ CREATE TABLE IF NOT EXISTS system_settings (
   value TEXT NOT NULL,
   updated_at TIMESTAMPTZ DEFAULT now()
 );
+
+-- Lønnstabell (kreves for eiendomsliste med source_coverage=complete)
+CREATE TABLE IF NOT EXISTS salary_costs (
+  salary_cost_id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
+  property_id UUID REFERENCES properties(property_id),
+  year INTEGER NOT NULL,
+  faste_stillinger NUMERIC(19,4) NOT NULL DEFAULT 0,
+  vikarer NUMERIC(19,4) NOT NULL DEFAULT 0,
+  arbeidsgiveravgift NUMERIC(19,4) NOT NULL DEFAULT 0,
+  institution_name_raw VARCHAR(500),
+  import_batch_id VARCHAR(100),
+  imported_at TIMESTAMPTZ DEFAULT now(),
+  data_source VARCHAR(100),
+  is_partial_year BOOLEAN NOT NULL DEFAULT false,
+  turnustillegg NUMERIC(19,4),
+  pensjonspremie NUMERIC(19,4),
+  midlertidige NUMERIC(19,4),
+  turnustillegg_vik NUMERIC(19,4),
+  overtid_faste NUMERIC(19,4),
+  overtid_midl NUMERIC(19,4),
+  aga_spk NUMERIC(19,4),
+  CONSTRAINT uq_salary_costs_property_year UNIQUE (property_id, year)
+);
+CREATE INDEX IF NOT EXISTS ix_salary_costs_property ON salary_costs(property_id);
+CREATE INDEX IF NOT EXISTS ix_salary_costs_year ON salary_costs(year);

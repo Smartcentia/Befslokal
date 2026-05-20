@@ -30,8 +30,13 @@ from app.domains.hms.models.internal_control import InternalControlCase
 from app.domains.core.models.user import User as UserModel
 from sqlalchemy.orm import selectinload
 from app.services.financials.source_coverage_service import complete_source_coverage_property_ids_subquery
+from app.core.config import settings
 
 router = APIRouter()
+
+_DEFAULT_SOURCE_COVERAGE = (
+    "all" if settings.ENVIRONMENT in ("local", "development") else "complete"
+)
 
 
 def _bufdir_image_thumb(ext: Optional[dict]) -> Optional[str]:
@@ -204,7 +209,7 @@ async def get_properties(
     exclude_avdelinger: bool = Query(True, description="Skjul avdelinger (unit_short_type=Avdeling) fra listen – de vises under sin foreldreinstitujon"),
     include_discontinued: bool = Query(False, description="Inkluder avviklede eiendommer (closed_at satt)"),
     source_coverage: str = Query(
-        "complete",
+        _DEFAULT_SOURCE_COVERAGE,
         pattern="^(complete|missing|all)$",
         description="Kildedekning 2020-2025 på tvers av GL + lønn: complete|missing|all",
     ),
@@ -1280,7 +1285,7 @@ async def get_property_map_markers(
     limit: int = Query(500, ge=1, le=2000, description="Maks antall markører"),
     include_discontinued: bool = Query(False, description="Inkluder avviklede eiendommer (closed_at satt)"),
     source_coverage: str = Query(
-        "complete",
+        _DEFAULT_SOURCE_COVERAGE,
         pattern="^(complete|missing|all)$",
         description="Kildedekning 2020-2025 på tvers av GL + lønn: complete|missing|all",
     ),
