@@ -1,0 +1,137 @@
+[
+    {
+        "address_key": "Haraldsgaten 94",
+        "parking_summary": "Inkludert",
+        "details": "6 parkeringsplasser i garasje er inkludert i leien."
+    },
+    {
+        "address_key": "Feråsveien 13",
+        "parking_summary": "Inkludert",
+        "details": "Leieobjektet inkluderer alle parkeringsplasser på tomten."
+    },
+    {
+        "address_key": "Sundløkkaveien 73",
+        "parking_summary": "Inkludert",
+        "details": "20 parkeringsplasser for ansatte er inkludert. Fri flyt-prinsippet uten reserverte plasser."
+    },
+    {
+        "address_key": "Klatrevegen 2",
+        "parking_summary": "Inkludert",
+        "details": "Omfatter tomt med utearealer og parkeringsplasser, samt garasje med plass til to biler."
+    },
+    {
+        "address_key": "Torolv Kveldulvsonsgt. 39",
+        "parking_summary": "Inkludert",
+        "details": "Parkeringsplass for 2 kjøretøy er opparbeidet og inkludert i husleien."
+    },
+    {
+        "address_key": "Bastian Withs gt 11",
+        "parking_summary": "Delvis inkludert",
+        "details": "En garasjeplass og tre oppstillingsplasser på tomten inngår. Behov utover dette må leietaker dekke selv."
+    },
+    {
+        "address_key": "Viktoriasenteret",
+        "parking_summary": "Inkludert",
+        "details": "Leietaker betaler ikke et leietillegg for parkeringsplasser."
+    },
+    {
+        "address_key": "Kollen Ungdomsbase",
+        "parking_summary": "Inkludert",
+        "details": "Parkering er inkludert i leien."
+    },
+    {
+        "address_key": "Bodø behandlingssenter",
+        "parking_summary": "Inkludert",
+        "details": "Parkeringsplasser er inkludert i leien."
+    },
+    {
+        "address_key": "Aumliveien 4C",
+        "parking_summary": "Inkludert",
+        "details": "Ingen faste plasser, men fri tilgang til eiendommens parkering inkludert motorvarmere."
+    },
+    {
+        "address_key": "Peder Myhres vei 16",
+        "parking_summary": "Inkludert",
+        "details": "Parkeringsplasser inntil husvegg er anlagt, ekstra plasser etablert langs innkjøringen våren 2020."
+    },
+    {
+        "address_key": "Lagårdsveien 44",
+        "parking_summary": "Ekstra kostnad",
+        "details": "Leieobjektet inkluderer ikke parkeringsplasser. 12 innendørs plasser reservert tjenestebiler. Separate kontrakter for leie av 10 plasser til 15.000 kr/mnd, samt 2 elbil-plasser til 2.000 kr/mnd."
+    },
+    {
+        "address_key": "Kaigata 4",
+        "parking_summary": "Ekstra kostnad",
+        "details": "Egen 'Bilag 4 - Parkeringsavtale' hvor årsleien utgjør kr 18.000 per plass."
+    },
+    {
+        "address_key": "Storgata 70",
+        "parking_summary": "Ekstra kostnad",
+        "details": "Leieobjektet inkluderer 6 parkeringsplasser i eget garasjeanlegg mot en leie på 108.000 kr per år."
+    },
+    {
+        "address_key": "Smedgata 49",
+        "parking_summary": "Ekstra kostnad",
+        "details": "For fire parkeringsplasser betales en årsleie på kr 46.928."
+    },
+    {
+        "address_key": "Hans Karolius vei",
+        "parking_summary": "Ekstra kostnad",
+        "details": "Leieobjektet inkluderer ikke parkering, men det leies 3 plasser i parkeringskjeller for kr 1.390 per plass/mnd."
+    },
+    {
+        "address_key": "Uttrågata 38",
+        "parking_summary": "Ekstra kostnad",
+        "details": "Egen leiekontrakt for 1 oppmerket plass bak Coop Prix til kr 550 eks. mva. pr. mnd."
+    },
+    {
+        "address_key": "Storveien 121",
+        "parking_summary": "Ekstra kostnad",
+        "details": "To fast oppmerkede plasser leies for kr 900 pr. mnd."
+    },
+    {
+        "address_key": "Anton Jenssens gate 2",
+        "parking_summary": "Elbil fokus",
+        "details": "Leietaker har rett til å leie 35 plasser i p-kjeller. 18 ladere dekker 2 p-plasser hver. Abonnement for elbillading koster kr 400 + mva pr. mnd."
+    },
+    {
+        "address_key": "Solheimsgaten",
+        "parking_summary": "Elbil og Sykkel",
+        "details": "4 faste plasser til elbil for kr 2.400 pr. mnd. Reserverte ladeplasser med godkjente veggladere. Ønsker 30 sikre sykkelparkeringsplasser."
+    },
+    {
+        "address_key": "Storgata 56-58",
+        "parking_summary": "Elbil fokus",
+        "details": "Utleier tilbyr å leie ut eksklusive p-plasser tilrettelagt for elbil-lading. Leietaker betaler selv strømforbruk."
+    },
+    {
+        "address_key": "Kantarellveien 4",
+        "parking_summary": "Elbil opsjon",
+        "details": "Eventuelt behov for elbillader er leietakers ansvar og kostnad."
+    },
+    {
+        "address_key": "Nordstrandveien 41",
+        "parking_summary": "Sykkel",
+        "details": "Tegninger viser sykkelparkering under tak."
+    },
+    {
+        "address_key": "Skinflorbakkane 12",
+        "parking_summary": "Ingen",
+        "details": "Parkering ikke inkludert eller ikke aktuelt."
+    },
+    {
+        "address_key": "Parkvegen 5",
+        "parking_summary": "Ingen",
+        "details": "Parkering ikke inkludert eller ikke aktuelt."
+    },
+    {
+        "address_key": "Mellomvika 1",
+        "parking_summary": "Ingen",
+        "details": "Parkering ikke inkludert eller ikke aktuelt."
+    },
+    {
+        "address_key": "O T Olsensgt. 19",
+        "parking_summary": "Ingen",
+        "details": "Parkering ikke inkludert eller ikke aktuelt."
+    }
+]

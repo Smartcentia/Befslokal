@@ -1,0 +1,102 @@
+---
+description: Frontend API-struktur og backend-endepunkter for BEFS
+alwaysApply: true
+---
+
+# BEFS API-struktur
+
+## Frontend API-lag (`frontend/lib/api/`)
+
+Alle API-kall går via `fetchAPI()` fra `client.ts` som legger til `/api/v1` prefix og autentisering.
+
+### Core Entities
+| Modul | Beskrivelse |
+|-------|-------------|
+| `propertiesApi.ts` | Eiendommer, GL-finansdata, proximity, costs |
+| `unitsApi.ts` | CRUD for enheter |
+| `contractsApi.ts` | CRUD + analytics for kontrakter |
+| `partiesApi.ts` | CRUD + BRREG/due diligence for parter |
+
+### Financial
+| Modul | Beskrivelse |
+|-------|-------------|
+| `costsApi.ts` | Kostnader, budsjett, cost management |
+| `budgetApi.ts` | Budsjettsammendrag og generering |
+| `forecastApi.ts` | Prognoser og variance |
+| `financialAnalysisApi.ts` | Leverandører, mønstre, YoY |
+| `procurementApi.ts` | Innkjøpsanalyse |
+| `accounting.ts` | GL-transaksjoner |
+
+### HMS
+| Modul | Beskrivelse |
+|-------|-------------|
+| `riskApi.ts` | Risiko og avvik |
+| `hmsActivitiesApi.ts` | HMS-aktiviteter og maler |
+
+### AI & Search
+| Modul | Beskrivelse |
+|-------|-------------|
+| `aiApi.ts` | KI-Kollega chat, streaming, suggestions |
+| `agentApi.ts` | Agent-chat, process wizard |
+| `labApi.ts` | Lab-verktøy og chat |
+| `searchApi.ts` | Vector, global, fulltext search |
+
+### Dashboard & Admin
+| Modul | Beskrivelse |
+|-------|-------------|
+| `dashboardApi.ts` | Stats, status, regional financials |
+| `adminApi.ts` | System, health, API costs, evolution |
+| `userManagementApi.ts` | Brukeradministrasjon |
+
+### External & Monitoring
+| Modul | Beskrivelse |
+|-------|-------------|
+| `externalApi.ts` | BRREG, Kartverket, NVE, Frost, Lovdata |
+| `mediaMonitorApi.ts` | Mediaovervåking |
+| `konkursMonitorApi.ts` | Konkursmonitor |
+| `jiraApi.ts` | Jira-integrasjon |
+
+### Location & Files
+| Modul | Beskrivelse |
+|-------|-------------|
+| `bupLocationsApi.ts` | BUP-lokasjoner |
+| `centersApi.ts` | Krisesentre |
+| `filesApi.ts` | Filopplasting (SAS) |
+| `importApi.ts` | CSV/data-import |
+
+### MCP & Other
+| Modul | Beskrivelse |
+|-------|-------------|
+| `mcpApi.ts` | MCP tools, document, FDV, IoT, finans |
+| `sessionsApi.ts` | Sesjonshåndtering |
+| `mfaApi.ts` | MFA-verifisering |
+| `governanceApi.ts` | Datakatalog |
+| `glossaryApi.ts` | Ordliste |
+
+## Bruksmønster
+
+```typescript
+// Individuell funksjon
+import { getContracts, getContract } from '@/lib/api';
+
+// Service-objekt
+import { contractsApi } from '@/lib/api';
+await contractsApi.analytics.costSummary();
+await contractsApi.getByProperty(propertyId);
+```
+
+## Backend-struktur (`backend/app/api/v1/endpoints/`)
+
+Alle endepunkter er montert under `/api/v1/` prefix.
+
+**Hoveddomener:**
+- `/properties`, `/units`, `/contracts`, `/parties` - Core CRUD
+- `/dashboard`, `/analytics` - Stats og oversikter
+- `/risk`, `/deviations`, `/internal-control`, `/checklists` - HMS
+- `/hms/activities` - Planlagte HMS-aktiviteter
+- `/ai/chat`, `/agent/chat`, `/lab/chat` - AI-tjenester
+- `/search/vector`, `/search/global` - Søk
+- `/admin/*` - Administrasjon
+- `/external/*` - Eksterne APIer
+- `/mcp/*` - MCP-tjenester
+- `/cost-management/*`, `/financials/*` - Økonomi

@@ -1,0 +1,113 @@
+name: Snyk Security Scan
+
+on:
+  push:
+    branches: [main, develop]
+  pull_request:
+    branches: [main]
+  schedule:
+    # Kjør hver dag kl 02:00
+    - cron: '0 2 * * *'
+
+jobs:
+  snyk-python:
+    name: Snyk Python Security
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          cd backend
+          pip install -r requirements.txt
+
+      - name: Run Snyk to check for vulnerabilities
+        uses: snyk/actions/python@master
+        continue-on-error: true  # Ikke stopp workflow ved sårbarheter
+        env:
+          SNYK_TOKEN: ${{ secrets.SNYK_TOKEN }}
+        with:
+          args: --severity-threshold=high --file=backend/requirements.txt
+
+      - name: Upload Snyk results to GitHub Code Scanning
+        if: always() && hashFiles('snyk.sarif') != ''
+        continue-on-error: true
+        uses: github/codeql-action/upload-sarif@v3
+        with:
+          sarif_file: snyk.sarif
+
+  snyk-npm:
+    name: Snyk NPM Security
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: |
+          cd frontend
+          npm ci
+
+      - name: Run Snyk to check for vulnerabilities
+        uses: snyk/actions/node@master
+        continue-on-error: true
+        env:
+          SNYK_TOKEN: ${{ secrets.SNYK_TOKEN }}
+        with:
+          args: --severity-threshold=high
+
+      - name: Upload Snyk results to GitHub Code Scanning
+        if: always() && hashFiles('snyk.sarif') != ''
+        continue-on-error: true
+        uses: github/codeql-action/upload-sarif@v3
+        with:
+          sarif_file: snyk.sarif
+
+  snyk-code:
+    name: Snyk Code Analysis (SAST)
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Run Snyk Code test
+        uses: snyk/actions/python@master
+        continue-on-error: true
+        env:
+          SNYK_TOKEN: ${{ secrets.SNYK_TOKEN }}
+        with:
+          command: code test
+          args: --severity-threshold=high
+
+  snyk-docker:
+    name: Snyk Docker Scan
+    runs-on: ubuntu-latest
+    if: github.event_name == 'push'  # Kun på push for å spare tid
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Build Docker image
+        run: |
+          cd backend
+          docker build -t befs-backend:latest .
+
+      - name: Run Snyk to check Docker image for vulnerabilities
+        uses: snyk/actions/docker@master
+        continue-on-error: true
+        env:
+          SNYK_TOKEN: ${{ secrets.SNYK_TOKEN }}
+        with:
+          image: befs-backend:latest
+          args: --severity-threshold=high

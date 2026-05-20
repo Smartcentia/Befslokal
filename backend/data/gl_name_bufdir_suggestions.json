@@ -1,0 +1,1173 @@
+{
+  "source_json": "/Users/frank/Documents/BEFS_CLEAN/backend/data/familievernkontor_bufdir.json",
+  "queries": [
+    {
+      "query": "Familievernkontoret Innherred",
+      "best_score": 1.0,
+      "bufdir_likely_match": true,
+      "note": null,
+      "suggestions": [
+        {
+          "rank": 1,
+          "score": 1.0,
+          "official_name": "Familievernkontoret Innherred",
+          "slug": "innherred",
+          "region": "Region Midt-Norge",
+          "url": "https://www.bufdir.no/familie/familievernkontorer/oversikt/innherred/",
+          "phones": [
+            "466 17 680"
+          ],
+          "address_suggestions": [
+            {
+              "street_or_pattern": "Jernbanegata 11 – 13",
+              "postal": "7600",
+              "source": "bufdir_contact_fallback"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "score": 0.8421,
+          "official_name": "Familievernkontoret Nordmøre",
+          "slug": "nordmore",
+          "region": "Region Midt-Norge",
+          "url": "https://www.bufdir.no/familie/familievernkontorer/oversikt/nordmore/",
+          "phones": [
+            "466 17 480"
+          ],
+          "address_suggestions": [
+            {
+              "street_or_pattern": "Ved forespørsel om innsyn i journal eller utlevering av personopplysninger",
+              "postal": "",
+              "source": "bufdir_json"
+            },
+            {
+              "street_or_pattern": "Vågeveien 10",
+              "postal": "6509",
+              "source": "bufdir_contact_fallback"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "score": 0.8421,
+          "official_name": "Familievernkontoret Sunnmøre",
+          "slug": "sunnmore",
+          "region": "Region Midt-Norge",
+          "url": "https://www.bufdir.no/familie/familievernkontorer/oversikt/sunnmore/",
+          "phones": [
+            "466 17 390"
+          ],
+          "address_suggestions": [
+            {
+              "street_or_pattern": "Adresse: Langelandsveien 17",
+              "postal": "6010",
+              "source": "bufdir_contact_fallback"
+            },
+            {
+              "street_or_pattern": "Adresse: Furene 8",
+              "postal": "6100",
+              "source": "bufdir_contact_fallback"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "score": 0.8276,
+          "official_name": "Familievernkontoret i Arendal",
+          "slug": "arendal",
+          "region": "Region sør",
+          "url": "https://www.bufdir.no/familie/familievernkontorer/oversikt/arendal/",
+          "phones": [
+            "37 00 57 80"
+          ],
+          "address_suggestions": [
+            {
+              "street_or_pattern": "Friholmsgaten 2 - 4",
+              "postal": "",
+              "source": "bufdir_json"
+            },
+            {
+              "street_or_pattern": "Sagatunbygget i Evje sentrum",
+              "postal": "",
+              "source": "bufdir_json"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "score": 0.8136,
+          "official_name": "Familievernkontoret i Buskerud",
+          "slug": "buskerud",
+          "region": "Region sør",
+          "url": "https://www.bufdir.no/familie/familievernkontorer/oversikt/buskerud/",
+          "phones": [
+            "466 17 710"
+          ],
+          "address_suggestions": [
+            {
+              "street_or_pattern": "Grønland 68",
+              "postal": "3045",
+              "source": "bufdir_json"
+            },
+            {
+              "street_or_pattern": "Vrågåvegen 10",
+              "postal": "3626",
+              "source": "bufdir_json"
+            },
+            {
+              "street_or_pattern": "Du treffer oss på Rollag kommunehus, Vrågåvegen 10",
+              "postal": "3626",
+              "source": "bufdir_contact_fallback"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query": "Telemark barne- og familiesenter",
+      "best_score": 0.5614,
+      "bufdir_likely_match": true,
+      "note": null,
+      "suggestions": [
+        {
+          "rank": 1,
+          "score": 0.5614,
+          "official_name": "Grenland familievernkontor",
+          "slug": "grenland",
+          "region": "Region sør",
+          "url": "https://www.bufdir.no/familie/familievernkontorer/oversikt/grenland/",
+          "phones": [
+            "35 50 58 70"
+          ],
+          "address_suggestions": [
+            {
+              "street_or_pattern": "Schweigaardsgate 11",
+              "postal": "3717",
+              "source": "bufdir_json"
+            },
+            {
+              "street_or_pattern": "Ytre Strandvei 15",
+              "postal": "3770",
+              "source": "bufdir_json"
+            },
+            {
+              "street_or_pattern": ": Ytre Strandvei 15",
+              "postal": "3770",
+              "source": "bufdir_contact_fallback"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "score": 0.5574,
+          "official_name": "Bergen og omland familiekontor",
+          "slug": "bergen-og-omland",
+          "region": "Region vest",
+          "url": "https://www.bufdir.no/familie/familievernkontorer/oversikt/bergen-og-omland/",
+          "phones": [
+            "46 61 91 40"
+          ],
+          "address_suggestions": [
+            {
+              "street_or_pattern": "Motorhallen inngang B",
+              "postal": "5058",
+              "source": "bufdir_json"
+            },
+            {
+              "street_or_pattern": "Solheimsgaten 13, Motorhallen inngang B",
+              "postal": "5058",
+              "source": "bufdir_contact_fallback"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "score": 0.5455,
+          "official_name": "Harstad og Narvik familievernkontor",
+          "slug": "harstad-og-narvik",
+          "region": "Region nord",
+          "url": "https://www.bufdir.no/familie/familievernkontorer/oversikt/harstad-og-narvik/",
+          "phones": [
+            "46 61 56 50"
+          ],
+          "address_suggestions": [
+            {
+              "street_or_pattern": "Håkonsgate 4",
+              "postal": "9405",
+              "source": "bufdir_json"
+            },
+            {
+              "street_or_pattern": "2.etg",
+              "postal": "8514",
+              "source": "bufdir_json"
+            },
+            {
+              "street_or_pattern": "Kongensgate 51, 2.etg",
+              "postal": "8514",
+              "source": "bufdir_contact_fallback"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "score": 0.5283,
+          "official_name": "Bodø familievernkontor",
+          "slug": "bodo",
+          "region": "Region nord",
+          "url": "https://www.bufdir.no/familie/familievernkontorer/oversikt/bodo/",
+          "phones": [
+            "46 61 56 70"
+          ],
+          "address_suggestions": [
+            {
+              "street_or_pattern": "Storgata 27",
+              "postal": "8006",
+              "source": "bufdir_json"
+            },
+            {
+              "street_or_pattern": "Storgata 29",
+              "postal": "8006",
+              "source": "bufdir_json"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "score": 0.5143,
+          "official_name": "Lofoten og Vesterålen familievernkontor",
+          "slug": "lofoten-og-vesteralen",
+          "region": "Region nord",
+          "url": "https://www.bufdir.no/familie/familievernkontorer/oversikt/lofoten-og-vesteralen/",
+          "phones": [
+            "46 61 56 60"
+          ],
+          "address_suggestions": [
+            {
+              "street_or_pattern": "Markedsgata 20",
+              "postal": "8450",
+              "source": "bufdir_json"
+            },
+            {
+              "street_or_pattern": "Markedsgt. 20 B",
+              "postal": "8450",
+              "source": "bufdir_json"
+            },
+            {
+              "street_or_pattern": "Fiskergata 22",
+              "postal": "8300",
+              "source": "bufdir_json"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query": "FHT RN - adm",
+      "best_score": 0.3415,
+      "bufdir_likely_match": false,
+      "note": "Lav score — sjekk manuelt (kan være MST/BFS/adm; ikke i familievern-lista).",
+      "suggestions": [
+        {
+          "rank": 1,
+          "score": 0.3415,
+          "official_name": "Familievernkontoret i Trondheim",
+          "slug": "trondheim",
+          "region": "Region Midt-Norge",
+          "url": "https://www.bufdir.no/familie/familievernkontorer/oversikt/trondheim/",
+          "phones": [
+            "73 99 05 00"
+          ],
+          "address_suggestions": [
+            {
+              "street_or_pattern": "Vassliveien 85",
+              "postal": "7391",
+              "source": "bufdir_json"
+            },
+            {
+              "street_or_pattern": "Sørveien 17",
+              "postal": "7260",
+              "source": "bufdir_json"
+            },
+            {
+              "street_or_pattern": "Helsetunveien 15",
+              "postal": "7200",
+              "source": "bufdir_json"
+            },
+            {
+              "street_or_pattern": "Vikaholmveien 2",
+              "postal": "7240",
+              "source": "bufdir_json"
+            },
+            {
+              "street_or_pattern": "Russervegen 5B",
+              "postal": "7340",
+              "source": "bufdir_json"
+            },
+            {
+              "street_or_pattern": "Nestansringen 22B",
+              "postal": "7580",
+              "source": "bufdir_json"
+            },
+            {
+              "street_or_pattern": "Carl Johans gate 3",
+              "postal": "7010",
+              "source": "bufdir_contact_fallback"
+            },
+            {
+              "street_or_pattern": "Helsestasjon, Vassliveien 85",
+              "postal": "7391",
+              "source": "bufdir_contact_fallback"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "score": 0.3158,
+          "official_name": "Familievernkontoret Namdalen",
+          "slug": "namdalen",
+          "region": "Region Midt-Norge",
+          "url": "https://www.bufdir.no/familie/familievernkontorer/oversikt/namdalen/",
+          "phones": [
+            "466 17 690",
+            "466 18 551"
+          ],
+          "address_suggestions": [
+            {
+              "street_or_pattern": "Abel M. Meyers gate 10",
+              "postal": "7800",
+              "source": "bufdir_contact_fallback"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "score": 0.3158,
+          "official_name": "Familievernkontoret Nordmøre",
+          "slug": "nordmore",
+          "region": "Region Midt-Norge",
+          "url": "https://www.bufdir.no/familie/familievernkontorer/oversikt/nordmore/",
+          "phones": [
+            "466 17 480"
+          ],
+          "address_suggestions": [
+            {
+              "street_or_pattern": "Ved forespørsel om innsyn i journal eller utlevering av personopplysninger",
+              "postal": "",
+              "source": "bufdir_json"
+            },
+            {
+              "street_or_pattern": "Vågeveien 10",
+              "postal": "6509",
+              "source": "bufdir_contact_fallback"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "score": 0.3125,
+          "official_name": "Bjørgvin familiekontor",
+          "slug": "bjorgvin",
+          "region": "Region vest",
+          "url": "https://www.bufdir.no/familie/familievernkontorer/oversikt/bjorgvin/",
+          "phones": [
+            "55 25 11 50"
+          ],
+          "address_suggestions": [
+            {
+              "street_or_pattern": "Slottsgaten 3",
+              "postal": "5003",
+              "source": "bufdir_json"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "score": 0.3077,
+          "official_name": "Familievernkontoret i Arendal",
+          "slug": "arendal",
+          "region": "Region sør",
+          "url": "https://www.bufdir.no/familie/familievernkontorer/oversikt/arendal/",
+          "phones": [
+            "37 00 57 80"
+          ],
+          "address_suggestions": [
+            {
+              "street_or_pattern": "Friholmsgaten 2 - 4",
+              "postal": "",
+              "source": "bufdir_json"
+            },
+            {
+              "street_or_pattern": "Sagatunbygget i Evje sentrum",
+              "postal": "",
+              "source": "bufdir_json"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query": "Fosterhjemstjenesten",
+      "best_score": 0.339,
+      "bufdir_likely_match": false,
+      "note": "Lav score — sjekk manuelt (kan være MST/BFS/adm; ikke i familievern-lista).",
+      "suggestions": [
+        {
+          "rank": 1,
+          "score": 0.339,
+          "official_name": "Lofoten og Vesterålen familievernkontor",
+          "slug": "lofoten-og-vesteralen",
+          "region": "Region nord",
+          "url": "https://www.bufdir.no/familie/familievernkontorer/oversikt/lofoten-og-vesteralen/",
+          "phones": [
+            "46 61 56 60"
+          ],
+          "address_suggestions": [
+            {
+              "street_or_pattern": "Markedsgata 20",
+              "postal": "8450",
+              "source": "bufdir_json"
+            },
+            {
+              "street_or_pattern": "Markedsgt. 20 B",
+              "postal": "8450",
+              "source": "bufdir_json"
+            },
+            {
+              "street_or_pattern": "Fiskergata 22",
+              "postal": "8300",
+              "source": "bufdir_json"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "score": 0.3333,
+          "official_name": "Familievernkontoret Innlandet Vest",
+          "slug": "innlandet-vest",
+          "region": "Region øst",
+          "url": "https://www.bufdir.no/familie/familievernkontorer/oversikt/innlandet-vest/",
+          "phones": [
+            "466 17 150"
+          ],
+          "address_suggestions": [
+            {
+              "street_or_pattern": "Nymosvingen 6",
+              "postal": "2609",
+              "source": "bufdir_json"
+            },
+            {
+              "street_or_pattern": "Storgata 10",
+              "postal": "2815",
+              "source": "bufdir_json"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "score": 0.32,
+          "official_name": "Familievernkontoret Enerhaugen",
+          "slug": "enerhaugen",
+          "region": "Region øst",
+          "url": "https://www.bufdir.no/familie/familievernkontorer/oversikt/enerhaugen/",
+          "phones": [
+            "466 17 010"
+          ],
+          "address_suggestions": [
+            {
+              "street_or_pattern": "Grønlandsleiret 25",
+              "postal": "0190",
+              "source": "bufdir_json"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "score": 0.32,
+          "official_name": "Familievernkontoret Homansbyen",
+          "slug": "homansbyen",
+          "region": "Region øst",
+          "url": "https://www.bufdir.no/familie/familievernkontorer/oversikt/homansbyen/",
+          "phones": [
+            "466 16 660"
+          ],
+          "address_suggestions": [
+            {
+              "street_or_pattern": "Oscars gate 20",
+              "postal": "0352",
+              "source": "bufdir_json"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "score": 0.32,
+          "official_name": "Familievernkontoret i Vestfold",
+          "slug": "vestfold",
+          "region": "Region sør",
+          "url": "https://www.bufdir.no/familie/familievernkontorer/oversikt/vestfold/",
+          "phones": [
+            "46 61 81 80"
+          ],
+          "address_suggestions": [
+            {
+              "street_or_pattern": "Anton Jenssensgate 2",
+              "postal": "3125",
+              "source": "bufdir_json"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query": "Tromsø familievernkontor",
+      "best_score": 1.0,
+      "bufdir_likely_match": true,
+      "note": null,
+      "suggestions": [
+        {
+          "rank": 1,
+          "score": 1.0,
+          "official_name": "Tromsø familievernkontor",
+          "slug": "tromso",
+          "region": "Region nord",
+          "url": "https://www.bufdir.no/familie/familievernkontorer/oversikt/tromso/",
+          "phones": [
+            "46 61 56 20"
+          ],
+          "address_suggestions": [
+            {
+              "street_or_pattern": "2. etasje",
+              "postal": "9008",
+              "source": "bufdir_json"
+            },
+            {
+              "street_or_pattern": "Kaigata 4",
+              "postal": "9008",
+              "source": "bufdir_json"
+            },
+            {
+              "street_or_pattern": "Kaigata 4, 2. etasje",
+              "postal": "9008",
+              "source": "bufdir_contact_fallback"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "score": 0.8696,
+          "official_name": "Bodø familievernkontor",
+          "slug": "bodo",
+          "region": "Region nord",
+          "url": "https://www.bufdir.no/familie/familievernkontorer/oversikt/bodo/",
+          "phones": [
+            "46 61 56 70"
+          ],
+          "address_suggestions": [
+            {
+              "street_or_pattern": "Storgata 27",
+              "postal": "8006",
+              "source": "bufdir_json"
+            },
+            {
+              "street_or_pattern": "Storgata 29",
+              "postal": "8006",
+              "source": "bufdir_json"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "score": 0.8261,
+          "official_name": "Odda familievernkontor",
+          "slug": "odda",
+          "region": "Region vest",
+          "url": "https://www.bufdir.no/familie/familievernkontorer/oversikt/odda/",
+          "phones": [
+            "46 61 91 50"
+          ],
+          "address_suggestions": [
+            {
+              "street_or_pattern": "Almerket 30",
+              "postal": "5750",
+              "source": "bufdir_json"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "score": 0.76,
+          "official_name": "Finnsnes familievernkontor",
+          "slug": "finnsnes",
+          "region": "Region nord",
+          "url": "https://www.bufdir.no/familie/familievernkontorer/oversikt/finnsnes/",
+          "phones": [
+            "46 61 56 30"
+          ],
+          "address_suggestions": [
+            {
+              "street_or_pattern": "Hans Karolius vei 6",
+              "postal": "9300",
+              "source": "bufdir_json"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "score": 0.76,
+          "official_name": "Grenland familievernkontor",
+          "slug": "grenland",
+          "region": "Region sør",
+          "url": "https://www.bufdir.no/familie/familievernkontorer/oversikt/grenland/",
+          "phones": [
+            "35 50 58 70"
+          ],
+          "address_suggestions": [
+            {
+              "street_or_pattern": "Schweigaardsgate 11",
+              "postal": "3717",
+              "source": "bufdir_json"
+            },
+            {
+              "street_or_pattern": "Ytre Strandvei 15",
+              "postal": "3770",
+              "source": "bufdir_json"
+            },
+            {
+              "street_or_pattern": ": Ytre Strandvei 15",
+              "postal": "3770",
+              "source": "bufdir_contact_fallback"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query": "MST Trøndelag Nord",
+      "best_score": 0.383,
+      "bufdir_likely_match": false,
+      "note": "Lav score — sjekk manuelt (kan være MST/BFS/adm; ikke i familievern-lista).",
+      "suggestions": [
+        {
+          "rank": 1,
+          "score": 0.383,
+          "official_name": "Familievernkontoret Oslo Nord",
+          "slug": "oslo-nord",
+          "region": "Region øst",
+          "url": "https://www.bufdir.no/familie/familievernkontorer/oversikt/oslo-nord/",
+          "phones": [
+            "46 61 51 20"
+          ],
+          "address_suggestions": [
+            {
+              "street_or_pattern": "Kabelgata 2",
+              "postal": "0581",
+              "source": "bufdir_json"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "score": 0.3529,
+          "official_name": "Familievernkontoret i Vest-Agder, avdeling Farsund",
+          "slug": "farsund",
+          "region": "Region sør",
+          "url": "https://www.bufdir.no/familie/familievernkontorer/oversikt/farsund/",
+          "phones": [
+            "38 39 58 80"
+          ],
+          "address_suggestions": [
+            {
+              "street_or_pattern": "Torvgata 1",
+              "postal": "4552",
+              "source": "bufdir_json"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "score": 0.3478,
+          "official_name": "Familievernkontoret Nordmøre",
+          "slug": "nordmore",
+          "region": "Region Midt-Norge",
+          "url": "https://www.bufdir.no/familie/familievernkontorer/oversikt/nordmore/",
+          "phones": [
+            "466 17 480"
+          ],
+          "address_suggestions": [
+            {
+              "street_or_pattern": "Ved forespørsel om innsyn i journal eller utlevering av personopplysninger",
+              "postal": "",
+              "source": "bufdir_json"
+            },
+            {
+              "street_or_pattern": "Vågeveien 10",
+              "postal": "6509",
+              "source": "bufdir_contact_fallback"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "score": 0.338,
+          "official_name": "Familievernkontoret i Sør-Rogaland, avdeling Egersund",
+          "slug": "egersund",
+          "region": "Region vest",
+          "url": "https://www.bufdir.no/familie/familievernkontorer/oversikt/egersund/",
+          "phones": [
+            "51 53 81 50"
+          ],
+          "address_suggestions": [
+            {
+              "street_or_pattern": "Nytorget 6",
+              "postal": "4370",
+              "source": "bufdir_json"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "score": 0.3333,
+          "official_name": "Familievernkontoret i Sør-Rogaland, avdeling Stavanger",
+          "slug": "stavanger",
+          "region": "Region vest",
+          "url": "https://www.bufdir.no/familie/familievernkontorer/oversikt/stavanger/",
+          "phones": [
+            "51 53 81 50"
+          ],
+          "address_suggestions": [
+            {
+              "street_or_pattern": "Bergelandsgata 13",
+              "postal": "4012",
+              "source": "bufdir_json"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query": "MST Tromsø",
+      "best_score": 0.3784,
+      "bufdir_likely_match": false,
+      "note": "Lav score — sjekk manuelt (kan være MST/BFS/adm; ikke i familievern-lista).",
+      "suggestions": [
+        {
+          "rank": 1,
+          "score": 0.3784,
+          "official_name": "Familievernkontoret Romsdal",
+          "slug": "romsdal",
+          "region": "Region Midt-Norge",
+          "url": "https://www.bufdir.no/familie/familievernkontorer/oversikt/romsdal/",
+          "phones": [
+            "466 17 490"
+          ],
+          "address_suggestions": [
+            {
+              "street_or_pattern": "Storgata 12–14",
+              "postal": "6413",
+              "source": "bufdir_contact_fallback"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "score": 0.3529,
+          "official_name": "Tromsø familievernkontor",
+          "slug": "tromso",
+          "region": "Region nord",
+          "url": "https://www.bufdir.no/familie/familievernkontorer/oversikt/tromso/",
+          "phones": [
+            "46 61 56 20"
+          ],
+          "address_suggestions": [
+            {
+              "street_or_pattern": "2. etasje",
+              "postal": "9008",
+              "source": "bufdir_json"
+            },
+            {
+              "street_or_pattern": "Kaigata 4",
+              "postal": "9008",
+              "source": "bufdir_json"
+            },
+            {
+              "street_or_pattern": "Kaigata 4, 2. etasje",
+              "postal": "9008",
+              "source": "bufdir_contact_fallback"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "score": 0.3415,
+          "official_name": "Familievernkontoret i Trondheim",
+          "slug": "trondheim",
+          "region": "Region Midt-Norge",
+          "url": "https://www.bufdir.no/familie/familievernkontorer/oversikt/trondheim/",
+          "phones": [
+            "73 99 05 00"
+          ],
+          "address_suggestions": [
+            {
+              "street_or_pattern": "Vassliveien 85",
+              "postal": "7391",
+              "source": "bufdir_json"
+            },
+            {
+              "street_or_pattern": "Sørveien 17",
+              "postal": "7260",
+              "source": "bufdir_json"
+            },
+            {
+              "street_or_pattern": "Helsetunveien 15",
+              "postal": "7200",
+              "source": "bufdir_json"
+            },
+            {
+              "street_or_pattern": "Vikaholmveien 2",
+              "postal": "7240",
+              "source": "bufdir_json"
+            },
+            {
+              "street_or_pattern": "Russervegen 5B",
+              "postal": "7340",
+              "source": "bufdir_json"
+            },
+            {
+              "street_or_pattern": "Nestansringen 22B",
+              "postal": "7580",
+              "source": "bufdir_json"
+            },
+            {
+              "street_or_pattern": "Carl Johans gate 3",
+              "postal": "7010",
+              "source": "bufdir_contact_fallback"
+            },
+            {
+              "street_or_pattern": "Helsestasjon, Vassliveien 85",
+              "postal": "7391",
+              "source": "bufdir_contact_fallback"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "score": 0.3158,
+          "official_name": "Familievernkontoret Nordmøre",
+          "slug": "nordmore",
+          "region": "Region Midt-Norge",
+          "url": "https://www.bufdir.no/familie/familievernkontorer/oversikt/nordmore/",
+          "phones": [
+            "466 17 480"
+          ],
+          "address_suggestions": [
+            {
+              "street_or_pattern": "Ved forespørsel om innsyn i journal eller utlevering av personopplysninger",
+              "postal": "",
+              "source": "bufdir_json"
+            },
+            {
+              "street_or_pattern": "Vågeveien 10",
+              "postal": "6509",
+              "source": "bufdir_contact_fallback"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "score": 0.3077,
+          "official_name": "Familievernkontoret i Mosjøen",
+          "slug": "mosjoen",
+          "region": "Region nord",
+          "url": "https://www.bufdir.no/familie/familievernkontorer/oversikt/mosjoen/",
+          "phones": [
+            "75 11 41 80"
+          ],
+          "address_suggestions": [
+            {
+              "street_or_pattern": "Torolfs gate 3",
+              "postal": "8656",
+              "source": "bufdir_json"
+            },
+            {
+              "street_or_pattern": "Strandgata 52",
+              "postal": "8800",
+              "source": "bufdir_json"
+            },
+            {
+              "street_or_pattern": "Rådhuset, Sivert Nielsensgt.24",
+              "postal": "8904",
+              "source": "bufdir_contact_fallback"
+            },
+            {
+              "street_or_pattern": "Rådhuset, Strandgata 52",
+              "postal": "8800",
+              "source": "bufdir_contact_fallback"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query": "MST Vestfold 1",
+      "best_score": 0.5,
+      "bufdir_likely_match": true,
+      "note": null,
+      "suggestions": [
+        {
+          "rank": 1,
+          "score": 0.5,
+          "official_name": "Familievernkontoret i Vestfold",
+          "slug": "vestfold",
+          "region": "Region sør",
+          "url": "https://www.bufdir.no/familie/familievernkontorer/oversikt/vestfold/",
+          "phones": [
+            "46 61 81 80"
+          ],
+          "address_suggestions": [
+            {
+              "street_or_pattern": "Anton Jenssensgate 2",
+              "postal": "3125",
+              "source": "bufdir_json"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "score": 0.439,
+          "official_name": "Familievernkontoret Østfold",
+          "slug": "ostfold",
+          "region": "Region øst",
+          "url": "https://www.bufdir.no/familie/familievernkontorer/oversikt/ostfold/",
+          "phones": [
+            "46 61 61 00"
+          ],
+          "address_suggestions": [
+            {
+              "street_or_pattern": "Glemmengata 55",
+              "postal": "1608",
+              "source": "bufdir_json"
+            },
+            {
+              "street_or_pattern": "Henrik Gerners gate 14",
+              "postal": "1530",
+              "source": "bufdir_json"
+            },
+            {
+              "street_or_pattern": "Rådhusgata 16",
+              "postal": "1830",
+              "source": "bufdir_json"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "score": 0.4314,
+          "official_name": "Familievernkontoret i Søndre Vestfold",
+          "slug": "sondre-vestfold",
+          "region": "Region sør",
+          "url": "https://www.bufdir.no/familie/familievernkontorer/oversikt/sondre-vestfold/",
+          "phones": [
+            "33 48 22 50"
+          ],
+          "address_suggestions": [
+            {
+              "street_or_pattern": "Torget 7",
+              "postal": "3210",
+              "source": "bufdir_json"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "score": 0.3684,
+          "official_name": "Tromsø familievernkontor",
+          "slug": "tromso",
+          "region": "Region nord",
+          "url": "https://www.bufdir.no/familie/familievernkontorer/oversikt/tromso/",
+          "phones": [
+            "46 61 56 20"
+          ],
+          "address_suggestions": [
+            {
+              "street_or_pattern": "2. etasje",
+              "postal": "9008",
+              "source": "bufdir_json"
+            },
+            {
+              "street_or_pattern": "Kaigata 4",
+              "postal": "9008",
+              "source": "bufdir_json"
+            },
+            {
+              "street_or_pattern": "Kaigata 4, 2. etasje",
+              "postal": "9008",
+              "source": "bufdir_contact_fallback"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "score": 0.32,
+          "official_name": "Alta og Hammerfest familievernkontor",
+          "slug": "alta-og-hammerfest",
+          "region": "Region nord",
+          "url": "https://www.bufdir.no/familie/familievernkontorer/oversikt/alta-og-hammerfest/",
+          "phones": [
+            "46 61 55 90"
+          ],
+          "address_suggestions": [
+            {
+              "street_or_pattern": "Løkkeveien 33",
+              "postal": "9510",
+              "source": "bufdir_json"
+            },
+            {
+              "street_or_pattern": "3 etasje",
+              "postal": "9600",
+              "source": "bufdir_json"
+            },
+            {
+              "street_or_pattern": "Sørøygata 10, 3 etasje",
+              "postal": "9600",
+              "source": "bufdir_contact_fallback"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "query": "Agder barne- og familiesenter",
+      "best_score": 0.5862,
+      "bufdir_likely_match": true,
+      "note": null,
+      "suggestions": [
+        {
+          "rank": 1,
+          "score": 0.5862,
+          "official_name": "Bergen og omland familiekontor",
+          "slug": "bergen-og-omland",
+          "region": "Region vest",
+          "url": "https://www.bufdir.no/familie/familievernkontorer/oversikt/bergen-og-omland/",
+          "phones": [
+            "46 61 91 40"
+          ],
+          "address_suggestions": [
+            {
+              "street_or_pattern": "Motorhallen inngang B",
+              "postal": "5058",
+              "source": "bufdir_json"
+            },
+            {
+              "street_or_pattern": "Solheimsgaten 13, Motorhallen inngang B",
+              "postal": "5058",
+              "source": "bufdir_contact_fallback"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "score": 0.5397,
+          "official_name": "Harstad og Narvik familievernkontor",
+          "slug": "harstad-og-narvik",
+          "region": "Region nord",
+          "url": "https://www.bufdir.no/familie/familievernkontorer/oversikt/harstad-og-narvik/",
+          "phones": [
+            "46 61 56 50"
+          ],
+          "address_suggestions": [
+            {
+              "street_or_pattern": "Håkonsgate 4",
+              "postal": "9405",
+              "source": "bufdir_json"
+            },
+            {
+              "street_or_pattern": "2.etg",
+              "postal": "8514",
+              "source": "bufdir_json"
+            },
+            {
+              "street_or_pattern": "Kongensgate 51, 2.etg",
+              "postal": "8514",
+              "source": "bufdir_contact_fallback"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "score": 0.5385,
+          "official_name": "Tromsø familievernkontor",
+          "slug": "tromso",
+          "region": "Region nord",
+          "url": "https://www.bufdir.no/familie/familievernkontorer/oversikt/tromso/",
+          "phones": [
+            "46 61 56 20"
+          ],
+          "address_suggestions": [
+            {
+              "street_or_pattern": "2. etasje",
+              "postal": "9008",
+              "source": "bufdir_json"
+            },
+            {
+              "street_or_pattern": "Kaigata 4",
+              "postal": "9008",
+              "source": "bufdir_json"
+            },
+            {
+              "street_or_pattern": "Kaigata 4, 2. etasje",
+              "postal": "9008",
+              "source": "bufdir_contact_fallback"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "score": 0.5312,
+          "official_name": "Alta og Hammerfest familievernkontor",
+          "slug": "alta-og-hammerfest",
+          "region": "Region nord",
+          "url": "https://www.bufdir.no/familie/familievernkontorer/oversikt/alta-og-hammerfest/",
+          "phones": [
+            "46 61 55 90"
+          ],
+          "address_suggestions": [
+            {
+              "street_or_pattern": "Løkkeveien 33",
+              "postal": "9510",
+              "source": "bufdir_json"
+            },
+            {
+              "street_or_pattern": "3 etasje",
+              "postal": "9600",
+              "source": "bufdir_json"
+            },
+            {
+              "street_or_pattern": "Sørøygata 10, 3 etasje",
+              "postal": "9600",
+              "source": "bufdir_contact_fallback"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "score": 0.52,
+          "official_name": "Bjørgvin familiekontor",
+          "slug": "bjorgvin",
+          "region": "Region vest",
+          "url": "https://www.bufdir.no/familie/familievernkontorer/oversikt/bjorgvin/",
+          "phones": [
+            "55 25 11 50"
+          ],
+          "address_suggestions": [
+            {
+              "street_or_pattern": "Slottsgaten 3",
+              "postal": "5003",
+              "source": "bufdir_json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

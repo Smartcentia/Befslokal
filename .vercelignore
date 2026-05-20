@@ -1,0 +1,17 @@
+# Vercel Ignore (deploy kjøres fra repo-rot; Root Directory = frontend i dashboard)
+backend/
+backend_v2/
+Eiendom301025-kopi*
+*.zip
+*_logs_extracted/
+infra/
+scripts/
+docs/
+dokumentasjon/
+finans/
+.cursor/
+archive/
+pdf_docs/
+.claude/
+frontend/.next/
+**/node_modules/

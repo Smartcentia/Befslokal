@@ -1,0 +1,15 @@
+Loading DB Report...
+Loading Input Data...
+Reading /Users/frank/BEFS3/KNOWME/input.md...
+Loaded DB: 231 rows
+Loaded Input: 35818 rows
+Matching 231 DB records against 35818 Input records...
+Report generated at /Users/frank/BEFS3/KNOWME/matched_results.md
+# Data Correlation Report
+
+Total Matches Found: 2
+
+| DB Eiendom | DB Adresse | Input Adresse | Score | Input Details |
+| --- | --- | --- | --- | --- |
+| Henrik Gerners gate 14 | Henrik Gerners gate 14 | Henrik Gerners gate 14, 1530 Moss | 0.81 | {'Regioner': '2', 'Regioner(T)': 'Region Øst', 'Avdeling': '204416', 'Avdeling(T)': 'Regionkontor Se... |
+| Trondheimsvegen - Jessheim 205 | Trondheimsvegen - Jessheim 205 | Trondheimsveien 205, Jessheim | 0.83 | {'Regioner': '2', 'Regioner(T)': 'Region 

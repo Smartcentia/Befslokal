@@ -1,0 +1,775 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>BEFS Architecture Map</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #f8fafc; color: #0f172a; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; height: 100vh; display: flex; flex-direction: column; overflow: hidden; }
+
+  #header { background: #ffffff; border-bottom: 1px solid #e2e8f0; padding: 10px 16px; display: flex; align-items: center; gap: 12px; flex-shrink: 0; }
+  #header h1 { font-size: 15px; font-weight: 600; color: #0f172a; }
+  #header .badge { font-size: 11px; background: #1f6feb33; color: #2563eb; border: 1px solid #1f6feb66; border-radius: 12px; padding: 2px 8px; }
+  #header .spacer { flex: 1; }
+
+  #main { display: flex; flex: 1; overflow: hidden; }
+
+  #sidebar { width: 230px; background: #ffffff; border-right: 1px solid #e2e8f0; display: flex; flex-direction: column; overflow-y: auto; flex-shrink: 0; }
+  .sidebar-section { padding: 12px; border-bottom: 1px solid #f1f5f9; }
+  .sidebar-section h3 { font-size: 11px; font-weight: 600; color: #64748b; text-transform: uppercase; letter-spacing: 0.8px; margin-bottom: 8px; }
+
+  .preset-btn { display: block; width: 100%; text-align: left; background: #f1f5f9; border: 1px solid #e2e8f0; color: #374151; font-size: 12px; padding: 6px 10px; border-radius: 5px; cursor: pointer; margin-bottom: 4px; transition: all 0.15s; }
+  .preset-btn:hover { background: #e2e8f0; color: #0f172a; }
+  .preset-btn.active { background: #1f6feb22; border-color: #1f6feb; color: #2563eb; }
+
+  .layer-toggle { display: flex; align-items: center; gap: 8px; margin-bottom: 6px; cursor: pointer; }
+  .layer-toggle input { display: none; }
+  .layer-dot { width: 10px; height: 10px; border-radius: 3px; flex-shrink: 0; }
+  .layer-toggle label { font-size: 12px; color: #374151; cursor: pointer; }
+  .layer-toggle.unchecked label { color: #94a3b8; }
+
+  .flow-btn { display: flex; align-items: center; gap: 8px; width: 100%; background: none; border: none; color: #374151; font-size: 12px; padding: 5px 0; cursor: pointer; text-align: left; }
+  .flow-btn:hover { color: #0f172a; }
+  .flow-btn.active { font-weight: 600; color: #0f172a; }
+
+  .comment-item { background: #f1f5f9; border: 1px solid #e2e8f0; border-radius: 6px; padding: 8px; margin-bottom: 6px; font-size: 11px; position: relative; }
+  .comment-target { font-weight: 600; color: #2563eb; margin-bottom: 3px; }
+  .comment-text { color: #374151; line-height: 1.4; }
+  .comment-delete { position: absolute; top: 6px; right: 8px; background: none; border: none; color: #64748b; cursor: pointer; font-size: 13px; line-height: 1; }
+  .comment-delete:hover { color: #f85149; }
+  .no-comments { font-size: 11px; color: #64748b; font-style: italic; }
+
+  #canvas-area { flex: 1; display: flex; flex-direction: column; overflow: hidden; position: relative; }
+  #svg-container { flex: 1; overflow: hidden; position: relative; background: #f8fafc; cursor: grab; }
+  #svg-container:active { cursor: grabbing; }
+  #arch-svg { position: absolute; top: 0; left: 0; }
+
+  #zoom-controls { position: absolute; bottom: 12px; right: 12px; display: flex; gap: 4px; z-index: 10; }
+  .zoom-btn { background: #f1f5f9; border: 1px solid #e2e8f0; color: #374151; width: 28px; height: 28px; border-radius: 5px; cursor: pointer; font-size: 14px; display: flex; align-items: center; justify-content: center; }
+  .zoom-btn:hover { background: #e2e8f0; color: #0f172a; }
+
+  #legend { position: absolute; bottom: 12px; left: 12px; background: #ffffff99; border: 1px solid #e2e8f0; border-radius: 6px; padding: 8px 12px; font-size: 11px; color: #64748b; }
+  #legend div { display: flex; align-items: center; gap: 6px; margin-bottom: 3px; }
+  #legend .dot { width: 8px; height: 8px; border-radius: 2px; }
+
+  #prompt-area { background: #ffffff; border-top: 1px solid #e2e8f0; padding: 10px 16px; flex-shrink: 0; }
+  #prompt-area .prompt-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 6px; }
+  #prompt-area h3 { font-size: 11px; font-weight: 600; color: #64748b; text-transform: uppercase; letter-spacing: 0.8px; }
+  #copy-btn { background: #f1f5f9; border: 1px solid #e2e8f0; color: #374151; font-size: 11px; padding: 3px 10px; border-radius: 5px; cursor: pointer; }
+  #copy-btn:hover { background: #e2e8f0; }
+  #copy-btn.copied { color: #16a34a; border-color: #16a34a66; }
+  #prompt-output { font-family: 'SF Mono', 'Fira Code', monospace; font-size: 12px; color: #374151; line-height: 1.5; max-height: 80px; overflow-y: auto; white-space: pre-wrap; }
+
+  #modal-overlay { display: none; position: fixed; inset: 0; background: #f8fafc88; z-index: 100; align-items: center; justify-content: center; }
+  #modal-overlay.open { display: flex; }
+  #modal { background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; width: 420px; padding: 20px; }
+  #modal h2 { font-size: 15px; font-weight: 600; color: #0f172a; margin-bottom: 4px; }
+  #modal .modal-subtitle { font-size: 11px; color: #64748b; font-family: monospace; margin-bottom: 14px; }
+  #modal .modal-info { font-size: 12px; color: #374151; background: #f1f5f9; border: 1px solid #e2e8f0; border-radius: 6px; padding: 10px; margin-bottom: 12px; line-height: 1.5; }
+  #modal textarea { width: 100%; background: #f1f5f9; border: 1px solid #e2e8f0; border-radius: 6px; color: #0f172a; font-size: 12px; padding: 8px; resize: vertical; min-height: 70px; outline: none; }
+  #modal textarea:focus { border-color: #1f6feb; }
+  #modal .modal-actions { display: flex; gap: 8px; justify-content: flex-end; margin-top: 10px; }
+  .btn-primary { background: #1f6feb; border: none; color: #fff; font-size: 12px; padding: 6px 14px; border-radius: 6px; cursor: pointer; }
+  .btn-primary:hover { background: #388bfd; }
+  .btn-cancel { background: #f1f5f9; border: 1px solid #e2e8f0; color: #374151; font-size: 12px; padding: 6px 14px; border-radius: 6px; cursor: pointer; }
+  .btn-cancel:hover { background: #e2e8f0; }
+
+  #tooltip { display: none; position: fixed; background: #1c2128; border: 1px solid #30363d; border-radius: 6px; padding: 8px 12px; font-size: 11px; color: #e2e8f0; pointer-events: none; z-index: 50; max-width: 260px; box-shadow: 0 4px 16px #00000066; }
+  #tooltip .tt-title { font-weight: 600; margin-bottom: 3px; color: #ffffff; }
+  #tooltip .tt-file { font-family: monospace; color: #94a3b8; font-size: 10px; margin-bottom: 4px; }
+  #tooltip .tt-desc { color: #cbd5e1; line-height: 1.4; }
+</style>
+</head>
+<body>
+
+<div id="header">
+  <h1>BEFS Architecture Map</h1>
+  <span class="badge">Bufetat Eiendomsforvaltningssystem</span>
+  <div class="spacer"></div>
+  <span style="font-size:11px;color:#64748b;">Click nodes to comment · Drag to pan · Scroll to zoom</span>
+</div>
+
+<div id="main">
+  <div id="sidebar">
+    <div class="sidebar-section">
+      <h3>Views</h3>
+      <button class="preset-btn active" data-preset="full">Full System</button>
+      <button class="preset-btn" data-preset="frontend">Frontend Only</button>
+      <button class="preset-btn" data-preset="backend">Backend Only</button>
+      <button class="preset-btn" data-preset="auth">Auth Flow</button>
+      <button class="preset-btn" data-preset="data">Data Flow</button>
+    </div>
+
+    <div class="sidebar-section">
+      <h3>Layers</h3>
+      <div class="layer-toggle" id="lt-browser">
+        <div class="layer-dot" style="background:#388bfd"></div>
+        <input type="checkbox" id="l-browser" checked>
+        <label for="l-browser">Browser / Client</label>
+      </div>
+      <div class="layer-toggle" id="lt-frontend">
+        <div class="layer-dot" style="background:#3fb950"></div>
+        <input type="checkbox" id="l-frontend" checked>
+        <label for="l-frontend">Frontend (Vercel)</label>
+      </div>
+      <div class="layer-toggle" id="lt-backend">
+        <div class="layer-dot" style="background:#d29922"></div>
+        <input type="checkbox" id="l-backend" checked>
+        <label for="l-backend">Backend (Railway)</label>
+      </div>
+      <div class="layer-toggle" id="lt-db">
+        <div class="layer-dot" style="background:#bc8cff"></div>
+        <input type="checkbox" id="l-db" checked>
+        <label for="l-db">Database (PostgreSQL)</label>
+      </div>
+      <div class="layer-toggle" id="lt-auth">
+        <div class="layer-dot" style="background:#f78166"></div>
+        <input type="checkbox" id="l-auth" checked>
+        <label for="l-auth">Auth (Supabase)</label>
+      </div>
+    </div>
+
+    <div class="sidebar-section">
+      <h3>Highlight Flow</h3>
+      <button class="flow-btn active" data-flow="all">
+        <div style="width:22px;height:2px;border-radius:1px;background:#e2e8f0;flex-shrink:0"></div>
+        Show All
+      </button>
+      <button class="flow-btn" data-flow="dashboard">
+        <div style="width:22px;height:3px;border-radius:2px;background:#2563eb;flex-shrink:0"></div>
+        Dashboard Load
+      </button>
+      <button class="flow-btn" data-flow="contracts">
+        <div style="width:22px;height:3px;border-radius:2px;background:#3fb950;flex-shrink:0"></div>
+        Contract Fetch
+      </button>
+      <button class="flow-btn" data-flow="auth">
+        <div style="width:22px;height:3px;border-radius:2px;background:#f78166;flex-shrink:0"></div>
+        Auth Flow
+      </button>
+      <button class="flow-btn" data-flow="properties">
+        <div style="width:22px;height:3px;border-radius:2px;background:#d29922;flex-shrink:0"></div>
+        Property Access
+      </button>
+    </div>
+
+    <div class="sidebar-section" style="flex:1">
+      <h3>Comments (<span id="comment-count">0</span>)</h3>
+      <div id="comments-list"><p class="no-comments">Click a node to add feedback</p></div>
+    </div>
+  </div>
+
+  <div id="canvas-area">
+    <div id="svg-container">
+      <svg id="arch-svg" xmlns="http://www.w3.org/2000/svg"></svg>
+    </div>
+    <div id="zoom-controls">
+      <button class="zoom-btn" id="btn-zoom-in" title="Zoom in">+</button>
+      <button class="zoom-btn" id="btn-zoom-out" title="Zoom out">−</button>
+      <button class="zoom-btn" id="btn-zoom-reset" title="Reset view" style="font-size:11px">⌂</button>
+    </div>
+    <div id="legend">
+      <div><div class="dot" style="background:#388bfd"></div>Browser</div>
+      <div><div class="dot" style="background:#3fb950"></div>Frontend (Vercel)</div>
+      <div><div class="dot" style="background:#d29922"></div>Backend (Railway)</div>
+      <div><div class="dot" style="background:#bc8cff"></div>Database</div>
+      <div><div class="dot" style="background:#f78166"></div>Auth (Supabase)</div>
+    </div>
+  </div>
+</div>
+
+<div id="prompt-area">
+  <div class="prompt-header">
+    <h3>Prompt Output</h3>
+    <button id="copy-btn">Copy Prompt</button>
+  </div>
+  <div id="prompt-output"></div>
+</div>
+
+<div id="modal-overlay">
+  <div id="modal">
+    <h2 id="modal-title"></h2>
+    <div class="modal-subtitle" id="modal-subtitle"></div>
+    <div class="modal-info" id="modal-info"></div>
+    <textarea id="modal-textarea" placeholder="Add feedback or note about this component..."></textarea>
+    <div class="modal-actions">
+      <button class="btn-cancel" id="modal-cancel">Cancel</button>
+      <button class="btn-primary" id="modal-save">Save Comment</button>
+    </div>
+  </div>
+</div>
+
+<div id="tooltip">
+  <div class="tt-title" id="tt-title"></div>
+  <div class="tt-file" id="tt-file"></div>
+  <div class="tt-desc" id="tt-desc"></div>
+</div>
+
+<script>
+// ─── Escape HTML to prevent XSS ────────────────────────────────
+function esc(str) {
+  return String(str)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#39;');
+}
+
+// ─── Nodes ──────────────────────────────────────────────────────
+const nodes = [
+  // Browser layer
+  { id: 'browser', label: 'Browser', subtitle: 'User Interface', x: 490, y: 28, w: 130, h: 44, layer: 'browser', color: '#1c2d4a', stroke: '#388bfd',
+    info: 'End user browser. Loads Next.js app from Vercel CDN. Stores Supabase session in localStorage. All API calls go to Railway backend via fetchAPI().' },
+
+  // Frontend pages
+  { id: 'dashboard-page', label: 'Dashboard', subtitle: 'app/dashboard/page.tsx', x: 40, y: 120, w: 145, h: 44, layer: 'frontend', color: '#1a2e1a', stroke: '#3fb950',
+    info: 'Main dashboard route. Shows full overview for ADMIN/REGIONAL_MANAGER. Shows PropertyDashboard for PROPERTY_MANAGER. Role comes from useAuth() — defaults null, so no-metadata users see the full view.' },
+  { id: 'contracts-page', label: 'Contracts', subtitle: 'app/contracts/page.tsx', x: 210, y: 120, w: 145, h: 44, layer: 'frontend', color: '#1a2e1a', stroke: '#3fb950',
+    info: 'Contracts list page with filtering. Calls GET /contracts. ADMIN sees all, others filtered by property assignment via a single DB query.' },
+  { id: 'properties-page', label: 'Properties', subtitle: 'app/properties/[id]/page.tsx', x: 380, y: 120, w: 145, h: 44, layer: 'frontend', color: '#1a2e1a', stroke: '#3fb950',
+    info: 'Property detail page. Uses property_id from URL. Calls GET /properties/{id}. Access controlled by check_property_access() on backend.' },
+  { id: 'deviations-page', label: 'Deviations', subtitle: 'app/deviations/page.tsx', x: 550, y: 120, w: 145, h: 44, layer: 'frontend', color: '#1a2e1a', stroke: '#3fb950',
+    info: 'HMS deviations page. Shows internal control cases. Filters critical/high priority on client side from /internal-control/cases?status=open.' },
+  { id: 'root-page', label: 'Root Page', subtitle: 'app/page.tsx', x: 720, y: 120, w: 145, h: 44, layer: 'frontend', color: '#1a2e1a', stroke: '#3fb950',
+    info: 'Root / route. Contains DashboardStats, Map, TopTenants, FocusArea, Operations, Analysis panels.' },
+
+  // Frontend services
+  { id: 'use-auth', label: 'useAuth()', subtitle: 'hooks/useAuth.ts', x: 40, y: 210, w: 145, h: 44, layer: 'frontend', color: '#1a2e1a', stroke: '#3fb950',
+    info: 'Supabase auth hook. Gets session, listens for auth changes. Extracts role from user_metadata (defaults null if not set — previously defaulted to PROPERTY_MANAGER causing wrong view).' },
+  { id: 'fetch-api', label: 'fetchAPI()', subtitle: 'lib/api/client.ts', x: 210, y: 210, w: 145, h: 44, layer: 'frontend', color: '#1a2e1a', stroke: '#3fb950',
+    info: 'Central API client. Prepends NEXT_PUBLIC_API_URL (baked at build time). Adds Authorization: Bearer <shared-secret> + X-User-Email header for identity.' },
+  { id: 'analytics-api', label: 'contractAnalyticsApi', subtitle: 'lib/api/contractAnalyticsApi.ts', x: 380, y: 210, w: 160, h: 44, layer: 'frontend', color: '#1a2e1a', stroke: '#3fb950',
+    info: 'Analytics API wrapper. getDashboardStats(), getContracts(), getTopTenants(), getFinancialPatterns(). All delegate to fetchAPI().' },
+  { id: 'next-proxy', label: 'Next.js API Proxy', subtitle: 'app/api/dashboard/stats/route.ts', x: 560, y: 210, w: 155, h: 44, layer: 'frontend', color: '#1a2e1a', stroke: '#3fb950',
+    info: 'Server-side proxy route for dashboard stats. Forwards requests to Railway backend. Can add server-side headers or caching.' },
+
+  // Auth
+  { id: 'supabase', label: 'Supabase Auth', subtitle: 'supabase.auth (external)', x: 40, y: 310, w: 145, h: 44, layer: 'auth', color: '#2d1b1b', stroke: '#f78166',
+    info: 'Managed auth service. Handles login, sessions, JWT tokens. User roles stored in user_metadata.role. Backend validates identity via X-User-Email header lookup.' },
+
+  // Backend middleware
+  { id: 'main', label: 'FastAPI App', subtitle: 'app/main.py', x: 255, y: 310, w: 135, h: 44, layer: 'backend', color: '#2d2600', stroke: '#d29922',
+    info: 'FastAPI app entry point. Configures CORS (Railway + Vercel origins). Sets up DB lifespan. Mounts all API routers under /api/v1.' },
+  { id: 'auth-middleware', label: 'Auth Middleware', subtitle: 'app/middleware/auth_middleware.py', x: 410, y: 310, w: 165, h: 44, layer: 'backend', color: '#2d2600', stroke: '#d29922',
+    info: 'Shared-secret bypass: Bearer befs-super-secret-key-12345 → system@befs.no ADMIN (no DB lookup). Normal requests: reads X-User-Email header, looks up user in DB.' },
+  { id: 'api-deps', label: 'API Deps', subtitle: 'app/api/deps.py', x: 595, y: 310, w: 130, h: 44, layer: 'backend', color: '#2d2600', stroke: '#d29922',
+    info: 'get_db(): async session with 3-retry logic. get_current_user(): extracts user from request state set by middleware.' },
+  { id: 'db-session', label: 'DB Session', subtitle: 'app/db/session.py', x: 745, y: 310, w: 130, h: 44, layer: 'backend', color: '#2d2600', stroke: '#d29922',
+    info: 'AsyncEngine: pool_size=3, max_overflow=7 (max 10 connections). pool_pre_ping=True for serverless suspend/resume. pool_recycle=3600s.' },
+
+  // Backend routers
+  { id: 'dashboard-api', label: 'Dashboard API', subtitle: 'app/api/v1/dashboard.py', x: 40, y: 410, w: 145, h: 44, layer: 'backend', color: '#2d2600', stroke: '#d29922',
+    info: 'Routes: /stats, /financials/patterns, /top-tenants, /recent-activity. /financials/patterns now catches Exception (not just ImportError) — handles missing "budget" table gracefully.' },
+  { id: 'contracts-router', label: 'Contracts Router', subtitle: 'domains/core/routers/contracts.py', x: 205, y: 410, w: 160, h: 44, layer: 'backend', color: '#2d2600', stroke: '#d29922',
+    info: 'GET /contracts. ADMIN short-circuit (no extra DB calls). Others: single get_user_accessible_property_ids() call, then filter in Python. Eliminates N×DB pattern.' },
+  { id: 'properties-router', label: 'Properties Router', subtitle: 'domains/core/routers/properties.py', x: 385, y: 410, w: 160, h: 44, layer: 'backend', color: '#2d2600', stroke: '#d29922',
+    info: 'GET /properties with filter_properties_by_access(). GET /properties/{id} with check_property_access(). ADMIN=all, REGIONAL_MANAGER=by region, PM/JANITOR=by assignment.' },
+  { id: 'parties-router', label: 'Parties Router', subtitle: 'domains/core/routers/parties.py', x: 565, y: 410, w: 145, h: 44, layer: 'backend', color: '#2d2600', stroke: '#d29922',
+    info: 'Tenants/parties CRUD. GET /parties lists tenants. POST /parties creates party. Links to contracts and properties.' },
+
+  // Backend services
+  { id: 'property-access', label: 'Property Access', subtitle: 'app/core/property_access.py', x: 40, y: 510, w: 155, h: 44, layer: 'backend', color: '#2d2600', stroke: '#d29922',
+    info: 'Core RBAC helper. check_property_access(), filter_properties_by_access(), get_user_accessible_property_ids(). Returns None (=all) for ADMIN. Logs at DEBUG level only.' },
+  { id: 'financial-service', label: 'Financial Service', subtitle: 'services/analytics/financial_analysis_service.py', x: 215, y: 510, w: 165, h: 44, layer: 'backend', color: '#2d2600', stroke: '#d29922',
+    info: '_budget_variance_patterns() catches Exception (not just ImportError) to handle missing "budget" table. Previously caused 500 chain and pool exhaustion.' },
+  { id: 'metrics-service', label: 'Metrics Service', subtitle: 'services/analytics/metrics_service.py', x: 400, y: 510, w: 155, h: 44, layer: 'backend', color: '#2d2600', stroke: '#d29922',
+    info: 'get_live_dashboard_metrics(): computes live stats when no cached DashboardMetrics row. get_occupancy_rate(): vacancy %. Feeds /dashboard/stats.' },
+
+  // Models
+  { id: 'user-model', label: 'User Model', subtitle: 'models/user.py', x: 40, y: 610, w: 140, h: 44, layer: 'backend', color: '#2d2600', stroke: '#d29922',
+    info: 'User + UserRole enum (ADMIN, REGIONAL_MANAGER, PROPERTY_MANAGER, JANITOR, TENANT). user_property_association join table for PM→property mapping.' },
+  { id: 'contract-model', label: 'Contract Model', subtitle: 'models/contract.py', x: 200, y: 610, w: 140, h: 44, layer: 'backend', color: '#2d2600', stroke: '#d29922',
+    info: 'Contract ORM model. status=Column(String) — not a PG enum. Avoids contractstatus type error that crashed the old Render deployment.' },
+  { id: 'property-model', label: 'Property Model', subtitle: 'models/property.py', x: 360, y: 610, w: 140, h: 44, layer: 'backend', color: '#2d2600', stroke: '#d29922',
+    info: 'Property ORM model. PostGIS/geom removed. lokalisering_id field = Bufetat Dim 1 location code. region field used for REGIONAL_MANAGER access control.' },
+  { id: 'gl-model', label: 'GL Transaction', subtitle: 'models/financial_models.py', x: 520, y: 610, w: 150, h: 44, layer: 'backend', color: '#2d2600', stroke: '#d29922',
+    info: 'GL-transaksjonsmodell. Lagrer regnskapsdata fra Xledger/Visma CSV. Felt: period (YYYYMM), department_code (Dim1/Koststed), dim2_code/name, account_code, amount, supplier. MANGLER: bilagsart, bilagsnummer, dim4-7, batch_id. amount bør være Numeric(19,4) ikke Float.' },
+
+  // New backend routers
+  { id: 'econ-import-api', label: 'Econ Import API', subtitle: 'api/v1/admin/economic_import.py', x: 740, y: 410, w: 165, h: 44, layer: 'backend', color: '#2d2600', stroke: '#d29922',
+    info: 'Admin-endepunkter for regnskapsimport: POST /preview (dry-run matching), POST /financial-csv (Xledger/Visma CSV), POST /master-csv (totalny.txt/Eie1212), POST /clear. Autodetekterer CSV-format.' },
+  { id: 'procurement-api', label: 'Procurement API', subtitle: 'api/v1/procurement.py', x: 920, y: 410, w: 155, h: 44, layer: 'backend', color: '#2d2600', stroke: '#d29922',
+    info: 'Innkjøpsanalyse-pivot: GET /pivot (fastdefinerte kategorier m/Statsbygg-splitt), GET /dynamic (data-drevet fra GL), GET /per-region (pr. enhet), GET /institution (drill-down), GET /property-profiles (kostnad/m²). Kontoer: 6300–6399, 6630.' },
+
+  // New backend service
+  { id: 'data-mgmt', label: 'Data Management', subtitle: 'services/data_management.py', x: 580, y: 510, w: 170, h: 44, layer: 'backend', color: '#2d2600', stroke: '#d29922',
+    info: '4-pass matching-motor for eiendomskobling: Pass1=lærte koblinger, Pass2=eksakt/fuzzy adresse (≥92% terskel), Pass3=reklassifisering (H1/H2/HB), Pass4=fallback. import_property_master_csv() henter lokalisering_id fra totalny.txt. Multi-source autodeteksjon.' },
+
+  // New frontend admin pages
+  { id: 'admin-import-page', label: 'Admin Import', subtitle: 'app/admin/import/page.tsx', x: 890, y: 120, w: 155, h: 44, layer: 'frontend', color: '#1a2e1a', stroke: '#3fb950',
+    info: '2-stegs import-flyt: Preview (viser matchrate %, antall matchet/umatchet) → Execute. Støtter Financial CSV (Xledger/Visma) og Master CSV (totalny.txt). Viser umatchede prøver og kolonner.' },
+  { id: 'admin-procurement-page', label: 'Innkjøpsanalyse', subtitle: 'app/admin/procurement/page.tsx', x: 890, y: 175, w: 155, h: 44, layer: 'frontend', color: '#1a2e1a', stroke: '#3fb950',
+    info: 'Pivot-tabell for lokalkostnader per institusjon og region. Viser leie, strøm, renhold, vedlikehold, vaktmester m.m. Statsbygg vs. andre utleiere separert. Drill-down per institusjon.' },
+
+  // Database
+  { id: 'pg-railway', label: 'PostgreSQL', subtitle: 'Railway (internal URL)', x: 255, y: 720, w: 155, h: 44, layer: 'db', color: '#200d33', stroke: '#bc8cff',
+    info: 'PostgreSQL on Railway. Zero-latency via internal .railway.internal URL. All PG enum columns converted to TEXT (contractstatus, toolstatus, qastatus). PostGIS removed.' },
+  { id: 'tables', label: 'Core Tables', subtitle: 'properties · contracts · users · units', x: 435, y: 720, w: 185, h: 44, layer: 'db', color: '#200d33', stroke: '#bc8cff',
+    info: 'properties (lokalisering_id), contracts, units, parties, users, risk_assessments, internal_control_cases, notifications, file_meta, dashboard_metrics, user_property_association.' },
+  { id: 'gl-tables', label: 'GL / Budget', subtitle: 'gl_transactions · budget', x: 640, y: 720, w: 155, h: 44, layer: 'db', color: '#200d33', stroke: '#bc8cff',
+    info: 'gl_transactions: regnskapslinjer fra Xledger/Visma. Kobles til properties via property_id (fuzzy matching på Dim2/adresse). budget: budsjetterte beløp per period/kategori. MANGLER: bilagsart, bilagsnummer, dim4-7, batch_id, Numeric(19,4).' },
+];
+
+// ─── Connections ─────────────────────────────────────────────────
+const connections = [
+  { from: 'browser', to: 'dashboard-page', type: 'http', label: '/dashboard', flows: ['dashboard'] },
+  { from: 'browser', to: 'contracts-page', type: 'http', label: '/contracts', flows: ['contracts'] },
+  { from: 'browser', to: 'properties-page', type: 'http', label: '/properties', flows: ['properties'] },
+  { from: 'browser', to: 'supabase', type: 'auth', label: 'login/session', flows: ['auth'] },
+  { from: 'dashboard-page', to: 'use-auth', type: 'data', label: 'role check', flows: ['dashboard', 'auth'] },
+  { from: 'dashboard-page', to: 'analytics-api', type: 'data', label: 'getStats()', flows: ['dashboard'] },
+  { from: 'contracts-page', to: 'fetch-api', type: 'data', label: 'fetchAPI()', flows: ['contracts'] },
+  { from: 'properties-page', to: 'fetch-api', type: 'data', label: 'fetchAPI()', flows: ['properties'] },
+  { from: 'deviations-page', to: 'fetch-api', type: 'data', flows: [] },
+  { from: 'root-page', to: 'analytics-api', type: 'data', flows: ['dashboard'] },
+  { from: 'use-auth', to: 'supabase', type: 'auth', label: 'getSession()', flows: ['auth'] },
+  { from: 'analytics-api', to: 'fetch-api', type: 'data', flows: ['dashboard', 'contracts'] },
+  { from: 'fetch-api', to: 'main', type: 'http', label: 'Bearer + X-User-Email', flows: ['dashboard', 'contracts', 'properties', 'auth'] },
+  { from: 'next-proxy', to: 'main', type: 'http', label: 'server→server', flows: ['dashboard'] },
+  { from: 'main', to: 'auth-middleware', type: 'middleware', flows: ['auth', 'dashboard', 'contracts', 'properties'] },
+  { from: 'auth-middleware', to: 'api-deps', type: 'middleware', flows: ['auth', 'dashboard', 'contracts', 'properties'] },
+  { from: 'api-deps', to: 'db-session', type: 'data', flows: ['dashboard', 'contracts', 'properties'] },
+  { from: 'api-deps', to: 'dashboard-api', type: 'data', flows: ['dashboard'] },
+  { from: 'api-deps', to: 'contracts-router', type: 'data', flows: ['contracts'] },
+  { from: 'api-deps', to: 'properties-router', type: 'data', flows: ['properties'] },
+  { from: 'dashboard-api', to: 'financial-service', type: 'call', flows: ['dashboard'] },
+  { from: 'dashboard-api', to: 'metrics-service', type: 'call', flows: ['dashboard'] },
+  { from: 'contracts-router', to: 'property-access', type: 'call', label: 'get_user_accessible_ids', flows: ['contracts'] },
+  { from: 'properties-router', to: 'property-access', type: 'call', label: 'filter_by_access', flows: ['properties'] },
+  { from: 'financial-service', to: 'pg-railway', type: 'query', flows: ['dashboard'] },
+  { from: 'metrics-service', to: 'pg-railway', type: 'query', flows: ['dashboard'] },
+  { from: 'property-access', to: 'pg-railway', type: 'query', flows: ['contracts', 'properties'] },
+  { from: 'contracts-router', to: 'pg-railway', type: 'query', flows: ['contracts'] },
+  { from: 'properties-router', to: 'pg-railway', type: 'query', flows: ['properties'] },
+  { from: 'auth-middleware', to: 'pg-railway', type: 'query', label: 'user lookup', flows: ['auth'] },
+  { from: 'db-session', to: 'pg-railway', type: 'data', label: 'pool max 10', flows: ['dashboard', 'contracts', 'properties'] },
+  { from: 'user-model', to: 'pg-railway', type: 'orm', flows: [] },
+  { from: 'contract-model', to: 'pg-railway', type: 'orm', flows: [] },
+  { from: 'property-model', to: 'pg-railway', type: 'orm', flows: [] },
+  { from: 'gl-model', to: 'gl-tables', type: 'orm', flows: [] },
+  { from: 'pg-railway', to: 'tables', type: 'orm', flows: [] },
+  { from: 'pg-railway', to: 'gl-tables', type: 'orm', flows: [] },
+  // New connections
+  { from: 'browser', to: 'admin-import-page', type: 'http', label: '/admin/import', flows: ['data'] },
+  { from: 'browser', to: 'admin-procurement-page', type: 'http', label: '/admin/procurement', flows: [] },
+  { from: 'admin-import-page', to: 'fetch-api', type: 'data', flows: ['data'] },
+  { from: 'admin-procurement-page', to: 'fetch-api', type: 'data', flows: [] },
+  { from: 'api-deps', to: 'econ-import-api', type: 'data', flows: ['data'] },
+  { from: 'api-deps', to: 'procurement-api', type: 'data', flows: [] },
+  { from: 'econ-import-api', to: 'data-mgmt', type: 'call', flows: ['data'] },
+  { from: 'data-mgmt', to: 'pg-railway', type: 'query', flows: ['data'] },
+  { from: 'econ-import-api', to: 'pg-railway', type: 'query', flows: ['data'] },
+  { from: 'procurement-api', to: 'pg-railway', type: 'query', flows: [] },
+];
+
+const connStyles = {
+  http:       { color: '#2563eb', dash: '',     width: 2 },
+  auth:       { color: '#f78166', dash: '6,3',  width: 2 },
+  data:       { color: '#3fb950', dash: '',      width: 1.5 },
+  middleware: { color: '#d29922', dash: '4,4',  width: 1.5 },
+  call:       { color: '#bc8cff', dash: '8,3',  width: 1.5 },
+  query:      { color: '#bc8cff', dash: '4,2',  width: 1 },
+  orm:        { color: '#444',    dash: '3,4',  width: 1 },
+};
+
+// ─── State ───────────────────────────────────────────────────────
+const state = {
+  layers: { browser: true, frontend: true, backend: true, db: true, auth: true },
+  activeFlow: 'all',
+  comments: [],
+  scale: 1,
+  panX: 20,
+  panY: 10,
+};
+
+const presets = {
+  full:      { layers: { browser: true, frontend: true, backend: true, db: true, auth: true }, flow: 'all' },
+  frontend:  { layers: { browser: true, frontend: true, backend: false, db: false, auth: true }, flow: 'all' },
+  backend:   { layers: { browser: false, frontend: false, backend: true, db: true, auth: false }, flow: 'all' },
+  auth:      { layers: { browser: true, frontend: true, backend: true, db: true, auth: true }, flow: 'auth' },
+  data:      { layers: { browser: true, frontend: true, backend: true, db: true, auth: false }, flow: 'dashboard' },
+};
+
+// ─── SVG setup ───────────────────────────────────────────────────
+const svg = document.getElementById('arch-svg');
+const container = document.getElementById('svg-container');
+const CANVAS_W = 1200;
+const CANVAS_H = 820;
+
+function initSVG() {
+  svg.setAttribute('width', CANVAS_W);
+  svg.setAttribute('height', CANVAS_H);
+  svg.setAttribute('viewBox', `0 0 ${CANVAS_W} ${CANVAS_H}`);
+
+  // Arrow markers
+  const defs = document.createElementNS('http://www.w3.org/2000/svg', 'defs');
+  Object.entries(connStyles).forEach(([type, style]) => {
+    const marker = document.createElementNS('http://www.w3.org/2000/svg', 'marker');
+    marker.setAttribute('id', `arr-${type}`);
+    marker.setAttribute('markerWidth', '8');
+    marker.setAttribute('markerHeight', '6');
+    marker.setAttribute('refX', '7');
+    marker.setAttribute('refY', '3');
+    marker.setAttribute('orient', 'auto');
+    const poly = document.createElementNS('http://www.w3.org/2000/svg', 'polygon');
+    poly.setAttribute('points', '0 0, 8 3, 0 6');
+    poly.setAttribute('fill', style.color);
+    marker.appendChild(poly);
+    defs.appendChild(marker);
+  });
+  svg.appendChild(defs);
+
+  // Background
+  const bg = document.createElementNS('http://www.w3.org/2000/svg', 'rect');
+  bg.setAttribute('width', CANVAS_W);
+  bg.setAttribute('height', CANVAS_H);
+  bg.setAttribute('fill', '#f8fafc');
+  svg.appendChild(bg);
+
+  // Layer bands
+  [
+    { y: 12, h: 72, label: 'BROWSER', color: '#388bfd09' },
+    { y: 96, h: 210, label: 'FRONTEND · VERCEL', color: '#3fb95009' },
+    { y: 292, h: 72, label: 'AUTH · SUPABASE', color: '#f7816609' },
+    { y: 292, h: 390, label: 'BACKEND · RAILWAY', color: '#d2992209' },
+    { y: 700, h: 100, label: 'DATABASE · POSTGRESQL', color: '#bc8cff09' },
+  ].forEach(b => {
+    const r = document.createElementNS('http://www.w3.org/2000/svg', 'rect');
+    r.setAttribute('x', '8'); r.setAttribute('y', b.y);
+    r.setAttribute('width', CANVAS_W - 16); r.setAttribute('height', b.h);
+    r.setAttribute('rx', '8'); r.setAttribute('fill', b.color);
+    svg.appendChild(r);
+    const t = document.createElementNS('http://www.w3.org/2000/svg', 'text');
+    t.setAttribute('x', '18'); t.setAttribute('y', b.y + 13);
+    t.setAttribute('font-size', '9'); t.setAttribute('fill', '#ffffff15');
+    t.setAttribute('font-family', '-apple-system, sans-serif');
+    t.setAttribute('font-weight', '700'); t.setAttribute('letter-spacing', '1');
+    t.textContent = b.label;
+    svg.appendChild(t);
+  });
+}
+
+function getCenter(n) { return { x: n.x + n.w / 2, y: n.y + n.h / 2 }; }
+
+function edgePt(node, toward) {
+  const cx = node.x + node.w / 2, cy = node.y + node.h / 2;
+  const dx = toward.x - cx, dy = toward.y - cy;
+  const hw = node.w / 2, hh = node.h / 2;
+  if (dx === 0 && dy === 0) return { x: cx, y: cy };
+  if (Math.abs(dx) * hh > Math.abs(dy) * hw) {
+    const t = hw / Math.abs(dx);
+    return { x: cx + Math.sign(dx) * hw, y: cy + dy * t };
+  }
+  const t = hh / Math.abs(dy);
+  return { x: cx + dx * t, y: cy + Math.sign(dy) * hh };
+}
+
+function render() {
+  // Remove all children after the static ones (defs=index0, bg=1, bands=2-11)
+  const staticCount = 1 + 1 + (5 * 2); // defs + bg + 5 bands × (rect+text)
+  while (svg.children.length > staticCount) svg.removeChild(svg.lastChild);
+
+  const visible = nodes.filter(n => state.layers[n.layer]);
+  const visIds = new Set(visible.map(n => n.id));
+
+  // Draw connections
+  connections.forEach(conn => {
+    if (!visIds.has(conn.from) || !visIds.has(conn.to)) return;
+    const fn = nodes.find(n => n.id === conn.from);
+    const tn = nodes.find(n => n.id === conn.to);
+    if (!fn || !tn) return;
+
+    const tc = getCenter(tn), fc = getCenter(fn);
+    const start = edgePt(fn, tc), end = edgePt(tn, fc);
+    const style = connStyles[conn.type] || connStyles.data;
+    const highlighted = state.activeFlow === 'all' || (conn.flows && conn.flows.includes(state.activeFlow));
+    const op = state.activeFlow === 'all' ? 0.5 : (highlighted ? 1 : 0.06);
+    const w = (highlighted && state.activeFlow !== 'all') ? style.width + 1 : style.width;
+
+    const mx = (start.x + end.x) / 2, my = (start.y + end.y) / 2;
+    const curve = Math.min(Math.abs(end.y - start.y), 50) * 0.4;
+    const horiz = Math.abs(end.x - start.x) > Math.abs(end.y - start.y);
+    const cx1 = horiz ? mx - curve : start.x;
+    const cy1 = horiz ? start.y : my - curve;
+    const cx2 = horiz ? mx + curve : end.x;
+    const cy2 = horiz ? end.y : my + curve;
+
+    const path = document.createElementNS('http://www.w3.org/2000/svg', 'path');
+    path.setAttribute('d', `M${start.x},${start.y} C${cx1},${cy1} ${cx2},${cy2} ${end.x},${end.y}`);
+    path.setAttribute('stroke', style.color);
+    path.setAttribute('stroke-width', w);
+    if (style.dash) path.setAttribute('stroke-dasharray', style.dash);
+    path.setAttribute('fill', 'none');
+    path.setAttribute('opacity', op);
+    path.setAttribute('marker-end', `url(#arr-${conn.type})`);
+    svg.appendChild(path);
+
+    if (conn.label && highlighted && state.activeFlow !== 'all') {
+      const lx = (start.x + end.x) / 2, ly = (start.y + end.y) / 2;
+      const lbg = document.createElementNS('http://www.w3.org/2000/svg', 'rect');
+      const lw = conn.label.length * 5.2 + 8;
+      lbg.setAttribute('x', lx - lw / 2); lbg.setAttribute('y', ly - 8);
+      lbg.setAttribute('width', lw); lbg.setAttribute('height', 14);
+      lbg.setAttribute('rx', '3'); lbg.setAttribute('fill', '#ffffff');
+      svg.appendChild(lbg);
+      const lt = document.createElementNS('http://www.w3.org/2000/svg', 'text');
+      lt.setAttribute('x', lx); lt.setAttribute('y', ly + 2);
+      lt.setAttribute('text-anchor', 'middle');
+      lt.setAttribute('font-size', '9'); lt.setAttribute('fill', style.color);
+      lt.setAttribute('font-family', 'monospace');
+      lt.textContent = conn.label;
+      svg.appendChild(lt);
+    }
+  });
+
+  // Draw nodes
+  visible.forEach(node => {
+    const commented = state.comments.some(c => c.target === node.id);
+    const g = document.createElementNS('http://www.w3.org/2000/svg', 'g');
+    g.style.cursor = 'pointer';
+
+    const rect = document.createElementNS('http://www.w3.org/2000/svg', 'rect');
+    rect.setAttribute('x', node.x); rect.setAttribute('y', node.y);
+    rect.setAttribute('width', node.w); rect.setAttribute('height', node.h);
+    rect.setAttribute('rx', '14'); rect.setAttribute('fill', node.color);
+    rect.setAttribute('stroke', commented ? '#f0e040' : node.stroke);
+    rect.setAttribute('stroke-width', commented ? '2.5' : '1.5');
+    g.appendChild(rect);
+
+    const lbl = document.createElementNS('http://www.w3.org/2000/svg', 'text');
+    lbl.setAttribute('x', node.x + node.w / 2); lbl.setAttribute('y', node.y + 17);
+    lbl.setAttribute('text-anchor', 'middle'); lbl.setAttribute('font-size', '12');
+    lbl.setAttribute('font-weight', '600'); lbl.setAttribute('fill', '#f1f5f9');
+    lbl.setAttribute('font-family', '-apple-system, BlinkMacSystemFont, sans-serif');
+    lbl.textContent = node.label;
+    g.appendChild(lbl);
+
+    const sub = document.createElementNS('http://www.w3.org/2000/svg', 'text');
+    const subStr = node.subtitle.length > 30 ? node.subtitle.slice(0, 29) + '…' : node.subtitle;
+    sub.setAttribute('x', node.x + node.w / 2); sub.setAttribute('y', node.y + 31);
+    sub.setAttribute('text-anchor', 'middle'); sub.setAttribute('font-size', '9');
+    sub.setAttribute('fill', '#94a3b8'); sub.setAttribute('font-family', 'monospace');
+    sub.textContent = subStr;
+    g.appendChild(sub);
+
+    if (commented) {
+      const dot = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
+      dot.setAttribute('cx', node.x + node.w - 6); dot.setAttribute('cy', node.y + 6);
+      dot.setAttribute('r', '4'); dot.setAttribute('fill', '#f0e040');
+      g.appendChild(dot);
+    }
+
+    g.addEventListener('mouseenter', e => showTooltip(node, e));
+    g.addEventListener('mousemove', e => moveTooltip(e));
+    g.addEventListener('mouseleave', hideTooltip);
+    g.addEventListener('click', () => openModal(node));
+    svg.appendChild(g);
+  });
+
+  updatePrompt();
+}
+
+// ─── Transform ──────────────────────────────────────────────────
+function applyTransform() {
+  svg.style.transform = `translate(${state.panX}px, ${state.panY}px) scale(${state.scale})`;
+  svg.style.transformOrigin = '0 0';
+}
+function zoom(f) {
+  state.scale = Math.max(0.3, Math.min(2.5, state.scale * f));
+  applyTransform();
+}
+function resetView() { state.scale = 1; state.panX = 20; state.panY = 10; applyTransform(); }
+
+let panning = false, lastX = 0, lastY = 0;
+container.addEventListener('mousedown', e => { if (e.button === 0) { panning = true; lastX = e.clientX; lastY = e.clientY; } });
+window.addEventListener('mousemove', e => {
+  if (!panning) return;
+  state.panX += e.clientX - lastX; state.panY += e.clientY - lastY;
+  lastX = e.clientX; lastY = e.clientY;
+  applyTransform();
+});
+window.addEventListener('mouseup', () => { panning = false; });
+container.addEventListener('wheel', e => { e.preventDefault(); zoom(e.deltaY < 0 ? 1.1 : 0.9); }, { passive: false });
+
+// ─── Tooltip ────────────────────────────────────────────────────
+const tooltip = document.getElementById('tooltip');
+function showTooltip(node, e) {
+  document.getElementById('tt-title').textContent = node.label;
+  document.getElementById('tt-file').textContent = node.subtitle;
+  document.getElementById('tt-desc').textContent = node.info;
+  tooltip.style.display = 'block';
+  moveTooltip(e);
+}
+function moveTooltip(e) {
+  let x = e.clientX + 14, y = e.clientY + 14;
+  if (x + 270 > window.innerWidth) x = e.clientX - 278;
+  if (y + 130 > window.innerHeight) y = e.clientY - 130;
+  tooltip.style.left = x + 'px'; tooltip.style.top = y + 'px';
+}
+function hideTooltip() { tooltip.style.display = 'none'; }
+
+// ─── Modal ──────────────────────────────────────────────────────
+let modalNode = null;
+function openModal(node) {
+  modalNode = node;
+  document.getElementById('modal-title').textContent = node.label;
+  document.getElementById('modal-subtitle').textContent = node.subtitle;
+  document.getElementById('modal-info').textContent = node.info;
+  const existing = state.comments.find(c => c.target === node.id);
+  document.getElementById('modal-textarea').value = existing ? existing.text : '';
+  document.getElementById('modal-overlay').classList.add('open');
+  setTimeout(() => document.getElementById('modal-textarea').focus(), 80);
+}
+function closeModal() {
+  document.getElementById('modal-overlay').classList.remove('open');
+  modalNode = null;
+}
+function saveComment() {
+  const text = document.getElementById('modal-textarea').value.trim();
+  if (!text || !modalNode) { closeModal(); return; }
+  state.comments = state.comments.filter(c => c.target !== modalNode.id);
+  state.comments.push({ id: Date.now(), target: modalNode.id, targetLabel: modalNode.label, targetFile: modalNode.subtitle, text });
+  closeModal();
+  render();
+  renderComments();
+}
+document.getElementById('modal-cancel').addEventListener('click', closeModal);
+document.getElementById('modal-save').addEventListener('click', saveComment);
+document.getElementById('modal-overlay').addEventListener('click', e => { if (e.target === document.getElementById('modal-overlay')) closeModal(); });
+document.addEventListener('keydown', e => { if (e.key === 'Escape') closeModal(); });
+
+// ─── Comments sidebar (DOM-based, no innerHTML with user data) ─
+function renderComments() {
+  const list = document.getElementById('comments-list');
+  document.getElementById('comment-count').textContent = state.comments.length;
+
+  // Clear safely
+  while (list.firstChild) list.removeChild(list.firstChild);
+
+  if (state.comments.length === 0) {
+    const p = document.createElement('p');
+    p.className = 'no-comments';
+    p.textContent = 'Click a node to add feedback';
+    list.appendChild(p);
+    return;
+  }
+
+  state.comments.forEach(c => {
+    const item = document.createElement('div');
+    item.className = 'comment-item';
+
+    const del = document.createElement('button');
+    del.className = 'comment-delete';
+    del.textContent = '×';
+    del.title = 'Remove comment';
+    del.addEventListener('click', () => deleteComment(c.id));
+
+    const target = document.createElement('div');
+    target.className = 'comment-target';
+    target.textContent = c.targetLabel;
+
+    const text = document.createElement('div');
+    text.className = 'comment-text';
+    text.textContent = c.text;
+
+    item.appendChild(del);
+    item.appendChild(target);
+    item.appendChild(text);
+    list.appendChild(item);
+  });
+
+  updatePrompt();
+}
+
+function deleteComment(id) {
+  state.comments = state.comments.filter(c => c.id !== id);
+  render();
+  renderComments();
+}
+
+// ─── Prompt output ───────────────────────────────────────────────
+function updatePrompt() {
+  const layerNames = { browser: 'Browser', frontend: 'Frontend (Vercel)', backend: 'Backend (Railway)', db: 'Database', auth: 'Auth (Supabase)' };
+  const flowNames = { all: 'Full System', dashboard: 'Dashboard Load', contracts: 'Contract Fetch', auth: 'Auth Flow', properties: 'Property Access' };
+  const visible = Object.entries(state.layers).filter(([, v]) => v).map(([k]) => k);
+
+  let text = 'This is the BEFS (Bufetat Eiendomsforvaltningssystem) architecture';
+  if (state.activeFlow !== 'all') text += `, focusing on the ${flowNames[state.activeFlow]}`;
+  text += '.\n';
+  if (visible.length < 5) text += `Visible layers: ${visible.map(l => layerNames[l]).join(', ')}.\n`;
+
+  if (state.comments.length > 0) {
+    text += '\nFeedback on specific components:\n';
+    state.comments.forEach(c => { text += `\n**${c.targetLabel}** (${c.targetFile}):\n${c.text}\n`; });
+  }
+
+  document.getElementById('prompt-output').textContent = text.trim();
+}
+
+// ─── Controls ────────────────────────────────────────────────────
+document.querySelectorAll('.preset-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    const name = btn.dataset.preset;
+    const p = presets[name];
+    if (!p) return;
+    Object.assign(state.layers, p.layers);
+    Object.entries(p.layers).forEach(([layer, val]) => {
+      const cb = document.getElementById(`l-${layer}`);
+      if (cb) cb.checked = val;
+      const lt = document.getElementById(`lt-${layer}`);
+      if (lt) lt.classList.toggle('unchecked', !val);
+    });
+    document.querySelectorAll('.preset-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    setFlow(p.flow);
+    render();
+  });
+});
+
+document.querySelectorAll('.layer-toggle input[type=checkbox]').forEach(cb => {
+  cb.addEventListener('change', () => {
+    const layer = cb.id.replace('l-', '');
+    state.layers[layer] = cb.checked;
+    const lt = document.getElementById(`lt-${layer}`);
+    if (lt) lt.classList.toggle('unchecked', !cb.checked);
+    document.querySelectorAll('.preset-btn').forEach(b => b.classList.remove('active'));
+    render();
+  });
+});
+
+document.querySelectorAll('.flow-btn').forEach(btn => {
+  btn.addEventListener('click', () => setFlow(btn.dataset.flow));
+});
+
+function setFlow(flow) {
+  state.activeFlow = flow;
+  document.querySelectorAll('.flow-btn').forEach(b => b.classList.remove('active'));
+  const target = document.querySelector(`.flow-btn[data-flow="${flow}"]`);
+  if (target) target.classList.add('active');
+  render();
+}
+
+document.getElementById('btn-zoom-in').addEventListener('click', () => zoom(1.2));
+document.getElementById('btn-zoom-out').addEventListener('click', () => zoom(0.83));
+document.getElementById('btn-zoom-reset').addEventListener('click', resetView);
+
+document.getElementById('copy-btn').addEventListener('click', () => {
+  const text = document.getElementById('prompt-output').textContent;
+  navigator.clipboard.writeText(text).then(() => {
+    const btn = document.getElementById('copy-btn');
+    btn.textContent = 'Copied!';
+    btn.classList.add('copied');
+    setTimeout(() => { btn.textContent = 'Copy Prompt'; btn.classList.remove('copied'); }, 1800);
+  });
+});
+
+// ─── Init ────────────────────────────────────────────────────────
+initSVG();
+render();
+renderComments();
+applyTransform();
+</script>
+</body>
+</html>

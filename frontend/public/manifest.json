@@ -1,0 +1,43 @@
+{
+  "name": "BEFS – Bufetat Eiendomsforvaltning",
+  "short_name": "BEFS",
+  "description": "Eiendomssystem for norsk barnevern",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f1117",
+  "theme_color": "#6366f1",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/bufdir_images/bufdir_logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/bufdir_images/bufdir_logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["productivity", "utilities"],
+  "lang": "no",
+  "shortcuts": [
+    {
+      "name": "FDVU Compliance",
+      "url": "/fdvu",
+      "description": "Oversikt over kravoppfyllelse"
+    },
+    {
+      "name": "Eiendommer",
+      "url": "/properties",
+      "description": "Alle eiendommer"
+    },
+    {
+      "name": "Avvikshåndtering",
+      "url": "/hms",
+      "description": "HMS avvik"
+    }
+  ]
+}

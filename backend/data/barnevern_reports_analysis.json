@@ -1,0 +1,24 @@
+{
+  "generated_at": "2026-04-06T14:57:17.505513+00:00",
+  "summary": {
+    "stprp_count": 10,
+    "annual_report_total": 10,
+    "annual_report_pdf_count": 6,
+    "ssb_table_count": 40
+  },
+  "highlights": [
+    "Datagrunnlaget inneholder 10 relevante St.prp./Prop-saker for Bufdir/Bufetat-relaterte tema.",
+    "Årsrapportdekning er 6 av 10 siste år med funnet PDF-lenke.",
+    "SSB-kortlisten inneholder 40 tabeller som støtter analyse av barnevern/fosterhjem/familievern.",
+    "Mest fremtredende tematreff i St.prp.-utvalget: barn (10), barnevern (10), institusjon (3), familie (3)."
+  ],
+  "risks": [
+    "Manglende direkte PDF-treff for årsrapport i år: 2025, 2018, 2017, 2016."
+  ],
+  "recommended_actions": [
+    "Valider manuelt at alle St.prp.-saker er direkte relevante for BFD/Bufdir før endelig publisering.",
+    "Utvid årsrapport-fallback med historiske arkivkilder for år som mangler PDF-lenker.",
+    "Prioriter 5-10 SSB-tabeller fra kortlisten for faste KPI-er i månedlig styringsrapport.",
+    "Bruk KI-Kollega-verktøyene for rapportoversikt og analysetekst i ledermøter."
+  ]
+}

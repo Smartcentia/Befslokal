@@ -1,0 +1,1181 @@
+2 Region Øst 236103 Fosterhjemstjenesten Bufetat region øst, avdeling Østfold 2050173 Sundløkkaveien 73m, 1659 Torp Fosterhjemstjenesten Renhold lokaler Elis Norge AS 804,77
+2 Region Øst 236103 Fosterhjemstjenesten Bufetat region øst, avd Innlandet 2050170 Storgata 56-58, 2609 Lillehammer Fosterhjemstjenesten Renhold lokaler Toma Facility Norge AS 2768,24
+2 Region Øst 236103 Fosterhjemstjenesten Bufetat region øst, avd Innlandet 2050186 Strandsagvegen 2 D, 2383 Brumunddal Fosterhjemstjenesten Renhold lokaler ISS Facility Services AS 5249,53
+2 Region Øst 236103 Enhet for spesialiserte fosterhjem - region Øst 2050173 Sundløkkaveien 73m, 1659 Torp Fosterhjem Renhold lokaler ISS Facility Services AS 2304,81
+2 Region Øst 236202 Enhet for spesialiserte fosterhjem - region Øst 2050173 Sundløkkaveien 73m, 1659 Torp Fosterhjem Annen kostnad lokaler Elis Norge AS 121,78
+2 Region Øst 236202 Enhet for spesialiserte fosterhjem - region Øst 2050186 Strandsagvegen 2 D, 2383 Brumunddal Fosterhjem Renhold lokaler ISS Facility Services AS 2261,34
+2 Region Øst 236202 Familievernkontoret Asker og Bærum 2050102 Elias Smiths vei 22-24, 1337 Sandvika Familieverntjeneste Renhold lokaler ISS Facility Services AS 20309,06
+2 Region Øst 236202 Familievernkontoret Homansbyen Familieverntjeneste Renhold lokaler MASKE AS 916,21
+2 Region Øst 236204 Familievernkontoret Homansbyen Familieverntjeneste Annen kostnad lokaler Oscars gate 20 AS 2349,66
+2 Region Øst 236204 Familievernkontoret Homansbyen 2050117 Oscarsgate 20, 0301 Oslo Familieverntjeneste Renhold lokaler ISS Facility Services AS 27743,04
+2 Region Øst 236205 Familievernkontoret Enerhaugen 20465 Enerhaugen - Flyttekostnader 2025 Familieverntjeneste Annen kostnad lokaler Atea AS 45635
+2 Region Øst 236205 Familievernkontoret Enerhaugen 2050103 Smedsgata 49, 0651 Oslo Familieverntjeneste Renhold lokaler ABILITY FM AS 20858,93
+2 Region Øst 237101 Familievernkontoret Enerhaugen 2050103 Smedsgata 49, 0651 Oslo Familieverntjeneste Renhold lokaler ABILITY FM AS 20858,93
+2 Region Øst 237102 Seksjon adopsjon 20144 Bilpool i Portalen Adopsjon Leie parkeringsplass Aimo Park Norway AS(15030825141) 3186,54
+2 Region Øst 237103 Familievernkontoret Østfold Familieverntjeneste Renhold lokaler -1106
+2 Region Øst 237104 Familievernkontoret Østfold 2050112 Henrik Gerners gate 14, 1530 Moss Familieverntjeneste Renhold lokaler Elis Norge AS 2207
+2 Region Øst 237105 Familievernkontoret Østfold 2050112 Henrik Gerners gate 14, 1530 Moss Familieverntjeneste Renhold lokaler Insider Facility Solutions AS 3344
+2 Region Øst 237106 Familievernkontoret Østfold 2050113 Glemmengaten 55, 1608 Fredrikstad Familieverntjeneste Renhold lokaler 1106
+2 Region Øst 237106 Familievernkontoret Østfold 2050113 Glemmengaten 55, 1608 Fredrikstad Familieverntjeneste Renhold lokaler Elis Norge AS 936
+2 Region Øst 237201 Familievernkontoret Østfold 2050113 Glemmengaten 55, 1608 Fredrikstad Familieverntjeneste Renhold lokaler Toma Facility Norge AS 17582,44
+2 Region Øst 237203 Familievernkontoret Østfold 2050114 Rådhusgata 16, 1830 Askim Familieverntjeneste Renhold lokaler Elis Norge AS 827
+2 Region Øst 237203 Familievernkontoret Østfold 2050114 Rådhusgata 16, 1830 Askim Familieverntjeneste Renhold lokaler Toma Facility Norge AS 7802,49
+2 Region Øst 243901 Familievernkontoret Oslo Nord Familieverntjeneste Fellesutgifter andre utleiere ISS Facility Services AS 1629,93
+2 Region Øst 243901 Familievernkontoret Oslo Nord 2050111 Kabelgata 2, 0508 Oslo Familieverntjeneste Renhold lokaler Trygg Renhold AS Stor-Oslo 12113
+2 Region Øst 243901 Familievernkontoret Oslo Nord 2050111 Kabelgata 2, 0508 Oslo Familieverntjeneste Renhold lokaler Trygg Renhold AS Stor-Oslo 12113
+2 Region Øst 243901 Familievernkontoret Nedre Romerike 2050110 Torget 6, 2000 Lillestrøm Familieverntjeneste Renhold lokaler HJEM+ AS 15052,05
+2 Region Øst 243901 Familievernkontoret Nedre Romerike 2050110 Torget 6, 2000 Lillestrøm Familieverntjeneste Renhold lokaler HJEM+ AS 15052,05
+2 Region Øst 244001 Familievernkontoret Øvre Romerike Glåmdal Familieverntjeneste Renhold lokaler MASKE AS 1484,98
+2 Region Øst 244001 Familievernkontoret Øvre Romerike Glåmdal 2050115 Energiveien 14, 2069 Jessheim Familieverntjeneste Renhold lokaler Maid 4 You AS 23105
+2 Region Øst 244101 Familievernets spisskompetansemiljø for vold og høykonflikt Familieverntjeneste Reparasjon og vedlikehold leide lokaler -4386,33
+2 Region Øst 244101 Familievernets spisskompetansemiljø for vold og høykonflikt 2050202 Grønlandsleiret 25, 0190 Oslo Familieverntjeneste Reparasjon og vedlikehold leide lokaler 4386,33
+2 Region Øst 244301 Familievernkontoret Innlandet Vest 2050105 Nymosvingen 6, 2609 Lillehammer Familieverntjeneste Renhold lokaler Toma Facility Norge AS 8544,53
+2 Region Øst 244401 Familievernkontoret Innlandet Vest 2050140 Storgata10, 2815 Gjøvik Familieverntjeneste Renhold lokaler 4Service Eir Renhold AS 8593,01
+2 Region Øst 245001 Familievernkontoret Innlandet Vest 2050140 Storgata10, 2815 Gjøvik Familieverntjeneste Renhold lokaler 4Service Eir Renhold AS 8593,01
+2 Region Øst 245001 Familievernkontoret Innlandet Øst Familieverntjeneste Vaktmestertjenester UTSTILLINGSPLASSEN EIENDOM AS 1163
+2 Region Øst 204404 Familievernkontoret Innlandet Øst 2050108 Vangsvegen 121, 2318 Hamar Familieverntjeneste Renhold lokaler ISS Facility Services AS 13053,89
+2 Region Øst 204407 Familievernkontoret Innlandet Øst 2050180 Vestrevei 1, 1710 Sarpsborg Familieverntjeneste Renhold lokaler Elis Norge AS 3935
+2 Region Øst 204415 Lierfoss ungdoms- og familiesenter - omsorg Administrasjon Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Romerike Låsservice AS 5006,68
+2 Region Øst 204416 Østfold ungdoms - og familiesenter - omsorg Administrasjon 2050173 Sundløkkaveien 73m, 1659 Torp Barnevernsinstitusjoner Renhold lokaler ISS Facility Services AS 2798,7
+2 Region Øst 204416 Østfold ungdoms - og familiesenter - omsorg Administrasjon 2050173 Sundløkkaveien 73m, 1659 Torp Barnevernsinstitusjoner Renhold lokaler Elis Norge AS 147,88
+2 Region Øst 204416 Østfold ungdoms - og familiesenter - omsorg, avdeling Kurland ungdomshjem 2050178 Kurlandveien 12, 1727 Sarpsborg Barnevernsinstitusjoner Renhold lokaler BORG RENHOLD AS 18065
+2 Region Øst 204416 Østfold ungdoms- og familiesenter - omsorg, avdeling Rokkeveien ungdomshjem 2050175 Rokkeveien 849, 1763 Halden Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler F. Jørgensen AS 1653
+2 Region Øst 204416 Østfold ungdoms- og familiesenter - omsorg, avdeling Tune ungdomshjem 2050179 Uglevn 1, 1712 Grålum Barnevernsinstitusjoner Renhold lokaler RENBOLIG SERVICE OG OMSORG AS 12426,25
+2 Region Øst 204416 Kirkenær barnevern- og omsorgssenter Administrasjon Omsorgssentre for mindreårige asylsøkere Leie lokaler andre utleiere Grue næringsselskap AS 5135,62
+2 Region Øst 204416 Kirkenær barnevern- og omsorgssenter Administrasjon Barnevernsinstitusjoner Leie lokaler andre utleiere Grue næringsselskap AS 5135,63
+2 Region Øst 204416 Kirkenær barnevern- og omsorgssenter Administrasjon 2050125 Energivegen 13, 2260 Kirkenær Omsorgssentre for mindreårige asylsøkere Renovasjon, vann, avløp o.l. Solør Renovasjon Iks 578,41
+2 Region Øst 204416 Kirkenær barnevern- og omsorgssenter Administrasjon 2050125 Energivegen 13, 2260 Kirkenær Omsorgssentre for mindreårige asylsøkere Annen kostnad lokaler Grue Kommune 585
+2 Region Øst 204416 Kirkenær barnevern- og omsorgssenter Administrasjon 2050125 Energivegen 13, 2260 Kirkenær Barnevernsinstitusjoner Annen kostnad lokaler Grue Kommune 585
+2 Region Øst 204416 Kirkenær barnevern- og omsorgssenter Avdeling Frydenlund Omsorgssentre for mindreårige asylsøkere Annen kostnad lokaler R. Nordli Interiør AS 9170
+2 Region Øst 204416 Kirkenær barnevern- og omsorgssenter Avdeling Kirkenærtunet 2050125 Energivegen 13, 2260 Kirkenær Omsorgssentre for mindreårige asylsøkere Reparasjon og vedlikehold leide lokaler YC AMUNDRUD AS 15914
+2 Region Øst 204416 Kirkenær barnevern- og omsorgssenter Edda ungdomshjem Barnevernsinstitusjoner Leie lokaler andre utleiere Vestlandske Boligstiftelse AS 6850
+2 Region Øst 204416 Kirkenær barnevern- og omsorgssenter Edda ungdomshjem Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Bredesen Opset Byggtorget AS 1188
+2 Region Øst 204416 Kirkenær barnevern- og omsorgssenter Edda ungdomshjem 2050164 Veslekila 1, 2260 Kirkenær Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Solør Renovasjon Iks 578,41
+2 Region Øst 204416 Kirkenær barnevern- og omsorgssenter Avdeling Namnå 2050129 Skolevegen 6, 2265 Namnå/Kirkenær Omsorgssentre for mindreårige asylsøkere Renhold lokaler Grue Kommune 42463
+2 Region Øst 204416 Ringerike omsorgssenter Administrasjon 20194 Regionalt renholdsplanleggingsverktøy Omsorgssentre for mindreårige asylsøkere Renhold lokaler CARES AS 6598
+2 Region Øst 204416 Ringerike omsorgssenter Avdeling Snyta Omsorgssentre for mindreårige asylsøkere Renovasjon, vann, avløp o.l. Hadeland og Ringerike Avfallsselskap AS 345,65
+2 Region Øst 204416 Ringerike omsorgssenter Avdeling Snyta Omsorgssentre for mindreårige asylsøkere Renovasjon, vann, avløp o.l. Hadeland og Ringerike Avfallsselskap AS 345,65
+2 Region Øst 204416 Ringerike omsorgssenter Avdeling Ramsrud Omsorgssentre for mindreårige asylsøkere Renovasjon, vann, avløp o.l. Hadeland og Ringerike Avfallsselskap AS 111,25
+2 Region Øst 204416 Ringerike omsorgssenter Avdeling Ramsrud Omsorgssentre for mindreårige asylsøkere Renovasjon, vann, avløp o.l. Hadeland og Ringerike Avfallsselskap AS 126,25
+2 Region Øst 204416 Ringerike omsorgssenter Avdeling Ramsrud Omsorgssentre for mindreårige asylsøkere Renovasjon, vann, avløp o.l. Hadeland og Ringerike Avfallsselskap AS 556,25
+2 Region Øst 204416 Ringerike omsorgssenter Avdeling Ramsrud Omsorgssentre for mindreårige asylsøkere Reparasjon og vedlikehold leide lokaler Clas Ohlson AS (60210745583) 377,9
+2 Region Øst 204416 Bufetat Øst Innlandet Barnevernsenter Barnevernsinstitusjoner Leie lokaler andre utleiere LRN DISTRIBUSJON AS 1962,5
+2 Region Øst 204416 Bufetat Øst Innlandet Barnevernsenter Barnevernsinstitusjoner Renhold lokaler Norsk Gjenvinning AS(15060314648) 865
+2 Region Øst 204416 Bufetat Øst Innlandet Barnevernsenter 2050162 Øverbyvegen 104, 2825 Gjøvik Barnevernsinstitusjoner Renhold lokaler ISS Facility Services AS 3003,75
+2 Region Øst 204416 Bufetat Øst Innlandet Barnevernsenter 2050162 Øverbyvegen 104, 2825 Gjøvik Barnevernsinstitusjoner Renhold lokaler ISS Facility Services AS 27025,14
+2 Region Øst 204416 Bufetat Øst Innlandet Barnevernsenter 2050162 Øverbyvegen 104, 2825 Gjøvik Barnevernsinstitusjoner Renhold lokaler Leko Matter AS 6060
+2 Region Øst 204416 Bufetat Øst Innlandet Barnevernsenter 2050162 Øverbyvegen 104, 2825 Gjøvik Barnevernsinstitusjoner Renhold lokaler Norsk Gjenvinning AS(15060314648) 5255,41
+2 Region Øst 204416 Bufetat Øst Innlandet Barnevernsenter 2050162 Øverbyvegen 104, 2825 Gjøvik Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Caverion Norge AS 3216,04
+2 Region Øst 204416 Bufetat Øst Innlandet Barnevernsenter 2050162 Øverbyvegen 104, 2825 Gjøvik Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler CERTEGO AS, Bergen 2872,35
+2 Region Øst 204416 Akershus ungdoms- og familiesenter - akutt, avd Bjørlien 2050153 Bjørlistubben 14, 1540 Vestby Barnevernsinstitusjoner Annen kostnad lokaler Homely AS 199
+2 Region Øst 204416 Akershus ungdoms- og familiesenter - akutt, avd Bjørlien 2050153 Bjørlistubben 14, 1540 Vestby Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler FOLLO RØRLEGGERSERVICE AS 4805
+2 Region Øst 204416 Akershus ungdoms- og familiesenter - akutt, avd Jibbe 2050151 Kantarellveien 4, 1708 Sarpsborg Barnevernsinstitusjoner Vaktmestertjenester INGARD LANGSHOLDT AS 6623,75
+2 Region Øst 204416 Akershus ungdoms- og familiesenter - akutt, avd Jibbe 2050151 Kantarellveien 4, 1708 Sarpsborg Barnevernsinstitusjoner Annen kostnad lokaler Isnes Monasje/Varmepumper 15706,5
+2 Region Øst 204416 Akershus ungdoms- og familiesenter - akutt, avd Jibbe 2050151 Kantarellveien 4, 1708 Sarpsborg Barnevernsinstitusjoner Annen kostnad lokaler Homely AS 199
+2 Region Øst 204416 Akershus ungdoms- og familiesenter - akutt, avd Jibbe 2050151 Kantarellveien 4, 1708 Sarpsborg Barnevernsinstitusjoner Annen kostnad lokaler INGARD LANGSHOLDT AS 17961
+2 Region Øst 204416 Akershus ungdoms- og familiesenter - akutt, avd Sole 2050154 Njords vei 11, 1540 Vestby Barnevernsinstitusjoner Annen kostnad lokaler KVAKESTAD PLANTESKOLE AS 11638
+2 Region Øst 204416 Akershus ungdoms- og familiesenter - akutt, avd Tjernlia 2050150 Trondheimsveien 205, Jessheim Barnevernsinstitusjoner Annen kostnad lokaler Optimera AS 2429
+2 Region Øst 204416 Akershus ungdoms- og familiesenter - akutt, avd Tjernlia 2050150 Trondheimsveien 205, Jessheim Barnevernsinstitusjoner Annen kostnad lokaler Optimera AS 981
+2 Region Øst 204416 Hedmark ungdoms- og familiesenter - akutt, avd Disen Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Hamar Glass AS 3270
+2 Region Øst 204416 Hedmark ungdoms- og familiesenter - akutt, avd Disen Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler EDVARDSEN ELEKTRO AS 251,64
+2 Region Øst 204416 Hedmark ungdoms- og familiesenter - akutt, avd Disen Barnevernsinstitusjoner Reparasjon og vedlikehold av anlegg, også serviceavtaler Låssenteret AS 2422,5
+2 Region Øst 204416 Hedmark ungdoms- og familiesenter - akutt, avd Disen Barnevernsinstitusjoner Reparasjon og vedlikehold av anlegg, også serviceavtaler ELOTEC AS 10243
+2 Region Øst 204416 Hedmark ungdoms- og familiesenter - akutt, avd Vien 1 Barnevernsinstitusjoner Vakthold lokaler Sensio AS 534,5
+2 Region Øst 204416 Hedmark ungdoms- og familiesenter - akutt, avd Vien 1 Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Rentokil Initial Norge AS 1623,7
+2 Region Øst 204416 Hedmark ungdoms- og familiesenter - akutt, avd Vien 2 Barnevernsinstitusjoner Vakthold lokaler Sensio AS 534,5
+2 Region Øst 204416 Hedmark ungdoms- og familiesenter - akutt, avd Vien 2 Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Rentokil Initial Norge AS 1623,7
+2 Region Øst 204416 Hedmark ungdoms- og familiesenter - akutt, avd Vien 2 Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler HAMAR RØRLEGGERBEDRIFT AS 975
+2 Region Øst 204416 Bufetats behandlingssenter Akershus_Østfold, adm 2050181 Solfallsveien 27, 1435 Ås Barnevernsinstitusjoner Renhold lokaler Toma gruppen//Østlandske Miljørenhold AS 3504,77
+2 Region Øst 204416 Bufetats behandlingssenter Akershus_Østfold, avd Kroerveien Barnevernsinstitusjoner Renhold lokaler Østlandske Rengjøring AS 10457,94
+2 Region Øst 204416 Bufetats behandlingssenter Akershus_Østfold, avd Ressursteam 2050181 Solfallsveien 27, 1435 Ås Barnevernsinstitusjoner Renhold lokaler Toma gruppen//Østlandske Miljørenhold AS 11682,55
+2 Region Øst 204416 Bufetats behandlingssenter Akershus_Østfold, avd Ås 151006 Drift - Styrking og omstilling av statlige institusjoner Barnevernsinstitusjoner Vakthold lokaler Addsecure AS 39874
+2 Region Øst 204416 Bufetats behandlingssenter Akershus_Østfold, avd Ås 151006 Drift - Styrking og omstilling av statlige institusjoner Barnevernsinstitusjoner Annen kostnad lokaler Sensio AS 10799,38
+2 Region Øst 204416 Bufetats behandlingssenter Akershus_Østfold, avd Ås 2050181 Solfallsveien 27, 1435 Ås Barnevernsinstitusjoner Renhold lokaler Toma gruppen//Østlandske Miljørenhold AS 24533,33
+2 Region Øst 204416 Bufetats behandlingssenter Akershus_Østfold, avd Østheim 61006 Hærverk Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Låssenteret AS 46320,75
+2 Region Øst 204416 Bufetats behandlingssenter Akershus_Østfold, avd Østlund 2050172 Grimstadtunet 27, 1746 Skjeberg Barnevernsinstitusjoner Annen kostnad lokaler Firesafe AS 3173
+2 Region Øst 204416 Bufetats behandlingssenter Akershus_Østfold, avd Østlund 2050172 Grimstadtunet 27, 1746 Skjeberg Barnevernsinstitusjoner Annen kostnad lokaler IKANO BANK AB (PUBL), Coop 6789
+2 Region Øst 204416 Jong ungdoms- og familiesenter, avd. Kollen Barnevernsinstitusjoner Renhold lokaler Insider Facility Solutions AS 4223
+2 Region Øst 204416 Jong ungdoms- og familiesenter, avd. Kollen Barnevernsinstitusjoner Vakthold lokaler Insider Facility Solutions AS 4223
+2 Region Øst 204416 Jong ungdoms- og familiesenter, avd Åsen Barnevernsinstitusjoner Renhold lokaler Insider Facility Solutions AS 4223
+2 Region Øst 204416 Jong ungdoms- og familiesenter, avd Åsen Barnevernsinstitusjoner Vakthold lokaler Insider Facility Solutions AS 4223
+2 Region Øst 204416 Multisystemisk terapi-team Sarpsborg Hjelpetiltak i hjemmet Renhold lokaler ISS Facility Services AS 4529,8
+2 Region Øst 204416 Multisystemisk terapi-team Sarpsborg Hjelpetiltak i hjemmet Renhold lokaler Elis Norge AS 239,35
+2 Region Øst 204416 Multisystemisk terapi-team Hamar 2050186 Strandsagvegen 2 D, 2383 Brumunddal Hjelpetiltak i hjemmet Renhold lokaler ISS Facility Services AS 2261,34
+2 Region Øst 204416 Multisystemisk terapi-team Gjøvik 2050162 Øverbyvegen 104, 2825 Gjøvik Hjelpetiltak i hjemmet Renhold lokaler ISS Facility Services AS 5496
+2 Region Øst 204416 MST Nedre Romerike Hjelpetiltak i hjemmet Renhold lokaler HJEM+ AS 2580,36
+2 Region Øst 204416 MST Nedre Romerike 2050110 Torget 6, 2000 Lillestrøm Hjelpetiltak i hjemmet Renhold lokaler HJEM+ AS 2580,36
+2 Region Øst 204416 Multisystemisk terapi Øvre Romerike Hjelpetiltak i hjemmet Renhold lokaler HJEM+ AS 3225,44
+2 Region Øst 204416 Multisystemisk terapi Øvre Romerike 2050110 Torget 6, 2000 Lillestrøm Hjelpetiltak i hjemmet Renhold lokaler HJEM+ AS 3225,44
+2 Region Øst 204416 Multisystemisk terapi-team Sandvika 2050102 Elias Smiths vei 22-24, 1337 Sandvika Hjelpetiltak i hjemmet Renhold lokaler ISS Facility Services AS 2900,34
+2 Region Øst 204416 Regionale kostnader Regionale fellesfunksjoner Leie lokaler andre utleiere Anton Jenssensgate 2 AS 524805
+2 Region Øst 204416 Regionale kostnader Regionale fellesfunksjoner Leie lokaler andre utleiere Anton Jenssensgate 2 AS 25031
+2 Region Øst 204416 Regionale kostnader Regionale fellesfunksjoner Renhold lokaler ISS Facility Services AS 9449,69
+2 Region Øst 204416 Regionale kostnader Regionale fellesfunksjoner Leie parkeringsplass Apcoa Parking AS(15030825141) 116629,92
+2 Region Øst 204416 Regionale kostnader Regionale fellesfunksjoner Fellesutgifter andre utleiere Anton Jenssensgate 2 AS 80713
+2 Region Øst 204416 Regionale kostnader Regionale fellesfunksjoner Reparasjon og vedlikehold leide lokaler Elektro 1 Tønsberg AS 9675
+2 Region Øst 204416 Regionale kostnader Regionale fellesfunksjoner Reparasjon og vedlikehold leide lokaler EIENDOMSCOMPANIET AS 1400,58
+2 Region Øst 204416 Regionale kostnader Regionale fellesfunksjoner Reparasjon og vedlikehold av anlegg, også serviceavtaler Elektro 1 Tønsberg AS 2301,27
+2 Region Øst 204416 Bufetathus Kongsberg, eiendom 31026 Bufetathus Kongsberg Regionale fellesfunksjoner Leie lokaler andre utleiere -26284
+2 Region Øst 204416 Bufetathus Kongsberg, eiendom 31026 Bufetathus Kongsberg Regionale fellesfunksjoner Leie lokaler andre utleiere ElVEBREDDEN AS 26287
+2 Region Øst 204416 Bufetathus Kongsberg, eiendom 31026 Bufetathus Kongsberg Regionale fellesfunksjoner Leie lokaler andre utleiere 26284
+2 Region Øst 204416 Bufetathus Kongsberg, eiendom 31026 Bufetathus Kongsberg Regionale fellesfunksjoner Leie lokaler andre utleiere ElVEBREDDEN AS -26287
+2 Region Øst 204416 Bufetathus Kongsberg, eiendom 31026 Bufetathus Kongsberg Regionale fellesfunksjoner Fellesutgifter andre utleiere -18136
+2 Region Øst 204416 Bufetathus Kongsberg, eiendom 31026 Bufetathus Kongsberg Regionale fellesfunksjoner Fellesutgifter andre utleiere ElVEBREDDEN AS 18136
+2 Region Øst 204416 Bufetathus Kongsberg, eiendom 31026 Bufetathus Kongsberg Regionale fellesfunksjoner Fellesutgifter andre utleiere 18136
+2 Region Øst 204416 Bufetathus Kongsberg, eiendom 31026 Bufetathus Kongsberg Regionale fellesfunksjoner Fellesutgifter andre utleiere ElVEBREDDEN AS -18136
+2 Region Øst 204416 Bufetathus Drammen, eiendom 31020 Bufetathus Drammen Regionale fellesfunksjoner Leie lokaler andre utleiere Grønland 68 AS 301394
+2 Region Øst 204416 Bufetathus Drammen, eiendom 31020 Bufetathus Drammen Regionale fellesfunksjoner Leie lokaler andre utleiere Grønland 68 AS 432611
+2 Region Øst 204416 Bufetathus Drammen, eiendom 31020 Bufetathus Drammen Regionale fellesfunksjoner Leie lokaler andre utleiere Grønland 68 AS -734005
+2 Region Øst 204416 Bufetathus Drammen, eiendom 31020 Bufetathus Drammen Regionale fellesfunksjoner Strøm og oppvarming Grønland 68 AS 63750
+2 Region Øst 204416 Bufetathus Drammen, eiendom 31020 Bufetathus Drammen Regionale fellesfunksjoner Strøm og oppvarming Grønland 68 AS 66250
+2 Region Øst 204416 Bufetathus Drammen, eiendom 31020 Bufetathus Drammen Regionale fellesfunksjoner Strøm og oppvarming Grønland 68 AS -130000
+2 Region Øst 204416 Bufetathus Drammen, eiendom 31020 Bufetathus Drammen Regionale fellesfunksjoner Fellesutgifter andre utleiere Grønland 68 AS 31763
+2 Region Øst 204416 Bufetathus Drammen, eiendom 31020 Bufetathus Drammen Regionale fellesfunksjoner Fellesutgifter andre utleiere Grønland 68 AS 36225
+2 Region Øst 204416 Bufetathus Drammen, eiendom 31020 Bufetathus Drammen Regionale fellesfunksjoner Fellesutgifter andre utleiere Grønland 68 AS -67988
+2 Region Øst 204416 Bufetathus Drammen, tjenestebil 31020 Bufetathus Drammen Regionale fellesfunksjoner Leie parkeringsplass Union Parkering AS 55004
+2 Region Øst 204416 Bufetathus Drammen, tjenestebil 31020 Bufetathus Drammen Regionale fellesfunksjoner Leie parkeringsplass Union Parkering AS -55004
+2 Region Øst 204416 Bufetathus Drammen, tjenestebil 31020 Bufetathus Drammen Regionale fellesfunksjoner Leie parkeringsplass Aimo Park Norway AS -149625
+2 Region Øst 204416 Bufetathus Tønsberg, eiendom Regionale fellesfunksjoner Renhold lokaler ISS Facility Services AS 22010,31
+2 Region Øst 204416 Bufetathus Tønsberg, eiendom Regionale fellesfunksjoner Renhold lokaler ISS Facility Services AS -22010,31
+2 Region Øst 204416 Bufetathus Tønsberg, eiendom 31021 Bufetathus Tønsberg Regionale fellesfunksjoner Leie lokaler andre utleiere Anton Jenssensgate 2 AS 875920,25
+2 Region Øst 204416 Bufetathus Tønsberg, eiendom 31021 Bufetathus Tønsberg Regionale fellesfunksjoner Leie lokaler andre utleiere Anton Jenssensgate 2 AS -875920,25
+2 Region Øst 204416 Bufetathus Tønsberg, eiendom 31021 Bufetathus Tønsberg Regionale fellesfunksjoner Vakthold lokaler Avarn Security AS -9213,5
+2 Region Øst 204416 Bufetathus Tønsberg, eiendom 31021 Bufetathus Tønsberg Regionale fellesfunksjoner Leie parkeringsplass -116629,92
+2 Region Øst 204416 Bufetathus Tønsberg, eiendom 31021 Bufetathus Tønsberg Regionale fellesfunksjoner Leie parkeringsplass Apcoa Parking AS(15030825141) 116629,92
+2 Region Øst 204416 Bufetathus Tønsberg, eiendom 31021 Bufetathus Tønsberg Regionale fellesfunksjoner Leie parkeringsplass 116629,92
+2 Region Øst 204416 Bufetathus Tønsberg, eiendom 31021 Bufetathus Tønsberg Regionale fellesfunksjoner Fellesutgifter andre utleiere Anton Jenssensgate 2 AS 108184,75
+2 Region Øst 204416 Bufetathus Tønsberg, eiendom 31021 Bufetathus Tønsberg Regionale fellesfunksjoner Fellesutgifter andre utleiere Anton Jenssensgate 2 AS -108184,75
+2 Region Øst 204416 Bufetathus Tønsberg, eiendom 31021 Bufetathus Tønsberg Regionale fellesfunksjoner Reparasjon og vedlikehold leide lokaler -463,13
+2 Region Øst 204416 Bufetathus Tønsberg, eiendom 31021 Bufetathus Tønsberg Regionale fellesfunksjoner Reparasjon og vedlikehold leide lokaler EIENDOMSCOMPANIET AS 1400,58
+2 Region Øst 204416 Bufetathus Tønsberg, eiendom 31021 Bufetathus Tønsberg Regionale fellesfunksjoner Reparasjon og vedlikehold leide lokaler 463,13
+2 Region Øst 204416 Bufetathus Tønsberg, eiendom 31021 Bufetathus Tønsberg Regionale fellesfunksjoner Reparasjon og vedlikehold av anlegg, også serviceavtaler -492,72
+2 Region Øst 204416 Bufetathus Tønsberg, eiendom 31021 Bufetathus Tønsberg Regionale fellesfunksjoner Reparasjon og vedlikehold av anlegg, også serviceavtaler Elektro 1 Tønsberg AS 2301,27
+2 Region Øst 204416 Bufetathus Tønsberg, eiendom 31021 Bufetathus Tønsberg Regionale fellesfunksjoner Reparasjon og vedlikehold av anlegg, også serviceavtaler 492,72
+2 Region Øst 204416 Bufetathus Skien, eiendom Regionale fellesfunksjoner Leie lokaler andre utleiere Kontorbygg AS 204250
+2 Region Øst 204416 Bufetathus Skien, eiendom Regionale fellesfunksjoner Leie lokaler andre utleiere Kontorbygg AS -204250
+2 Region Øst 204416 Bufetathus Skien, eiendom Regionale fellesfunksjoner Renhold lokaler -1111,2
+2 Region Øst 204416 Bufetathus Skien, eiendom Regionale fellesfunksjoner Renhold lokaler ISS Facility Services AS 4199,28
+2 Region Øst 204416 Bufetathus Skien, eiendom Regionale fellesfunksjoner Renhold lokaler ISS Facility Services AS 47889,74
+2 Region Øst 204416 Bufetathus Skien, eiendom Regionale fellesfunksjoner Renhold lokaler 1111,2
+2 Region Øst 204416 Bufetathus Skien, eiendom Regionale fellesfunksjoner Renhold lokaler ISS Facility Services AS -48694,49
+2 Region Øst 204416 Bufetathus Skien, eiendom Regionale fellesfunksjoner Fellesutgifter andre utleiere Kontorbygg AS 21000
+2 Region Øst 204416 Bufetathus Skien, eiendom Regionale fellesfunksjoner Fellesutgifter andre utleiere Kontorbygg AS -21000
+2 Region Øst 204416 Bufetathus Arendal, eiendom Regionale fellesfunksjoner Leie lokaler andre utleiere LANGSÆVEIEN 6 AS 402302
+2 Region Øst 204416 Bufetathus Arendal, eiendom Regionale fellesfunksjoner Leie lokaler andre utleiere LANGSÆVEIEN 6 AS -402302
+2 Region Øst 204416 Bufetathus Arendal, eiendom Regionale fellesfunksjoner Renovasjon, vann, avløp o.l. -1627,25
+2 Region Øst 204416 Bufetathus Arendal, eiendom Regionale fellesfunksjoner Renovasjon, vann, avløp o.l. Agder Renovasjon Næring AS 3976,88
+2 Region Øst 204416 Bufetathus Arendal, eiendom Regionale fellesfunksjoner Renovasjon, vann, avløp o.l. NG SECURE AS (15060314648) 808,38
+2 Region Øst 204416 Bufetathus Arendal, eiendom Regionale fellesfunksjoner Renovasjon, vann, avløp o.l. 1627,25
+2 Region Øst 204416 Bufetathus Arendal, eiendom Regionale fellesfunksjoner Renovasjon, vann, avløp o.l. Agder Renovasjon Næring AS -3976,88
+2 Region Øst 204416 Bufetathus Arendal, eiendom Regionale fellesfunksjoner Renovasjon, vann, avløp o.l. NG SECURE AS (15060314648) -839,1
+2 Region Øst 204416 Bufetathus Arendal, eiendom Regionale fellesfunksjoner Renhold lokaler ISS Facility Services AS 15997,5
+2 Region Øst 204416 Bufetathus Arendal, eiendom Regionale fellesfunksjoner Renhold lokaler ISS Facility Services AS 6642,34
+2 Region Øst 204416 Bufetathus Arendal, eiendom Regionale fellesfunksjoner Renhold lokaler ISS Facility Services AS -6642,34
+2 Region Øst 204416 Bufetathus Arendal, eiendom Regionale fellesfunksjoner Vakthold lokaler Låssenteret AS 1133,37
+2 Region Øst 204416 Bufetathus Arendal, eiendom Regionale fellesfunksjoner Vakthold lokaler Låssenteret AS -1133,37
+2 Region Øst 204416 Bufetathus Arendal, eiendom Regionale fellesfunksjoner Fellesutgifter andre utleiere LANGSÆVEIEN 6 AS 82500
+2 Region Øst 204416 Bufetathus Arendal, eiendom Regionale fellesfunksjoner Fellesutgifter andre utleiere LANGSÆVEIEN 6 AS -82500
+2 Region Øst 204416 Bufetathus Arendal, eiendom 31023 Bufetathus Arendal Regionale fellesfunksjoner Renhold lokaler -15997,5
+2 Region Øst 204416 Bufetathus Arendal, eiendom 31023 Bufetathus Arendal Regionale fellesfunksjoner Renhold lokaler 15997,5
+2 Region Øst 204416 Bufetathus Kristiansand, eiendom Regionale fellesfunksjoner Leie lokaler andre utleiere Kvartal 71 AS, Oslo 916226
+2 Region Øst 204416 Bufetathus Kristiansand, eiendom Regionale fellesfunksjoner Leie lokaler andre utleiere Kvartal 71 AS, Oslo -916226
+2 Region Øst 204416 Bufetathus Kristiansand, eiendom Regionale fellesfunksjoner Renovasjon, vann, avløp o.l. -2301,27
+2 Region Øst 204416 Bufetathus Kristiansand, eiendom Regionale fellesfunksjoner Renovasjon, vann, avløp o.l. NG SECURE AS (15060314648) 338,5
+2 Region Øst 204416 Bufetathus Kristiansand, eiendom Regionale fellesfunksjoner Renovasjon, vann, avløp o.l. 2301,27
+2 Region Øst 204416 Bufetathus Kristiansand, eiendom Regionale fellesfunksjoner Strøm og oppvarming Kvartal 71 AS, Oslo 137656
+2 Region Øst 204416 Bufetathus Kristiansand, eiendom Regionale fellesfunksjoner Strøm og oppvarming Kvartal 71 AS, Oslo -49199,62
+2 Region Øst 204416 Bufetathus Kristiansand, eiendom Regionale fellesfunksjoner Annen kostnad lokaler Kvartal 71 AS, Oslo 18739
+2 Region Øst 204416 Bufetathus Kristiansand, eiendom Regionale fellesfunksjoner Annen kostnad lokaler Kvartal 71 AS, Oslo -18739
+2 Region Øst 204416 Bufetathus Kristiansand, eiendom Regionale fellesfunksjoner Annen kostnad lokaler NG SECURE AS (15060314648) -53,75
+2 Region Øst 204416 Bufetathus Kristiansand, eiendom Regionale fellesfunksjoner Fellesutgifter andre utleiere Kvartal 71 AS, Oslo 147138
+2 Region Øst 204416 Bufetathus Kristiansand, eiendom Regionale fellesfunksjoner Fellesutgifter andre utleiere Kvartal 71 AS, Oslo -144173,38
+2 Region Øst 204416 Bufetathus Kristiansand, tjenestebil Regionale fellesfunksjoner Leie parkeringsplass Aimo Park Norway AS 175980
+2 Region Øst 204416 Bufetathus Kristiansand, tjenestebil Regionale fellesfunksjoner Leie parkeringsplass Aimo Park Norway AS -175980
+2 Region Øst 204416 Prosjekt Care Inntak Renovasjon, vann, avløp o.l. -1541,87
+2 Region Øst 204416 Prosjekt Care Inntak Renovasjon, vann, avløp o.l. Sikkerhetsmakulering AS 1541,87
+2 Region Øst 204416 Prosjekt Care Inntak Renhold lokaler -4630,32
+2 Region Øst 204416 Prosjekt Care Inntak Renhold lokaler ISS Facility Services AS 3903,52
+2 Region Øst 204416 Prosjekt Care Inntak Renhold lokaler Elis Norge AS 726,8
+2 Region Øst 204416 Prosjekt Care Inntak Vakthold lokaler -936
+2 Region Øst 204416 Prosjekt Care Inntak Vakthold lokaler Securitas AS 936
+2 Region Øst 204416 Prosjekt Care Inntak Annen kostnad lokaler -315
+2 Region Øst 204416 Prosjekt Care Inntak Annen kostnad lokaler Clas Ohlson AS 315
+2 Region Øst 204416 Prosjekt Care 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Renovasjon, vann, avløp o.l. 1541,87
+2 Region Øst 204416 Prosjekt Care 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Renhold lokaler 4630,32
+2 Region Øst 204416 Prosjekt Care 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Vakthold lokaler 936
+2 Region Øst 204416 Prosjekt Care 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Annen kostnad lokaler 315
+2 Region Øst 204416 Sundstedtråkka Barnevernsinstitusjoner Leie lokaler andre utleiere Sameiet Sundet ANS v/ Astrid Ramstad 141640
+2 Region Øst 204416 Sundstedtråkka Barnevernsinstitusjoner Renhold lokaler Tor Eriksen Rengjøring AS 7500
+2 Region Øst 204416 Sundstedtråkka Barnevernsinstitusjoner Vakthold lokaler Sotera AS 422,5
+2 Region Øst 204416 Sundstedtråkka Barnevernsinstitusjoner Vaktmestertjenester Eivind Moen AS 16870,5
+2 Region Øst 204416 Sundstedtråkka Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Løvenskiold Handel AS 427,35
+2 Region Øst 204416 Sundstedtråkka Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Svein Eide Aut Rørleggermester AS 2655
+2 Region Øst 204416 Sundstedtråkka Barnevernsinstitusjoner Reparasjon og vedlikehold av anlegg, også serviceavtaler Honeywell Life Safety AS 9769,56
+2 Region Øst 204416 Kantum Barnevernsinstitusjoner Leie lokaler andre utleiere Eiker Eiendomsutvikling as 33292
+2 Region Øst 204416 Kantum Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Eiker Eiendomsutvikling as 2000
+2 Region Øst 204416 Kantum Barnevernsinstitusjoner Vaktmestertjenester Eivind Moen AS 9709,5
+2 Region Øst 204416 Kantum Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Løvenskiold Handel AS 1390
+2 Region Øst 204416 Klokkerhuset ungdomssenter akutt 31022 Bufetathus Skien Barnevernsinstitusjoner Leie lokaler andre utleiere Kontorbygg AS 7046,63
+2 Region Øst 204416 Klokkerhuset ungdomssenter akutt 31022 Bufetathus Skien Barnevernsinstitusjoner Renhold lokaler -38,34
+2 Region Øst 204416 Klokkerhuset ungdomssenter akutt 31022 Bufetathus Skien Barnevernsinstitusjoner Renhold lokaler ISS Facility Services AS 1679,96
+2 Region Øst 204416 Klokkerhuset ungdomssenter akutt 31022 Bufetathus Skien Barnevernsinstitusjoner Fellesutgifter andre utleiere Kontorbygg AS 724,5
+2 Region Øst 204416 Klokkerhuset us. beredskapshjem 31022 Bufetathus Skien Fosterhjem Leie lokaler andre utleiere Kontorbygg AS 14093,25
+2 Region Øst 204416 Klokkerhuset us. beredskapshjem 31022 Bufetathus Skien Fosterhjem Renhold lokaler -76,67
+2 Region Øst 204416 Klokkerhuset us. beredskapshjem 31022 Bufetathus Skien Fosterhjem Renhold lokaler ISS Facility Services AS 3359,92
+2 Region Øst 204416 Klokkerhuset us. beredskapshjem 31022 Bufetathus Skien Fosterhjem Fellesutgifter andre utleiere Kontorbygg AS 1449
+2 Region Øst 204416 Klokkerhuset us. beredskapshjem 31023 Bufetathus Arendal Fosterhjem Leie lokaler andre utleiere LANGSÆVEIEN 6 AS 71046,53
+2 Region Øst 204416 Klokkerhuset us. beredskapshjem 31023 Bufetathus Arendal Fosterhjem Renovasjon, vann, avløp o.l. -287,37
+2 Region Øst 204416 Klokkerhuset us. beredskapshjem 31023 Bufetathus Arendal Fosterhjem Renovasjon, vann, avløp o.l. Agder Renovasjon Næring AS 702,32
+2 Region Øst 204416 Klokkerhuset us. beredskapshjem 31023 Bufetathus Arendal Fosterhjem Renovasjon, vann, avløp o.l. NG SECURE AS (15060314648) 148,19
+2 Region Øst 204416 Klokkerhuset us. beredskapshjem 31023 Bufetathus Arendal Fosterhjem Renhold lokaler 2823,56
+2 Region Øst 204416 Klokkerhuset us. beredskapshjem 31023 Bufetathus Arendal Fosterhjem Renhold lokaler Elis Norge AS 373,83
+2 Region Øst 204416 Klokkerhuset us. beredskapshjem 31023 Bufetathus Arendal Fosterhjem Renhold lokaler -2825,16
+2 Region Øst 204416 Klokkerhuset us. beredskapshjem 31023 Bufetathus Arendal Fosterhjem Renhold lokaler ISS Facility Services AS 1173,04
+2 Region Øst 204416 Klokkerhuset us. beredskapshjem 31023 Bufetathus Arendal Fosterhjem Vakthold lokaler Låssenteret AS 200,15
+2 Region Øst 204416 Klokkerhuset us. beredskapshjem 31023 Bufetathus Arendal Fosterhjem Fellesutgifter andre utleiere LANGSÆVEIEN 6 AS 14569,5
+2 Region Øst 204416 Klokkerhuset us. beredskapshjem 31024 Bufetathus Kristiansand Fosterhjem Leie lokaler andre utleiere Kvartal 71 AS, Oslo 23455,39
+2 Region Øst 204416 Klokkerhuset us. beredskapshjem 31024 Bufetathus Kristiansand Fosterhjem Renovasjon, vann, avløp o.l. -58,91
+2 Region Øst 204416 Klokkerhuset us. beredskapshjem 31024 Bufetathus Kristiansand Fosterhjem Strøm og oppvarming Kvartal 71 AS, Oslo 1259,51
+2 Region Øst 204416 Klokkerhuset us. beredskapshjem 31024 Bufetathus Kristiansand Fosterhjem Renhold lokaler ISS Facility Services AS 366,84
+2 Region Øst 204416 Klokkerhuset us. beredskapshjem 31024 Bufetathus Kristiansand Fosterhjem Annen kostnad lokaler ISS Facility Services AS 170,88
+2 Region Øst 204416 Klokkerhuset us. beredskapshjem 31024 Bufetathus Kristiansand Fosterhjem Annen kostnad lokaler Kvartal 71 AS, Oslo 479,72
+2 Region Øst 204416 Klokkerhuset us. beredskapshjem 31024 Bufetathus Kristiansand Fosterhjem Annen kostnad lokaler NG SECURE AS (15060314648) 1,38
+2 Region Øst 204416 Klokkerhuset us. beredskapshjem 31024 Bufetathus Kristiansand Fosterhjem Leie parkeringsplass Aimo Park Norway AS 5173,81
+2 Region Øst 204416 Klokkerhuset us. beredskapshjem 31024 Bufetathus Kristiansand Fosterhjem Fellesutgifter andre utleiere Kvartal 71 AS, Oslo 3690,84
+2 Region Øst 204416 Klokkerhuset Barnevernsinstitusjoner Renhold lokaler Europris Butikkdrift AS 705,18
+2 Region Øst 204416 Klokkerhuset Barnevernsinstitusjoner Vaktmestertjenester Sykehuset Telemark HF 68680,88
+2 Region Øst 204416 Klokkerhuset Barnevernsinstitusjoner Annen kostnad lokaler MAGNUS VELKOM AS 662,25
+2 Region Øst 204416 Klokkerhuset Barnevernsinstitusjoner Fellesutgifter andre utleiere Sykehuset Telemark HF 65982,38
+2 Region Øst 204416 Klokkerhuset Barnevernsinstitusjoner Fellesutgifter andre utleiere Sykehuset Telemark HF -65982,38
+2 Region Øst 204416 Spisskompetansemiljø for akuttarbeid 31022 Bufetathus Skien Fosterhjem Leie lokaler andre utleiere Kontorbygg AS 35212,7
+2 Region Øst 204416 Spisskompetansemiljø for akuttarbeid 31022 Bufetathus Skien Fosterhjem Renhold lokaler -191,57
+2 Region Øst 204416 Spisskompetansemiljø for akuttarbeid 31022 Bufetathus Skien Fosterhjem Renhold lokaler ISS Facility Services AS 8394,93
+2 Region Øst 204416 Spisskompetansemiljø for akuttarbeid 31022 Bufetathus Skien Fosterhjem Fellesutgifter andre utleiere Kontorbygg AS 3620,4
+2 Region Øst 204416 Enhet for inntak i Bufetat, region sør Inntak Reparasjon og vedlikehold av anlegg, også serviceavtaler Konica Minolta Solutions Norway as 3994,8
+2 Region Øst 204416 Enhet for inntak i Bufetat, region sør Inntak Reparasjon og vedlikehold av anlegg, også serviceavtaler Konica Minolta Solutions Norway as -3994,8
+2 Region Øst 204416 Enhet for inntak i Bufetat, region sør 31020 Bufetathus Drammen Inntak Leie lokaler andre utleiere Grønland 68 AS 266957,62
+2 Region Øst 204416 Enhet for inntak i Bufetat, region sør 31020 Bufetathus Drammen Inntak Strøm og oppvarming Grønland 68 AS 47281,01
+2 Region Øst 204416 Enhet for inntak i Bufetat, region sør 31020 Bufetathus Drammen Inntak Renhold lokaler ISS Facility Services AS 5219,11
+2 Region Øst 204416 Enhet for inntak i Bufetat, region sør 31020 Bufetathus Drammen Inntak Renhold lokaler Elis Norge AS 833,01
+2 Region Øst 204416 Enhet for inntak i Bufetat, region sør 31020 Bufetathus Drammen Inntak Renhold lokaler Elis Norge AS 894,09
+2 Region Øst 204416 Enhet for inntak i Bufetat, region sør 31020 Bufetathus Drammen Inntak Leie parkeringsplass Union Parkering AS 20863,02
+2 Region Øst 204416 Enhet for inntak i Bufetat, region sør 31020 Bufetathus Drammen Inntak Leie parkeringsplass Aimo Park Norway AS 56752,76
+2 Region Øst 204416 Enhet for inntak i Bufetat, region sør 31020 Bufetathus Drammen Inntak Fellesutgifter andre utleiere Grønland 68 AS 24727,23
+2 Region Øst 204416 Enhet for inntak i Bufetat, region sør 31021 Bufetathus Tønsberg Inntak Leie lokaler andre utleiere Anton Jenssensgate 2 AS 2038,72
+2 Region Øst 204416 Enhet for inntak i Bufetat, region sør 31021 Bufetathus Tønsberg Inntak Leie lokaler andre utleiere Anton Jenssensgate 2 AS 258834,43
+2 Region Øst 204416 Enhet for inntak i Bufetat, region sør 31021 Bufetathus Tønsberg Inntak Renhold lokaler ISS Facility Services AS 6504,05
+2 Region Øst 204416 Enhet for inntak i Bufetat, region sør 31021 Bufetathus Tønsberg Inntak Vakthold lokaler Avarn Security AS 2722,59
+2 Region Øst 204416 Enhet for inntak i Bufetat, region sør 31021 Bufetathus Tønsberg Inntak Leie parkeringsplass 34464,14
+2 Region Øst 204416 Enhet for inntak i Bufetat, region sør 31021 Bufetathus Tønsberg Inntak Leie parkeringsplass -34464,14
+2 Region Øst 204416 Enhet for inntak i Bufetat, region sør 31021 Bufetathus Tønsberg Inntak Fellesutgifter andre utleiere Anton Jenssensgate 2 AS 31968,59
+2 Region Øst 204416 Enhet for inntak i Bufetat, region sør 31021 Bufetathus Tønsberg Inntak Reparasjon og vedlikehold leide lokaler -136,85
+2 Region Øst 204416 Enhet for inntak i Bufetat, region sør 31021 Bufetathus Tønsberg Inntak Reparasjon og vedlikehold av anlegg, også serviceavtaler -145,6
+2 Region Øst 204416 Enhet for inntak i Bufetat, region sør 31022 Bufetathus Skien Inntak Leie lokaler andre utleiere Kontorbygg AS 63378,78
+2 Region Øst 204416 Enhet for inntak i Bufetat, region sør 31022 Bufetathus Skien Inntak Renovasjon, vann, avløp o.l. 808,38
+2 Region Øst 204416 Enhet for inntak i Bufetat, region sør 31022 Bufetathus Skien Inntak Renhold lokaler -344,81
+2 Region Øst 204416 Enhet for inntak i Bufetat, region sør 31022 Bufetathus Skien Inntak Renhold lokaler ISS Facility Services AS 15109,9
+2 Region Øst 204416 Enhet for inntak i Bufetat, region sør 31022 Bufetathus Skien Inntak Fellesutgifter andre utleiere Kontorbygg AS 6516,3
+2 Region Øst 204416 Enhet for inntak i Bufetat, region sør 31022 Bufetathus Skien Inntak Reparasjon og vedlikehold leide lokaler 1400,58
+2 Region Øst 204416 Enhet for inntak i Bufetat, region sør 31024 Bufetathus Kristiansand Inntak Leie lokaler andre utleiere Kvartal 71 AS, Oslo 94004,79
+2 Region Øst 204416 Enhet for inntak i Bufetat, region sør 31024 Bufetathus Kristiansand Inntak Renovasjon, vann, avløp o.l. -236,11
+2 Region Øst 204416 Enhet for inntak i Bufetat, region sør 31024 Bufetathus Kristiansand Inntak Strøm og oppvarming Kvartal 71 AS, Oslo 5047,89
+2 Region Øst 204416 Enhet for inntak i Bufetat, region sør 31024 Bufetathus Kristiansand Inntak Renhold lokaler ISS Facility Services AS 1470,24
+2 Region Øst 204416 Enhet for inntak i Bufetat, region sør 31024 Bufetathus Kristiansand Inntak Annen kostnad lokaler ISS Facility Services AS 684,86
+2 Region Øst 204416 Enhet for inntak i Bufetat, region sør 31024 Bufetathus Kristiansand Inntak Annen kostnad lokaler Kvartal 71 AS, Oslo 1922,62
+2 Region Øst 204416 Enhet for inntak i Bufetat, region sør 31024 Bufetathus Kristiansand Inntak Annen kostnad lokaler NG SECURE AS (15060314648) 5,51
+2 Region Øst 204416 Enhet for inntak i Bufetat, region sør 31024 Bufetathus Kristiansand Inntak Leie parkeringsplass Aimo Park Norway AS 20695,25
+2 Region Øst 204416 Enhet for inntak i Bufetat, region sør 31024 Bufetathus Kristiansand Inntak Fellesutgifter andre utleiere Kvartal 71 AS, Oslo 14792,19
+2 Region Øst 204416 Inntak Vestfold 31021 Bufetathus Tønsberg Inntak Leie lokaler andre utleiere Anton Jenssensgate 2 AS 11208,77
+2 Region Øst 204416 Fosterhjemstjenesten i Bufetat, region sør 31020 Bufetathus Drammen Fosterhjemstjenesten Leie lokaler andre utleiere Grønland 68 AS 177922,82
+2 Region Øst 204416 Fosterhjemstjenesten i Bufetat, region sør 31020 Bufetathus Drammen Fosterhjemstjenesten Strøm og oppvarming Grønland 68 AS 31512
+2 Region Øst 204416 Fosterhjemstjenesten i Bufetat, region sør 31020 Bufetathus Drammen Fosterhjemstjenesten Renhold lokaler ISS Facility Services AS 3479,41
+2 Region Øst 204416 Fosterhjemstjenesten i Bufetat, region sør 31020 Bufetathus Drammen Fosterhjemstjenesten Renhold lokaler Elis Norge AS 555,34
+2 Region Øst 204416 Fosterhjemstjenesten i Bufetat, region sør 31020 Bufetathus Drammen Fosterhjemstjenesten Renhold lokaler Elis Norge AS 596,06
+2 Region Øst 204416 Fosterhjemstjenesten i Bufetat, region sør 31020 Bufetathus Drammen Fosterhjemstjenesten Leie parkeringsplass Union Parkering AS 15175,6
+2 Region Øst 204416 Fosterhjemstjenesten i Bufetat, region sør 31020 Bufetathus Drammen Fosterhjemstjenesten Leie parkeringsplass Aimo Park Norway AS 41281,54
+2 Region Øst 204416 Fosterhjemstjenesten i Bufetat, region sør 31020 Bufetathus Drammen Fosterhjemstjenesten Fellesutgifter andre utleiere Grønland 68 AS 16480,29
+2 Region Øst 204416 Fosterhjemstjenesten i Bufetat, region sør 31021 Bufetathus Tønsberg Fosterhjemstjenesten Leie lokaler andre utleiere 10189,41
+2 Region Øst 204416 Fosterhjemstjenesten i Bufetat, region sør 31021 Bufetathus Tønsberg Fosterhjemstjenesten Leie lokaler andre utleiere Anton Jenssensgate 2 AS 139358,91
+2 Region Øst 204416 Fosterhjemstjenesten i Bufetat, region sør 31021 Bufetathus Tønsberg Fosterhjemstjenesten Renhold lokaler ISS Facility Services AS 3501,84
+2 Region Øst 204416 Fosterhjemstjenesten i Bufetat, region sør 31021 Bufetathus Tønsberg Fosterhjemstjenesten Vakthold lokaler Avarn Security AS 1465,87
+2 Region Øst 204416 Fosterhjemstjenesten i Bufetat, region sør 31021 Bufetathus Tønsberg Fosterhjemstjenesten Leie parkeringsplass 18555,82
+2 Region Øst 204416 Fosterhjemstjenesten i Bufetat, region sør 31021 Bufetathus Tønsberg Fosterhjemstjenesten Leie parkeringsplass -18555,82
+2 Region Øst 204416 Fosterhjemstjenesten i Bufetat, region sør 31021 Bufetathus Tønsberg Fosterhjemstjenesten Fellesutgifter andre utleiere Anton Jenssensgate 2 AS 17212,19
+2 Region Øst 204416 Fosterhjemstjenesten i Bufetat, region sør 31021 Bufetathus Tønsberg Fosterhjemstjenesten Reparasjon og vedlikehold leide lokaler -73,68
+2 Region Øst 204416 Fosterhjemstjenesten i Bufetat, region sør 31021 Bufetathus Tønsberg Fosterhjemstjenesten Reparasjon og vedlikehold av anlegg, også serviceavtaler -78,39
+2 Region Øst 204416 Fosterhjemstjenesten i Bufetat, region sør 31022 Bufetathus Skien Fosterhjemstjenesten Leie lokaler andre utleiere Kontorbygg AS 56352,58
+2 Region Øst 204416 Fosterhjemstjenesten i Bufetat, region sør 31022 Bufetathus Skien Fosterhjemstjenesten Renhold lokaler -306,58
+2 Region Øst 204416 Fosterhjemstjenesten i Bufetat, region sør 31022 Bufetathus Skien Fosterhjemstjenesten Renhold lokaler ISS Facility Services AS 13434,81
+2 Region Øst 204416 Fosterhjemstjenesten i Bufetat, region sør 31022 Bufetathus Skien Fosterhjemstjenesten Fellesutgifter andre utleiere Kontorbygg AS 5793,9
+2 Region Øst 204416 Fosterhjemstjenesten i Bufetat, region sør 31023 Bufetathus Arendal Fosterhjemstjenesten Leie lokaler andre utleiere LANGSÆVEIEN 6 AS 142012,61
+2 Region Øst 204416 Fosterhjemstjenesten i Bufetat, region sør 31023 Bufetathus Arendal Fosterhjemstjenesten Renovasjon, vann, avløp o.l. -574,42
+2 Region Øst 204416 Fosterhjemstjenesten i Bufetat, region sør 31023 Bufetathus Arendal Fosterhjemstjenesten Renovasjon, vann, avløp o.l. Agder Renovasjon Næring AS 1403,84
+2 Region Øst 204416 Fosterhjemstjenesten i Bufetat, region sør 31023 Bufetathus Arendal Fosterhjemstjenesten Renovasjon, vann, avløp o.l. NG SECURE AS (15060314648) 296,2
+2 Region Øst 204416 Fosterhjemstjenesten i Bufetat, region sør 31023 Bufetathus Arendal Fosterhjemstjenesten Renhold lokaler 5645,52
+2 Region Øst 204416 Fosterhjemstjenesten i Bufetat, region sør 31023 Bufetathus Arendal Fosterhjemstjenesten Renhold lokaler Elis Norge AS 747,44
+2 Region Øst 204416 Fosterhjemstjenesten i Bufetat, region sør 31023 Bufetathus Arendal Fosterhjemstjenesten Renhold lokaler -5647,12
+2 Region Øst 204416 Fosterhjemstjenesten i Bufetat, region sør 31023 Bufetathus Arendal Fosterhjemstjenesten Renhold lokaler ISS Facility Services AS 2344,75
+2 Region Øst 204416 Fosterhjemstjenesten i Bufetat, region sør 31023 Bufetathus Arendal Fosterhjemstjenesten Vakthold lokaler Låssenteret AS 400,08
+2 Region Øst 204416 Fosterhjemstjenesten i Bufetat, region sør 31023 Bufetathus Arendal Fosterhjemstjenesten Fellesutgifter andre utleiere LANGSÆVEIEN 6 AS 29122,5
+2 Region Øst 204416 Fosterhjemstjenesten i Bufetat, region sør 31024 Bufetathus Kristiansand Fosterhjemstjenesten Leie lokaler andre utleiere Kvartal 71 AS, Oslo 188009,58
+2 Region Øst 204416 Fosterhjemstjenesten i Bufetat, region sør 31024 Bufetathus Kristiansand Fosterhjemstjenesten Renovasjon, vann, avløp o.l. -472,22
+2 Region Øst 204416 Fosterhjemstjenesten i Bufetat, region sør 31024 Bufetathus Kristiansand Fosterhjemstjenesten Strøm og oppvarming Kvartal 71 AS, Oslo 10095,76
+2 Region Øst 204416 Fosterhjemstjenesten i Bufetat, region sør 31024 Bufetathus Kristiansand Fosterhjemstjenesten Renhold lokaler ISS Facility Services AS 2940,48
+2 Region Øst 204416 Fosterhjemstjenesten i Bufetat, region sør 31024 Bufetathus Kristiansand Fosterhjemstjenesten Annen kostnad lokaler ISS Facility Services AS 1369,71
+2 Region Øst 204416 Fosterhjemstjenesten i Bufetat, region sør 31024 Bufetathus Kristiansand Fosterhjemstjenesten Annen kostnad lokaler Kvartal 71 AS, Oslo 3845,24
+2 Region Øst 204416 Fosterhjemstjenesten i Bufetat, region sør 31024 Bufetathus Kristiansand Fosterhjemstjenesten Annen kostnad lokaler NG SECURE AS (15060314648) 11,03
+2 Region Øst 204416 Fosterhjemstjenesten i Bufetat, region sør 31024 Bufetathus Kristiansand Fosterhjemstjenesten Leie parkeringsplass Aimo Park Norway AS 41425,69
+2 Region Øst 204416 Fosterhjemstjenesten i Bufetat, region sør 31024 Bufetathus Kristiansand Fosterhjemstjenesten Fellesutgifter andre utleiere Kvartal 71 AS, Oslo 29584,38
+2 Region Øst 204416 Fosterhjemstjenesten i Bufetat, region sør 31024 Bufetathus Kristiansand Fosterhjemstjenesten Reparasjon og vedlikehold av anlegg, også serviceavtaler 2301,27
+2 Region Øst 204416 Fosterhjemstjenesten i Bufetat, region sør 31026 Bufetathus Kongsberg Fosterhjemstjenesten Leie lokaler andre utleiere 16427,5
+2 Region Øst 204416 Fosterhjemstjenesten i Bufetat, region sør 31026 Bufetathus Kongsberg Fosterhjemstjenesten Leie lokaler andre utleiere 198018,13
+2 Region Øst 204416 Fosterhjemstjenesten i Bufetat, region sør 31026 Bufetathus Kongsberg Fosterhjemstjenesten Fellesutgifter andre utleiere 11335
+2 Region Øst 204416 Fosterhjemstjenesten i Bufetat, region sør 31026 Bufetathus Kongsberg Fosterhjemstjenesten Fellesutgifter andre utleiere 85551,25
+2 Region Øst 204416 Fosterhjemstjenesten Bufetat region SØR, avdeling Buskerud 31026 Bufetathus Kongsberg Fosterhjemstjenesten Leie lokaler andre utleiere -176030,19
+2 Region Øst 204416 Fosterhjemstjenesten Bufetat region SØR, avdeling Buskerud 31026 Bufetathus Kongsberg Fosterhjemstjenesten Leie lokaler andre utleiere ElVEBREDDEN AS 176030,19
+2 Region Øst 204416 Fosterhjemstjenesten Bufetat region SØR, avdeling Buskerud 31026 Bufetathus Kongsberg Fosterhjemstjenesten Leie lokaler andre utleiere -14603,39
+2 Region Øst 204416 Fosterhjemstjenesten Bufetat region SØR, avdeling Buskerud 31026 Bufetathus Kongsberg Fosterhjemstjenesten Leie lokaler andre utleiere ElVEBREDDEN AS 14605,06
+2 Region Øst 204416 Fosterhjemstjenesten Bufetat region SØR, avdeling Buskerud 31026 Bufetathus Kongsberg Fosterhjemstjenesten Fellesutgifter andre utleiere -76051,64
+2 Region Øst 204416 Fosterhjemstjenesten Bufetat region SØR, avdeling Buskerud 31026 Bufetathus Kongsberg Fosterhjemstjenesten Fellesutgifter andre utleiere ElVEBREDDEN AS 76051,64
+2 Region Øst 204416 Fosterhjemstjenesten Bufetat region SØR, avdeling Buskerud 31026 Bufetathus Kongsberg Fosterhjemstjenesten Fellesutgifter andre utleiere -10076,36
+2 Region Øst 204416 Fosterhjemstjenesten Bufetat region SØR, avdeling Buskerud 31026 Bufetathus Kongsberg Fosterhjemstjenesten Fellesutgifter andre utleiere ElVEBREDDEN AS 10076,36
+2 Region Øst 204416 Fosterhjemstjenesten Bufetat region SØR, avdeling Vestfold 31021 Bufetathus Tønsberg Fosterhjemstjenesten Leie lokaler andre utleiere -10189,41
+2 Region Øst 204416 Fosterhjemstjenesten Bufetat region SØR, avdeling Vestfold 31021 Bufetathus Tønsberg Fosterhjemstjenesten Leie lokaler andre utleiere Anton Jenssensgate 2 AS 10189,41
+2 Region Øst 204416 Fosterhjemstjenesten Bufetat region SØR, avdeling Telemark Fosterhjemstjenesten Annen kostnad lokaler NORGESGRUPPEN FINANS AS 3
+2 Region Øst 204416 SKM opplæring fosterhjem 31020 Bufetathus Drammen Fosterhjemstjenesten Leie lokaler andre utleiere Grønland 68 AS 66721,05
+2 Region Øst 204416 SKM opplæring fosterhjem 31020 Bufetathus Drammen Fosterhjemstjenesten Strøm og oppvarming Grønland 68 AS 11817,01
+2 Region Øst 204416 SKM opplæring fosterhjem 31020 Bufetathus Drammen Fosterhjemstjenesten Renhold lokaler ISS Facility Services AS 1306,21
+2 Region Øst 204416 SKM opplæring fosterhjem 31020 Bufetathus Drammen Fosterhjemstjenesten Renhold lokaler Elis Norge AS 208,48
+2 Region Øst 204416 SKM opplæring fosterhjem 31020 Bufetathus Drammen Fosterhjemstjenesten Renhold lokaler Elis Norge AS 223,77
+2 Region Øst 204416 SKM opplæring fosterhjem 31020 Bufetathus Drammen Fosterhjemstjenesten Leie parkeringsplass Union Parkering AS 5687,41
+2 Region Øst 204416 SKM opplæring fosterhjem 31020 Bufetathus Drammen Fosterhjemstjenesten Leie parkeringsplass Aimo Park Norway AS 15471,23
+2 Region Øst 204416 SKM opplæring fosterhjem 31020 Bufetathus Drammen Fosterhjemstjenesten Fellesutgifter andre utleiere Grønland 68 AS 6180,11
+2 Region Øst 204416 SKM opplæring fosterhjem 31024 Bufetathus Kristiansand Fosterhjemstjenesten Leie lokaler andre utleiere Kvartal 71 AS, Oslo 94096,41
+2 Region Øst 204416 SKM opplæring fosterhjem 31024 Bufetathus Kristiansand Fosterhjemstjenesten Renovasjon, vann, avløp o.l. -236,34
+2 Region Øst 204416 SKM opplæring fosterhjem 31024 Bufetathus Kristiansand Fosterhjemstjenesten Strøm og oppvarming Kvartal 71 AS, Oslo 5052,8
+2 Region Øst 204416 SKM opplæring fosterhjem 31024 Bufetathus Kristiansand Fosterhjemstjenesten Renhold lokaler ISS Facility Services AS 1470,24
+2 Region Øst 204416 SKM opplæring fosterhjem 31024 Bufetathus Kristiansand Fosterhjemstjenesten Annen kostnad lokaler ISS Facility Services AS 684,86
+2 Region Øst 204416 SKM opplæring fosterhjem 31024 Bufetathus Kristiansand Fosterhjemstjenesten Annen kostnad lokaler Kvartal 71 AS, Oslo 1924,5
+2 Region Øst 204416 SKM opplæring fosterhjem 31024 Bufetathus Kristiansand Fosterhjemstjenesten Annen kostnad lokaler NG SECURE AS (15060314648) 5,52
+2 Region Øst 204416 SKM opplæring fosterhjem 31024 Bufetathus Kristiansand Fosterhjemstjenesten Leie parkeringsplass Aimo Park Norway AS 20695,25
+2 Region Øst 204416 SKM opplæring fosterhjem 31024 Bufetathus Kristiansand Fosterhjemstjenesten Fellesutgifter andre utleiere Kvartal 71 AS, Oslo 14806,6
+2 Region Øst 204416 Familieråd i Fosterhjemstjenesten 31024 Bufetathus Kristiansand Hjelpetiltak i hjemmet Leie lokaler andre utleiere Kvartal 71 AS, Oslo 70457,78
+2 Region Øst 204416 Familieråd i Fosterhjemstjenesten 31024 Bufetathus Kristiansand Hjelpetiltak i hjemmet Renovasjon, vann, avløp o.l. -176,97
+2 Region Øst 204416 Familieråd i Fosterhjemstjenesten 31024 Bufetathus Kristiansand Hjelpetiltak i hjemmet Strøm og oppvarming Kvartal 71 AS, Oslo 3783,45
+2 Region Øst 204416 Familieråd i Fosterhjemstjenesten 31024 Bufetathus Kristiansand Hjelpetiltak i hjemmet Renhold lokaler ISS Facility Services AS 1103,4
+2 Region Øst 204416 Familieråd i Fosterhjemstjenesten 31024 Bufetathus Kristiansand Hjelpetiltak i hjemmet Annen kostnad lokaler ISS Facility Services AS 513,98
+2 Region Øst 204416 Familieråd i Fosterhjemstjenesten 31024 Bufetathus Kristiansand Hjelpetiltak i hjemmet Annen kostnad lokaler Kvartal 71 AS, Oslo 1441,03
+2 Region Øst 204416 Familieråd i Fosterhjemstjenesten 31024 Bufetathus Kristiansand Hjelpetiltak i hjemmet Annen kostnad lokaler NG SECURE AS (15060314648) 4,13
+2 Region Øst 204416 Familieråd i Fosterhjemstjenesten 31024 Bufetathus Kristiansand Hjelpetiltak i hjemmet Leie parkeringsplass Aimo Park Norway AS 15521,44
+2 Region Øst 204416 Familieråd i Fosterhjemstjenesten 31024 Bufetathus Kristiansand Hjelpetiltak i hjemmet Fellesutgifter andre utleiere Kvartal 71 AS, Oslo 11086,93
+2 Region Øst 204416 St.Hansgården Barnevernsinstitusjoner Renhold lokaler Nor Tekstil AS 1360,25
+2 Region Øst 204416 St.Hansgården Barnevernsinstitusjoner Renhold lokaler Nor Tekstil AS 806,46
+2 Region Øst 204416 St.Hansgården Barnevernsinstitusjoner Annen kostnad lokaler Eurocard Norway 903,6
+2 Region Øst 204416 Barkåker. Barnevernsinstitusjoner Renhold lokaler ISS Facility Services AS 4930,83
+2 Region Øst 204416 Barkåker. Barnevernsinstitusjoner Renhold lokaler Asko Øst AS 1150,23
+2 Region Øst 204416 Buskerud barne- og familiesenter Adm Sentre for foreldre og barn Leie lokaler andre utleiere Erik Børresen Stifelse 76469,98
+2 Region Øst 204416 Buskerud barne- og familiesenter Adm Sentre for foreldre og barn Leie lokaler andre utleiere Erik Børresen Stifelse 23262,64
+2 Region Øst 204416 Buskerud barne- og familiesenter Adm Sentre for foreldre og barn Strøm og oppvarming Entelios AS 20277,49
+2 Region Øst 204416 Buskerud barne- og familiesenter Adm Sentre for foreldre og barn Renhold lokaler ISS Facility Services AS 6375,56
+2 Region Øst 204416 Buskerud barne- og familiesenter Adm Sentre for foreldre og barn Vakthold lokaler Vekter og Alarmservice AS 638,25
+2 Region Øst 204416 Buskerud barne- og familiesenter Adm Fosterhjem Leie lokaler andre utleiere Erik Børresen Stifelse 130205,65
+2 Region Øst 204416 Buskerud barne- og familiesenter Adm Fosterhjem Leie lokaler andre utleiere Erik Børresen Stifelse 39609,36
+2 Region Øst 204416 Buskerud barne- og familiesenter Adm Fosterhjem Strøm og oppvarming Entelios AS 34526,53
+2 Region Øst 204416 Buskerud barne- og familiesenter Adm Fosterhjem Renhold lokaler ISS Facility Services AS 10855,68
+2 Region Øst 204416 Buskerud barne- og familiesenter Adm Fosterhjem Vakthold lokaler Vekter og Alarmservice AS 1086,75
+2 Region Øst 204416 Vestfold barne- og familiesenter Adm 31021 Bufetathus Tønsberg Sentre for foreldre og barn Leie lokaler andre utleiere Anton Jenssensgate 2 AS 199096,67
+2 Region Øst 204416 Vestfold barne- og familiesenter Adm 31021 Bufetathus Tønsberg Sentre for foreldre og barn Renhold lokaler ISS Facility Services AS 5002,94
+2 Region Øst 204416 Vestfold barne- og familiesenter Adm 31021 Bufetathus Tønsberg Sentre for foreldre og barn Vakthold lokaler Avarn Security AS 2094,23
+2 Region Øst 204416 Vestfold barne- og familiesenter Adm 31021 Bufetathus Tønsberg Sentre for foreldre og barn Leie parkeringsplass 26509,98
+2 Region Øst 204416 Vestfold barne- og familiesenter Adm 31021 Bufetathus Tønsberg Sentre for foreldre og barn Leie parkeringsplass -26509,98
+2 Region Øst 204416 Vestfold barne- og familiesenter Adm 31021 Bufetathus Tønsberg Sentre for foreldre og barn Fellesutgifter andre utleiere Anton Jenssensgate 2 AS 24590,39
+2 Region Øst 204416 Vestfold barne- og familiesenter Adm 31021 Bufetathus Tønsberg Sentre for foreldre og barn Reparasjon og vedlikehold leide lokaler -105,27
+2 Region Øst 204416 Vestfold barne- og familiesenter Adm 31021 Bufetathus Tønsberg Sentre for foreldre og barn Reparasjon og vedlikehold av anlegg, også serviceavtaler -112
+2 Region Øst 204416 Vestfold barne- og familiesenter Adm 31021 Bufetathus Tønsberg Fosterhjem Leie lokaler andre utleiere Anton Jenssensgate 2 AS 8146,52
+2 Region Øst 204416 Vestfold barne- og familiesenter Adm 31021 Bufetathus Tønsberg Fosterhjem Leie lokaler andre utleiere Anton Jenssensgate 2 AS 139358,91
+2 Region Øst 204416 Vestfold barne- og familiesenter Adm 31021 Bufetathus Tønsberg Fosterhjem Renovasjon, vann, avløp o.l. 338,5
+2 Region Øst 204416 Vestfold barne- og familiesenter Adm 31021 Bufetathus Tønsberg Fosterhjem Renhold lokaler ISS Facility Services AS 3501,84
+2 Region Øst 204416 Vestfold barne- og familiesenter Adm 31021 Bufetathus Tønsberg Fosterhjem Vakthold lokaler Avarn Security AS 1465,87
+2 Region Øst 204416 Vestfold barne- og familiesenter Adm 31021 Bufetathus Tønsberg Fosterhjem Leie parkeringsplass 18555,82
+2 Region Øst 204416 Vestfold barne- og familiesenter Adm 31021 Bufetathus Tønsberg Fosterhjem Leie parkeringsplass -18555,82
+2 Region Øst 204416 Vestfold barne- og familiesenter Adm 31021 Bufetathus Tønsberg Fosterhjem Fellesutgifter andre utleiere Anton Jenssensgate 2 AS 17212,19
+2 Region Øst 204416 Vestfold barne- og familiesenter Adm 31021 Bufetathus Tønsberg Fosterhjem Reparasjon og vedlikehold leide lokaler -73,68
+2 Region Øst 204416 Vestfold barne- og familiesenter Adm 31021 Bufetathus Tønsberg Fosterhjem Reparasjon og vedlikehold av anlegg, også serviceavtaler -78,39
+2 Region Øst 204416 Telemark barne- og familiesenter Adm Sentre for foreldre og barn Renhold lokaler ISS Facility Services AS 3903,53
+2 Region Øst 204416 Telemark barne- og familiesenter Adm Sentre for foreldre og barn Renhold lokaler Elis Norge AS 726,8
+2 Region Øst 204416 Telemark barne- og familiesenter Adm Sentre for foreldre og barn Vakthold lokaler Securitas AS 936
+2 Region Øst 204416 Telemark barne- og familiesenter Adm Fosterhjem Renhold lokaler ISS Facility Services AS 1951,76
+2 Region Øst 204416 Telemark barne- og familiesenter Adm Fosterhjem Renhold lokaler Elis Norge AS 363,4
+2 Region Øst 204416 Telemark barne- og familiesenter Adm Fosterhjem Vakthold lokaler Securitas AS 468
+2 Region Øst 204416 Agder barne- og familiesenter Adm 31024 Bufetathus Kristiansand Sentre for foreldre og barn Leie lokaler andre utleiere Kvartal 71 AS, Oslo 11727,69
+2 Region Øst 204416 Agder barne- og familiesenter Adm 31024 Bufetathus Kristiansand Sentre for foreldre og barn Renovasjon, vann, avløp o.l. -29,46
+2 Region Øst 204416 Agder barne- og familiesenter Adm 31024 Bufetathus Kristiansand Sentre for foreldre og barn Strøm og oppvarming Kvartal 71 AS, Oslo 629,76
+2 Region Øst 204416 Agder barne- og familiesenter Adm 31024 Bufetathus Kristiansand Sentre for foreldre og barn Renhold lokaler ISS Facility Services AS 183,42
+2 Region Øst 204416 Agder barne- og familiesenter Adm 31024 Bufetathus Kristiansand Sentre for foreldre og barn Annen kostnad lokaler ISS Facility Services AS 85,44
+2 Region Øst 204416 Agder barne- og familiesenter Adm 31024 Bufetathus Kristiansand Sentre for foreldre og barn Annen kostnad lokaler Kvartal 71 AS, Oslo 239,86
+2 Region Øst 204416 Agder barne- og familiesenter Adm 31024 Bufetathus Kristiansand Sentre for foreldre og barn Annen kostnad lokaler NG SECURE AS (15060314648) 0,69
+2 Region Øst 204416 Agder barne- og familiesenter Adm 31024 Bufetathus Kristiansand Sentre for foreldre og barn Leie parkeringsplass Aimo Park Norway AS 2586,91
+2 Region Øst 204416 Agder barne- og familiesenter Adm 31024 Bufetathus Kristiansand Sentre for foreldre og barn Fellesutgifter andre utleiere Kvartal 71 AS, Oslo 1845,42
+2 Region Øst 204416 Agder barne- og familiesenter Adm 31024 Bufetathus Kristiansand Fosterhjem Leie lokaler andre utleiere Kvartal 71 AS, Oslo 11727,69
+2 Region Øst 204416 Agder barne- og familiesenter Adm 31024 Bufetathus Kristiansand Fosterhjem Renovasjon, vann, avløp o.l. -29,46
+2 Region Øst 204416 Agder barne- og familiesenter Adm 31024 Bufetathus Kristiansand Fosterhjem Strøm og oppvarming Kvartal 71 AS, Oslo 629,76
+2 Region Øst 204416 Agder barne- og familiesenter Adm 31024 Bufetathus Kristiansand Fosterhjem Renhold lokaler ISS Facility Services AS 183,42
+2 Region Øst 204416 Agder barne- og familiesenter Adm 31024 Bufetathus Kristiansand Fosterhjem Annen kostnad lokaler ISS Facility Services AS 85,44
+2 Region Øst 204416 Agder barne- og familiesenter Adm 31024 Bufetathus Kristiansand Fosterhjem Annen kostnad lokaler Kvartal 71 AS, Oslo 239,86
+2 Region Øst 204418 Agder barne- og familiesenter Adm 31024 Bufetathus Kristiansand Fosterhjem Annen kostnad lokaler NG SECURE AS (15060314648) 0,69
+2 Region Øst 204418 Agder barne- og familiesenter Adm 31024 Bufetathus Kristiansand Fosterhjem Leie parkeringsplass Aimo Park Norway AS 2586,91
+2 Region Øst 204418 Agder barne- og familiesenter Adm 31024 Bufetathus Kristiansand Fosterhjem Fellesutgifter andre utleiere Kvartal 71 AS, Oslo 1845,42
+2 Region Øst 204418 Familiehjem 31024 Bufetathus Kristiansand Fosterhjem Leie lokaler andre utleiere Kvartal 71 AS, Oslo 23455,39
+2 Region Øst 204418 Familiehjem 31024 Bufetathus Kristiansand Fosterhjem Renovasjon, vann, avløp o.l. -58,91
+2 Region Øst 204418 Familiehjem 31024 Bufetathus Kristiansand Fosterhjem Strøm og oppvarming Kvartal 71 AS, Oslo 1259,51
+2 Region Øst 204418 Familiehjem 31024 Bufetathus Kristiansand Fosterhjem Renhold lokaler ISS Facility Services AS 366,84
+2 Region Øst 204418 Familiehjem 31024 Bufetathus Kristiansand Fosterhjem Annen kostnad lokaler ISS Facility Services AS 170,88
+2 Region Øst 204418 Familiehjem 31024 Bufetathus Kristiansand Fosterhjem Annen kostnad lokaler Kvartal 71 AS, Oslo 479,72
+2 Region Øst 211002 Familiehjem 31024 Bufetathus Kristiansand Fosterhjem Annen kostnad lokaler NG SECURE AS (15060314648) 1,38
+2 Region Øst 211002 Familiehjem 31024 Bufetathus Kristiansand Fosterhjem Leie parkeringsplass Aimo Park Norway AS 5173,81
+2 Region Øst 211002 Familiehjem 31024 Bufetathus Kristiansand Fosterhjem Fellesutgifter andre utleiere Kvartal 71 AS, Oslo 3690,84
+2 Region Øst 211002 Avdeling fosterhjemsbaserte tiltak Fosterhjem Annen kostnad lokaler NORGESGRUPPEN FINANS AS 299,6
+2 Region Øst 211003 Avdeling fosterhjemsbaserte tiltak 31023 Bufetathus Arendal Fosterhjem Leie lokaler andre utleiere LANGSÆVEIEN 6 AS 47310,72
+2 Region Øst 211003 Avdeling fosterhjemsbaserte tiltak 31023 Bufetathus Arendal Fosterhjem Renovasjon, vann, avløp o.l. -191,36
+2 Region Øst 211003 Avdeling fosterhjemsbaserte tiltak 31023 Bufetathus Arendal Fosterhjem Renovasjon, vann, avløp o.l. Agder Renovasjon Næring AS 467,68
+2 Region Øst 211003 Avdeling fosterhjemsbaserte tiltak 31023 Bufetathus Arendal Fosterhjem Renovasjon, vann, avløp o.l. NG SECURE AS (15060314648) 98,68
+2 Region Øst 211007 Avdeling fosterhjemsbaserte tiltak 31023 Bufetathus Arendal Fosterhjem Renhold lokaler 1881,31
+2 Region Øst 211007 Avdeling fosterhjemsbaserte tiltak 31023 Bufetathus Arendal Fosterhjem Renhold lokaler Elis Norge AS 249,08
+2 Region Øst 211007 Avdeling fosterhjemsbaserte tiltak 31023 Bufetathus Arendal Fosterhjem Renhold lokaler -1881,31
+2 Region Øst 211007 Avdeling fosterhjemsbaserte tiltak 31023 Bufetathus Arendal Fosterhjem Renhold lokaler ISS Facility Services AS 781,14
+2 Region Øst 211007 Avdeling fosterhjemsbaserte tiltak 31023 Bufetathus Arendal Fosterhjem Vakthold lokaler Låssenteret AS 133,28
+2 Region Øst 211007 Avdeling fosterhjemsbaserte tiltak 31023 Bufetathus Arendal Fosterhjem Fellesutgifter andre utleiere LANGSÆVEIEN 6 AS 9702
+2 Region Øst 211103 Avdeling fosterhjemsbaserte tiltak 31024 Bufetathus Kristiansand Fosterhjem Leie lokaler andre utleiere Kvartal 71 AS, Oslo 70457,78
+2 Region Øst 211103 Avdeling fosterhjemsbaserte tiltak 31024 Bufetathus Kristiansand Fosterhjem Renovasjon, vann, avløp o.l. -176,97
+2 Region Øst 211103 Avdeling fosterhjemsbaserte tiltak 31024 Bufetathus Kristiansand Fosterhjem Strøm og oppvarming Kvartal 71 AS, Oslo 3783,45
+2 Region Øst 211104 Avdeling fosterhjemsbaserte tiltak 31024 Bufetathus Kristiansand Fosterhjem Renhold lokaler ISS Facility Services AS 1103,4
+2 Region Øst 211104 Avdeling fosterhjemsbaserte tiltak 31024 Bufetathus Kristiansand Fosterhjem Annen kostnad lokaler ISS Facility Services AS 513,98
+2 Region Øst 211105 Avdeling fosterhjemsbaserte tiltak 31024 Bufetathus Kristiansand Fosterhjem Annen kostnad lokaler Kvartal 71 AS, Oslo 1441,03
+2 Region Øst 211105 Avdeling fosterhjemsbaserte tiltak 31024 Bufetathus Kristiansand Fosterhjem Annen kostnad lokaler NG SECURE AS (15060314648) 4,13
+2 Region Øst 211201 Avdeling fosterhjemsbaserte tiltak 31024 Bufetathus Kristiansand Fosterhjem Leie parkeringsplass Aimo Park Norway AS 15521,44
+2 Region Øst 211201 Avdeling fosterhjemsbaserte tiltak 31024 Bufetathus Kristiansand Fosterhjem Fellesutgifter andre utleiere Kvartal 71 AS, Oslo 11086,93
+2 Region Øst 211201 Harebakken Sentre for foreldre og barn Leie lokaler andre utleiere LANGSÆVEIEN 6 AS 268620
+2 Region Øst 211201 Harebakken Sentre for foreldre og barn Renovasjon, vann, avløp o.l. Agder Renovasjon Næring AS 1704,38
+2 Region Øst 211201 Harebakken Sentre for foreldre og barn Renhold lokaler ISS Facility Services AS 9005
+2 Region Øst 211201 Harebakken Sentre for foreldre og barn Renhold lokaler ISS Facility Services AS 6642,34
+2 Region Øst 211202 Harebakken Sentre for foreldre og barn Vakthold lokaler Låssenteret AS 639
+2 Region Øst 211202 Harebakken Sentre for foreldre og barn Fellesutgifter andre utleiere LANGSÆVEIEN 6 AS 75000
+2 Region Øst 211202 Harebakken 31024 Bufetathus Kristiansand Sentre for foreldre og barn Renhold lokaler 4199,28
+2 Region Øst 211203 Harebakken 31024 Bufetathus Kristiansand Sentre for foreldre og barn Leie parkeringsplass Aimo Park Norway AS 10347,62
+2 Region Øst 211203 Utredningsteam 31023 Bufetathus Arendal Hjelpetiltak i hjemmet Leie lokaler andre utleiere LANGSÆVEIEN 6 AS 23655,36
+2 Region Øst 211203 Utredningsteam 31023 Bufetathus Arendal Hjelpetiltak i hjemmet Renovasjon, vann, avløp o.l. -95,68
+2 Region Øst 211206 Utredningsteam 31023 Bufetathus Arendal Hjelpetiltak i hjemmet Renovasjon, vann, avløp o.l. Agder Renovasjon Næring AS 233,84
+2 Region Øst 211206 Utredningsteam 31023 Bufetathus Arendal Hjelpetiltak i hjemmet Renovasjon, vann, avløp o.l. NG SECURE AS (15060314648) 49,34
+2 Region Øst 211206 Utredningsteam 31023 Bufetathus Arendal Hjelpetiltak i hjemmet Renhold lokaler 940,65
+2 Region Øst 211208 Utredningsteam 31023 Bufetathus Arendal Hjelpetiltak i hjemmet Renhold lokaler -940,65
+2 Region Øst 211208 Utredningsteam 31023 Bufetathus Arendal Hjelpetiltak i hjemmet Renhold lokaler ISS Facility Services AS 390,57
+2 Region Øst 211208 Utredningsteam 31023 Bufetathus Arendal Hjelpetiltak i hjemmet Vakthold lokaler Låssenteret AS 66,64
+2 Region Øst 214702 Utredningsteam 31023 Bufetathus Arendal Hjelpetiltak i hjemmet Fellesutgifter andre utleiere LANGSÆVEIEN 6 AS 4851
+2 Region Øst 214702 Utredningsteam 31024 Bufetathus Kristiansand Hjelpetiltak i hjemmet Leie lokaler andre utleiere Kvartal 71 AS, Oslo 23455,39
+2 Region Øst 214703 Utredningsteam 31024 Bufetathus Kristiansand Hjelpetiltak i hjemmet Renovasjon, vann, avløp o.l. -58,91
+2 Region Øst 214703 Utredningsteam 31024 Bufetathus Kristiansand Hjelpetiltak i hjemmet Strøm og oppvarming Kvartal 71 AS, Oslo 1259,51
+2 Region Øst 214706 Utredningsteam 31024 Bufetathus Kristiansand Hjelpetiltak i hjemmet Renhold lokaler ISS Facility Services AS 366,84
+2 Region Øst 214706 Utredningsteam 31024 Bufetathus Kristiansand Hjelpetiltak i hjemmet Annen kostnad lokaler ISS Facility Services AS 170,88
+2 Region Øst 214802 Utredningsteam 31024 Bufetathus Kristiansand Hjelpetiltak i hjemmet Annen kostnad lokaler Kvartal 71 AS, Oslo 479,72
+2 Region Øst 214802 Utredningsteam 31024 Bufetathus Kristiansand Hjelpetiltak i hjemmet Annen kostnad lokaler NG SECURE AS (15060314648) 1,38
+2 Region Øst 214806 Utredningsteam 31024 Bufetathus Kristiansand Hjelpetiltak i hjemmet Leie parkeringsplass Aimo Park Norway AS 5173,81
+2 Region Øst 214806 Utredningsteam 31024 Bufetathus Kristiansand Hjelpetiltak i hjemmet Fellesutgifter andre utleiere Kvartal 71 AS, Oslo 3690,84
+2 Region Øst 216001 Familievernkontoret i Vestfold Familieverntjeneste Leie lokaler andre utleiere Anton Jenssensgate 2 AS 303614
+2 Region Øst 216001 Familievernkontoret i Vestfold Familieverntjeneste Leie lokaler andre utleiere Anton Jenssensgate 2 AS 14481
+2 Region Øst 216001 Familievernkontoret i Vestfold Familieverntjeneste Renhold lokaler ISS Facility Services AS 2915
+2 Region Øst 221301 Familievernkontoret i Vestfold Familieverntjeneste Leie parkeringsplass Apcoa Parking AS(15030825141) 31808,16
+2 Region Øst 222301 Familievernkontoret i Vestfold Familieverntjeneste Fellesutgifter andre utleiere Anton Jenssensgate 2 AS 37503
+2 Region Øst 222301 Familievernkontoret i Vestfold Familieverntjeneste Reparasjon og vedlikehold leide lokaler EIENDOMSCOMPANIET AS 381,97
+2 Region Øst 222301 Familievernkontoret i Buskerud Familieverntjeneste Leie lokaler andre utleiere ElVEBREDDEN AS 152109
+2 Region Øst 222401 Familievernkontoret i Buskerud Familieverntjeneste Leie lokaler andre utleiere Grønland 68 AS 318738
+2 Region Øst 222401 Familievernkontoret i Buskerud Familieverntjeneste Strøm og oppvarming Grønland 68 AS 63250
+2 Region Øst 222401 Familievernkontoret i Buskerud Familieverntjeneste Renhold lokaler ISS Facility Services AS 7906,55
+2 Region Øst 222501 Familievernkontoret i Buskerud Familieverntjeneste Renhold lokaler Elis Norge AS 3137
+2 Region Øst 224501 Familievernkontoret i Buskerud Familieverntjeneste Leie parkeringsplass Onepark AS 790
+2 Region Øst 224501 Familievernkontoret i Buskerud Familieverntjeneste Fellesutgifter andre utleiere ElVEBREDDEN AS 59249
+2 Region Øst 224501 Familievernkontoret i Buskerud Familieverntjeneste Fellesutgifter andre utleiere Grønland 68 AS 34125
+2 Region Øst 224501 SKM foreldrestøtte Familieverntjeneste Leie lokaler andre utleiere Grønland 68 AS 91426
+2 Region Øst 224501 SKM foreldrestøtte Familieverntjeneste Strøm og oppvarming Grønland 68 AS 15975
+2 Region Øst 224501 SKM foreldrestøtte Familieverntjeneste Renhold lokaler ISS Facility Services AS 3243,24
+2 Region Øst 224501 SKM foreldrestøtte Familieverntjeneste Renhold lokaler Elis Norge AS 1344
+2 Region Øst 224501 SKM foreldrestøtte Familieverntjeneste Leie parkeringsplass Onepark AS 850
+2 Region Øst 225101 SKM foreldrestøtte Familieverntjeneste Fellesutgifter andre utleiere Grønland 68 AS 9072
+2 Region Øst 225101 Relasjonsfokusert familieterapi (RFT) Familieverntjeneste Leie lokaler andre utleiere Grønland 68 AS 60951
+2 Region Øst 225101 Relasjonsfokusert familieterapi (RFT) Familieverntjeneste Strøm og oppvarming Grønland 68 AS 10650
+2 Region Øst 225201 Relasjonsfokusert familieterapi (RFT) Familieverntjeneste Leie parkeringsplass Onepark AS 1976,25
+2 Region Øst 225201 Relasjonsfokusert familieterapi (RFT) Familieverntjeneste Leie parkeringsplass Aimo Park Norway AS 1970
+2 Region Øst 225301 Relasjonsfokusert familieterapi (RFT) Familieverntjeneste Fellesutgifter andre utleiere Grønland 68 AS 6048
+2 Region Øst 225301 Relasjonsfokusert familieterapi (RFT) 31020 Bufetathus Drammen Familieverntjeneste Leie parkeringsplass Union Parkering AS 7585,05
+2 Region Øst 225401 Relasjonsfokusert familieterapi (RFT) 31020 Bufetathus Drammen Familieverntjeneste Leie parkeringsplass Aimo Park Norway AS 20633,29
+2 Region Øst 225401 Avdeling familiehjem 31026 Bufetathus Kongsberg Fosterhjem Leie lokaler andre utleiere -140798,81
+2 Region Øst 225501 Avdeling familiehjem 31026 Bufetathus Kongsberg Fosterhjem Leie lokaler andre utleiere ElVEBREDDEN AS 140798,81
+2 Region Øst 225501 Avdeling familiehjem 31026 Bufetathus Kongsberg Fosterhjem Leie lokaler andre utleiere -11680,61
+2 Region Øst 225501 Avdeling familiehjem 31026 Bufetathus Kongsberg Fosterhjem Leie lokaler andre utleiere ElVEBREDDEN AS 11681,94
+2 Region Øst 225601 Avdeling familiehjem 31026 Bufetathus Kongsberg Fosterhjem Fellesutgifter andre utleiere -60830,36
+2 Region Øst 225601 Avdeling familiehjem 31026 Bufetathus Kongsberg Fosterhjem Fellesutgifter andre utleiere ElVEBREDDEN AS 60830,36
+2 Region Øst 225601 Avdeling familiehjem 31026 Bufetathus Kongsberg Fosterhjem Fellesutgifter andre utleiere -8059,64
+2 Region Øst 232601 Avdeling familiehjem 31026 Bufetathus Kongsberg Fosterhjem Fellesutgifter andre utleiere ElVEBREDDEN AS 8059,64
+2 Region Øst 232701 Telemark ungdomssenter 31021 Bufetathus Tønsberg Barnevernsinstitusjoner Leie lokaler andre utleiere Anton Jenssensgate 2 AS 1019,36
+2 Region Øst 232701 Telemark ungdomssenter 31021 Bufetathus Tønsberg Barnevernsinstitusjoner Leie lokaler andre utleiere Anton Jenssensgate 2 AS 19883,39
+2 Region Øst 232704 Telemark ungdomssenter 31021 Bufetathus Tønsberg Barnevernsinstitusjoner Renhold lokaler ISS Facility Services AS 499,63
+2 Region Øst 232706 Telemark ungdomssenter 31021 Bufetathus Tønsberg Barnevernsinstitusjoner Vakthold lokaler Avarn Security AS 209,15
+2 Region Øst 232707 Telemark ungdomssenter 31021 Bufetathus Tønsberg Barnevernsinstitusjoner Leie parkeringsplass 2647,5
+2 Region Øst 232801 Telemark ungdomssenter 31021 Bufetathus Tønsberg Barnevernsinstitusjoner Leie parkeringsplass -2647,5
+2 Region Øst 232801 Telemark ungdomssenter 31021 Bufetathus Tønsberg Barnevernsinstitusjoner Fellesutgifter andre utleiere Anton Jenssensgate 2 AS 2455,79
+2 Region Øst 232801 Telemark ungdomssenter 31021 Bufetathus Tønsberg Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler -10,51
+2 Region Øst 232801 Telemark ungdomssenter 31021 Bufetathus Tønsberg Barnevernsinstitusjoner Reparasjon og vedlikehold av anlegg, også serviceavtaler -11,18
+2 Region Øst 232801 Telemark ungdomssenter 31023 Bufetathus Arendal Barnevernsinstitusjoner Leie lokaler andre utleiere LANGSÆVEIEN 6 AS 23655,36
+2 Region Øst 232803 Telemark ungdomssenter 31023 Bufetathus Arendal Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. -95,68
+2 Region Øst 232804 Telemark ungdomssenter 31023 Bufetathus Arendal Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Agder Renovasjon Næring AS 233,84
+2 Region Øst 232806 Telemark ungdomssenter 31023 Bufetathus Arendal Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. NG SECURE AS (15060314648) 49,34
+2 Region Øst 232806 Telemark ungdomssenter 31023 Bufetathus Arendal Barnevernsinstitusjoner Renhold lokaler 940,65
+2 Region Øst 232806 Telemark ungdomssenter 31023 Bufetathus Arendal Barnevernsinstitusjoner Renhold lokaler Elis Norge AS 124,54
+2 Region Øst 232814 Telemark ungdomssenter 31023 Bufetathus Arendal Barnevernsinstitusjoner Renhold lokaler -940,65
+2 Region Øst 233201 Telemark ungdomssenter 31023 Bufetathus Arendal Barnevernsinstitusjoner Renhold lokaler ISS Facility Services AS 390,57
+2 Region Øst 233206 Telemark ungdomssenter 31023 Bufetathus Arendal Barnevernsinstitusjoner Vakthold lokaler Låssenteret AS 66,64
+2 Region Øst 233206 Telemark ungdomssenter 31023 Bufetathus Arendal Barnevernsinstitusjoner Fellesutgifter andre utleiere LANGSÆVEIEN 6 AS 4851
+2 Region Øst 233212 Avdeling Miljøheimen Barnevernsinstitusjoner Leie lokaler andre utleiere Bråstøyl og Kasland, utleiere 5000
+2 Region Øst 233212 Avdeling Miljøheimen Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Renovest IKS 1338,75
+2 Region Øst 233212 Avdeling Miljøheimen Barnevernsinstitusjoner Renhold lokaler ISS Facility Services AS 4393,84
+2 Region Øst 233212 Avdeling Kjørbekk Barnevernsinstitusjoner Renhold lokaler ISS Facility Services AS 2193,09
+2 Region Øst 235401 Avdeling Kjørbekk Barnevernsinstitusjoner Renhold lokaler NORGESGRUPPEN FINANS AS 364,15
+2 Region Øst 235401 Agder ungdomshjem 31023 Bufetathus Arendal Sentre for foreldre og barn Leie lokaler andre utleiere LANGSÆVEIEN 6 AS 11827,68
+2 Region Øst 235401 Agder ungdomshjem 31023 Bufetathus Arendal Sentre for foreldre og barn Renovasjon, vann, avløp o.l. -47,84
+2 Region Øst 235401 Agder ungdomshjem 31023 Bufetathus Arendal Sentre for foreldre og barn Renovasjon, vann, avløp o.l. Agder Renovasjon Næring AS 116,92
+2 Region Øst 235401 Agder ungdomshjem 31023 Bufetathus Arendal Sentre for foreldre og barn Renovasjon, vann, avløp o.l. NG SECURE AS (15060314648) 24,67
+2 Region Øst 235401 Agder ungdomshjem 31023 Bufetathus Arendal Sentre for foreldre og barn Renhold lokaler 471,93
+2 Region Øst 235401 Agder ungdomshjem 31023 Bufetathus Arendal Sentre for foreldre og barn Renhold lokaler Elis Norge AS 62,48
+2 Region Øst 235401 Agder ungdomshjem 31023 Bufetathus Arendal Sentre for foreldre og barn Renhold lokaler -470,33
+2 Region Øst 236102 Agder ungdomshjem 31023 Bufetathus Arendal Sentre for foreldre og barn Renhold lokaler ISS Facility Services AS 195,28
+2 Region Øst 236102 Agder ungdomshjem 31023 Bufetathus Arendal Sentre for foreldre og barn Vakthold lokaler Låssenteret AS 33,32
+2 Region Øst 236103 Agder ungdomshjem 31023 Bufetathus Arendal Sentre for foreldre og barn Fellesutgifter andre utleiere LANGSÆVEIEN 6 AS 2425,5
+2 Region Øst 236103 Agder ungdomshjem 31023 Bufetathus Arendal Fosterhjem Leie lokaler andre utleiere LANGSÆVEIEN 6 AS 11827,68
+2 Region Øst 236103 Agder ungdomshjem 31023 Bufetathus Arendal Fosterhjem Renovasjon, vann, avløp o.l. -47,84
+2 Region Øst 236103 Agder ungdomshjem 31023 Bufetathus Arendal Fosterhjem Renovasjon, vann, avløp o.l. Agder Renovasjon Næring AS 116,92
+2 Region Øst 236104 Agder ungdomshjem 31023 Bufetathus Arendal Fosterhjem Renovasjon, vann, avløp o.l. NG SECURE AS (15060314648) 24,67
+2 Region Øst 236105 Agder ungdomshjem 31023 Bufetathus Arendal Fosterhjem Renhold lokaler 471,93
+2 Region Øst 236105 Agder ungdomshjem 31023 Bufetathus Arendal Fosterhjem Renhold lokaler Elis Norge AS 62,48
+2 Region Øst 236202 Agder ungdomshjem 31023 Bufetathus Arendal Fosterhjem Renhold lokaler -470,33
+2 Region Øst 236202 Agder ungdomshjem 31023 Bufetathus Arendal Fosterhjem Renhold lokaler ISS Facility Services AS 195,28
+2 Region Øst 236202 Agder ungdomshjem 31023 Bufetathus Arendal Fosterhjem Vakthold lokaler Låssenteret AS 33,32
+2 Region Øst 236202 Agder ungdomshjem 31023 Bufetathus Arendal Fosterhjem Fellesutgifter andre utleiere LANGSÆVEIEN 6 AS 2425,5
+2 Region Øst 236204 Agder ungdomshjem 31023 Bufetathus Arendal Hjelpetiltak i hjemmet Renhold lokaler Elis Norge AS 124,54
+2 Region Øst 236204 Agder spesialiserte fosterhjem 31023 Bufetathus Arendal Fosterhjem Leie lokaler andre utleiere LANGSÆVEIEN 6 AS 23655,36
+2 Region Øst 236205 Agder spesialiserte fosterhjem 31023 Bufetathus Arendal Fosterhjem Renovasjon, vann, avløp o.l. -95,68
+2 Region Øst 236205 Agder spesialiserte fosterhjem 31023 Bufetathus Arendal Fosterhjem Renovasjon, vann, avløp o.l. Agder Renovasjon Næring AS 233,84
+2 Region Øst 236205 Agder spesialiserte fosterhjem 31023 Bufetathus Arendal Fosterhjem Renovasjon, vann, avløp o.l. NG SECURE AS (15060314648) 49,34
+2 Region Øst 237101 Agder spesialiserte fosterhjem 31023 Bufetathus Arendal Fosterhjem Renhold lokaler 940,65
+2 Region Øst 237102 Agder spesialiserte fosterhjem 31023 Bufetathus Arendal Fosterhjem Renhold lokaler Elis Norge AS 124,54
+2 Region Øst 237103 Agder spesialiserte fosterhjem 31023 Bufetathus Arendal Fosterhjem Renhold lokaler -940,65
+2 Region Øst 237104 Agder spesialiserte fosterhjem 31023 Bufetathus Arendal Fosterhjem Renhold lokaler ISS Facility Services AS 390,57
+2 Region Øst 237104 Agder spesialiserte fosterhjem 31023 Bufetathus Arendal Fosterhjem Vakthold lokaler Låssenteret AS 66,64
+2 Region Øst 237104 Agder spesialiserte fosterhjem 31023 Bufetathus Arendal Fosterhjem Fellesutgifter andre utleiere LANGSÆVEIEN 6 AS 4851
+2 Region Øst 237105 Agder spesialiserte fosterhjem 31024 Bufetathus Kristiansand Fosterhjem Leie lokaler andre utleiere Kvartal 71 AS, Oslo 117460,17
+2 Region Øst 237106 Agder spesialiserte fosterhjem 31024 Bufetathus Kristiansand Fosterhjem Renovasjon, vann, avløp o.l. -295,02
+2 Region Øst 237106 Agder spesialiserte fosterhjem 31024 Bufetathus Kristiansand Fosterhjem Strøm og oppvarming Kvartal 71 AS, Oslo 6307,39
+2 Region Øst 237202 Agder spesialiserte fosterhjem 31024 Bufetathus Kristiansand Fosterhjem Renhold lokaler ISS Facility Services AS 1837,08
+2 Region Øst 237202 Agder spesialiserte fosterhjem 31024 Bufetathus Kristiansand Fosterhjem Annen kostnad lokaler ISS Facility Services AS 855,74
+2 Region Øst 237203 Agder spesialiserte fosterhjem 31024 Bufetathus Kristiansand Fosterhjem Annen kostnad lokaler Kvartal 71 AS, Oslo 2402,34
+2 Region Øst 237203 Agder spesialiserte fosterhjem 31024 Bufetathus Kristiansand Fosterhjem Annen kostnad lokaler NG SECURE AS (15060314648) 6,89
+2 Region Øst 243901 Agder spesialiserte fosterhjem 31024 Bufetathus Kristiansand Fosterhjem Leie parkeringsplass Aimo Park Norway AS 25904,26
+2 Region Øst 243901 Agder spesialiserte fosterhjem 31024 Bufetathus Kristiansand Fosterhjem Fellesutgifter andre utleiere Kvartal 71 AS, Oslo 18483,03
+2 Region Øst 244101 Tovdal Barnevernsinstitusjoner Strøm og oppvarming Glitre Nett AS 4492,71
+2 Region Øst 244201 Avdeling Nes Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Agder Renovasjon Næring AS 856
+2 Region Øst 244301 Avdeling Nes Barnevernsinstitusjoner Renhold lokaler ISS Facility Services AS 13959,76
+2 Region Øst 244301 Avdeling Nes Barnevernsinstitusjoner Renhold lokaler MASKE AS 1228,9
+2 Region Øst 244401 Avdeling Nes Barnevernsinstitusjoner Annen kostnad lokaler Eurocard Norway 139
+2 Region Øst 244401 Avdeling Nes Barnevernsinstitusjoner Annen kostnad lokaler Ikano Bank AB (PUBL), Norway Branch (83970500777) 4904
+2 Region Øst 245001 Avdeling Nes Barnevernsinstitusjoner Annen kostnad lokaler Ikano Bank AB (PUBL), Norway Branch (83970500777) 1054
+3 Region Sør 300200 Avdeling Nes Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Låssenteret AS 4000
+3 Region Sør 300200 Furuly Barnevernsinstitusjoner Renhold lokaler ISS Facility Services AS 7541,58
+3 Region Sør 300200 Furuly Barnevernsinstitusjoner Vakthold lokaler Tele Scan AS 4950
+3 Region Sør 300200 Furuly Barnevernsinstitusjoner Annen kostnad lokaler Clas Ohlson AS 340
+3 Region Sør 300200 Lunde behandlingssenter Barnevernsinstitusjoner Strøm og oppvarming Entelios AS 35970,7
+3 Region Sør 300200 Lunde behandlingssenter Barnevernsinstitusjoner Renhold lokaler ISS Facility Services AS 7574,41
+3 Region Sør 300200 Lunde behandlingssenter Barnevernsinstitusjoner Renhold lokaler Nor Tekstil AS 661,48
+3 Region Sør 300200 Lunde behandlingssenter Barnevernsinstitusjoner Annen kostnad lokaler Sør-Tre A/s 612
+3 Region Sør 300211 Lunde behandlingssenter Barnevernsinstitusjoner Annen kostnad lokaler Eurocard Norway 1867
+3 Region Sør 300211 Lunde behandlingssenter Barnevernsinstitusjoner Annen kostnad lokaler Ikea AS - IKKE BRUK, bruk 78489 2353
+3 Region Sør 300211 Lunde behandlingssenter Barnevernsinstitusjoner Annen kostnad lokaler Ikea AS - IKKE BRUK, bruk 78489 1919
+3 Region Sør 300211 Lunde behandlingssenter Barnevernsinstitusjoner Oppgradering og påkostning leide lokaler - under kr 50 000 TROLLVEGG ARKITEKTSTUDIO AS 4389,19
+3 Region Sør 300211 Svenner Barnevernsinstitusjoner Renhold lokaler ISS Facility Services AS 9516,54
+3 Region Sør 300211 Svenner Barnevernsinstitusjoner Renhold lokaler NORGESGRUPPEN FINANS AS 291,2
+3 Region Sør 300211 Ulabrand Barnevernsinstitusjoner Renhold lokaler ISS Facility Services AS 6344,36
+3 Region Sør 300211 Mynten Barnevernsinstitusjoner Renhold lokaler ISS Facility Services AS 8723,6
+3 Region Sør 300213 Mynten Barnevernsinstitusjoner Annen kostnad lokaler Europris Butikkdrift AS 399
+3 Region Sør 300213 Mynten Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Forenede Montører AS 5815,5
+3 Region Sør 300213 Knuten Barnevernsinstitusjoner Renhold lokaler ISS Facility Services AS 5815,73
+3 Region Sør 300213 Knuten Barnevernsinstitusjoner Annen kostnad lokaler Eurocard Norway 922,15
+3 Region Sør 300213 Knuten Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Forenede Montører AS 3877
+3 Region Sør 300213 Lågen spesialiserte fosterhjem 31026 Bufetathus Kongsberg Fosterhjem Leie lokaler andre utleiere 9856,5
+3 Region Sør 300213 Lågen spesialiserte fosterhjem 31026 Bufetathus Kongsberg Fosterhjem Leie lokaler andre utleiere 118810,87
+3 Region Sør 300213 Lågen spesialiserte fosterhjem 31026 Bufetathus Kongsberg Fosterhjem Fellesutgifter andre utleiere 6801
+3 Region Sør 300213 Lågen spesialiserte fosterhjem 31026 Bufetathus Kongsberg Fosterhjem Fellesutgifter andre utleiere 51330,75
+3 Region Sør 300214 Thorøya Barnevernsinstitusjoner Leie lokaler andre utleiere AS Thor Dahl 699801
+3 Region Sør 300214 Thorøya Barnevernsinstitusjoner Strøm og oppvarming TD Fellestjenester AS 96975
+3 Region Sør 300214 Thorøya Barnevernsinstitusjoner Strøm og oppvarming TD Fellestjenester AS 35356
+3 Region Sør 300215 Thorøya Barnevernsinstitusjoner Renhold lokaler MASKE AS 232,19
+3 Region Sør 300215 Thorøya Barnevernsinstitusjoner Renhold lokaler REMA 1000 MOFLATA(15033440445) 454
+3 Region Sør 300215 Thorøya Barnevernsinstitusjoner Annen kostnad lokaler CERTEGO AS, Bergen 2201,48
+3 Region Sør 300215 Thorøya Barnevernsinstitusjoner Fellesutgifter andre utleiere TD Fellestjenester AS 108960
+3 Region Sør 300215 Thorøya Barnevernsinstitusjoner Fellesutgifter andre utleiere TD Fellestjenester AS 32013
+3 Region Sør 300215 Thorøya Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Newsec Basale AS 800
+3 Region Sør 300215 Thorøya Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler WENMA AS 1190
+3 Region Sør 300215 BVT behandling ungdom Adm 31021 Bufetathus Tønsberg Barnevernsinstitusjoner Leie lokaler andre utleiere Anton Jenssensgate 2 AS 2038,72
+3 Region Sør 300215 BVT behandling ungdom Adm 31021 Bufetathus Tønsberg Barnevernsinstitusjoner Leie lokaler andre utleiere Anton Jenssensgate 2 AS 19883,39
+3 Region Sør 300215 BVT behandling ungdom Adm 31021 Bufetathus Tønsberg Barnevernsinstitusjoner Renhold lokaler ISS Facility Services AS 499,63
+3 Region Sør 300215 BVT behandling ungdom Adm 31021 Bufetathus Tønsberg Barnevernsinstitusjoner Vakthold lokaler Avarn Security AS 209,15
+3 Region Sør 300215 BVT behandling ungdom Adm 31021 Bufetathus Tønsberg Barnevernsinstitusjoner Leie parkeringsplass -2647,5
+3 Region Sør 300215 BVT behandling ungdom Adm 31021 Bufetathus Tønsberg Barnevernsinstitusjoner Fellesutgifter andre utleiere Anton Jenssensgate 2 AS 2455,79
+3 Region Sør 300215 BVT behandling ungdom Adm 31021 Bufetathus Tønsberg Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler -10,51
+3 Region Sør 300215 BVT behandling ungdom Adm 31021 Bufetathus Tønsberg Barnevernsinstitusjoner Reparasjon og vedlikehold av anlegg, også serviceavtaler -11,18
+3 Region Sør 300215 BVT behandling ungdom Adm 31021 Bufetathus Tønsberg Hjelpetiltak i hjemmet Leie lokaler andre utleiere Anton Jenssensgate 2 AS 2038,72
+3 Region Sør 300217 MST Vestfold 1 31021 Bufetathus Tønsberg Hjelpetiltak i hjemmet Leie lokaler andre utleiere Anton Jenssensgate 2 AS 5096,79
+3 Region Sør 300217 Skjerfheimkollektivet Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler TØMRER EVEN ØSTENENGEN 4625
+3 Region Sør 300217 Agder ungdomssenter 31024 Bufetathus Kristiansand Barnevernsinstitusjoner Leie lokaler andre utleiere Kvartal 71 AS, Oslo 23455,39
+3 Region Sør 300217 Agder ungdomssenter 31024 Bufetathus Kristiansand Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. -58,91
+3 Region Sør 300217 Agder ungdomssenter 31024 Bufetathus Kristiansand Barnevernsinstitusjoner Strøm og oppvarming Kvartal 71 AS, Oslo 1259,51
+3 Region Sør 300217 Agder ungdomssenter 31024 Bufetathus Kristiansand Barnevernsinstitusjoner Renhold lokaler ISS Facility Services AS 366,84
+3 Region Sør 300217 Agder ungdomssenter 31024 Bufetathus Kristiansand Barnevernsinstitusjoner Annen kostnad lokaler ISS Facility Services AS 170,88
+3 Region Sør 300217 Agder ungdomssenter 31024 Bufetathus Kristiansand Barnevernsinstitusjoner Annen kostnad lokaler Kvartal 71 AS, Oslo 479,72
+3 Region Sør 300217 Agder ungdomssenter 31024 Bufetathus Kristiansand Barnevernsinstitusjoner Annen kostnad lokaler NG SECURE AS (15060314648) 1,38
+3 Region Sør 300219 Agder ungdomssenter 31024 Bufetathus Kristiansand Barnevernsinstitusjoner Leie parkeringsplass Aimo Park Norway AS 5173,81
+3 Region Sør 300219 Agder ungdomssenter 31024 Bufetathus Kristiansand Barnevernsinstitusjoner Fellesutgifter andre utleiere Kvartal 71 AS, Oslo 3690,84
+3 Region Sør 300219 MST 1 31024 Bufetathus Kristiansand Hjelpetiltak i hjemmet Leie lokaler andre utleiere Kvartal 71 AS, Oslo 141007,18
+3 Region Sør 300219 MST 1 31024 Bufetathus Kristiansand Hjelpetiltak i hjemmet Renovasjon, vann, avløp o.l. -354,17
+3 Region Sør 300219 MST 1 31024 Bufetathus Kristiansand Hjelpetiltak i hjemmet Strøm og oppvarming Kvartal 71 AS, Oslo 7571,82
+3 Region Sør 300219 MST 1 31024 Bufetathus Kristiansand Hjelpetiltak i hjemmet Renhold lokaler ISS Facility Services AS 2203,92
+3 Region Sør 300219 MST 1 31024 Bufetathus Kristiansand Hjelpetiltak i hjemmet Annen kostnad lokaler ISS Facility Services AS 1026,62
+3 Region Sør 300219 MST 1 31024 Bufetathus Kristiansand Hjelpetiltak i hjemmet Annen kostnad lokaler Kvartal 71 AS, Oslo 2883,93
+3 Region Sør 300219 MST 1 31024 Bufetathus Kristiansand Hjelpetiltak i hjemmet Annen kostnad lokaler NG SECURE AS (15060314648) 8,27
+3 Region Sør 300219 MST 1 31024 Bufetathus Kristiansand Hjelpetiltak i hjemmet Fellesutgifter andre utleiere Kvartal 71 AS, Oslo 22188,28
+3 Region Sør 300219 MST 2 31023 Bufetathus Arendal Hjelpetiltak i hjemmet Leie lokaler andre utleiere LANGSÆVEIEN 6 AS 47310,72
+3 Region Sør 300219 MST 2 31023 Bufetathus Arendal Hjelpetiltak i hjemmet Renovasjon, vann, avløp o.l. -191,36
+3 Region Sør 300219 MST 2 31023 Bufetathus Arendal Hjelpetiltak i hjemmet Renovasjon, vann, avløp o.l. Agder Renovasjon Næring AS 467,68
+3 Region Sør 300219 MST 2 31023 Bufetathus Arendal Hjelpetiltak i hjemmet Renovasjon, vann, avløp o.l. NG SECURE AS (15060314648) 98,68
+3 Region Sør 300219 MST 2 31023 Bufetathus Arendal Hjelpetiltak i hjemmet Renhold lokaler Elis Norge AS 249,08
+3 Region Sør 300219 MST 2 31023 Bufetathus Arendal Hjelpetiltak i hjemmet Renhold lokaler -1881,31
+3 Region Sør 300219 MST 2 31023 Bufetathus Arendal Hjelpetiltak i hjemmet Renhold lokaler ISS Facility Services AS 781,14
+3 Region Sør 300221 MST 2 31023 Bufetathus Arendal Hjelpetiltak i hjemmet Vakthold lokaler Låssenteret AS 133,28
+3 Region Sør 300221 MST 2 31023 Bufetathus Arendal Hjelpetiltak i hjemmet Fellesutgifter andre utleiere LANGSÆVEIEN 6 AS 9702
+3 Region Sør 300221 MST 2 31024 Bufetathus Kristiansand Hjelpetiltak i hjemmet Leie lokaler andre utleiere Kvartal 71 AS, Oslo 23455,39
+3 Region Sør 300221 MST 2 31024 Bufetathus Kristiansand Hjelpetiltak i hjemmet Renovasjon, vann, avløp o.l. -58,91
+3 Region Sør 300221 MST 2 31024 Bufetathus Kristiansand Hjelpetiltak i hjemmet Strøm og oppvarming Kvartal 71 AS, Oslo 1259,51
+3 Region Sør 300221 MST 2 31024 Bufetathus Kristiansand Hjelpetiltak i hjemmet Renhold lokaler ISS Facility Services AS 366,84
+3 Region Sør 300221 MST 2 31024 Bufetathus Kristiansand Hjelpetiltak i hjemmet Annen kostnad lokaler ISS Facility Services AS 170,88
+3 Region Sør 300221 MST 2 31024 Bufetathus Kristiansand Hjelpetiltak i hjemmet Annen kostnad lokaler Kvartal 71 AS, Oslo 479,72
+3 Region Sør 300221 MST 2 31024 Bufetathus Kristiansand Hjelpetiltak i hjemmet Annen kostnad lokaler NG SECURE AS (15060314648) 1,38
+3 Region Sør 300221 MST 2 31024 Bufetathus Kristiansand Hjelpetiltak i hjemmet Fellesutgifter andre utleiere Kvartal 71 AS, Oslo 3690,84
+3 Region Sør 300221 Avdeling Skomrak Barnevernsinstitusjoner Annen kostnad lokaler Kid Interiør AS 1009,9
+3 Region Sør 300221 Avdeling Skomrak Barnevernsinstitusjoner Annen kostnad lokaler Kid Interiør AS 110
+3 Region Sør 300222 Avdeling Skomrak Barnevernsinstitusjoner Annen kostnad lokaler POSTEN BRING AS 2290
+3 Region Sør 300222 Avdeling Skomrak Barnevernsinstitusjoner Annen kostnad lokaler LYNGDAL LIBRIS 1801
+3 Region Sør 301502 Avdeling Skomrak Barnevernsinstitusjoner Annen kostnad lokaler Eurocard Norway 649
+3 Region Sør 301502 Avdeling Skomrak Barnevernsinstitusjoner Annen kostnad lokaler Elkjøp Norge AS 1405,3
+3 Region Sør 301502 Nye Toppen Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. NG SECURE AS (15060314648) 338,45
+3 Region Sør 301502 Nye Toppen Barnevernsinstitusjoner Annen kostnad lokaler Power Norge AS 599
+3 Region Sør 301502 Nye Toppen Barnevernsinstitusjoner Annen kostnad lokaler Gustav Pedersen AS 275,58
+3 Region Sør 301502 Nye Toppen Barnevernsinstitusjoner Annen kostnad lokaler Gustav Pedersen AS 718
+3 Region Sør 301502 Skjerven rusbehandling ungdom Barnevernsinstitusjoner Strøm og oppvarming Fjordkraft AS 6780
+3 Region Sør 301502 Nyhuset Barnevernsinstitusjoner Strøm og oppvarming Fjordkraft AS 38451,82
+3 Region Sør 301502 Nyhuset Barnevernsinstitusjoner Strøm og oppvarming SVARSTADHYTTENE AS 494,38
+3 Region Sør 301502 Nyhuset Barnevernsinstitusjoner Renhold lokaler ISS Facility Services AS 13852,79
+3 Region Sør 301502 Nyhuset Barnevernsinstitusjoner Vakthold lokaler Sotera AS 387,5
+3 Region Sør 301502 Katfoss behandling ungdom Barnevernsinstitusjoner Strøm og oppvarming -19803,88
+3 Region Sør 301502 Katfoss behandling ungdom Barnevernsinstitusjoner Strøm og oppvarming Kraftriket AS 19803,88
+3 Region Sør 310803 Katfoss Barnevernsinstitusjoner Strøm og oppvarming 19803,88
+3 Region Sør 310803 MST i Bufetat, region sør 31021 Bufetathus Tønsberg Hjelpetiltak i hjemmet Leie parkeringsplass 2647,5
+3 Region Sør 310803 MST Vestfold 1 31021 Bufetathus Tønsberg Hjelpetiltak i hjemmet Leie parkeringsplass 10601,66
+3 Region Sør 310803 MST Vestfold 2 Hjelpetiltak i hjemmet Vakthold lokaler Sotera AS 387,5
+3 Region Sør 310803 MST Vestfold 2 31021 Bufetathus Tønsberg Hjelpetiltak i hjemmet Leie parkeringsplass 2647,5
+3 Region Sør 310803 MST Vestfold 2 31022 Bufetathus Skien Hjelpetiltak i hjemmet Leie lokaler andre utleiere Kontorbygg AS 28166,08
+3 Region Sør 310803 MST Vestfold 2 31022 Bufetathus Skien Hjelpetiltak i hjemmet Renhold lokaler -153,23
+3 Region Sør 310804 MST Vestfold 2 31022 Bufetathus Skien Hjelpetiltak i hjemmet Renhold lokaler ISS Facility Services AS 6714,98
+3 Region Sør 310804 MST Vestfold 2 31022 Bufetathus Skien Hjelpetiltak i hjemmet Fellesutgifter andre utleiere Kontorbygg AS 2895,9
+3 Region Sør 310804 MST Vestfold 2 31023 Bufetathus Arendal Hjelpetiltak i hjemmet Renhold lokaler 1881,31
+3 Region Sør 310804 MST Buskerud 1 Hjelpetiltak i hjemmet Leie parkeringsplass Aimo Park Norway AS 10010
+3 Region Sør 310900 MST Buskerud 1 31020 Bufetathus Drammen Hjelpetiltak i hjemmet Leie lokaler andre utleiere Grønland 68 AS 111201,76
+3 Region Sør 310900 MST Buskerud 1 31020 Bufetathus Drammen Hjelpetiltak i hjemmet Strøm og oppvarming Grønland 68 AS 19695,01
+3 Region Sør 310900 MST Buskerud 1 31020 Bufetathus Drammen Hjelpetiltak i hjemmet Renhold lokaler ISS Facility Services AS 2174,63
+3 Region Sør 310900 MST Buskerud 1 31020 Bufetathus Drammen Hjelpetiltak i hjemmet Renhold lokaler Elis Norge AS 347,09
+3 Region Sør 310902 MST Buskerud 1 31020 Bufetathus Drammen Hjelpetiltak i hjemmet Renhold lokaler Elis Norge AS 372,54
+3 Region Sør 310902 MST Buskerud 1 31020 Bufetathus Drammen Hjelpetiltak i hjemmet Leie parkeringsplass Union Parkering AS 3795,28
+3 Region Sør 310902 MST Buskerud 1 31020 Bufetathus Drammen Hjelpetiltak i hjemmet Leie parkeringsplass Aimo Park Norway AS 10324,13
+3 Region Sør 310902 MST Buskerud 1 31020 Bufetathus Drammen Hjelpetiltak i hjemmet Fellesutgifter andre utleiere Grønland 68 AS 10300,18
+3 Region Sør 310902 MST Buskerud 1 31021 Bufetathus Tønsberg Hjelpetiltak i hjemmet Leie lokaler andre utleiere Anton Jenssensgate 2 AS 79621,15
+3 Region Sør 310902 MST Buskerud 1 31021 Bufetathus Tønsberg Hjelpetiltak i hjemmet Renhold lokaler ISS Facility Services AS 2000,74
+3 Region Sør 310902 MST Buskerud 1 31021 Bufetathus Tønsberg Hjelpetiltak i hjemmet Vakthold lokaler Avarn Security AS 837,51
+3 Region Sør 310902 MST Buskerud 1 31021 Bufetathus Tønsberg Hjelpetiltak i hjemmet Leie parkeringsplass -10601,66
+3 Region Sør 310902 MST Buskerud 1 31021 Bufetathus Tønsberg Hjelpetiltak i hjemmet Fellesutgifter andre utleiere Anton Jenssensgate 2 AS 9833,99
+3 Region Sør 310902 MST Buskerud 1 31021 Bufetathus Tønsberg Hjelpetiltak i hjemmet Reparasjon og vedlikehold leide lokaler -42,1
+3 Region Sør 310902 MST Buskerud 1 31021 Bufetathus Tønsberg Hjelpetiltak i hjemmet Reparasjon og vedlikehold av anlegg, også serviceavtaler -44,79
+3 Region Sør 310902 MST Buskerud 2 Hjelpetiltak i hjemmet Leie parkeringsplass Aimo Park Norway AS 10010
+3 Region Sør 310902 MST Buskerud 2 31020 Bufetathus Drammen Hjelpetiltak i hjemmet Leie lokaler andre utleiere Grønland 68 AS 111201,76
+3 Region Sør 310902 MST Buskerud 2 31020 Bufetathus Drammen Hjelpetiltak i hjemmet Strøm og oppvarming Grønland 68 AS 19694,99
+3 Region Sør 310902 MST Buskerud 2 31020 Bufetathus Drammen Hjelpetiltak i hjemmet Renhold lokaler ISS Facility Services AS 2174,63
+3 Region Sør 310902 MST Buskerud 2 31020 Bufetathus Drammen Hjelpetiltak i hjemmet Renhold lokaler Elis Norge AS 347,09
+3 Region Sør 310902 MST Buskerud 2 31020 Bufetathus Drammen Hjelpetiltak i hjemmet Renhold lokaler Elis Norge AS 372,54
+3 Region Sør 310902 MST Buskerud 2 31020 Bufetathus Drammen Hjelpetiltak i hjemmet Leie parkeringsplass Union Parkering AS 1897,64
+3 Region Sør 310902 MST Buskerud 2 31020 Bufetathus Drammen Hjelpetiltak i hjemmet Leie parkeringsplass Aimo Park Norway AS 5162,06
+3 Region Sør 310902 MST Buskerud 2 31020 Bufetathus Drammen Hjelpetiltak i hjemmet Fellesutgifter andre utleiere Grønland 68 AS 10300,18
+3 Region Sør 310902 MST Buskerud 2 31021 Bufetathus Tønsberg Hjelpetiltak i hjemmet Leie lokaler andre utleiere Anton Jenssensgate 2 AS 19883,39
+3 Region Sør 310902 MST Buskerud 2 31021 Bufetathus Tønsberg Hjelpetiltak i hjemmet Renhold lokaler ISS Facility Services AS 499,63
+3 Region Sør 310902 MST Buskerud 2 31021 Bufetathus Tønsberg Hjelpetiltak i hjemmet Vakthold lokaler Avarn Security AS 209,15
+3 Region Sør 310905 MST Buskerud 2 31021 Bufetathus Tønsberg Hjelpetiltak i hjemmet Leie parkeringsplass -2647,5
+3 Region Sør 310905 MST Buskerud 2 31021 Bufetathus Tønsberg Hjelpetiltak i hjemmet Fellesutgifter andre utleiere Anton Jenssensgate 2 AS 2455,79
+3 Region Sør 310905 MST Buskerud 2 31021 Bufetathus Tønsberg Hjelpetiltak i hjemmet Reparasjon og vedlikehold leide lokaler -10,51
+3 Region Sør 310905 MST Buskerud 2 31021 Bufetathus Tønsberg Hjelpetiltak i hjemmet Reparasjon og vedlikehold av anlegg, også serviceavtaler -11,18
+3 Region Sør 310905 Regionale kostnader Regionale fellesfunksjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 133000
+3 Region Sør 310909 Regionale kostnader Regionale fellesfunksjoner Vakthold lokaler Avarn Security AS 9213,5
+3 Region Sør 310909 Regionale kostnader Regionale fellesfunksjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 76250
+3 Region Sør 310909 Regionale kostnader Regionale fellesfunksjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 12170
+3 Region Sør 310909 Regionale kostnader Barnevernsinstitusjoner Oppgradering og påkostning leide lokaler - under kr 50 000 Statsbyggs hovedkontor 3412,5
+3 Region Sør 313300 Regionale kostnader Barnevernsinstitusjoner Oppgradering og påkostning leide lokaler - under kr 50 000 Statsbyggs hovedkontor 14912,03
+3 Region Sør 313300 Bufetathus Kongsberg, eiendom 31026 Bufetathus Kongsberg Regionale fellesfunksjoner Leie lokaler andre utleiere -3
+3 Region Sør 313300 Bufetathus Kongsberg, eiendom 31026 Bufetathus Kongsberg Regionale fellesfunksjoner Leie lokaler andre utleiere 3
+3 Region Sør 313300 Bufetathus Kongsberg, eiendom 31026 Bufetathus Kongsberg Regionale fellesfunksjoner Fellesutgifter andre utleiere 0
+3 Region Sør 313300 Bufetathus Kongsberg, eiendom 31026 Bufetathus Kongsberg Regionale fellesfunksjoner Fellesutgifter andre utleiere 0
+3 Region Sør 313300 Bufetathus Drammen, eiendom 31020 Bufetathus Drammen Regionale fellesfunksjoner Renhold lokaler 4315,25
+3 Region Sør 313300 Bufetathus Drammen, eiendom 31020 Bufetathus Drammen Regionale fellesfunksjoner Renhold lokaler Insider Facility Solutions AS 4229,75
+3 Region Sør 313300 Bufetathus Drammen, eiendom 31020 Bufetathus Drammen Barnevernsinstitusjoner Renhold lokaler -4315,25
+3 Region Sør 313300 Bufetathus Drammen, tjenestebil 31020 Bufetathus Drammen Regionale fellesfunksjoner Leie parkeringsplass Aimo Park Norway AS 149625
+3 Region Sør 313300 Bufetathus Tønsberg, eiendom Regionale fellesfunksjoner Renhold lokaler ISS Facility Services AS -22010,31
+3 Region Sør 313300 Bufetathus Tønsberg, eiendom 31021 Bufetathus Tønsberg Regionale fellesfunksjoner Vakthold lokaler Avarn Security AS 9213,5
+3 Region Sør 313300 Bufetathus Skien, eiendom Regionale fellesfunksjoner Leie lokaler andre utleiere Kontorbygg AS 204250
+3 Region Sør 313300 Bufetathus Skien, eiendom Regionale fellesfunksjoner Leie lokaler andre utleiere Kontorbygg AS -204250
+3 Region Sør 313300 Bufetathus Skien, eiendom Regionale fellesfunksjoner Renhold lokaler ISS Facility Services AS 804,75
+3 Region Sør 313300 Bufetathus Skien, eiendom Regionale fellesfunksjoner Renhold lokaler MASKE AS -276,53
+3 Region Sør 313300 Bufetathus Skien, eiendom Regionale fellesfunksjoner Fellesutgifter andre utleiere Kontorbygg AS 21000
+3 Region Sør 313300 Bufetathus Skien, eiendom Regionale fellesfunksjoner Fellesutgifter andre utleiere Kontorbygg AS -21000
+3 Region Sør 313300 Bufetathus Arendal, eiendom Regionale fellesfunksjoner Renovasjon, vann, avløp o.l. NG SECURE AS (15060314648) 839,1
+3 Region Sør 313300 Bufetathus Arendal, eiendom Regionale fellesfunksjoner Renovasjon, vann, avløp o.l. NG SECURE AS (15060314648) -847,33
+3 Region Sør 313300 Bufetathus Arendal, eiendom Regionale fellesfunksjoner Strøm og oppvarming Ishavskraft AS -14453,69
+3 Region Sør 313300 Bufetathus Arendal, eiendom Regionale fellesfunksjoner Renhold lokaler ISS Facility Services AS -6642,34
+3 Region Sør 313300 Bufetathus Kristiansand, eiendom Regionale fellesfunksjoner Annen kostnad lokaler NG SECURE AS (15060314648) 53,75
+3 Region Sør 313300 Bufetathus Kristiansand, eiendom 31024 Bufetathus Kristiansand Regionale fellesfunksjoner Renhold lokaler ISS Facility Services AS -14329,81
+3 Region Sør 313300 Prosjekt Care 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Leie lokaler fra Statsbygg Statsbyggs hovedkontor 186188
+3 Region Sør 313300 Prosjekt Care 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Strøm og oppvarming Ishavskraft AS 16358,94
+3 Region Sør 313300 Prosjekt Care 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Renhold lokaler Elis Norge AS 477,8
+3 Region Sør 313300 Prosjekt Care 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 3243,2
+3 Region Sør 313300 Sundstedtråkka Barnevernsinstitusjoner Leie lokaler andre utleiere Sameiet Sundet ANS v/ Astrid Ramstad 141640
+3 Region Sør 313300 Sundstedtråkka Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Øvre Eiker Kommune 9916,08
+3 Region Sør 313300 Sundstedtråkka Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Øvre Eiker Kommune 381,99
+3 Region Sør 313300 Sundstedtråkka Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 4228,01
+3 Region Sør 313300 Sundstedtråkka Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 3759,21
+3 Region Sør 313300 Sundstedtråkka Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 4600,43
+3 Region Sør 313300 Sundstedtråkka Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 46660,33
+3 Region Sør 313303 Sundstedtråkka Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 1217
+3 Region Sør 313400 Sundstedtråkka Barnevernsinstitusjoner Renhold lokaler Tor Eriksen Rengjøring AS 2044
+3 Region Sør 313400 Sundstedtråkka Barnevernsinstitusjoner Renhold lokaler Tor Eriksen Rengjøring AS 7500
+3 Region Sør 313400 Sundstedtråkka Barnevernsinstitusjoner Vakthold lokaler Sotera AS 421,25
+3 Region Sør 313400 Sundstedtråkka Barnevernsinstitusjoner Vakthold lokaler Sotera AS 421,25
+3 Region Sør 313400 Sundstedtråkka Barnevernsinstitusjoner Reparasjon og vedlikehold av anlegg, også serviceavtaler Reber Schindler Heis AS 11353,48
+3 Region Sør 313400 Sundstedtråkka Barnevernsinstitusjoner Reparasjon og vedlikehold av anlegg, også serviceavtaler SØR-ØST 110 IKS 8510
+3 Region Sør 313400 Kantum Barnevernsinstitusjoner Leie lokaler andre utleiere Eiker Eiendomsutvikling as 33292
+3 Region Sør 313400 Kantum Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Eiker Eiendomsutvikling as 2000
+3 Region Sør 313400 Kantum Barnevernsinstitusjoner Strøm og oppvarming Eurocard Norway 2800
+3 Region Sør 313400 Kantum Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 8487,67
+3 Region Sør 313400 Klokkerhuset ungdomssenter akutt 31022 Bufetathus Skien Barnevernsinstitusjoner Leie lokaler andre utleiere Kontorbygg AS 7046,63
+3 Region Sør 313400 Klokkerhuset ungdomssenter akutt 31022 Bufetathus Skien Barnevernsinstitusjoner Renhold lokaler MASKE AS 9,54
+3 Region Sør 313400 Klokkerhuset ungdomssenter akutt 31022 Bufetathus Skien Barnevernsinstitusjoner Fellesutgifter andre utleiere Kontorbygg AS 724,5
+3 Region Sør 313400 Klokkerhuset us. beredskapshjem 31022 Bufetathus Skien Fosterhjem Leie lokaler andre utleiere Kontorbygg AS 14093,25
+3 Region Sør 313400 Klokkerhuset us. beredskapshjem 31022 Bufetathus Skien Fosterhjem Renhold lokaler MASKE AS 19,08
+3 Region Sør 313400 Klokkerhuset us. beredskapshjem 31022 Bufetathus Skien Fosterhjem Fellesutgifter andre utleiere Kontorbygg AS 1449
+3 Region Sør 313400 Klokkerhuset us. beredskapshjem 31023 Bufetathus Arendal Fosterhjem Renovasjon, vann, avløp o.l. NG SECURE AS (15060314648) 149,64
+3 Region Sør 313400 Klokkerhuset us. beredskapshjem 31023 Bufetathus Arendal Fosterhjem Strøm og oppvarming Ishavskraft AS 3115,21
+3 Region Sør 313400 Klokkerhuset us. beredskapshjem 31023 Bufetathus Arendal Fosterhjem Strøm og oppvarming Ishavskraft AS 2552,52
+3 Region Sør 313400 Klokkerhuset us. beredskapshjem 31023 Bufetathus Arendal Fosterhjem Renhold lokaler Elis Norge AS 188,86
+3 Region Sør 313400 Klokkerhuset us. beredskapshjem 31023 Bufetathus Arendal Fosterhjem Renhold lokaler ISS Facility Services AS 1173,04
+3 Region Sør 313400 Klokkerhuset us. beredskapshjem 31024 Bufetathus Kristiansand Fosterhjem Renhold lokaler ISS Facility Services AS 366,84
+3 Region Sør 313400 Klokkerhuset Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Eurocard Norway 100
+3 Region Sør 313400 Klokkerhuset Barnevernsinstitusjoner Renhold lokaler Europris Butikkdrift AS 559,72
+3 Region Sør 313400 Klokkerhuset Barnevernsinstitusjoner Renhold lokaler MAGNUS VELKOM AS 488,02
+3 Region Sør 313400 Klokkerhuset Barnevernsinstitusjoner Annen kostnad lokaler Europris Butikkdrift AS 48
+3 Region Sør 313400 Klokkerhuset Barnevernsinstitusjoner Annen kostnad lokaler MAGNUS VELKOM AS 830,6
+3 Region Sør 313400 Spisskompetansemiljø for akuttarbeid 31022 Bufetathus Skien Fosterhjem Leie lokaler andre utleiere Kontorbygg AS 35212,7
+3 Region Sør 313400 Spisskompetansemiljø for akuttarbeid 31022 Bufetathus Skien Fosterhjem Renhold lokaler MASKE AS 47,67
+3 Region Sør 313400 Spisskompetansemiljø for akuttarbeid 31022 Bufetathus Skien Fosterhjem Fellesutgifter andre utleiere Kontorbygg AS 3620,4
+3 Region Sør 313400 Kartleggingsteam ungdom 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Leie lokaler fra Statsbygg Statsbyggs hovedkontor 95514,44
+3 Region Sør 313400 Kartleggingsteam ungdom 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Strøm og oppvarming Ishavskraft AS 5013
+3 Region Sør 313400 Kartleggingsteam ungdom 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 32500
+3 Region Sør 313400 Kartleggingsteam ungdom 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 8505,6
+3 Region Sør 313400 Enhet for inntak i Bufetat, region sør 31020 Bufetathus Drammen Inntak Renhold lokaler Elis Norge AS 835,55
+3 Region Sør 313400 Enhet for inntak i Bufetat, region sør 31020 Bufetathus Drammen Inntak Renhold lokaler Elis Norge AS 897
+3 Region Sør 313400 Enhet for inntak i Bufetat, region sør 31020 Bufetathus Drammen Inntak Renhold lokaler Solvask AS 2220,85
+3 Region Sør 313400 Enhet for inntak i Bufetat, region sør 31021 Bufetathus Tønsberg Inntak Renhold lokaler ISS Facility Services AS 6504,05
+3 Region Sør 313400 Enhet for inntak i Bufetat, region sør 31022 Bufetathus Skien Inntak Leie lokaler andre utleiere Kontorbygg AS 63378,78
+3 Region Sør 313400 Enhet for inntak i Bufetat, region sør 31022 Bufetathus Skien Inntak Renhold lokaler MASKE AS 85,81
+3 Region Sør 313400 Enhet for inntak i Bufetat, region sør 31022 Bufetathus Skien Inntak Fellesutgifter andre utleiere Kontorbygg AS 6516,3
+3 Region Sør 313400 Enhet for inntak i Bufetat, region sør 31024 Bufetathus Kristiansand Inntak Renhold lokaler ISS Facility Services AS 1470,24
+3 Region Sør 313400 Fosterhjemstjenesten i Bufetat, region sør 31020 Bufetathus Drammen Fosterhjemstjenesten Renhold lokaler Elis Norge AS 557,04
+3 Region Sør 313400 Fosterhjemstjenesten i Bufetat, region sør 31020 Bufetathus Drammen Fosterhjemstjenesten Renhold lokaler Elis Norge AS 598
+3 Region Sør 313400 Fosterhjemstjenesten i Bufetat, region sør 31020 Bufetathus Drammen Fosterhjemstjenesten Renhold lokaler Solvask AS 1480,57
+3 Region Sør 313401 Fosterhjemstjenesten i Bufetat, region sør 31021 Bufetathus Tønsberg Fosterhjemstjenesten Renhold lokaler ISS Facility Services AS 3501,84
+3 Region Sør 313401 Fosterhjemstjenesten i Bufetat, region sør 31022 Bufetathus Skien Fosterhjemstjenesten Leie lokaler andre utleiere Kontorbygg AS 56352,58
+3 Region Sør 313401 Fosterhjemstjenesten i Bufetat, region sør 31022 Bufetathus Skien Fosterhjemstjenesten Renhold lokaler MASKE AS 76,29
+3 Region Sør 313401 Fosterhjemstjenesten i Bufetat, region sør 31022 Bufetathus Skien Fosterhjemstjenesten Fellesutgifter andre utleiere Kontorbygg AS 5793,9
+3 Region Sør 313401 Fosterhjemstjenesten i Bufetat, region sør 31023 Bufetathus Arendal Fosterhjemstjenesten Renovasjon, vann, avløp o.l. NG SECURE AS (15060314648) 299,11
+3 Region Sør 313401 Fosterhjemstjenesten i Bufetat, region sør 31023 Bufetathus Arendal Fosterhjemstjenesten Strøm og oppvarming Ishavskraft AS 6228,65
+3 Region Sør 313401 Fosterhjemstjenesten i Bufetat, region sør 31023 Bufetathus Arendal Fosterhjemstjenesten Strøm og oppvarming Ishavskraft AS 5102,15
+3 Region Sør 313401 Fosterhjemstjenesten i Bufetat, region sør 31023 Bufetathus Arendal Fosterhjemstjenesten Renhold lokaler Elis Norge AS 377,6
+3 Region Sør 313402 Fosterhjemstjenesten i Bufetat, region sør 31023 Bufetathus Arendal Fosterhjemstjenesten Renhold lokaler ISS Facility Services AS 2344,75
+3 Region Sør 313402 Fosterhjemstjenesten i Bufetat, region sør 31024 Bufetathus Kristiansand Fosterhjemstjenesten Renhold lokaler ISS Facility Services AS 2940,48
+3 Region Sør 313403 Fosterhjemstjenesten Bufetat region SØR, avdeling Buskerud 31026 Bufetathus Kongsberg Fosterhjemstjenesten Leie lokaler andre utleiere 1,67
+3 Region Sør 313406 Fosterhjemstjenesten Bufetat region SØR, avdeling Buskerud 31026 Bufetathus Kongsberg Fosterhjemstjenesten Leie lokaler andre utleiere -1,67
+3 Region Sør 313406 Fosterhjemstjenesten Bufetat region SØR, avdeling Buskerud 31026 Bufetathus Kongsberg Fosterhjemstjenesten Fellesutgifter andre utleiere 0
+3 Region Sør 313406 Fosterhjemstjenesten Bufetat region SØR, avdeling Buskerud 31026 Bufetathus Kongsberg Fosterhjemstjenesten Fellesutgifter andre utleiere 0
+3 Region Sør 313406 Fosterhjemstjenesten Bufetat region SØR, avdeling Telemark Fosterhjemstjenesten Annen kostnad lokaler Kontorbygg AS -2238,75
+3 Region Sør 313406 Fosterhjemstjenesten Bufetat region SØR, avdeling Telemark Fosterhjemstjenesten Reparasjon og vedlikehold leide lokaler Kontorbygg AS 2238,75
+3 Region Sør 313406 SKM opplæring fosterhjem 31020 Bufetathus Drammen Fosterhjemstjenesten Renhold lokaler Elis Norge AS 209,12
+3 Region Sør 313406 SKM opplæring fosterhjem 31020 Bufetathus Drammen Fosterhjemstjenesten Renhold lokaler Elis Norge AS 224,5
+3 Region Sør 313406 SKM opplæring fosterhjem 31020 Bufetathus Drammen Fosterhjemstjenesten Renhold lokaler Solvask AS 555,82
+3 Region Sør 313406 SKM opplæring fosterhjem 31024 Bufetathus Kristiansand Fosterhjemstjenesten Renhold lokaler ISS Facility Services AS 1471,67
+3 Region Sør 313406 Familieråd i Fosterhjemstjenesten 31024 Bufetathus Kristiansand Hjelpetiltak i hjemmet Renhold lokaler ISS Facility Services AS 1101,96
+3 Region Sør 313406 St.Hansgården Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 104067
+3 Region Sør 313406 St.Hansgården Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 25856,84
+3 Region Sør 313406 St.Hansgården Barnevernsinstitusjoner Renhold lokaler Nor Tekstil AS 1360,25
+3 Region Sør 313406 St.Hansgården Barnevernsinstitusjoner Renhold lokaler Nor Tekstil AS 806,46
+3 Region Sør 313406 St.Hansgården Barnevernsinstitusjoner Vakthold lokaler AS Skan-Kontroll 6090
+3 Region Sør 313406 St.Hansgården Barnevernsinstitusjoner Annen kostnad lokaler Elektroverkstedet AS 1663,75
+3 Region Sør 313406 St.Hansgården Barnevernsinstitusjoner Annen kostnad lokaler FR Supply AS 1522,5
+3 Region Sør 313407 St.Hansgården Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 75938
+3 Region Sør 313407 St.Hansgården Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 24050
+3 Region Sør 313407 Barkåker. Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 1033160
+3 Region Sør 313407 Barkåker. Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 11363,01
+3 Region Sør 313407 Barkåker. Barnevernsinstitusjoner Vakthold lokaler Sotera AS 430
+3 Region Sør 313407 Barkåker. Barnevernsinstitusjoner Vakthold lokaler Sotera AS 43,75
+3 Region Sør 313407 Barkåker. Barnevernsinstitusjoner Vakthold lokaler Sotera AS 342,5
+3 Region Sør 313407 Barkåker. Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 198750
+3 Region Sør 313407 Barkåker. Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold 28025
+3 Region Sør 313601 Barkåker. Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler -28025
+3 Region Sør 313601 Barkåker. Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Statsbyggs hovedkontor 28025
+3 Region Sør 313601 Barkåker. Barnevernsinstitusjoner Reparasjon og vedlikehold av anlegg, også serviceavtaler SØR-ØST 110 IKS 13956
+3 Region Sør 313701 Buskerud barne- og familiesenter Adm Sentre for foreldre og barn Renovasjon, vann, avløp o.l. Drammen Kommune 4534,06
+3 Region Sør 313701 Buskerud barne- og familiesenter Adm Sentre for foreldre og barn Strøm og oppvarming Entelios AS 21671,38
+3 Region Sør 321100 Buskerud barne- og familiesenter Adm Sentre for foreldre og barn Vakthold lokaler SØR-ØST 110 IKS 4408,55
+3 Region Sør 321100 Buskerud barne- og familiesenter Adm Sentre for foreldre og barn Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 33001,41
+3 Region Sør 321100 Buskerud barne- og familiesenter Adm Sentre for foreldre og barn Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 37891,7
+3 Region Sør 321100 Buskerud barne- og familiesenter Adm Fosterhjem Renovasjon, vann, avløp o.l. Drammen Kommune 7720,15
+3 Region Sør 321100 Buskerud barne- og familiesenter Adm Fosterhjem Strøm og oppvarming Entelios AS 36899,92
+3 Region Sør 321100 Buskerud barne- og familiesenter Adm Fosterhjem Vakthold lokaler SØR-ØST 110 IKS 7506,45
+3 Region Sør 321100 Buskerud barne- og familiesenter Adm Fosterhjem Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 56191,59
+3 Region Sør 321100 Buskerud barne- og familiesenter Adm Fosterhjem Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 64518,3
+3 Region Sør 321100 Avdeling Familiebehandling Sentre for foreldre og barn Renhold lokaler ISS Facility Services AS 933,75
+3 Region Sør 321100 Vestfold barne- og familiesenter Adm 31021 Bufetathus Tønsberg Sentre for foreldre og barn Renhold lokaler ISS Facility Services AS 5002,94
+3 Region Sør 321200 Vestfold barne- og familiesenter Adm 31021 Bufetathus Tønsberg Fosterhjem Renhold lokaler ISS Facility Services AS 3501,84
+3 Region Sør 321200 Avdeling Holtanløkka Sentre for foreldre og barn Strøm og oppvarming Ishavskraft AS 475,82
+3 Region Sør 321200 Avdeling Holtanløkka Sentre for foreldre og barn Strøm og oppvarming Ishavskraft AS 14331,07
+3 Region Sør 321200 Telemark barne- og familiesenter Adm Sentre for foreldre og barn Leie lokaler fra Statsbygg Statsbyggs hovedkontor 139641
+3 Region Sør 321200 Telemark barne- og familiesenter Adm Sentre for foreldre og barn Strøm og oppvarming Ishavskraft AS 12269,21
+3 Region Sør 321200 Telemark barne- og familiesenter Adm Sentre for foreldre og barn Renhold lokaler Elis Norge AS 955,6
+3 Region Sør 321200 Telemark barne- og familiesenter Adm Sentre for foreldre og barn Annen kostnad lokaler Gulset Isenkram AS 512,8
+3 Region Sør 321200 Telemark barne- og familiesenter Adm Sentre for foreldre og barn Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 2432,4
+3 Region Sør 321200 Telemark barne- og familiesenter Adm Fosterhjem Leie lokaler fra Statsbygg Statsbyggs hovedkontor 139641
+3 Region Sør 321200 Telemark barne- og familiesenter Adm Fosterhjem Strøm og oppvarming Ishavskraft AS 12269,2
+3 Region Sør 321200 Telemark barne- og familiesenter Adm Fosterhjem Renhold lokaler Elis Norge AS 955,6
+3 Region Sør 321200 Telemark barne- og familiesenter Adm Fosterhjem Annen kostnad lokaler Gulset Isenkram AS 512,8
+3 Region Sør 321200 Telemark barne- og familiesenter Adm Fosterhjem Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 2432,4
+3 Region Sør 321200 Avdeling familiebehandling Sentre for foreldre og barn Leie lokaler fra Statsbygg Statsbyggs hovedkontor 143271,56
+3 Region Sør 321200 Avdeling familiebehandling Sentre for foreldre og barn Strøm og oppvarming Ishavskraft AS 28603,7
+3 Region Sør 321200 Avdeling familiebehandling Sentre for foreldre og barn Strøm og oppvarming Ishavskraft AS 7521,37
+3 Region Sør 321200 Avdeling familiebehandling Sentre for foreldre og barn Annen kostnad lokaler Kid Interiør AS 154,79
+3 Region Sør 321200 Avdeling familiebehandling Sentre for foreldre og barn Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 48750
+3 Region Sør 321300 Avdeling familiebehandling Sentre for foreldre og barn Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 12758,4
+3 Region Sør 321300 Agder barne- og familiesenter Adm 31024 Bufetathus Kristiansand Sentre for foreldre og barn Renhold lokaler ISS Facility Services AS 183,42
+3 Region Sør 321300 Agder barne- og familiesenter Adm 31024 Bufetathus Kristiansand Fosterhjem Renhold lokaler ISS Facility Services AS 183,42
+3 Region Sør 321300 Familiehjem 31024 Bufetathus Kristiansand Fosterhjem Renhold lokaler ISS Facility Services AS 366,84
+3 Region Sør 321300 Avdeling fosterhjemsbaserte tiltak 31023 Bufetathus Arendal Fosterhjem Renovasjon, vann, avløp o.l. NG SECURE AS (15060314648) 99,65
+3 Region Sør 321300 Avdeling fosterhjemsbaserte tiltak 31023 Bufetathus Arendal Fosterhjem Strøm og oppvarming Ishavskraft AS 2075,63
+3 Region Sør 321400 Avdeling fosterhjemsbaserte tiltak 31023 Bufetathus Arendal Fosterhjem Strøm og oppvarming Ishavskraft AS 1699,75
+3 Region Sør 321400 Avdeling fosterhjemsbaserte tiltak 31023 Bufetathus Arendal Fosterhjem Renhold lokaler Elis Norge AS 125,83
+3 Region Sør 321400 Avdeling fosterhjemsbaserte tiltak 31023 Bufetathus Arendal Fosterhjem Renhold lokaler ISS Facility Services AS 781,14
+3 Region Sør 321400 Avdeling fosterhjemsbaserte tiltak 31024 Bufetathus Kristiansand Fosterhjem Renhold lokaler ISS Facility Services AS 1101,96
+3 Region Sør 321400 Harebakken Sentre for foreldre og barn Strøm og oppvarming Ishavskraft AS 6842,56
+3 Region Sør 321400 Utredningsteam 31023 Bufetathus Arendal Hjelpetiltak i hjemmet Renovasjon, vann, avløp o.l. NG SECURE AS (15060314648) 49,82
+3 Region Sør 321400 Utredningsteam 31023 Bufetathus Arendal Hjelpetiltak i hjemmet Strøm og oppvarming Ishavskraft AS 1037,81
+3 Region Sør 321400 Utredningsteam 31023 Bufetathus Arendal Hjelpetiltak i hjemmet Strøm og oppvarming Ishavskraft AS 849,88
+3 Region Sør 321400 Utredningsteam 31023 Bufetathus Arendal Hjelpetiltak i hjemmet Renhold lokaler Elis Norge AS 62,92
+3 Region Sør 321400 Utredningsteam 31023 Bufetathus Arendal Hjelpetiltak i hjemmet Renhold lokaler ISS Facility Services AS 390,57
+3 Region Sør 321400 Utredningsteam 31024 Bufetathus Kristiansand Hjelpetiltak i hjemmet Renhold lokaler ISS Facility Services AS 366,84
+3 Region Sør 321400 Familievernkontoret i Vestfold Familieverntjeneste Vakthold lokaler Avarn Security AS 2512,77
+3 Region Sør 321400 Familievernkontoret i Buskerud Familieverntjeneste Renhold lokaler Elis Norge AS 4355
+3 Region Sør 321400 Familievernkontoret i Buskerud Familieverntjeneste Renhold lokaler Insider Facility Solutions AS 2116,25
+3 Region Sør 321400 Familievernkontoret i Buskerud Familieverntjeneste Renhold lokaler Solvask AS 9065,73
+3 Region Sør 321400 SKM foreldrestøtte Familieverntjeneste Renhold lokaler ISS Facility Services AS 34527,64
+3 Region Sør 321400 Relasjonsfokusert familieterapi (RFT) Familieverntjeneste Renhold lokaler Elis Norge AS 1348
+3 Region Sør 321400 Relasjonsfokusert familieterapi (RFT) Familieverntjeneste Leie parkeringsplass Aimo Park Norway AS 1970
+3 Region Sør 321402 Avdeling familiehjem 31026 Bufetathus Kongsberg Fosterhjem Leie lokaler andre utleiere 1,33
+3 Region Sør 321402 Avdeling familiehjem 31026 Bufetathus Kongsberg Fosterhjem Leie lokaler andre utleiere -1,33
+3 Region Sør 321402 Avdeling familiehjem 31026 Bufetathus Kongsberg Fosterhjem Fellesutgifter andre utleiere 0
+3 Region Sør 321402 Avdeling familiehjem 31026 Bufetathus Kongsberg Fosterhjem Fellesutgifter andre utleiere 0
+3 Region Sør 321402 Telemark ungdomssenter 31021 Bufetathus Tønsberg Barnevernsinstitusjoner Renhold lokaler ISS Facility Services AS 499,63
+3 Region Sør 321402 Telemark ungdomssenter 31023 Bufetathus Arendal Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 1037,81
+3 Region Sør 321402 Telemark ungdomssenter 31023 Bufetathus Arendal Barnevernsinstitusjoner Renhold lokaler Elis Norge AS 62,92
+3 Region Sør 321402 Telemark ungdomssenter 36003 Standardisert forløp F3 Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. NG SECURE AS (15060314648) 49,82
+3 Region Sør 321402 Telemark ungdomssenter 36003 Standardisert forløp F3 Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 849,88
+3 Region Sør 321403 Telemark ungdomssenter 36003 Standardisert forløp F3 Barnevernsinstitusjoner Renhold lokaler ISS Facility Services AS 390,57
+3 Region Sør 321403 Avdeling Miljøheimen Barnevernsinstitusjoner Leie lokaler andre utleiere Bråstøyl og Kasland, utleiere 5000
+3 Region Sør 321403 Avdeling Miljøheimen Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 122750
+3 Region Sør 321403 Avdeling Miljøheimen Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Renovest IKS 2032,5
+3 Region Sør 321403 Avdeling Miljøheimen Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 29616,13
+3 Region Sør 321403 Avdeling Miljøheimen Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 3833,71
+3 Region Sør 321403 Avdeling Miljøheimen Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 8145,56
+3 Region Sør 321403 Avdeling Miljøheimen Barnevernsinstitusjoner Renhold lokaler Spar Bratland Vinje, Vinje 39,9
+3 Region Sør 321403 Avdeling Miljøheimen Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 66250
+3 Region Sør 321403 Avdeling Miljøheimen Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 16034
+3 Region Sør 321403 Avdeling Kjørbekk Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 104500
+3 Region Sør 321403 Avdeling Kjørbekk Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 19228,4
+3 Region Sør 321403 Avdeling Kjørbekk Barnevernsinstitusjoner Renhold lokaler NORGESGRUPPEN FINANS AS 192,24
+3 Region Sør 321403 Avdeling Kjørbekk Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 53750
+3 Region Sør 321403 Avdeling Kjørbekk Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 10940
+3 Region Sør 321403 Avdeling Kjørbekk Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler AS BRANN OG SIKRINGSERVICE 4754,2
+3 Region Sør 321403 Agder ungdomshjem 31023 Bufetathus Arendal Sentre for foreldre og barn Renovasjon, vann, avløp o.l. NG SECURE AS (15060314648) 24,91
+3 Region Sør 321403 Agder ungdomshjem 31023 Bufetathus Arendal Sentre for foreldre og barn Strøm og oppvarming Ishavskraft AS 520,67
+3 Region Sør 321403 Agder ungdomshjem 31023 Bufetathus Arendal Sentre for foreldre og barn Strøm og oppvarming Ishavskraft AS 424,94
+3 Region Sør 321403 Agder ungdomshjem 31023 Bufetathus Arendal Sentre for foreldre og barn Renhold lokaler Elis Norge AS 31,57
+3 Region Sør 321404 Agder ungdomshjem 31023 Bufetathus Arendal Sentre for foreldre og barn Renhold lokaler ISS Facility Services AS 195,28
+3 Region Sør 321404 Agder ungdomshjem 31023 Bufetathus Arendal Fosterhjem Renovasjon, vann, avløp o.l. NG SECURE AS (15060314648) 24,91
+3 Region Sør 321404 Agder ungdomshjem 31023 Bufetathus Arendal Fosterhjem Strøm og oppvarming Ishavskraft AS 520,67
+3 Region Sør 321404 Agder ungdomshjem 31023 Bufetathus Arendal Fosterhjem Strøm og oppvarming Ishavskraft AS 424,94
+3 Region Sør 321404 Agder ungdomshjem 31023 Bufetathus Arendal Fosterhjem Renhold lokaler Elis Norge AS 31,57
+3 Region Sør 321404 Agder ungdomshjem 31023 Bufetathus Arendal Fosterhjem Renhold lokaler ISS Facility Services AS 195,28
+3 Region Sør 321404 Agder spesialiserte fosterhjem 31023 Bufetathus Arendal Fosterhjem Renovasjon, vann, avløp o.l. NG SECURE AS (15060314648) 49,82
+3 Region Sør 321404 Agder spesialiserte fosterhjem 31023 Bufetathus Arendal Fosterhjem Strøm og oppvarming Ishavskraft AS 1037,82
+3 Region Sør 321405 Agder spesialiserte fosterhjem 31023 Bufetathus Arendal Fosterhjem Strøm og oppvarming Ishavskraft AS 849,88
+3 Region Sør 321405 Agder spesialiserte fosterhjem 31023 Bufetathus Arendal Fosterhjem Renhold lokaler Elis Norge AS 62,92
+3 Region Sør 321405 Agder spesialiserte fosterhjem 31023 Bufetathus Arendal Fosterhjem Renhold lokaler ISS Facility Services AS 390,57
+3 Region Sør 321405 Agder spesialiserte fosterhjem 31024 Bufetathus Kristiansand Fosterhjem Renhold lokaler ISS Facility Services AS 1837,08
+3 Region Sør 321405 Tovdal Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 29750
+3 Region Sør 321405 Tovdal Barnevernsinstitusjoner Strøm og oppvarming Glitre Nett AS 5361,57
+3 Region Sør 321405 Tovdal Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 14288
+3 Region Sør 321405 Tovdal Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 2720
+3 Region Sør 321405 Avdeling Nes Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 172250
+3 Region Sør 321405 Avdeling Nes Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 1904,47
+3 Region Sør 321405 Avdeling Nes Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 13936,88
+3 Region Sør 321405 Avdeling Nes Barnevernsinstitusjoner Annen kostnad lokaler Felleskjøpet Rogaland Agder 418
+3 Region Sør 321405 Avdeling Nes Barnevernsinstitusjoner Annen kostnad lokaler Europris Butikkdrift AS 1838,95
+3 Region Sør 321405 Avdeling Nes Barnevernsinstitusjoner Annen kostnad lokaler Biltema Norge AS 1942,1
+3 Region Sør 321405 Avdeling Nes Barnevernsinstitusjoner Annen kostnad lokaler Eurocard Norway 77
+3 Region Sør 321405 Avdeling Nes Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 67888
+3 Region Sør 321405 Avdeling Nes Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 25704
+3 Region Sør 321405 Avdeling Nes 32019 Prosjekt Styrebolig Barnevernsinstitusjoner Annen kostnad lokaler Kid Interiør AS 12424,15
+3 Region Sør 322100 Furuly Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 180453
+3 Region Sør 322100 Furuly Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 32668,3
+3 Region Sør 322100 Furuly Barnevernsinstitusjoner Vakthold lokaler AS Skan-Kontroll 4567,5
+3 Region Sør 322100 Furuly Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 67325
+3 Region Sør 322100 Furuly Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 17070
+3 Region Sør 322100 Lunde behandlingssenter Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 2302
+3 Region Sør 322200 Lunde behandlingssenter Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 493772
+3 Region Sør 322200 Lunde behandlingssenter Barnevernsinstitusjoner Strøm og oppvarming Entelios AS 37404,97
+3 Region Sør 322200 Lunde behandlingssenter Barnevernsinstitusjoner Renhold lokaler Nor Tekstil AS 738,75
+3 Region Sør 322200 Lunde behandlingssenter Barnevernsinstitusjoner Vakthold lokaler AS Skan-Kontroll 10657,5
+3 Region Sør 322200 Lunde behandlingssenter Barnevernsinstitusjoner Annen kostnad lokaler Låssenteret AS 9305,94
+3 Region Sør 322200 Lunde behandlingssenter Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 71540
+3 Region Sør 322200 Lunde behandlingssenter Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 660
+3 Region Sør 322200 Lunde behandlingssenter Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 20053
+3 Region Sør 322201 Svenner Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 910581
+3 Region Sør 322201 Svenner Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 3676,97
+3 Region Sør 322201 Svenner Barnevernsinstitusjoner Renhold lokaler MASKE AS 1786,15
+3 Region Sør 322201 Svenner Barnevernsinstitusjoner Renhold lokaler NORGESGRUPPEN FINANS AS 323,5
+3 Region Sør 322201 Svenner Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 67500
+3 Region Sør 322201 Svenner Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 14422,8
+3 Region Sør 322202 Svenner Barnevernsinstitusjoner Reparasjon og vedlikehold av anlegg, også serviceavtaler Telia Norge AS 2966,97
+3 Region Sør 322202 Ulabrand Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 607054
+3 Region Sør 322202 Ulabrand Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 2451,31
+3 Region Sør 322202 Ulabrand Barnevernsinstitusjoner Renhold lokaler MASKE AS 1190,78
+3 Region Sør 322202 Ulabrand Barnevernsinstitusjoner Renhold lokaler NORGESGRUPPEN FINANS AS 297,6
+3 Region Sør 322202 Ulabrand Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 45000
+3 Region Sør 322202 Ulabrand Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 9615,2
+3 Region Sør 331601 Ulabrand Barnevernsinstitusjoner Reparasjon og vedlikehold av anlegg, også serviceavtaler Telia Norge AS 1978
+3 Region Sør 331601 Mynten Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 987663
+3 Region Sør 331601 Mynten Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 16717,6
+3 Region Sør 331601 Mynten Barnevernsinstitusjoner Annen kostnad lokaler PLANTASJEN NORGE AS 630,9
+3 Region Sør 331601 Mynten Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 80250
+3 Region Sør 331601 Mynten Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 13727
+3 Region Sør 331601 Knuten Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 658442
+3 Region Sør 331601 Knuten Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 11145,07
+3 Region Sør 331700 Knuten Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 53500
+3 Region Sør 331700 Knuten Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 9151
+3 Region Sør 331700 Thorøya Barnevernsinstitusjoner Renhold lokaler REMA 1000 MOFLATA(15033440445) 134
+3 Region Sør 331700 Thorøya Barnevernsinstitusjoner Annen kostnad lokaler CERTEGO AS, Bergen 2446,85
+3 Region Sør 331700 Thorøya Barnevernsinstitusjoner Annen kostnad lokaler NORSK BRANNVERN AS 1245
+3 Region Sør 331700 Thorøya Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Frøiland Bygg Skade AS 3881
+3 Region Sør 331700 Thorøya Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler WENMA AS 744
+3 Region Sør 331700 BVT behandling ungdom Adm 31021 Bufetathus Tønsberg Barnevernsinstitusjoner Leie lokaler andre utleiere -21922,11
+3 Region Sør 331700 BVT behandling ungdom Adm 31021 Bufetathus Tønsberg Barnevernsinstitusjoner Renhold lokaler -499,63
+3 Region Sør 331700 BVT behandling ungdom Adm 31021 Bufetathus Tønsberg Barnevernsinstitusjoner Renhold lokaler ISS Facility Services AS 499,63
+3 Region Sør 331700 BVT behandling ungdom Adm 31021 Bufetathus Tønsberg Barnevernsinstitusjoner Vakthold lokaler -209,15
+3 Region Sør 331700 BVT behandling ungdom Adm 31021 Bufetathus Tønsberg Barnevernsinstitusjoner Leie parkeringsplass 2647,5
+3 Region Sør 331700 BVT behandling ungdom Adm 31021 Bufetathus Tønsberg Barnevernsinstitusjoner Fellesutgifter andre utleiere -2455,79
+3 Region Sør 331700 BVT behandling ungdom Adm 31021 Bufetathus Tønsberg Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler 10,51
+3 Region Sør 331700 BVT behandling ungdom Adm 31021 Bufetathus Tønsberg Barnevernsinstitusjoner Reparasjon og vedlikehold av anlegg, også serviceavtaler 11,18
+3 Region Sør 331700 BVT behandling ungdom Adm 31021 Bufetathus Tønsberg Hjelpetiltak i hjemmet Leie lokaler andre utleiere -2038,72
+3 Region Sør 331700 MST Vestfold 1 31021 Bufetathus Tønsberg Hjelpetiltak i hjemmet Leie lokaler andre utleiere -5096,79
+3 Region Sør 331700 Agder ungdomssenter 31024 Bufetathus Kristiansand Barnevernsinstitusjoner Renhold lokaler ISS Facility Services AS 366,84
+3 Region Sør 331700 MST 1 31024 Bufetathus Kristiansand Hjelpetiltak i hjemmet Renhold lokaler ISS Facility Services AS 2205,36
+3 Region Sør 331706 MST 2 31023 Bufetathus Arendal Hjelpetiltak i hjemmet Renovasjon, vann, avløp o.l. NG SECURE AS (15060314648) 99,65
+3 Region Sør 331706 MST 2 31023 Bufetathus Arendal Hjelpetiltak i hjemmet Strøm og oppvarming Ishavskraft AS 2075,63
+3 Region Sør 331706 MST 2 31023 Bufetathus Arendal Hjelpetiltak i hjemmet Strøm og oppvarming Ishavskraft AS 1699,75
+3 Region Sør 331708 MST 2 31023 Bufetathus Arendal Hjelpetiltak i hjemmet Renhold lokaler Elis Norge AS 125,83
+3 Region Sør 331708 MST 2 31023 Bufetathus Arendal Hjelpetiltak i hjemmet Renhold lokaler ISS Facility Services AS 781,14
+3 Region Sør 331800 MST 2 31024 Bufetathus Kristiansand Hjelpetiltak i hjemmet Renhold lokaler ISS Facility Services AS 366,84
+3 Region Sør 331800 Avdeling Skomrak Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 76750
+3 Region Sør 331800 Avdeling Skomrak Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 10702,99
+3 Region Sør 331800 Avdeling Skomrak Barnevernsinstitusjoner Vakthold lokaler AS Skan-Kontroll 4567,5
+3 Region Sør 331800 Avdeling Skomrak Barnevernsinstitusjoner Annen kostnad lokaler Europris Butikkdrift AS 845
+3 Region Sør 331800 Avdeling Skomrak Barnevernsinstitusjoner Annen kostnad lokaler Eurocard Norway 269
+3 Region Sør 331800 Avdeling Skomrak Barnevernsinstitusjoner Annen kostnad lokaler Ikea AS - IKKE BRUK, bruk 78489 328
+3 Region Sør 331800 Avdeling Skomrak Barnevernsinstitusjoner Annen kostnad lokaler FRANK BERGE 1750
+3 Region Sør 331800 Avdeling Skomrak Barnevernsinstitusjoner Annen kostnad lokaler Jysk AS 82,8
+3 Region Sør 331800 Avdeling Skomrak Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 39515
+3 Region Sør 331800 Avdeling Skomrak Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 6634
+3 Region Sør 331800 Nye Toppen Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 486500
+3 Region Sør 331800 Nye Toppen Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 27829,72
+3 Region Sør 331800 Nye Toppen Barnevernsinstitusjoner Vakthold lokaler AS Skan-Kontroll 6090
+3 Region Sør 331800 Nye Toppen Barnevernsinstitusjoner Annen kostnad lokaler Kid Interiør AS 299,95
+3 Region Sør 331800 Nye Toppen Barnevernsinstitusjoner Annen kostnad lokaler Gustav Pedersen AS 657
+3 Region Sør 331800 Nye Toppen Barnevernsinstitusjoner Annen kostnad lokaler Gustav Pedersen AS 1754,23
+3 Region Sør 331800 Nye Toppen Barnevernsinstitusjoner Annen kostnad lokaler Pelias Norsk Skadedyrkontroll AS 15770,82
+3 Region Sør 331800 Nye Toppen Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 147225
+3 Region Sør 331800 Nye Toppen Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 4500
+3 Region Sør 331800 Skjerven rusbehandling ungdom Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 43052,55
+3 Region Sør 331801 Skjerven rusbehandling ungdom Barnevernsinstitusjoner Strøm og oppvarming Fjordkraft AS 6429,14
+3 Region Sør 331801 Skjerven rusbehandling ungdom Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 18375
+3 Region Sør 331801 Skjerven rusbehandling ungdom Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 4743,9
+3 Region Sør 331801 Nyhuset Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 243964,45
+3 Region Sør 331801 Nyhuset Barnevernsinstitusjoner Strøm og oppvarming Fjordkraft AS 36431,77
+3 Region Sør 331801 Nyhuset Barnevernsinstitusjoner Renhold lokaler Larvik kommune 687,44
+3 Region Sør 331801 Nyhuset Barnevernsinstitusjoner Annen kostnad lokaler HVITTINGFOSS FRUKTLAGER SA 490
+3 Region Sør 331801 Nyhuset Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 104125
+3 Region Sør 331801 Nyhuset Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 26882,1
+3 Region Sør 331801 Wenchebo Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 163175
+3 Region Sør 331801 Wenchebo Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 3012
+3 Region Sør 331801 Katfoss Barnevernsinstitusjoner Leie lokaler andre utleiere Bårud Eiendom A/S 143719
+3 Region Sør 331801 Katfoss Barnevernsinstitusjoner Leie lokaler andre utleiere Bårud Eiendom A/S 6095
+3 Region Sør 331801 Katfoss Barnevernsinstitusjoner Leie lokaler andre utleiere Bårud Eiendom A/S 6095
+3 Region Sør 331801 Katfoss Barnevernsinstitusjoner Strøm og oppvarming Kraftriket AS 24541,23
+3 Region Sør 331801 MST i Bufetat, region sør 31021 Bufetathus Tønsberg Barnevernsinstitusjoner Leie lokaler andre utleiere 21922,11
+3 Region Sør 331801 MST i Bufetat, region sør 31021 Bufetathus Tønsberg Barnevernsinstitusjoner Leie lokaler andre utleiere -21922,11
+3 Region Sør 331801 MST i Bufetat, region sør 31021 Bufetathus Tønsberg Barnevernsinstitusjoner Renhold lokaler 499,63
+3 Region Sør 331801 MST i Bufetat, region sør 31021 Bufetathus Tønsberg Barnevernsinstitusjoner Renhold lokaler -499,63
+3 Region Sør 331805 MST i Bufetat, region sør 31021 Bufetathus Tønsberg Barnevernsinstitusjoner Vakthold lokaler 209,15
+3 Region Sør 331807 MST i Bufetat, region sør 31021 Bufetathus Tønsberg Barnevernsinstitusjoner Vakthold lokaler -209,15
+3 Region Sør 331807 MST i Bufetat, region sør 31021 Bufetathus Tønsberg Barnevernsinstitusjoner Leie parkeringsplass -2647,5
+3 Region Sør 331807 MST i Bufetat, region sør 31021 Bufetathus Tønsberg Barnevernsinstitusjoner Leie parkeringsplass 2647,5
+3 Region Sør 331807 MST i Bufetat, region sør 31021 Bufetathus Tønsberg Barnevernsinstitusjoner Fellesutgifter andre utleiere 2455,79
+3 Region Sør 331807 MST i Bufetat, region sør 31021 Bufetathus Tønsberg Barnevernsinstitusjoner Fellesutgifter andre utleiere -2455,79
+3 Region Sør 331807 MST i Bufetat, region sør 31021 Bufetathus Tønsberg Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler -10,51
+3 Region Sør 331807 MST i Bufetat, region sør 31021 Bufetathus Tønsberg Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler 10,51
+3 Region Sør 331810 MST i Bufetat, region sør 31021 Bufetathus Tønsberg Barnevernsinstitusjoner Reparasjon og vedlikehold av anlegg, også serviceavtaler -11,18
+3 Region Sør 331810 MST i Bufetat, region sør 31021 Bufetathus Tønsberg Barnevernsinstitusjoner Reparasjon og vedlikehold av anlegg, også serviceavtaler 11,18
+3 Region Sør 331810 MST i Bufetat, region sør 31021 Bufetathus Tønsberg Hjelpetiltak i hjemmet Leie lokaler andre utleiere 21922,11
+3 Region Sør 333501 MST i Bufetat, region sør 31021 Bufetathus Tønsberg Hjelpetiltak i hjemmet Leie lokaler andre utleiere 21922,11
+3 Region Sør 333501 MST i Bufetat, region sør 31021 Bufetathus Tønsberg Hjelpetiltak i hjemmet Renhold lokaler 499,63
+3 Region Sør 333501 MST i Bufetat, region sør 31021 Bufetathus Tønsberg Hjelpetiltak i hjemmet Renhold lokaler 499,63
+3 Region Sør 333501 MST i Bufetat, region sør 31021 Bufetathus Tønsberg Hjelpetiltak i hjemmet Renhold lokaler ISS Facility Services AS 499,63
+3 Region Sør 333501 MST i Bufetat, region sør 31021 Bufetathus Tønsberg Hjelpetiltak i hjemmet Vakthold lokaler 209,15
+3 Region Sør 333501 MST i Bufetat, region sør 31021 Bufetathus Tønsberg Hjelpetiltak i hjemmet Vakthold lokaler 209,15
+3 Region Sør 333501 MST i Bufetat, region sør 31021 Bufetathus Tønsberg Hjelpetiltak i hjemmet Leie parkeringsplass -2647,5
+3 Region Sør 333501 MST i Bufetat, region sør 31021 Bufetathus Tønsberg Hjelpetiltak i hjemmet Leie parkeringsplass -2647,5
+3 Region Sør 333801 MST i Bufetat, region sør 31021 Bufetathus Tønsberg Hjelpetiltak i hjemmet Fellesutgifter andre utleiere 2455,79
+3 Region Sør 333801 MST i Bufetat, region sør 31021 Bufetathus Tønsberg Hjelpetiltak i hjemmet Fellesutgifter andre utleiere 2455,79
+3 Region Sør 333802 MST i Bufetat, region sør 31021 Bufetathus Tønsberg Hjelpetiltak i hjemmet Reparasjon og vedlikehold leide lokaler -10,51
+3 Region Sør 333901 MST i Bufetat, region sør 31021 Bufetathus Tønsberg Hjelpetiltak i hjemmet Reparasjon og vedlikehold leide lokaler -10,51
+3 Region Sør 333901 MST i Bufetat, region sør 31021 Bufetathus Tønsberg Hjelpetiltak i hjemmet Reparasjon og vedlikehold av anlegg, også serviceavtaler -11,18
+3 Region Sør 333901 MST i Bufetat, region sør 31021 Bufetathus Tønsberg Hjelpetiltak i hjemmet Reparasjon og vedlikehold av anlegg, også serviceavtaler -11,18
+3 Region Sør 333902 MST Vestfold 1 Hjelpetiltak i hjemmet Strøm og oppvarming SVARSTADHYTTENE AS 351,57
+3 Region Sør 333902 MST Vestfold 1 31021 Bufetathus Tønsberg Hjelpetiltak i hjemmet Leie lokaler andre utleiere 84717,94
+3 Region Sør 333902 MST Vestfold 1 31021 Bufetathus Tønsberg Hjelpetiltak i hjemmet Renhold lokaler 2000,74
+3 Region Sør 333903 MST Vestfold 1 31021 Bufetathus Tønsberg Hjelpetiltak i hjemmet Renhold lokaler ISS Facility Services AS 2000,74
+3 Region Sør 333903 MST Vestfold 1 31021 Bufetathus Tønsberg Hjelpetiltak i hjemmet Vakthold lokaler 837,51
+3 Region Sør 333903 MST Vestfold 1 31021 Bufetathus Tønsberg Hjelpetiltak i hjemmet Leie parkeringsplass -10601,66
+3 Region Sør 333903 MST Vestfold 1 31021 Bufetathus Tønsberg Hjelpetiltak i hjemmet Fellesutgifter andre utleiere 9833,99
+3 Region Sør 334001 MST Vestfold 1 31021 Bufetathus Tønsberg Hjelpetiltak i hjemmet Reparasjon og vedlikehold leide lokaler -42,1
+3 Region Sør 334001 MST Vestfold 1 31021 Bufetathus Tønsberg Hjelpetiltak i hjemmet Reparasjon og vedlikehold av anlegg, også serviceavtaler -44,79
+3 Region Sør 334001 MST Vestfold 2 Hjelpetiltak i hjemmet Strøm og oppvarming SVARSTADHYTTENE AS 351,56
+3 Region Sør 334001 MST Vestfold 2 31022 Bufetathus Skien Hjelpetiltak i hjemmet Leie lokaler andre utleiere Kontorbygg AS 28166,08
+3 Region Sør 334001 MST Vestfold 2 31022 Bufetathus Skien Hjelpetiltak i hjemmet Renhold lokaler MASKE AS 38,13
+3 Region Sør 334001 MST Vestfold 2 31022 Bufetathus Skien Hjelpetiltak i hjemmet Fellesutgifter andre utleiere Kontorbygg AS 2895,9
+3 Region Sør 334001 MST Buskerud 1 Hjelpetiltak i hjemmet Strøm og oppvarming SVARSTADHYTTENE AS 351,56
+3 Region Sør 334001 MST Buskerud 1 31020 Bufetathus Drammen Hjelpetiltak i hjemmet Renhold lokaler Elis Norge AS 348,15
+3 Region Sør 334001 MST Buskerud 1 31020 Bufetathus Drammen Hjelpetiltak i hjemmet Renhold lokaler Elis Norge AS 373,75
+3 Region Sør 334001 MST Buskerud 1 31020 Bufetathus Drammen Hjelpetiltak i hjemmet Renhold lokaler Solvask AS 925,36
+3 Region Sør 343000 MST Buskerud 1 31021 Bufetathus Tønsberg Hjelpetiltak i hjemmet Leie lokaler andre utleiere -79621,15
+3 Region Sør 343000 MST Buskerud 1 31021 Bufetathus Tønsberg Hjelpetiltak i hjemmet Renhold lokaler -2000,74
+3 Region Sør 343000 MST Buskerud 1 31021 Bufetathus Tønsberg Hjelpetiltak i hjemmet Vakthold lokaler -837,51
+3 Region Sør 343000 MST Buskerud 1 31021 Bufetathus Tønsberg Hjelpetiltak i hjemmet Leie parkeringsplass 10601,66
+3 Region Sør 343000 MST Buskerud 1 31021 Bufetathus Tønsberg Hjelpetiltak i hjemmet Fellesutgifter andre utleiere -9833,99
+3 Region Sør 343000 MST Buskerud 1 31021 Bufetathus Tønsberg Hjelpetiltak i hjemmet Reparasjon og vedlikehold leide lokaler 42,1
+3 Region Sør 343000 MST Buskerud 1 31021 Bufetathus Tønsberg Hjelpetiltak i hjemmet Reparasjon og vedlikehold av anlegg, også serviceavtaler 44,79
+3 Region Sør 343000 MST Buskerud 2 Hjelpetiltak i hjemmet Strøm og oppvarming SVARSTADHYTTENE AS 351,56
+3 Region Sør 343000 MST Buskerud 2 31020 Bufetathus Drammen Hjelpetiltak i hjemmet Renhold lokaler Elis Norge AS 348,15
+3 Region Sør 343001 MST Buskerud 2 31020 Bufetathus Drammen Hjelpetiltak i hjemmet Renhold lokaler Elis Norge AS 373,75
+3 Region Sør 343012 MST Buskerud 2 31020 Bufetathus Drammen Hjelpetiltak i hjemmet Renhold lokaler Solvask AS 925,36
+3 Region Sør 343100 MST Buskerud 2 31021 Bufetathus Tønsberg Hjelpetiltak i hjemmet Leie lokaler andre utleiere -19883,39
+3 Region Sør 343100 MST Buskerud 2 31021 Bufetathus Tønsberg Hjelpetiltak i hjemmet Renhold lokaler -499,63
+3 Region Sør 343100 MST Buskerud 2 31021 Bufetathus Tønsberg Hjelpetiltak i hjemmet Vakthold lokaler -209,15
+3 Region Sør 343100 MST Buskerud 2 31021 Bufetathus Tønsberg Hjelpetiltak i hjemmet Leie parkeringsplass 2647,5
+3 Region Sør 343100 MST Buskerud 2 31021 Bufetathus Tønsberg Hjelpetiltak i hjemmet Fellesutgifter andre utleiere -2455,79
+3 Region Sør 343100 MST Buskerud 2 31021 Bufetathus Tønsberg Hjelpetiltak i hjemmet Reparasjon og vedlikehold leide lokaler 10,51
+3 Region Sør 343100 MST Buskerud 2 31021 Bufetathus Tønsberg Hjelpetiltak i hjemmet Reparasjon og vedlikehold av anlegg, også serviceavtaler 11,18
+3 Region Sør 343100 Regionale kostnader Regionale fellesfunksjoner Leie lokaler fra Statsbygg -133000
+3 Region Sør 343100 Regionale kostnader Regionale fellesfunksjoner Renhold lokaler ISS Facility Services AS 9449,69
+3 Region Sør 343101 Regionale kostnader Regionale fellesfunksjoner Renhold lokaler ISS Facility Services AS 9449,69
+3 Region Sør 343101 Regionale kostnader Regionale fellesfunksjoner Fellesutgifter (BAD) Statsbygg -76250
+3 Region Sør 343101 Regionale kostnader Regionale fellesfunksjoner Fellesutgifter Statsbygg - indre vedlikehold -12170
+3 Region Sør 343101 Regionale kostnader Barnevernsinstitusjoner Fast bygningsinventar over kr 50 000 Statsbyggs hovedkontor 486921,12
+3 Region Sør 343101 Regionale kostnader Barnevernsinstitusjoner Oppgradering og påkostning leide lokaler - under kr 50 000 -34605,78
+3 Region Sør 343101 Regionale kostnader Barnevernsinstitusjoner Oppgradering og påkostning leide lokaler - under kr 50 000 FLEXI FLYTTEBYRÅ AS 16281,25
+3 Region Sør 343101 Regionale kostnader 32025 Utgifter leilighet, hytter og hus til oppfølging ungdom Barnevernsinstitusjoner Oppgradering og påkostning leide lokaler - under kr 50 000 Atea AS 3138,19
+3 Region Sør 343101 Bufetathus Drammen, eiendom 31020 Bufetathus Drammen Barnevernsinstitusjoner Renhold lokaler Insider Facility Solutions AS 4315,25
+3 Region Sør 343102 Bufetathus Tønsberg, eiendom Regionale fellesfunksjoner Renhold lokaler ISS Facility Services AS 22010,31
+3 Region Sør 343102 Bufetathus Tønsberg, eiendom Regionale fellesfunksjoner Renhold lokaler ISS Facility Services AS 22010,31
+3 Region Sør 343102 Bufetathus Tønsberg, eiendom Regionale fellesfunksjoner Renhold lokaler ISS Facility Services AS -22010,31
+3 Region Sør 343102 Bufetathus Tønsberg, eiendom 31021 Bufetathus Tønsberg Regionale fellesfunksjoner Leie parkeringsplass Apcoa Parking AS(15030825141) -116629,92
+3 Region Sør 343102 Bufetathus Skien, eiendom Regionale fellesfunksjoner Renhold lokaler MASKE AS 276,53
+3 Region Sør 343102 Bufetathus Skien, eiendom Regionale fellesfunksjoner Renhold lokaler MASKE AS -471,28
+3 Region Sør 343102 Bufetathus Arendal, eiendom Regionale fellesfunksjoner Renovasjon, vann, avløp o.l. NG SECURE AS (15060314648) 847,33
+3 Region Sør 343102 Bufetathus Arendal, eiendom Regionale fellesfunksjoner Renovasjon, vann, avløp o.l. NG SECURE AS (15060314648) -804,68
+3 Region Sør 343102 Bufetathus Arendal, eiendom Regionale fellesfunksjoner Strøm og oppvarming Ishavskraft AS 14453,69
+3 Region Sør 343102 Bufetathus Arendal, eiendom Regionale fellesfunksjoner Strøm og oppvarming Ishavskraft AS -6825,47
+3 Region Sør 343102 Bufetathus Arendal, eiendom Regionale fellesfunksjoner Renhold lokaler ISS Facility Services AS 6642,34
+3 Region Sør 343102 Bufetathus Arendal, eiendom Regionale fellesfunksjoner Renhold lokaler ISS Facility Services AS 6642,34
+3 Region Sør 343102 Bufetathus Arendal, eiendom Regionale fellesfunksjoner Renhold lokaler ISS Facility Services AS -6642,34
+3 Region Sør 343102 Bufetathus Arendal, eiendom Regionale fellesfunksjoner Annen kostnad lokaler Newsec Sør AS -1106,25
+3 Region Sør 343102 Bufetathus Arendal, eiendom 31023 Bufetathus Arendal Regionale fellesfunksjoner Renhold lokaler MASKE AS -1293,05
+3 Region Sør 343102 Bufetathus Kristiansand, eiendom 31024 Bufetathus Kristiansand Regionale fellesfunksjoner Renhold lokaler ISS Facility Services AS 14329,81
+3 Region Sør 343102 Prosjekt Care 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Strøm og oppvarming LEDE AS 1717,72
+3 Region Sør 343104 Prosjekt Care 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Strøm og oppvarming Ishavskraft AS 7514,29
+3 Region Sør 343104 Prosjekt Care 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Renhold lokaler ISS Facility Services AS 1951,76
+3 Region Sør 343104 Prosjekt Care 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Renhold lokaler ISS Facility Services AS 1951,76
+3 Region Sør 343104 Prosjekt Care 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Renhold lokaler Elis Norge AS 364,6
+3 Region Sør 343104 Prosjekt Care 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Vakthold lokaler Securitas AS 536,25
+3 Region Sør 343104 Sundstedtråkka Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Øvre Eiker Kommune 381,99
+3 Region Sør 343105 Sundstedtråkka Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 4221,46
+3 Region Sør 343105 Sundstedtråkka Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 3779,06
+3 Region Sør 343105 Sundstedtråkka Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 4420,6
+3 Region Sør 343105 Sundstedtråkka Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 423,92
+3 Region Sør 344100 Sundstedtråkka Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 41779,18
+3 Region Sør 344101 Sundstedtråkka Barnevernsinstitusjoner Vakthold lokaler Sotera AS 445
+3 Region Sør 344101 Sundstedtråkka Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Løvenskiold Handel AS 1213,15
+3 Region Sør 344101 Sundstedtråkka Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Ask Elektro AS 2106,25
+3 Region Sør 344101 Sundstedtråkka Barnevernsinstitusjoner Reparasjon og vedlikehold av anlegg, også serviceavtaler Addsecure AS 1210
+3 Region Sør 344300 Sundstedtråkka Barnevernsinstitusjoner Reparasjon og vedlikehold av anlegg, også serviceavtaler Honeywell Life Safety AS 3941,95
+3 Region Sør 344300 Sundstedtråkka Barnevernsinstitusjoner Reparasjon og vedlikehold av anlegg, også serviceavtaler Honeywell Life Safety AS 10140,8
+3 Region Sør 344301 Sundstedtråkka Barnevernsinstitusjoner Reparasjon og vedlikehold av anlegg, også serviceavtaler Viken Lås og Sikkerhet AS 10142,88
+3 Region Sør 344400 Sundstedtråkka 35080 Selvassuranse Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler BJ BORGERSEN AS TAKSTFORRETNING 4250
+3 Region Sør 344401 Kantum Barnevernsinstitusjoner Leie lokaler andre utleiere Eiker Eiendomsutvikling as 33292
+3 Region Sør 344402 Kantum Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Eiker Eiendomsutvikling as 2000
+3 Region Sør 344402 Kantum Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 10414,63
+3 Region Sør 344402 Klokkerhuset ungdomssenter akutt 31022 Bufetathus Skien Barnevernsinstitusjoner Leie lokaler andre utleiere Kontorbygg AS 7046,63
+3 Region Sør 344402 Klokkerhuset ungdomssenter akutt 31022 Bufetathus Skien Barnevernsinstitusjoner Renhold lokaler ISS Facility Services AS 34,26
+3 Region Sør 344402 Klokkerhuset ungdomssenter akutt 31022 Bufetathus Skien Barnevernsinstitusjoner Renhold lokaler MASKE AS 16,26
+3 Region Sør 344402 Klokkerhuset ungdomssenter akutt 31022 Bufetathus Skien Barnevernsinstitusjoner Fellesutgifter andre utleiere Kontorbygg AS 724,5
+3 Region Sør 344402 Klokkerhuset us. beredskapshjem 31022 Bufetathus Skien Fosterhjem Leie lokaler andre utleiere Kontorbygg AS 14093,25
+3 Region Sør 344403 Klokkerhuset us. beredskapshjem 31022 Bufetathus Skien Fosterhjem Renhold lokaler ISS Facility Services AS 68,53
+3 Region Sør 344403 Klokkerhuset us. beredskapshjem 31022 Bufetathus Skien Fosterhjem Renhold lokaler MASKE AS 32,52
+3 Region Sør 344403 Klokkerhuset us. beredskapshjem 31022 Bufetathus Skien Fosterhjem Fellesutgifter andre utleiere Kontorbygg AS 1449
+3 Region Sør 344403 Klokkerhuset us. beredskapshjem 31023 Bufetathus Arendal Fosterhjem Renovasjon, vann, avløp o.l. NG SECURE AS (15060314648) 142,11
+3 Region Sør 344403 Klokkerhuset us. beredskapshjem 31023 Bufetathus Arendal Fosterhjem Strøm og oppvarming Ishavskraft AS 1668,44
+3 Region Sør 344403 Klokkerhuset us. beredskapshjem 31023 Bufetathus Arendal Fosterhjem Strøm og oppvarming Ishavskraft AS 1205,38
+3 Region Sør 344403 Klokkerhuset us. beredskapshjem 31023 Bufetathus Arendal Fosterhjem Renhold lokaler Elis Norge AS 188,86

@@ -1,0 +1,27 @@
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv
+.env
+.env.*
+!.env.example
+*.zip
+.git
+.gitignore
+.DS_Store
+backend_deploy.zip
+frontend_deploy.zip
+*.log
+.pytest_cache
+tests/
+alembic/versions/*.pyc
+# Shrink context for Railway (avoid mount timeout / context canceled)
+*.html
+e-dom*.txt
+e-don2*.txt
+e-don2_safe.txt
+match_audit_log.csv

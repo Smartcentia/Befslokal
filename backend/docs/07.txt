@@ -1,0 +1,96 @@
+hought Bufetats energiforvaltning og strømkostnader
+Basert på en gjennomgang av flere tusen regnskapslinjer, er det tydelig at det store flertallet av strømkostnadene i Bufetat håndteres via direkte målere og egne strømavtaler, primært gjennom en sentralisert porteføljeavtale. Viderefakturering fra gårdeier er begrenset til spesifikke kontorlokaler i store næringsbygg.
+Her er fordelingen og detaljene:
+1. Direkte målere og sentralisert innkjøp (Dominerende modell)
+Anslagsvis 80–90 % av enhetene i kildematerialet mottar strømfakturaer direkte fra kraftleverandør eller nettselskap. Dette gjelder nesten alle barnevernsinstitusjoner, omsorgssentre, familiehjem og mange mindre kontorer.
+• Kinect Energy Spot AS: Dette selskapet fungerer som hovedleverandør for hele etaten. Det foreligger et massivt antall transaksjoner til Kinect fra alle regioner, som dekker alt fra store institusjoner som Stavanger Akuttsenter og Røvika til mindre enheter [1-6].
+• Ishavskraft AS: Brukes parallelt i stort omfang, spesielt i Region Nord og Region Midt-Norge, for lokasjoner som Spillumheimen, Tromsø ungdomssenter og Bodø behandlingssenter [7-11].
+• Lokale nettselskaper: Nettleie faktureres direkte fra lokale netteiere som Elvia (Øst), Lnett (Rogaland), BKK (Vest), Tensio (Trøndelag) og Arva (Nord) [12-15].
+Fordel: Denne modellen gir Bufetat full kontroll over forbruksdata og sikrer at de betaler markedspris uten fordyrende administrative påslag fra utleiere.
+--------------------------------------------------------------------------------
+2. Viderefakturering fra gårdeier (Unntakene)
+Denne modellen benyttes nesten utelukkende for regionkontorer og store administrasjonssentre som leier lokaler i komplekse næringsbygg (kjøpesentre, kontorparker) der bygget har felles energisentral eller hvor det er vanskelig å ha egne målere for oppvarming/kjøling.
+Her er de mest prominente tilfellene av viderefakturering:
+• Region Øst - Portalen (Lillestrøm): Her faktureres strøm og oppvarming dels via utleier Portalen Forretning AS [16, 17] og dels via måleselskapet Veni Metering AS [18, 19].
+• Region Sør - Bufetathusene:
+    ◦ Kristiansand (Kvartal 71): Utleier Kvartal 71 AS fakturerer store beløp (f.eks. 137 000 kr og 231 000 kr) spesifisert som «Strøm og oppvarming» [20-22].
+    ◦ Drammen (Grønland 68): Utleier Grønland 68 AS fakturerer månedlige beløp (f.eks. 51 000 – 66 000 kr) for energi [23-25].
+• Region Midt - Pirsenteret (Trondheim): Selv om det ikke er spesifisert som egne strømlinjer i like stor grad, indikerer de høye felleskostnadene til Pirsenteret Drift AS at energi for fellesarealer og ventilasjon ligger her [26, 27].
+• Region Vest - Solheimsviken (Bergen): GC Rieber Eiendom Drift AS fakturerer løpende for strøm og oppvarming for både fellestjenester og familievernkontoret [28-30].
+• Region Vest - Stavanger: Lyse Marked AS fakturerer direkte, men det forekommer også viderefakturering via Statsforvalteren i Rogaland for enheter i Statens Hus [31, 32].
+3. Risiko ved viderefakturering
+Regnskapet viser flere eksempler på store kreditnotaer (tilbakebetalinger) knyttet til strøm fra utleiere, for eksempel fra Kvartal 71 AS [20] og Grønland 68 AS [33]. Dette indikerer at Bufetat betaler høye a-konto beløp (forskudd) til gårdeier, som så må avregnes mot faktisk forbruk i ettertid. Dette binder opp kapital og gjør kostnadskontrollen mer krevende enn ved direkte måling.
+Konklusjon
+Andelen strøm som går via direkte målere er svært høy, sannsynligvis over 85-90 % av bygningsmassen målt i antall lokasjoner. De resterende prosentene representerer imidlertid store, kostbare kontorlokaler i bysentra der Bufetat er prisgitt utleiers energiavtaler og administrative påslag.
+
+Kostnader til hærverk ved barnevernsinstitusjoner
+Basert på regnskapsdataene er «Hærverk» (ofte kodet som art 61006, 32110 eller som «Reparasjon etter skade») en betydelig og gjentakende kostnadspost, spesielt for barnevernsinstitusjonene. Kostnadene er uforutsigbare, men knytter seg ofte til spesifikke lokasjoner med høy aktivitet.
+Her er en gjennomgang av omfanget og de mest utsatte eiendommene:
+1. De mest utsatte institusjonene
+Region Nord
+• Røvika ungdomssenter (Skogly/Åsheim): Denne institusjonen har svært hyppige posteringer merket «Hærverk». Det er omfattende utgifter til glassmester og reparasjoner.
+    ◦ Det er registrert fakturaer til Fauske Glass AS på beløp som 11 625 kr, 18 173 kr, 27 906 kr og en enkeltpost på over 67 000 kr kun merket hærverk [1], [2], [3], [4].
+    ◦ Reparasjoner av låser og inventar utføres av Rørleggern Fauske og Nilsson AS under hærverkskontoen [5], [6].
+• Nye Kvæfjord ungdomssenter (Storheimen/Lilleheimen): Gjentakende kostnader til hærverk, spesielt knyttet til lås og beslag.
+    ◦ Harstad Låsservice AS fakturerer jevnlig beløp (f.eks. 6 925 kr, 7 411 kr) kodet som hærverk på disse byggene [7], [8], [9], [10].
+    ◦ Det er også kostnader til byggevarer (XL-Bygg) knyttet til skadeutbedring [11], [12].
+• Lamo ungdomssenter: Her føres det egne linjer for «Risikoavsetning - Hærverk, enetiltak/skjerming», ofte kombinert med reparasjoner fra lokale håndverkere [13], [14], [15], [16].
+Region Sør
+• St. Hansgården (Skien): Institusjonen har en egen konto for «32110 Hærverk - direkte og indirekte».
+    ◦ Det er betydelige kostnader til Glassmester Thoresen AS (f.eks. 18 615 kr) og Låssenteret AS (fakturaer på over 20 000 kr og 38 000 kr) knyttet direkte til hærverk [17], [18], [19], [20].
+• Thorøya: Denne eiendommen har hatt store kostnader knyttet til både hærverk og brann.
+    ◦ Det er bokført spesifikke kostnader under «Brann på institusjon» med reparasjoner utført av Frøiland Bygg Skade AS (beløp på 255 491 kr og 312 500 kr) [21], [22], [23].
+    ◦ Hærverk utbedres også løpende av glassmestere og elektrikere [24], [25], [26].
+• Nye Toppen: Har løpende hærverkskostnader, blant annet utbedring av skader fakturert av Jysk og Gustav Pedersen AS [27], [28].
+Region Øst
+• Bufetats behandlingssenter Akershus/Østfold (avd. Østheim): Det er registrert store beløp på hærverk, blant annet en faktura til Låssenteret AS på over 46 000 kr [29].
+• Hedmark ungdomssenter (avd. Vien): Det er bokført enorme summer under hærverk til Låssenteret AS, med enkeltposteringer på over 100 000 kr, noe som tyder på omfattende skader på dører/adgangssystemer eller full utskiftning etter hendelser [30].
+• Ringerike omsorgssenter (avd. Bredal): Har spesifikke posteringer for hærverk reparert av lokale vaktmestertjenester [31].
+Region Midt-Norge
+• Kollen ungdomsbase: Det er spesifisert «Utgifter som flg. av brann» med kostnader til Statsbygg på over 450 000 kr [32], [33].
+2. Typiske skader og leverandører
+Gjennomgangen viser et tydelig mønster i hvilke typer skader som oppstår og hvem som reparerer dem:
+• Knuste ruter (Glass): Dette er en av de hyppigste skadene. Leverandører som Fauske Glass, Glassmester Thoresen, Hamar Glass og Glassmester Solbjør går igjen på hærverkskontoene [1], [17], [34], [35].
+• Ødelagte dører og låser: Omfattende kostnader til låsesmeder indikerer at dører ofte blir sparket inn eller låser ødelagt. Låssenteret AS, Harstad Låsservice og Certero er store mottakere av midler under denne posten [7], [36], [37].
+• Brannskader: Selv om det er sjeldnere, medfører brannstiftelse (som på Thorøya og Kollen) enorme engangskostnader til sanering og gjenoppbygging [21], [38].
+• Inventar: Ødeleggelse av interiør medfører løpende erstatningskjøp fra leverandører som Jysk, IKEA og Bohus, ofte bokført sammen med skadeutbedring [27], [39].
+3. Økonomisk konsekvens
+For enkelte institusjoner utgjør hærverk en betydelig del av driftsbudsjettet for eiendom.
+• På Røvika ser vi titusenvis av kroner i måneden kun til glassmester i perioder [2], [3].
+• På Hedmark (Vien) og Nye Toppen kan kostnader til sikkerhet og reparasjon av låser/dører etter hærverk overstige 100 000 kr på enkeltprosjekter [40], [30].
+Oppsummert er hærverk en betydelig, men volatil kostnadsdriver som krever at etaten har løpende rammeavtaler med glassmestere, låsesmeder og snekkere i umiddelbar nærhet til akuttinstitusjonene.
+Investeringsanalyse av Bufetats eiendomsutvikling og byggekostnader
+Basert på regnskapsdataene er det avdekket betydelige kostnader klassifisert som «Prosjektering og utvikling av eiendom», «Påkostning leide lokaler» og «Større utstyrsanskaffelser». Dette indikerer at Bufetat tar en stor del av investeringskostnadene direkte over driftsbudsjettet eller via særskilte prosjektmidler, ofte på bygg de ikke eier selv (leieforhold med Statsbygg eller private).
+Her er en gjennomgang av prosjektering og «skjulte» byggekostnader fordelt på region og objekt:
+1. Region Midt-Norge: Tunge investeringer i utvikling
+Denne regionen har svært aktive prosjektkonti, spesielt knyttet til ungdomssentrene.
+• Skatval Ungdomssenter: Dette fremstår som et massivt bygge- eller renoveringsprosjekt. Det er bokført store beløp på kontoen «151003 Prosjektering og utvikling av eiendom/bygg».
+    ◦ Leverandøren Ruta Entreprenør AS har mottatt flere store utbetalinger, blant annet på 2,48 millioner kr, 509 000 kr og 260 000 kr i enkeltposteringer [1], [2], [3].
+    ◦ Odin Prosjekt AS er engasjert for prosjektledelse/rådgivning med kostnader på titusenvis av kroner [4], [5].
+    ◦ Det er også betydelige utgifter til Abra Beslag AS (sikkerhet/lås) på over 275 000 kr [6].
+• Kvammen Akuttsenter (Fannrem): Også her pågår det prosjektering med store utbetalinger til Ruta Entreprenør AS (f.eks. 150 000 kr og 123 000 kr) og elektroarbeid fra Buvik Elektro AS [7], [8], [9].
+• Vikhovlia Akuttsenter: Her er det bokført store bevegelser, inkludert en kreditnota (refusjon/korrigering) på 2,7 millioner kr under prosjektering, men også utgifter til fast bygningsinventar på nesten 600 000 kr [10], [11].
+2. Region Vest: Eikelund og omfattende påkostninger
+Region Vest har svært høye kostnader ført som «Fast bygningsinventar og påkostning, leide bygg», spesielt knyttet til Driftsavdelingen og Eikelund.
+• Eikelund Ungdomssenter: Det er registrert massive transaksjoner knyttet til dette bygget.
+    ◦ En enkeltpostering til Statsbyggs hovedkontor under «Fast bygningsinventar og påkostning, leide bygg» er på 4,4 millioner kr og 4,6 millioner kr [12], [13]. Dette tyder på at leietaker (Bufetat) dekker omfattende ombygginger direkte.
+    ◦ Det er også ført prosjekteringskostnader på 1,67 millioner kr [14], [15].
+• Meltunet: Det er spesifisert kostnader til «Nybygg Sogn og Fjordane Meltunet» på ca. 96 000 kr [16], samt betydelige reparasjoner fakturert av Statsbygg (2,4 millioner kr) som kan være knyttet til brannskader eller større rehabilitering [17].
+3. Region Sør: Oppgraderinger og «Større anskaffelser»
+Region Sør bruker konteringen «Større utstyrsanskaffelser» (tidligere post 45) og «Oppgradering og påkostning leide lokaler» for byggeprosjekter.
+• Skjerven/Nyhuset: Det er en massiv enkeltpostering på 2,7 millioner kr for «Fast bygningsinventar over kr 50 000» knyttet til Skjerven rusbehandling [18].
+• Avdeling Nes: Det er bokført nesten 300 000 kr i fast bygningsinventar, samt over 377 000 kr i reparasjon og vedlikehold til Statsbygg under prosjektfanen [19], [20].
+• Stokke Barnesenter: Her er det utført oppgraderinger for hundretusener av kroner, blant annet betalt til Xpert Installasjon AS og TTSS Byggservice [21], [22].
+• Regionale kostnader: Det er ført kostnader på over 763 000 kr til Statsbygg og 282 000 kr til Låssenteret AS for «Oppgradering/ombygging av institusjonsbygg» [23].
+4. Region Øst: Solepilot og flyttekostnader
+• Solepilot (Ås): Under prosjektnummer 20451 er det bokført en kostnad på 2,1 millioner kr til Statsbygg for «Fast bygningsinventar og påkostning, leide bygg» [24].
+• Familievernkontoret Enerhaugen: Det er opprettet et eget prosjekt for flytting («Enerhaugen - Flyttekostnader 2025») med kostnader til blant annet Bedrifts Flytting AS og Atea for teknisk infrastruktur [25], [26].
+• Trondheimsveien 205 (Jessheim): Det er ført store beløp (opp mot 812 000 kr) på fast bygningsinventar til Statsbygg [27].
+5. Region Nord: Silsand og Tromsø
+• Silsand Ungdomssenter: Løpende prosjektering og utvikling med leverandører som Optimera og Låsesmeden Finnsnes. Beløpene er mindre enn i sør og vest, men hyppige (f.eks. 34 000 kr, 25 000 kr) [28].
+• Tromsø Ungdomssenter: Prosjektet «Ombygging/flytting lokaler» (prosjekt 61900) har kostnader til Lindbak Troms AS på over 200 000 kr (både debet og kredit, som tyder på korrigeringer) og Bravida [29], [30].
+Oppsummering av "Skjulte" Byggekostnader
+Det som fremstår som «skjulte» byggekostnader er i realiteten leietakertilpasninger som Bufetat betaler kontant til utleier (ofte Statsbygg) eller direkte til entreprenører, i stedet for at dette bakes inn i husleien.
+1. Direkte investeringer: Bufetat tar store engangskostnader (CAPEX) på bygg de leier. Eksemplene på 4,6 millioner på Eikelund [12] og 2,7 millioner på Skjerven [18] bekrefter dette.
+2. Prosjektering: Det brukes betydelige ressurser på arkitekter og prosjektledelse (Odin Prosjekt, Ruta) for å utvikle eiendommene [4], [2].
+3. Brann og Sikkerhet: Oppgradering av brannsikkerhet og låsesystemer (Låssenteret, Certego) føres ofte som investeringer eller store vedlikeholdsprosjekter [31], [32].

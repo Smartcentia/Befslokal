@@ -1,0 +1,10 @@
+{
+  "_comment": "Manuelle adresse->navn (prioritet). berik_navn_familievernkontor.py slår også opp auto fra familievernkontor_bufdir.json (skrape med scrape_familievernkontor_bufdir.py).",
+  "mappings": [
+    { "address_pattern": "Aumliveien 4C", "postal": "2500", "name": "Familievernkontoret Innlandet Øst - Tynset" },
+    { "address_pattern": "Vangsvegen 121", "postal": "2318", "name": "Familievernkontoret Innlandet Øst - Hamar" },
+    { "address_pattern": "Storgata 11", "postal": "3510", "name": "Familievernkontoret Ringerike - Hallingdal, avdeling Ringerike" },
+    { "address_pattern": "Kabelgata 2", "postal": "0581", "name": "Familievernkontoret Oslo Nord" },
+    { "address_pattern": "Bekkegata 2A", "postal": "3513", "name": "Familievernkontoret Ringerike - Hallingdal, avdeling Ringerike" }
+  ]
+}

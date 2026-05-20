@@ -1,0 +1,107 @@
+# Befslokal – 100 % lokal stack (ingen Vercel, Railway eller Supabase sky)
+# Start: ./scripts/befslokal-up.sh  eller  docker compose up -d
+
+services:
+  db:
+    image: pgvector/pgvector:pg15
+    container_name: befslokal-db
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: eiendom
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres -d eiendom"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  ollama:
+    image: ollama/ollama:latest
+    container_name: befslokal-ollama
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama_data:/root/.ollama
+    healthcheck:
+      test: ["CMD-SHELL", "ollama list || exit 0"]
+      interval: 10s
+      timeout: 10s
+      retries: 12
+      start_period: 30s
+
+  ollama-init:
+    image: ollama/ollama:latest
+    container_name: befslokal-ollama-init
+    depends_on:
+      ollama:
+        condition: service_healthy
+    environment:
+      OLLAMA_HOST: http://ollama:11434
+    entrypoint: ["/bin/sh", "-c"]
+    command:
+      - |
+        set -e
+        echo "Henter Mistral (letteste) og nomic-embed-text for RAG..."
+        ollama pull mistral
+        ollama pull nomic-embed-text
+        echo "Ollama-modeller klare."
+    restart: "no"
+
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: befslokal-backend
+    ports:
+      - "8000:8000"
+    env_file:
+      - backend/.env.befslokal
+    environment:
+      DATABASE_URL: postgresql+asyncpg://postgres:postgres@db:5432/eiendom
+      ENVIRONMENT: local
+      USE_LOCAL_AI: "true"
+      LOCAL_AI_STATION_URL: http://ollama:11434/v1
+      LOCAL_MODEL_NAME: mistral
+      OPENAI_API_KEY: ollama-local-key
+      OPENAI_BASE_URL: http://ollama:11434/v1
+      OPENAI_MODEL: mistral
+      OPENAI_EMBEDDING_MODEL: nomic-embed-text
+      ALLOW_SHARED_SECRET_BYPASS: "true"
+      SECRET_KEY: befs-super-secret-key-12345
+      BACKEND_CORS_ORIGINS: http://localhost:3000
+      FRONTEND_URLS: http://localhost:3000
+      ADMIN_EMAILS: admin@befslokal.no,admin@bufdir.no
+    depends_on:
+      db:
+        condition: service_healthy
+      ollama-init:
+        condition: service_completed_successfully
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+      args:
+        NEXT_PUBLIC_API_URL: http://localhost:8000
+        NEXT_PUBLIC_API_BASE_URL: http://localhost:8000
+        NEXT_PUBLIC_LOCAL_AUTH: "true"
+        NEXT_PUBLIC_MAPBOX_ACCESS_TOKEN: ${MAPBOX_ACCESS_TOKEN:-}
+    container_name: befslokal-frontend
+    ports:
+      - "3000:3000"
+    environment:
+      NEXT_PUBLIC_API_URL: http://localhost:8000
+      NEXT_PUBLIC_LOCAL_AUTH: "true"
+      NODE_ENV: production
+    depends_on:
+      - backend
+
+volumes:
+  postgres_data:
+  ollama_data:

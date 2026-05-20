@@ -1,0 +1,1102 @@
+[
+  {
+    "region": "Øst",
+    "affiliation": "1 Akutt",
+    "lokalisering_id": "262",
+    "name": "Hedmark ungdoms- og familiesenter",
+    "department_code": "236203",
+    "unit_name": "Stange 1",
+    "approved_places": 5,
+    "budgeted_places": 4
+  },
+  {
+    "region": "Øst",
+    "affiliation": "1 Akutt",
+    "lokalisering_id": "262",
+    "name": "Hedmark ungdoms- og familiesenter",
+    "department_code": "236204",
+    "unit_name": "Vien 1",
+    "approved_places": 3,
+    "budgeted_places": 3
+  },
+  {
+    "region": "Øst",
+    "affiliation": "1 Akutt",
+    "lokalisering_id": "262",
+    "name": "Hedmark ungdoms- og familiesenter",
+    "department_code": "236205",
+    "unit_name": "Vien 2",
+    "approved_places": 3,
+    "budgeted_places": 3
+  },
+  {
+    "region": "Øst",
+    "affiliation": "1 Akutt",
+    "lokalisering_id": "262",
+    "name": "Hedmark ungdoms- og familiesenter",
+    "department_code": "236202",
+    "unit_name": "Disen",
+    "approved_places": 5,
+    "budgeted_places": 4
+  },
+  {
+    "region": "Øst",
+    "affiliation": "4 Behandling høy risiko, eks MultifunC",
+    "lokalisering_id": "261",
+    "name": "Akershus ungdoms- og familiesenter",
+    "department_code": "236104",
+    "unit_name": "Sole",
+    "approved_places": 3,
+    "budgeted_places": 3
+  },
+  {
+    "region": "Øst",
+    "affiliation": "1 Akutt",
+    "lokalisering_id": "261",
+    "name": "Akershus ungdoms- og familiesenter",
+    "department_code": "236105",
+    "unit_name": "Tjernlia",
+    "approved_places": 5,
+    "budgeted_places": 4
+  },
+  {
+    "region": "Øst",
+    "affiliation": "1 Akutt",
+    "lokalisering_id": "261",
+    "name": "Akershus ungdoms- og familiesenter",
+    "department_code": "236102",
+    "unit_name": "Bjørlien",
+    "approved_places": 4,
+    "budgeted_places": 4
+  },
+  {
+    "region": "Øst",
+    "affiliation": "1 Akutt",
+    "lokalisering_id": "227",
+    "name": "Østfold ungdoms- og familiesenter",
+    "department_code": "232711",
+    "unit_name": "Jibbe (Østfold)",
+    "approved_places": 5,
+    "budgeted_places": 4
+  },
+  {
+    "region": "Øst",
+    "affiliation": "1 Akutt",
+    "lokalisering_id": "226",
+    "name": "Lierfoss ungdoms- og familiesenter",
+    "department_code": "232604",
+    "unit_name": "Furulia",
+    "approved_places": 4,
+    "budgeted_places": 4
+  },
+  {
+    "region": "Øst",
+    "affiliation": "1 Akutt",
+    "lokalisering_id": "271",
+    "name": "Bufetats behandlingssenter Akershus/Østfold",
+    "department_code": "237102",
+    "unit_name": "Kroerveien",
+    "approved_places": 4,
+    "budgeted_places": 4
+  },
+  {
+    "region": "Øst",
+    "affiliation": "4 Behandling høy risiko, eks MultifunC",
+    "lokalisering_id": "227",
+    "name": "Østfold ungdoms- og familiesenter",
+    "department_code": "232709",
+    "unit_name": "Dal",
+    "approved_places": 1,
+    "budgeted_places": 1
+  },
+  {
+    "region": "Øst",
+    "affiliation": "3 Omsorg ungdom",
+    "lokalisering_id": "226",
+    "name": "Lierfoss ungdoms- og familiesenter",
+    "department_code": "232610",
+    "unit_name": "Riserhagen",
+    "approved_places": 5,
+    "budgeted_places": 5
+  },
+  {
+    "region": "Øst",
+    "affiliation": "3 Omsorg ungdom",
+    "lokalisering_id": "226",
+    "name": "Lierfoss ungdoms- og familiesenter",
+    "department_code": "232611",
+    "unit_name": "Skogtun",
+    "approved_places": 5,
+    "budgeted_places": 5
+  },
+  {
+    "region": "Øst",
+    "affiliation": "3 Omsorg ungdom",
+    "lokalisering_id": "227",
+    "name": "Østfold ungdoms- og familiesenter",
+    "department_code": "232702",
+    "unit_name": "Alfheim",
+    "approved_places": 6,
+    "budgeted_places": 4
+  },
+  {
+    "region": "Øst",
+    "affiliation": "2 Omsorg barn",
+    "lokalisering_id": "227",
+    "name": "Østfold ungdoms- og familiesenter",
+    "department_code": "232704",
+    "unit_name": "Kurland",
+    "approved_places": 4,
+    "budgeted_places": 3
+  },
+  {
+    "region": "Øst",
+    "affiliation": "3 Omsorg ungdom",
+    "lokalisering_id": "227",
+    "name": "Østfold ungdoms- og familiesenter",
+    "department_code": "232706",
+    "unit_name": "Rokkeveien",
+    "approved_places": 4,
+    "budgeted_places": 4
+  },
+  {
+    "region": "Øst",
+    "affiliation": "3 Omsorg ungdom",
+    "lokalisering_id": "227",
+    "name": "Østfold ungdoms- og familiesenter",
+    "department_code": "232707",
+    "unit_name": "Tune",
+    "approved_places": 7,
+    "budgeted_places": 4
+  },
+  {
+    "region": "Øst",
+    "affiliation": "3 Omsorg ungdom",
+    "lokalisering_id": "227",
+    "name": "Østfold ungdoms- og familiesenter",
+    "department_code": "232710",
+    "unit_name": "Fossen",
+    "approved_places": 4,
+    "budgeted_places": 3
+  },
+  {
+    "region": "Øst",
+    "affiliation": "3 Omsorg ungdom",
+    "lokalisering_id": "228",
+    "name": "Kirkenær barnevern- og omsorgssenter",
+    "department_code": "232805",
+    "unit_name": "Snorre",
+    "approved_places": 8,
+    "budgeted_places": 4
+  },
+  {
+    "region": "Øst",
+    "affiliation": "3 Omsorg ungdom",
+    "lokalisering_id": "228",
+    "name": "Kirkenær barnevern- og omsorgssenter",
+    "department_code": "232806",
+    "unit_name": "Edda",
+    "approved_places": 3,
+    "budgeted_places": 3
+  },
+  {
+    "region": "Øst",
+    "affiliation": "3 Omsorg ungdom",
+    "lokalisering_id": "228",
+    "name": "Kirkenær barnevern- og omsorgssenter",
+    "department_code": "232812",
+    "unit_name": "Balder",
+    "approved_places": 3,
+    "budgeted_places": 3
+  },
+  {
+    "region": "Øst",
+    "affiliation": "3 Omsorg ungdom",
+    "lokalisering_id": "228",
+    "name": "Kirkenær barnevern- og omsorgssenter",
+    "department_code": "232813",
+    "unit_name": "Frigg",
+    "approved_places": 2,
+    "budgeted_places": 1
+  },
+  {
+    "region": "Øst",
+    "affiliation": "3 Omsorg ungdom",
+    "lokalisering_id": "254",
+    "name": "Innlandet barnevernsenter",
+    "department_code": "235402",
+    "unit_name": "Sandvig",
+    "approved_places": 4,
+    "budgeted_places": 4
+  },
+  {
+    "region": "Øst",
+    "affiliation": "3 Omsorg ungdom",
+    "lokalisering_id": "254",
+    "name": "Innlandet barnevernsenter",
+    "department_code": "235403",
+    "unit_name": "Aukrust",
+    "approved_places": 4,
+    "budgeted_places": 4
+  },
+  {
+    "region": "Øst",
+    "affiliation": "3 Omsorg ungdom",
+    "lokalisering_id": "254",
+    "name": "Innlandet barnevernsenter",
+    "department_code": "235404",
+    "unit_name": "Vestly",
+    "approved_places": 4,
+    "budgeted_places": 4
+  },
+  {
+    "region": "Øst",
+    "affiliation": "3 Omsorg ungdom",
+    "lokalisering_id": "254",
+    "name": "Innlandet barnevernsenter",
+    "department_code": "235408",
+    "unit_name": "Undset",
+    "approved_places": 3,
+    "budgeted_places": 3
+  },
+  {
+    "region": "Øst",
+    "affiliation": "4 Rus",
+    "lokalisering_id": "272",
+    "name": "Jong ungdomshjem",
+    "department_code": "237203",
+    "unit_name": "Åsen",
+    "approved_places": 5,
+    "budgeted_places": 4
+  },
+  {
+    "region": "Øst",
+    "affiliation": "4 Rus",
+    "lokalisering_id": "272",
+    "name": "Jong ungdomshjem",
+    "department_code": "237202",
+    "unit_name": "Kollen",
+    "approved_places": 5,
+    "budgeted_places": 4
+  },
+  {
+    "region": "Øst",
+    "affiliation": "4 Behandling lav risiko",
+    "lokalisering_id": "271",
+    "name": "Bufetats behandlingssenter Akershus/Østfold",
+    "department_code": "237106",
+    "unit_name": "Østlund",
+    "approved_places": 3,
+    "budgeted_places": 3
+  },
+  {
+    "region": "Øst",
+    "affiliation": "4 Behandling høy risiko, eks MultifunC",
+    "lokalisering_id": "271",
+    "name": "Bufetats behandlingssenter Akershus/Østfold",
+    "department_code": "237105",
+    "unit_name": "Østheim",
+    "approved_places": 3,
+    "budgeted_places": 3
+  },
+  {
+    "region": "Øst",
+    "affiliation": "4 Behandling høy risiko, eks MultifunC",
+    "lokalisering_id": "271",
+    "name": "Bufetats behandlingssenter Akershus/Østfold",
+    "department_code": "237104",
+    "unit_name": "Ås",
+    "approved_places": 6,
+    "budgeted_places": 6
+  },
+  {
+    "region": "Øst",
+    "affiliation": "1 Akutt",
+    "lokalisering_id": "254",
+    "name": "Innlandet barnevernsenter",
+    "department_code": "215402",
+    "unit_name": "Prøysen",
+    "approved_places": 4,
+    "budgeted_places": 4
+  },
+  {
+    "region": "Øst",
+    "affiliation": "4 Behandling lav risiko",
+    "lokalisering_id": "254",
+    "name": "Innlandet barnevernsenter",
+    "department_code": "245402",
+    "unit_name": "Kauffeldt",
+    "approved_places": 2,
+    "budgeted_places": 2
+  },
+  {
+    "region": "Sør",
+    "affiliation": "1 Akutt",
+    "lokalisering_id": "308",
+    "name": "Sundstedåkka ungdomssenter akutt",
+    "department_code": "310803",
+    "unit_name": "Avdeling Sundstedtråkka/Kantum",
+    "approved_places": 5,
+    "budgeted_places": 5
+  },
+  {
+    "region": "Sør",
+    "affiliation": "1 Akutt",
+    "lokalisering_id": "308",
+    "name": "Sundstedåkka ungdomssenter akutt",
+    "department_code": "310804",
+    "unit_name": "Kantum",
+    "approved_places": 3,
+    "budgeted_places": 3
+  },
+  {
+    "region": "Sør",
+    "affiliation": "1 Akutt",
+    "lokalisering_id": "309",
+    "name": "Klokkerhuset ungdomssenter akutt",
+    "department_code": "310905",
+    "unit_name": "Avdeling Klokkerhuset",
+    "approved_places": 6,
+    "budgeted_places": 6
+  },
+  {
+    "region": "Sør",
+    "affiliation": "1 Akutt",
+    "lokalisering_id": "336",
+    "name": "St.Hansgården ungdomssenter akutt",
+    "department_code": "313601",
+    "unit_name": "St.Hansgården",
+    "approved_places": 6,
+    "budgeted_places": 6
+  },
+  {
+    "region": "Sør",
+    "affiliation": "1 Akutt",
+    "lokalisering_id": "337",
+    "name": "Barkåker ungdssenter akutt",
+    "department_code": "313701",
+    "unit_name": "Barkåker",
+    "approved_places": 8,
+    "budgeted_places": 8
+  },
+  {
+    "region": "Sør",
+    "affiliation": "1 Akutt",
+    "lokalisering_id": "338",
+    "name": "Grøterød ungdomshjem",
+    "department_code": "333802",
+    "unit_name": "Ulabrand",
+    "approved_places": 4,
+    "budgeted_places": 4
+  },
+  {
+    "region": "Sør",
+    "affiliation": "2 Omsorg barn",
+    "lokalisering_id": "342",
+    "name": "Stokke barnesenter",
+    "department_code": "334201",
+    "unit_name": "Lerketoppen",
+    "approved_places": 4,
+    "budgeted_places": 4
+  },
+  {
+    "region": "Sør",
+    "affiliation": "3 Omsorg ungdom",
+    "lokalisering_id": "317",
+    "name": "Telemark ungdomssenter",
+    "department_code": "331706",
+    "unit_name": "Avdeling Miljøheimen",
+    "approved_places": 6,
+    "budgeted_places": 4
+  },
+  {
+    "region": "Sør",
+    "affiliation": "3 Omsorg ungdom",
+    "lokalisering_id": "317",
+    "name": "Telemark ungdomssenter",
+    "department_code": "331708",
+    "unit_name": "Avdeling Kjørbekk",
+    "approved_places": 6,
+    "budgeted_places": 5
+  },
+  {
+    "region": "Sør",
+    "affiliation": "3 Omsorg ungdom",
+    "lokalisering_id": "318",
+    "name": "Agder ungdomshjem",
+    "department_code": "331807",
+    "unit_name": "Avdeling Nes",
+    "approved_places": 6,
+    "budgeted_places": 5
+  },
+  {
+    "region": "Sør",
+    "affiliation": "3 Omsorg ungdom",
+    "lokalisering_id": "318",
+    "name": "Agder ungdomshjem",
+    "department_code": "331810",
+    "unit_name": "Ny Furuly",
+    "approved_places": 5,
+    "budgeted_places": 4
+  },
+  {
+    "region": "Sør",
+    "affiliation": "3 Omsorg ungdom",
+    "lokalisering_id": "338",
+    "name": "Grøterød ungdomshjem",
+    "department_code": "333801",
+    "unit_name": "Svenner",
+    "approved_places": 6,
+    "budgeted_places": 5
+  },
+  {
+    "region": "Sør",
+    "affiliation": "3 Omsorg ungdom",
+    "lokalisering_id": "339",
+    "name": "Lågen ungdomshjem",
+    "department_code": "333901",
+    "unit_name": "Mynten",
+    "approved_places": 6,
+    "budgeted_places": 5
+  },
+  {
+    "region": "Sør",
+    "affiliation": "3 Omsorg ungdom",
+    "lokalisering_id": "339",
+    "name": "Lågen ungdomshjem",
+    "department_code": "333902",
+    "unit_name": "Knuten",
+    "approved_places": 4,
+    "budgeted_places": 4
+  },
+  {
+    "region": "Sør",
+    "affiliation": "3 Omsorg ungdom",
+    "lokalisering_id": "340",
+    "name": "Thorøya Ungdomshjem",
+    "department_code": "334001",
+    "unit_name": "Ny Thorøya",
+    "approved_places": 6,
+    "budgeted_places": 6
+  },
+  {
+    "region": "Sør",
+    "affiliation": "3 Behandlingssentre",
+    "lokalisering_id": "335",
+    "name": "Lunde behandlingssenter",
+    "department_code": "333501",
+    "unit_name": "Lunde behandlingssenter",
+    "approved_places": 6,
+    "budgeted_places": 6
+  },
+  {
+    "region": "Sør",
+    "affiliation": "4 Behandling høy risiko, eks MultifunC",
+    "lokalisering_id": "331",
+    "name": "Agder ungdomssenter",
+    "department_code": "343105",
+    "unit_name": "Nye Toppen",
+    "approved_places": 5,
+    "budgeted_places": 3
+  },
+  {
+    "region": "Sør",
+    "affiliation": "4 Behandling høy risiko, eks MultifunC",
+    "lokalisering_id": "343",
+    "name": "Katfoss behandling ungdom",
+    "department_code": "344301",
+    "unit_name": "Katfoss",
+    "approved_places": 3,
+    "budgeted_places": 3
+  },
+  {
+    "region": "Sør",
+    "affiliation": "4 Behandling høy risiko, eks MultifunC",
+    "lokalisering_id": "331",
+    "name": "Agder ungdomssenter",
+    "department_code": "343106",
+    "unit_name": "Justøya",
+    "approved_places": 2,
+    "budgeted_places": 2
+  },
+  {
+    "region": "Sør",
+    "affiliation": "4 Behandling lav risiko",
+    "lokalisering_id": "331",
+    "name": "Agder ungdomssenter",
+    "department_code": "343104",
+    "unit_name": "Avdeling Skomrak",
+    "approved_places": 4,
+    "budgeted_places": 3
+  },
+  {
+    "region": "Sør",
+    "affiliation": "4 Rus",
+    "lokalisering_id": "341",
+    "name": "Skjerven",
+    "department_code": "344101",
+    "unit_name": "Nyhuset",
+    "approved_places": 4,
+    "budgeted_places": 4
+  },
+  {
+    "region": "Vest",
+    "affiliation": "1 Akutt",
+    "lokalisering_id": "406",
+    "name": "Bergen Akuttsenter Ungdom",
+    "department_code": "410602",
+    "unit_name": "Bergen Akutts. avd. Toppe",
+    "approved_places": 5,
+    "budgeted_places": 5
+  },
+  {
+    "region": "Vest",
+    "affiliation": "1 Akutt",
+    "lokalisering_id": "406",
+    "name": "Bergen Akuttsenter Ungdom",
+    "department_code": "410604",
+    "unit_name": "Bergen Akutts. avd. Nattland",
+    "approved_places": 6,
+    "budgeted_places": 6
+  },
+  {
+    "region": "Vest",
+    "affiliation": "1 Akutt",
+    "lokalisering_id": "407",
+    "name": "Stavanger Akuttsenter Ungdom",
+    "department_code": "410702",
+    "unit_name": "Stavanger akutt - Madla (4-25)",
+    "approved_places": 6,
+    "budgeted_places": 5
+  },
+  {
+    "region": "Vest",
+    "affiliation": "1 Akutt",
+    "lokalisering_id": "407",
+    "name": "Stavanger Akuttsenter Ungdom",
+    "department_code": "410704",
+    "unit_name": "Stavanger akutt - Røyneberg (4-6)",
+    "approved_places": 4,
+    "budgeted_places": 3
+  },
+  {
+    "region": "Vest",
+    "affiliation": "3 Omsorg ungdom",
+    "lokalisering_id": "421",
+    "name": "Skjoldvegen barnevernsenter",
+    "department_code": "432103",
+    "unit_name": "Skjoldvegen, Søfteland",
+    "approved_places": 4,
+    "budgeted_places": 4
+  },
+  {
+    "region": "Vest",
+    "affiliation": "3 Omsorg ungdom",
+    "lokalisering_id": "421",
+    "name": "Skjoldvegen barnevernsenter",
+    "department_code": "432106",
+    "unit_name": "Skjoldvegen  avd. Fyllingsdalen",
+    "approved_places": 3,
+    "budgeted_places": 3
+  },
+  {
+    "region": "Vest",
+    "affiliation": "3 Omsorg ungdom",
+    "lokalisering_id": "422",
+    "name": "Stavanger ungdomssenter",
+    "department_code": "432203",
+    "unit_name": "Stavanger ungd.senter - avd. Lindøy",
+    "approved_places": 4,
+    "budgeted_places": 4
+  },
+  {
+    "region": "Vest",
+    "affiliation": "3 Omsorg ungdom",
+    "lokalisering_id": "422",
+    "name": "Stavanger ungdomssenter",
+    "department_code": "432204",
+    "unit_name": "Stavanger ungd.senter - avd. Våland",
+    "approved_places": 4,
+    "budgeted_places": 4
+  },
+  {
+    "region": "Vest",
+    "affiliation": "3 Omsorg ungdom",
+    "lokalisering_id": "428",
+    "name": "Kasa Ungdomssenter",
+    "department_code": "432804",
+    "unit_name": "Kasa Ungd.senter avd. Flatøy",
+    "approved_places": 4,
+    "budgeted_places": 3
+  },
+  {
+    "region": "Vest",
+    "affiliation": "3 Omsorg ungdom",
+    "lokalisering_id": "428",
+    "name": "Kasa Ungdomssenter",
+    "department_code": "432806",
+    "unit_name": "Kasa Ungd.senter avd. Morvik",
+    "approved_places": 3,
+    "budgeted_places": 3
+  },
+  {
+    "region": "Vest",
+    "affiliation": "3 Omsorg ungdom",
+    "lokalisering_id": "428",
+    "name": "Kasa Ungdomssenter",
+    "department_code": "432807",
+    "unit_name": "Kasa Ungd.senter avd. Tertnes",
+    "approved_places": 3,
+    "budgeted_places": 3
+  },
+  {
+    "region": "Vest",
+    "affiliation": "3 Omsorg ungdom",
+    "lokalisering_id": "429",
+    "name": "Sogndal Ungdomssenter",
+    "department_code": "432901",
+    "unit_name": "Sogndal ungdomssenter",
+    "approved_places": 4,
+    "budgeted_places": 4
+  },
+  {
+    "region": "Vest",
+    "affiliation": "2 Omsorg barn",
+    "lokalisering_id": "431",
+    "name": "Sandnes Ungdomssenter",
+    "department_code": "433102",
+    "unit_name": "Sandnes ungdomssenter - Minde1",
+    "approved_places": 4,
+    "budgeted_places": 4
+  },
+  {
+    "region": "Vest",
+    "affiliation": "3 Omsorg ungdom",
+    "lokalisering_id": "431",
+    "name": "Sandnes Ungdomssenter",
+    "department_code": "433103",
+    "unit_name": "Sandnes ungdomssenter - Minde 2",
+    "approved_places": 4,
+    "budgeted_places": 4
+  },
+  {
+    "region": "Vest",
+    "affiliation": "3 Omsorg ungdom",
+    "lokalisering_id": "421",
+    "name": "Fana og Ytrebygda ungdomssenter",
+    "department_code": "432104",
+    "unit_name": "Skjoldvegen, Skjold",
+    "approved_places": 6,
+    "budgeted_places": 6
+  },
+  {
+    "region": "Vest",
+    "affiliation": "3 Omsorg ungdom",
+    "lokalisering_id": "428",
+    "name": "Fana og Ytrebygda ungdomssenter",
+    "department_code": "432802",
+    "unit_name": "Kasa Ungd.senter avd. Sandsli",
+    "approved_places": 4,
+    "budgeted_places": 4
+  },
+  {
+    "region": "Vest",
+    "affiliation": "3 Omsorg ungdom",
+    "lokalisering_id": "428",
+    "name": "Fana og Ytrebygda ungdomssenter",
+    "department_code": "432805",
+    "unit_name": "Kasa Ungd.senter avd. Hop",
+    "approved_places": 4,
+    "budgeted_places": 4
+  },
+  {
+    "region": "Vest",
+    "affiliation": "4 Behandling høy risiko, eks MultifunC",
+    "lokalisering_id": "452",
+    "name": "Fana og Ytrebygda ungdomssenter",
+    "department_code": "445402",
+    "unit_name": "Eikelund US avd. beh. Høy",
+    "approved_places": 3,
+    "budgeted_places": 3
+  },
+  {
+    "region": "Vest",
+    "affiliation": "3 Omsorg ungdom",
+    "lokalisering_id": "424",
+    "name": "Sogn og Fjordane ungdomssenter",
+    "department_code": "432402",
+    "unit_name": "SFU avd. Meltunet",
+    "approved_places": 4,
+    "budgeted_places": 4
+  },
+  {
+    "region": "Vest",
+    "affiliation": "4 Behandling høy risiko, eks MultifunC",
+    "lokalisering_id": "451",
+    "name": "Sogn og Fjordane ungdomssenter",
+    "department_code": "445102",
+    "unit_name": "Sogn og Fjordane ungdomssenter avdeling Bregnetunet behandling høy",
+    "approved_places": 4,
+    "budgeted_places": 3
+  },
+  {
+    "region": "Vest",
+    "affiliation": "4 Rus",
+    "lokalisering_id": "427",
+    "name": "Bjørgvin Ungdomssenter",
+    "department_code": "442702",
+    "unit_name": "Bjørgvin Ungd.senter, Bønesstølen",
+    "approved_places": 4,
+    "budgeted_places": 4
+  },
+  {
+    "region": "Vest",
+    "affiliation": "4 Rus",
+    "lokalisering_id": "427",
+    "name": "Bjørgvin Ungdomssenter",
+    "department_code": "442703",
+    "unit_name": "Bjørgvin Ungd.senter, Bønesskogen",
+    "approved_places": 4,
+    "budgeted_places": 4
+  },
+  {
+    "region": "Midt",
+    "affiliation": "1 Akutt",
+    "lokalisering_id": "512",
+    "name": "Vikhovlia akuttsenter",
+    "department_code": "511201",
+    "unit_name": "Vikhovlia akuttsenter",
+    "approved_places": 6,
+    "budgeted_places": 6
+  },
+  {
+    "region": "Midt",
+    "affiliation": "1 Akutt",
+    "lokalisering_id": "520",
+    "name": "Kvammen akuttinstitusjon",
+    "department_code": "512001",
+    "unit_name": "Kvammen akuttinstitusjon",
+    "approved_places": 0,
+    "budgeted_places": 0
+  },
+  {
+    "region": "Midt",
+    "affiliation": "1 Akutt",
+    "lokalisering_id": "520",
+    "name": "Kvammen akuttinstitusjon",
+    "department_code": "512002",
+    "unit_name": "Kvammen akuttinstitusjon, avdeling Melhus",
+    "approved_places": 5,
+    "budgeted_places": 4
+  },
+  {
+    "region": "Midt",
+    "affiliation": "1 Akutt",
+    "lokalisering_id": "520",
+    "name": "Kvammen akuttinstitusjon",
+    "department_code": "512003",
+    "unit_name": "Kvammen akuttinstitusjon, avdeling Fannrem",
+    "approved_places": 4,
+    "budgeted_places": 3
+  },
+  {
+    "region": "Midt",
+    "affiliation": "1 Akutt",
+    "lokalisering_id": "520",
+    "name": "Kvammen akuttinstitusjon",
+    "department_code": "512004",
+    "unit_name": "Kvammen akuttinstitusjon, avdeling enetiltak",
+    "approved_places": 1,
+    "budgeted_places": 1
+  },
+  {
+    "region": "Midt",
+    "affiliation": "1 Akutt",
+    "lokalisering_id": "534",
+    "name": "Humla Akuttsenter",
+    "department_code": "513401",
+    "unit_name": "Humla Akuttsenter",
+    "approved_places": 4,
+    "budgeted_places": 4
+  },
+  {
+    "region": "Midt",
+    "affiliation": "1 Akutt",
+    "lokalisering_id": "544",
+    "name": "Sunnmørsheimen akuttinstitusjon",
+    "department_code": "514401",
+    "unit_name": "Sunnmørsheimen akuttinstitusjon, avd. Klatrevegen",
+    "approved_places": 2,
+    "budgeted_places": 2
+  },
+  {
+    "region": "Midt",
+    "affiliation": "3 Omsorg ungdom",
+    "lokalisering_id": "505",
+    "name": "Spillumheimen undomsheim",
+    "department_code": "530501",
+    "unit_name": "Spillumheimen ungdomsheim",
+    "approved_places": 0,
+    "budgeted_places": 0
+  },
+  {
+    "region": "Midt",
+    "affiliation": "3 Omsorg ungdom",
+    "lokalisering_id": "510",
+    "name": "Karienborg ungdomsheim",
+    "department_code": "531001",
+    "unit_name": "Karienborg ungdomsheim",
+    "approved_places": 6,
+    "budgeted_places": 6
+  },
+  {
+    "region": "Midt",
+    "affiliation": "3 Omsorg ungdom",
+    "lokalisering_id": "513",
+    "name": "Ranheim Vestre",
+    "department_code": "531301",
+    "unit_name": "Ranheim Vestre",
+    "approved_places": 7,
+    "budgeted_places": 6
+  },
+  {
+    "region": "Midt",
+    "affiliation": "3 Omsorg ungdom",
+    "lokalisering_id": "521",
+    "name": "Gilantunet ungdomshjem",
+    "department_code": "532101",
+    "unit_name": "Gilantunet ungdomshjem",
+    "approved_places": 7,
+    "budgeted_places": 7
+  },
+  {
+    "region": "Midt",
+    "affiliation": "3 Omsorg ungdom",
+    "lokalisering_id": "525",
+    "name": "Clausenengen ungdomshjem",
+    "department_code": "532501",
+    "unit_name": "Clausenengen ungdomshjem",
+    "approved_places": 4,
+    "budgeted_places": 4
+  },
+  {
+    "region": "Midt",
+    "affiliation": "3 Omsorg ungdom",
+    "lokalisering_id": "529",
+    "name": "Kollen ungdomsbase",
+    "department_code": "532901",
+    "unit_name": "Kollen ungdomsbase",
+    "approved_places": 8,
+    "budgeted_places": 7
+  },
+  {
+    "region": "Midt",
+    "affiliation": "3 Omsorg ungdom",
+    "lokalisering_id": "532",
+    "name": "Husafjellheimen ungdomsheim",
+    "department_code": "533201",
+    "unit_name": "Husafjellheimen ungdomsheim",
+    "approved_places": 6,
+    "budgeted_places": 6
+  },
+  {
+    "region": "Midt",
+    "affiliation": "4 Behandling lav risiko",
+    "lokalisering_id": "533",
+    "name": "Sunnmørsheimen ungdomsheim",
+    "department_code": "543301",
+    "unit_name": "Sunnmørsheimen ungdomsheim, avd. Nygardsvegen",
+    "approved_places": 4,
+    "budgeted_places": 4
+  },
+  {
+    "region": "Midt",
+    "affiliation": "4 Behandling lav risiko",
+    "lokalisering_id": "511",
+    "name": "Trøndelag behandlingssenter for ungdom",
+    "department_code": "541102",
+    "unit_name": "Buvika ungdomssenter",
+    "approved_places": 3,
+    "budgeted_places": 3
+  },
+  {
+    "region": "Midt",
+    "affiliation": "4 MultifunC",
+    "lokalisering_id": "511",
+    "name": "Trøndelag behandlingssenter for ungdom",
+    "department_code": "541101",
+    "unit_name": "Stjørdal ungdomssenter",
+    "approved_places": 0,
+    "budgeted_places": 0
+  },
+  {
+    "region": "Midt",
+    "affiliation": "4 MultifunC",
+    "lokalisering_id": "511",
+    "name": "Trøndelag behandlingssenter for ungdom",
+    "department_code": "541103",
+    "unit_name": "Moholt ungdomssenter",
+    "approved_places": 3,
+    "budgeted_places": 3
+  },
+  {
+    "region": "Midt",
+    "affiliation": "4 Behandling høy risiko, eks MultifunC",
+    "lokalisering_id": "511",
+    "name": "Trøndelag behandlingssenter for ungdom",
+    "department_code": "541105",
+    "unit_name": "Skatval ungdomssenter",
+    "approved_places": 4,
+    "budgeted_places": 3
+  },
+  {
+    "region": "Nord",
+    "affiliation": "1 Akutt",
+    "lokalisering_id": "619",
+    "name": "Alta Ungdomssenter",
+    "department_code": "611901",
+    "unit_name": "Alta Ungdomssenter Sjøtun",
+    "approved_places": 4,
+    "budgeted_places": 2
+  },
+  {
+    "region": "Nord",
+    "affiliation": "1 Akutt",
+    "lokalisering_id": "619",
+    "name": "Alta Ungdomssenter",
+    "department_code": "611903",
+    "unit_name": "Alta Ungdomssenter Utsikten akutt",
+    "approved_places": 3,
+    "budgeted_places": 2
+  },
+  {
+    "region": "Nord",
+    "affiliation": "1 Akutt",
+    "lokalisering_id": "624",
+    "name": "Røvika Ungdomssenter",
+    "department_code": "612402",
+    "unit_name": "Røvika ungdomssenter Skogly",
+    "approved_places": 3,
+    "budgeted_places": 2
+  },
+  {
+    "region": "Nord",
+    "affiliation": "1 Akutt",
+    "lokalisering_id": "624",
+    "name": "Røvika Ungdomssenter",
+    "department_code": "612406",
+    "unit_name": "Røvika ungdomssenter Åsheim akutt",
+    "approved_places": 2,
+    "budgeted_places": 2
+  },
+  {
+    "region": "Nord",
+    "affiliation": "1 Akutt",
+    "lokalisering_id": "655",
+    "name": "Tromsø ungdomssenter",
+    "department_code": "614710",
+    "unit_name": "Tromsø ungdomssenter Flo",
+    "approved_places": 3,
+    "budgeted_places": 2
+  },
+  {
+    "region": "Nord",
+    "affiliation": "1 Akutt",
+    "lokalisering_id": "655",
+    "name": "Tromsø ungdomssenter",
+    "department_code": "614720",
+    "unit_name": "Tromsø ungdomssenter Fjære",
+    "approved_places": 2,
+    "budgeted_places": 3
+  },
+  {
+    "region": "Nord",
+    "affiliation": "3 Omsorg ungdom",
+    "lokalisering_id": "658",
+    "name": "Sollia Barne- og undomssenter",
+    "department_code": "635801",
+    "unit_name": "Sollia barne- og ungdomssenter miljøavdeling",
+    "approved_places": 5,
+    "budgeted_places": 4
+  },
+  {
+    "region": "Nord",
+    "affiliation": "3 Behandlingssentre",
+    "lokalisering_id": "656",
+    "name": "Bodø behandlingssenter",
+    "department_code": "634801",
+    "unit_name": "Bodø behandlingssenter Sandhornet",
+    "approved_places": 5,
+    "budgeted_places": 5
+  },
+  {
+    "region": "Nord",
+    "affiliation": "3 Omsorg ungdom",
+    "lokalisering_id": "648",
+    "name": "Nye Kvæfjord ungdomssenter",
+    "department_code": "633501",
+    "unit_name": "Nye Kvæfjord ungdomssenter Storheimen",
+    "approved_places": 5,
+    "budgeted_places": 5
+  },
+  {
+    "region": "Nord",
+    "affiliation": "3 Omsorg ungdom",
+    "lokalisering_id": "648",
+    "name": "Nye Kvæfjord ungdomssenter",
+    "department_code": "633502",
+    "unit_name": "Nye Kvæfjord ungdomssenter Lilleheimen",
+    "approved_places": 3,
+    "budgeted_places": 3
+  },
+  {
+    "region": "Nord",
+    "affiliation": "3 Omsorg ungdom",
+    "lokalisering_id": "650",
+    "name": "Nye Lamo ungdomssenter",
+    "department_code": "634001",
+    "unit_name": "Lamo ungdomssenter Tunet",
+    "approved_places": 5,
+    "budgeted_places": 5
+  },
+  {
+    "region": "Nord",
+    "affiliation": "4 Behandling høy risiko, eks MultifunC",
+    "lokalisering_id": "663",
+    "name": "Silsand Ungdomssenter",
+    "department_code": "642501",
+    "unit_name": "Silsand ungdomssenter miljøavdeling",
+    "approved_places": 3,
+    "budgeted_places": 3
+  },
+  {
+    "region": "Nord",
+    "affiliation": "4 Behandling høy risiko, eks MultifunC",
+    "lokalisering_id": "631",
+    "name": "Yttrabekken Ungdomshjem",
+    "department_code": "643101",
+    "unit_name": "Yttrabekken ungdomssenter avdeling 1",
+    "approved_places": 3,
+    "budgeted_places": 3
+  },
+  {
+    "region": "Nord",
+    "affiliation": "3 Omsorg ungdom",
+    "lokalisering_id": "656",
+    "name": "Bodø ungdomssenter",
+    "department_code": "634803",
+    "unit_name": "Bodø ungdomssenter Mjelle",
+    "approved_places": 0,
+    "budgeted_places": 0
+  },
+  {
+    "region": "Nord",
+    "affiliation": "3 Omsorg ungdom",
+    "lokalisering_id": "648",
+    "name": "Nye Kvæfjord ungdomssenter",
+    "department_code": "633505",
+    "unit_name": "Nye Kvæfjord ungdomssenter Nyheimen",
+    "approved_places": 0,
+    "budgeted_places": 0
+  }
+]

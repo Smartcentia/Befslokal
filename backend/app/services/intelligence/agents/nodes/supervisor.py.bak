@@ -1,0 +1,240 @@
+from typing import Optional
+
+from langchain_core.messages import SystemMessage, HumanMessage
+from app.services.intelligence.agents.state import AgentState
+from app.services.intelligence.ki_kollega.query_normalizer import normalize_query, expand_query_terms
+from app.core.config import settings
+import logging
+
+logger = logging.getLogger(__name__)
+
+# Hybrid routing: Kombinerer keyword matching (rask) med LLM-klassifisering (når uklart)
+USE_HYBRID_ROUTING = True  # Kan deaktiveres hvis LLM-routing ikke ønskes
+LLM_ROUTING_CONFIDENCE_THRESHOLD = 0.7  # Minimum confidence for å bruke keyword-resultat
+
+# Semantisk routing: embedding-basert matching mot agent-beskrivelser
+USE_SEMANTIC_ROUTING = True
+SEMANTIC_ROUTE_THRESHOLD = 0.65  # Min. cosine similarity for å bruke semantisk match
+
+AGENT_DESCRIPTIONS = {
+    "researcher": "Søk i dokumenter, oppslag eiendommer kontrakter, Lovdata, fulltekst, finn informasjon",
+    "analyst": "Dataanalyse, statistikk, SQL, kostnad, tellinger, sammenligninger, tall, rapporter",
+    "writer": "Hilsninger, generell samtale, ingen data nødvendig, småprat",
+}
+
+
+def _cosine_similarity(a: list, b: list) -> float:
+    """Cosine similarity mellom to vektorer."""
+    if not a or not b or len(a) != len(b):
+        return 0.0
+    dot = sum(x * y for x, y in zip(a, b))
+    norm_a = sum(x * x for x in a) ** 0.5
+    norm_b = sum(x * x for x in b) ** 0.5
+    if norm_a == 0 or norm_b == 0:
+        return 0.0
+    return dot / (norm_a * norm_b)
+
+
+def _semantic_route(query: str) -> Optional[str]:
+    """
+    Embedding-basert routing. Returnerer agent med høyest similarity hvis > terskel.
+    """
+    if not USE_SEMANTIC_ROUTING or not query or len(query.strip()) < 3:
+        return None
+    try:
+        from app.services.embeddings import generate_query_embedding, generate_embeddings
+
+        query_emb = generate_query_embedding(query.strip())
+        if not query_emb:
+            return None
+
+        descs = list(AGENT_DESCRIPTIONS.values())
+        desc_embs = generate_embeddings(descs)
+        if not desc_embs or len(desc_embs) != len(descs):
+            return None
+
+        best_agent = None
+        best_score = SEMANTIC_ROUTE_THRESHOLD
+        for agent, emb in zip(AGENT_DESCRIPTIONS.keys(), desc_embs):
+            score = _cosine_similarity(query_emb, emb)
+            if score > best_score:
+                best_score = score
+                best_agent = agent
+
+        if best_agent:
+            logger.info(f"--> Semantic route: {best_agent} (score={best_score:.2f})")
+        return best_agent
+    except Exception as e:
+        logger.debug(f"Semantic routing skipped: {e}")
+        return None
+
+
+async def supervisor_node(state: AgentState):
+    """
+    The Supervisor.
+    Decides WHO should act next based on the user's input.
+    """
+    logger.info("👨‍💼 Supervisor: Analyzing request...")
+    messages = state["messages"]
+    # Use last HumanMessage (current user question); fallback to last message (e.g. when history + SystemMessages present)
+    last_user_msg = None
+    for msg in reversed(messages):
+        if isinstance(msg, HumanMessage):
+            last_user_msg = msg
+            break
+    last_msg = last_user_msg or messages[-1]
+    raw_text = last_msg.content or ""
+    # Normaliser og utvid for robust matching (skrivefeil, forkortelser, synonymer)
+    text = expand_query_terms(normalize_query(raw_text))
+    
+    # 1. Check for greetings or general chat
+    greetings = ["hei", "hallo", "god dag", "morn", "hvordan går det", "hvem er du"]
+    if any(g in text for g in greetings):
+        logger.info("--> Greeting detected, routing to WRITER directly")
+        return {"next_step": "writer"}
+
+    # 2. Check if we have sufficient context in SystemMessages
+    has_memory_context = any("RELEVANT LANGTIDSHUKOMMELSE" in m.content for m in messages if hasattr(m, 'content'))
+    
+    # 2. Check Discovered Tools (Toolbox)
+    discovered_tools = state.get("discovered_tools", [])
+    if discovered_tools:
+        # If we have very specific tools discovered, we can route directly
+        # For now, if lookup_properties or run_sql_query are discovered, route to them
+        tool_names = [t["name"] for t in discovered_tools]
+        
+        if "lookup_properties" in tool_names or "search_documents" in tool_names:
+            logger.info(f"--> Semantic match found in Toolbox ({tool_names}), routing to RESEARCHER/DOCS")
+            return {"next_step": "researcher"}
+            
+        if "run_sql_query" in tool_names:
+            logger.info("--> Semantic match found: SQL analysis discovered")
+            return {"next_step": "analyst"}
+
+    # 3. Simple Keyword Routing
+    # PRIORITET: Først søk i dokumenter/strukturert data, så SQL som siste utvei
+    
+    # SQL-spesifikke nøkkelord - bare hvis eksplisitt bedt om SQL/database
+    explicit_sql_keywords = ["sql", "database", "spørring", "query"]
+    
+    # Analyse-spørsmål (BEFS: kostnad per kvm, leietakere, tellinger, firma) -> analyst
+    analysis_keywords = ["største", "størst", "minste", "minst", "høyest", "lavest", "lav", "billig",
+                        "sorter", "sortert", "topp", "flest", "mest", "sammenlign",
+                        "statistikk", "analyse", "rapport", "antall", "kostnad",
+                        "kostnad per kvm", "billigste per kvm", "lav husleie", "leietakere", "hvor mange parter",
+                        "hvor mange eiendommer", "hvor mange kontrakter",
+                        "firma", "firmaer", "hvilket firma", "hvilke firmaer"]
+    
+    # «Alle X» / navnesøk (f.eks. alle familievernkontor, familievern, fvk) -> researcher (lookup)
+    alle_keywords = ["alle ", "finn alle", "liste over alle", "familievernkontor", "familievern", "fvk",
+                     "hvilke er", "eiendommer som", "barnevern", "bup"]
+    
+    # Søk-spørsmål - alltid til researcher først
+    search_keywords = ["søk", "hvor", "når", "ekstern", "google", "finn", "hent",
+                      "sjekk", "hvem", "hva", "gi meg", "vis meg", "hvilke"]
+    
+    # Juridiske spørsmål - Lovdata-søk (ikke "kontrakt" alene – "har vi kontrakt med X" er BEFS-data)
+    legal_keywords = ["lov", "loven", "lovdata", "forskrift", "paragraf", "§", 
+                     "husleie", "husleieloven", "hms", "hms-krav", "oppsigelse",
+                     "kontraktsrett", "juridisk", "rettigheter", 
+                     "plikter", "universell utforming", "tilgjengelighet",
+                     "arbeidsmiljø", "arbeidsmiljøloven", "brannvern", "byggteknisk"]
+    
+    # BEFS-data: "har vi kontrakt med X" / "leietaker Y" -> researcher (lookup_parties), ikke Lovdata
+    befs_contract_keywords = ["har vi kontrakt", "kontrakt med ", "leietaker", "har vi leietaker", "part ", "leverandør "]
+    if any(k in text for k in befs_contract_keywords):
+        logger.info("--> BEFS contract/party query detected, routing to RESEARCHER (lookup_parties)")
+        return {"next_step": "researcher"}
+    
+    # Eksplisitt SQL-spørsmål -> direkte til analyst
+    if any(k in text for k in explicit_sql_keywords):
+        logger.info("--> Explicit SQL query detected, routing to ANALYST")
+        return {"next_step": "analyst"}
+    
+    # Juridiske spørsmål -> researcher (Lovdata-søk)
+    elif any(k in text for k in legal_keywords):
+        logger.info("--> Legal query detected, routing to RESEARCHER for Lovdata search")
+        return {"next_step": "researcher", "use_lovdata": True}
+    
+    # «Alle X» / navnesøk (alle familievernkontor etc.) -> researcher (lookup returnerer alle)
+    elif any(k in text for k in alle_keywords):
+        logger.info("--> 'Alle X' / name search detected, routing to RESEARCHER for full list")
+        return {"next_step": "researcher"}
+    
+    # Analyse-spørsmål (kostnad per kvm, leietakere, tellinger) -> ANALYST (SQL)
+    elif any(k in text for k in analysis_keywords):
+        logger.info("--> Analysis query detected (e.g. 'største', 'antall'), routing to ANALYST for SQL analysis")
+        return {"next_step": "analyst"}
+    
+    # Søk-spørsmål -> researcher først
+    elif any(k in text for k in search_keywords):
+        if has_memory_context:
+            logger.info("--> Search query with memory context, routing to RESEARCHER")
+            return {"next_step": "researcher"}
+        logger.info("--> Route to RESEARCHER")
+        return {"next_step": "researcher"}
+        
+    else:
+        # Default: Ingen nøkkelord match. Prøv semantisk routing først, deretter LLM.
+        semantic_route = _semantic_route(last_msg.content or "")
+        if semantic_route:
+            return {"next_step": semantic_route}
+        if USE_HYBRID_ROUTING:
+            logger.info("--> No keyword/semantic match, using LLM classification")
+            route = await _llm_classify_intent(text, last_msg.content)
+            if route:
+                logger.info(f"--> LLM classified as: {route}")
+                return {"next_step": route}
+        logger.info("--> Route to RESEARCHER (will try documents/structured data first)")
+        return {"next_step": "researcher"}
+
+
+async def _llm_classify_intent(text: str, original_question: str) -> str:
+    """
+    Bruker LLM til å klassifisere brukerens intent når keyword-matching er uklart.
+    
+    Returns:
+        "researcher", "analyst", eller "writer" basert på LLM-klassifisering
+    """
+    try:
+        from langchain_openai import ChatOpenAI
+        from langchain_core.messages import HumanMessage, SystemMessage
+        
+        # Bruk en raskere modell for routing (gpt-4o-mini er raskere og billigere)
+        routing_model = "gpt-4o-mini" if settings.OPENAI_API_KEY else None
+        
+        if not routing_model:
+            logger.warning("LLM routing deaktivert: Ingen API key")
+            return "researcher"  # Fallback
+        
+        llm = ChatOpenAI(
+            model=routing_model,
+            api_key=settings.OPENAI_API_KEY,
+            temperature=0  # Deterministic for routing
+        )
+        
+        system_prompt = """Du er en routing-assistent for KI Kollega. Din jobb er å klassifisere brukerens spørsmål til én av tre kategorier:
+
+1. "researcher" - Spørsmål som krever søk i dokumenter, oppslag av spesifikke eiendommer/kontrakter, eller generell informasjonssøk
+2. "analyst" - Spørsmål som krever dataanalyse, statistikk, sammenligning, eller SQL-spørringer mot databasen
+3. "writer" - Hilsninger, generelle samtaler, eller spørsmål som ikke krever data
+
+Svar KUN med ett ord: researcher, analyst, eller writer."""
+
+        response = await llm.ainvoke([
+            SystemMessage(content=system_prompt),
+            HumanMessage(content=f"Klassifiser dette spørsmålet: {original_question}")
+        ])
+        
+        route = response.content.strip().lower()
+        
+        # Valider at vi fikk et gyldig svar
+        if route in ["researcher", "analyst", "writer"]:
+            return route
+        else:
+            logger.warning(f"LLM returnerte ugyldig route: {route}, fallback til researcher")
+            return "researcher"
+            
+    except Exception as e:
+        logger.error(f"LLM routing feilet: {e}, fallback til researcher")
+        return "researcher"  # Safe fallback

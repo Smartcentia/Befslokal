@@ -1,0 +1,10 @@
+# Railway config for backend (striking-insight).
+# No Root Directory needed — Dockerfile at repo root handles backend/ paths.
+
+[build]
+builder = "DOCKERFILE"
+dockerfilePath = "Dockerfile"
+
+[deploy]
+healthcheckPath = "/api/v1/health"
+healthcheckTimeout = 600

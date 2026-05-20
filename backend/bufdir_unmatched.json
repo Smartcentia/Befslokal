@@ -1,0 +1,1741 @@
+[
+  {
+    "name": "Aberia Ung AS, Bergen",
+    "address": "",
+    "description": "",
+    "legal_bases": [
+      "Akutt §§ 4-1 og 4-2",
+      "Akutt § 4-4",
+      "Atferd §§ 6-1 og 6-2",
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": null,
+    "bufdir_url": "https://www.aberia.no/barnevern/",
+    "owner_type": "Privat",
+    "id": 25021,
+    "email": null,
+    "phone": null,
+    "location": "Bergen, Osterøy, Øygarden"
+  },
+  {
+    "name": "Aberia Ung AS, region sør - Agder",
+    "address": "",
+    "description": "",
+    "legal_bases": [
+      "Akutt §§ 4-1 og 4-2",
+      "Akutt § 4-4",
+      "Atferd §§ 6-1 og 6-2",
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": null,
+    "bufdir_url": "https://www.aberia.no/barnevern/",
+    "owner_type": "Privat",
+    "id": 24982,
+    "email": null,
+    "phone": null,
+    "location": "Arendal, Lindesnes, Lillesand, Grimstad, Mandal, Kristiansand"
+  },
+  {
+    "name": "Aberia Ung AS, region sør - Vestfold og Telemark",
+    "address": "",
+    "description": "",
+    "legal_bases": [
+      "Akutt §§ 4-1 og 4-2",
+      "Akutt § 4-4",
+      "Atferd §§ 6-1 og 6-2",
+      "Omsorg §§ 3-2 og 5-1",
+      "Omsorgssenter for enslige midreårige asylsøkere"
+    ],
+    "image_url": null,
+    "bufdir_url": "https://www.aberia.no/barnevern/",
+    "owner_type": "Privat",
+    "id": 25019,
+    "email": null,
+    "phone": null,
+    "location": "Bamble, Sandefjord, Skien, Kragerø"
+  },
+  {
+    "name": "Aberia Ung AS, Rogaland",
+    "address": "",
+    "description": "",
+    "legal_bases": [
+      "Akutt §§ 4-1 og 4-2",
+      "Akutt § 4-4",
+      "Atferd §§ 6-1 og 6-2",
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": null,
+    "bufdir_url": "",
+    "owner_type": "Privat",
+    "id": 38712,
+    "email": null,
+    "phone": null,
+    "location": "Sola, Sandnes, Stavanger"
+  },
+  {
+    "name": "Aberia Ung AS, Østfold",
+    "address": "",
+    "description": "",
+    "legal_bases": [
+      "Akutt §§ 4-1 og 4-2",
+      "Akutt § 4-4",
+      "Atferd §§ 6-1 og 6-2",
+      "Omsorg §§ 3-2 og 5-1",
+      "Omsorgssenter for enslige midreårige asylsøkere"
+    ],
+    "image_url": null,
+    "bufdir_url": "https://www.aberia.no/barnevern/",
+    "owner_type": "Privat",
+    "id": 25020,
+    "email": null,
+    "phone": null,
+    "location": "Fredrikstad, Moss, Vestby, Skiptvet, Sarpsborg, Nittedal, Vormsund"
+  },
+  {
+    "name": "Agder ungdomshjem, Furuly",
+    "address": "Besøksadresse \\n Fritjof Nansens vei 12 A, 4514 Mandal \\n Postadresse \\n Pb 2233, 3103 Tønsberg",
+    "description": "",
+    "legal_bases": [
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": "https://cms.bufdir.no//contentassets/0849d1423f074579840473eebbce66cc/bilder-2023-redusert-storrelse/brunt-hus-me-rod-og-hvit-bil-foran..jpg",
+    "bufdir_url": "https://www.bufdir.no/barnevern/finn-institusjon/agder-ungdomshjem-furuly/",
+    "owner_type": "Statlig",
+    "id": 29213,
+    "email": "agder.ungdomshjem@bufetat.no",
+    "phone": "466 16 002",
+    "location": "Mandal"
+  },
+  {
+    "name": "Agder ungdomssenter, Justøya",
+    "address": "Besøksadresse \\n Justøyveien 493, 4780 Brekkestø \\n Postadresse \\n Postboks 2233, 3103 Tønsberg",
+    "description": "",
+    "legal_bases": [
+      "Akutt § 4-4",
+      "Atferd §§ 6-1 og 6-2"
+    ],
+    "image_url": "https://cms.bufdir.no//siteassets/barnevernsinstitusjoner/bildeblokker/region-sor/justoya/bilder-2023/innkjoring.jpg",
+    "bufdir_url": "https://www.bufdir.no/barnevern/finn-institusjon/justoya/",
+    "owner_type": "Statlig",
+    "id": 64621,
+    "email": null,
+    "phone": null,
+    "location": "Lillesand"
+  },
+  {
+    "name": "Agder ungdomssenter, Skomrak",
+    "address": "Besøksadresse \\n Solheiveien 25, 4580 Skomrak \\n Postadresse \\n Postboks 2233, 3103 Tønsberg",
+    "description": "",
+    "legal_bases": [
+      "Akutt § 4-4",
+      "Atferd §§ 6-1 og 6-2"
+    ],
+    "image_url": "https://cms.bufdir.no//siteassets/barnevernsinstitusjoner/bildeblokker/region-sor/skomrak/bilder-2023/hvitt-hus-med-et-tre-i-hagen-foran-huset..jpg",
+    "bufdir_url": "https://www.bufdir.no/barnevern/finn-institusjon/skomrak/",
+    "owner_type": "Statlig",
+    "id": 64820,
+    "email": "agder.behandling.ungdom@bufetat.no",
+    "phone": "466 16 003",
+    "location": "Lyngdal"
+  },
+  {
+    "name": "Agder ungdomssenter, Toppen",
+    "address": "Besøksadresse \\n Kirkegårdsveien 25, 4847 Arendal \\n Postadresse \\n Postboks 2233, 3103 Tønsberg \\n",
+    "description": "",
+    "legal_bases": [
+      "Akutt § 4-4",
+      "Atferd §§ 6-1 og 6-2"
+    ],
+    "image_url": "https://cms.bufdir.no//siteassets/barnevernsinstitusjoner/bildeblokker/region-sor/toppen/bilder-2023/inngangspartiet-til-et-langt-hvitt-hus..jpg",
+    "bufdir_url": "https://www.bufdir.no/barnevern/finn-institusjon/toppen/",
+    "owner_type": "Statlig",
+    "id": 64711,
+    "email": "agder.behandling.ungdom@bufetat.no",
+    "phone": "466 16 003",
+    "location": "Arendal"
+  },
+  {
+    "name": "Aktiv og Ung Innlandet",
+    "address": "",
+    "description": "",
+    "legal_bases": [
+      "Akutt §§ 4-1 og 4-2",
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": null,
+    "bufdir_url": "https://aktivogung.no/institusjon/",
+    "owner_type": "Privat",
+    "id": 72731,
+    "email": null,
+    "phone": null,
+    "location": "Elverum"
+  },
+  {
+    "name": "Aurora Tromsø",
+    "address": "",
+    "description": "",
+    "legal_bases": [
+      "Akutt §§ 4-1 og 4-2",
+      "Akutt § 4-4",
+      "Atferd §§ 6-1 og 6-2",
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": null,
+    "bufdir_url": "https://auroraomsorg.no/barnevern/",
+    "owner_type": "Privat",
+    "id": 38717,
+    "email": null,
+    "phone": null,
+    "location": "Tromsø"
+  },
+  {
+    "name": "Barkåker ungdomssenter akutt, Solerødveien",
+    "address": "Besøksadresse \\n Solerødveien 50, 3185 Skoppum \\n Postadresse \\n Postboks 2230, 3103 Tønsberg",
+    "description": "",
+    "legal_bases": [
+      "Akutt §§ 4-1 og 4-2",
+      "Akutt § 4-4",
+      "Atferd §§ 6-1 og 6-2",
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": "https://cms.bufdir.no//contentassets/e016b6a275744f67bf9460368e097865/solerodveien-2025/solerodveien-i-front.jpg",
+    "bufdir_url": "https://www.bufdir.no/barnevern/finn-institusjon/solerodveien/",
+    "owner_type": "Statlig",
+    "id": 65766,
+    "email": "barkaker.ungdomssenter.akutt@bufetat.no",
+    "phone": "466 18 045",
+    "location": "Skoppum"
+  },
+  {
+    "name": "Bergen akuttsenter",
+    "address": "Postadresse \\n Postboks 2233, 3103 Tønsberg",
+    "description": "",
+    "legal_bases": [
+      "Akutt §§ 4-1 og 4-2",
+      "Akutt § 4-4",
+      "Atferd §§ 6-1 og 6-2",
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": "https://cms.bufdir.no//contentassets/7d4ab115ab56455c9e38afac2a3314a5/toppe---bufetat---espen-mills-27.jpg",
+    "bufdir_url": "https://www.bufdir.no/barnevern/finn-institusjon/bergen-akuttsenter/",
+    "owner_type": "Statlig",
+    "id": 35892,
+    "email": "bergen.akuttsenter@bufetat.no",
+    "phone": "466 19 508",
+    "location": "Bergen"
+  },
+  {
+    "name": "Bergen akuttsenter avd. beredskapshjem",
+    "address": "Besøksadresse \\n Solheimsgaten 11, 5058 Bergen \\n Postadresse \\n Postboks 2233, 3103 Tønsberg",
+    "description": "",
+    "legal_bases": [
+      "Akutt §§ 4-1 og 4-2"
+    ],
+    "image_url": "https://cms.bufdir.no//contentassets/af7e27b7bf9f439581861dabc5ca5cd0/gutt-5-ar-holder-i-handen.jpg",
+    "bufdir_url": "https://www.bufdir.no/barnevern/finn-institusjon/bergen-akuttsenter-avd-beredskapshjem/",
+    "owner_type": "Statlig",
+    "id": 35897,
+    "email": "Beredskapshjemmene.vest@bufetat.no",
+    "phone": "466 19 020",
+    "location": "Bergen og Førde"
+  },
+  {
+    "name": "Bergen akuttsenter, Toppe",
+    "address": "Besøksadresse Skinflorbakkane 12, 5136 Mjølkeråen \\n Postadresse Postboks 2233, 3103 Tønsberg",
+    "description": "",
+    "legal_bases": [
+      "Akutt § 4-4"
+    ],
+    "image_url": "https://cms.bufdir.no//contentassets/3a07aff228c04da4923c89f1df1dc3e5/toppe---bufetat---espen-mills-31.jpg",
+    "bufdir_url": "https://www.bufdir.no/barnevern/finn-institusjon/bergen-akuttsenter-toppe/",
+    "owner_type": "Statlig",
+    "id": 27936,
+    "email": "bergen.akuttsenter@bufetat.no",
+    "phone": "466 19 010",
+    "location": "Mjølkeråen"
+  },
+  {
+    "name": "Betania Alta",
+    "address": "",
+    "description": "",
+    "legal_bases": [
+      "Akutt §§ 4-1 og 4-2",
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": null,
+    "bufdir_url": "https://betania-alta.no/barnevern/",
+    "owner_type": "Ideell",
+    "id": 38719,
+    "email": null,
+    "phone": null,
+    "location": "Alta"
+  },
+  {
+    "name": "Betania Kirkenes",
+    "address": "",
+    "description": "",
+    "legal_bases": [
+      "Akutt §§ 4-1 og 4-2",
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": null,
+    "bufdir_url": "https://betania-alta.no/barnevern/",
+    "owner_type": "Ideell",
+    "id": 38722,
+    "email": null,
+    "phone": null,
+    "location": "Sør-Varanger"
+  },
+  {
+    "name": "BevisstUng",
+    "address": "",
+    "description": "",
+    "legal_bases": [
+      "Atferd §§ 6-1 og 6-2"
+    ],
+    "image_url": null,
+    "bufdir_url": "https://www.bevisstung.no/",
+    "owner_type": "Privat",
+    "id": 53594,
+    "email": null,
+    "phone": null,
+    "location": "Hokksund"
+  },
+  {
+    "name": "Blå Kors barnevern, Malvik",
+    "address": "",
+    "description": "",
+    "legal_bases": [
+      "Akutt §§ 4-1 og 4-2",
+      "Akutt § 4-4",
+      "Atferd §§ 6-1 og 6-2",
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": null,
+    "bufdir_url": "https://www.blakors.no/barnevern/malvik/",
+    "owner_type": "Ideell",
+    "id": 25024,
+    "email": null,
+    "phone": null,
+    "location": "Malvik, Hell"
+  },
+  {
+    "name": "CRUX oppvekst, Bergen/Voss",
+    "address": "",
+    "description": "",
+    "legal_bases": [
+      "Akutt §§ 4-1 og 4-2",
+      "Akutt § 4-4",
+      "Atferd §§ 6-1 og 6-2",
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": null,
+    "bufdir_url": "https://stiftelsencrux.no/hva/crux-oppvekst/institusjon",
+    "owner_type": "Ideell",
+    "id": 25088,
+    "email": null,
+    "phone": null,
+    "location": "Bergen, Voss"
+  },
+  {
+    "name": "CRUX oppvekst, Haugalandet",
+    "address": "",
+    "description": "",
+    "legal_bases": [
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": null,
+    "bufdir_url": "https://stiftelsencrux.no/hva/crux-oppvekst/barnevernsinstitusjoner",
+    "owner_type": "Ideell",
+    "id": 25089,
+    "email": null,
+    "phone": null,
+    "location": "Haugesund"
+  },
+  {
+    "name": "CRUX oppvekst, Nesodden",
+    "address": "",
+    "description": "",
+    "legal_bases": [
+      "Akutt § 4-4",
+      "Atferd §§ 6-1 og 6-2",
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": null,
+    "bufdir_url": "https://stiftelsencrux.no/hva/crux-oppvekst/institusjon",
+    "owner_type": "Ideell",
+    "id": 25035,
+    "email": null,
+    "phone": null,
+    "location": "Nesodden"
+  },
+  {
+    "name": "CRUX stiftelsen Rostad",
+    "address": "",
+    "description": "",
+    "legal_bases": [
+      "Akutt §§ 4-1 og 4-2",
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": null,
+    "bufdir_url": "https://stiftelsencrux.no/vare-virksomheter/stiftelsen-rostad",
+    "owner_type": "Ideell",
+    "id": 25090,
+    "email": null,
+    "phone": null,
+    "location": "Inderøy"
+  },
+  {
+    "name": "Cura kompetanse",
+    "address": "",
+    "description": "",
+    "legal_bases": [
+      "Akutt §§ 4-1 og 4-2",
+      "Akutt § 4-4",
+      "Atferd §§ 6-1 og 6-2",
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": null,
+    "bufdir_url": "http://curakompetanse.no/",
+    "owner_type": "Privat",
+    "id": 25069,
+    "email": null,
+    "phone": null,
+    "location": "Tønsberg, Porsgrunn, Sandefjord, Midt-Telemark"
+  },
+  {
+    "name": "Den skreddersydde enhet",
+    "address": "",
+    "description": "",
+    "legal_bases": [
+      "Akutt § 4-4",
+      "Atferd §§ 6-1 og 6-2",
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": null,
+    "bufdir_url": "http://www.dsenhet.no/",
+    "owner_type": "Privat",
+    "id": 25023,
+    "email": null,
+    "phone": null,
+    "location": "Grimstad, Birkenes, Kristiansand, Kragerø, Tvedestrand"
+  },
+  {
+    "name": "Eir barnevern",
+    "address": "",
+    "description": "",
+    "legal_bases": [
+      "Akutt § 4-4",
+      "Atferd §§ 6-1 og 6-2"
+    ],
+    "image_url": null,
+    "bufdir_url": "https://eirbarnevern.no/",
+    "owner_type": "Privat",
+    "id": 25036,
+    "email": null,
+    "phone": null,
+    "location": "Asker"
+  },
+  {
+    "name": "Fana og Ytrebygda ungdomssenter",
+    "address": "",
+    "description": "",
+    "legal_bases": [
+      "Atferd §§ 6-1 og 6-2",
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": "https://cms.bufdir.no//contentassets/7f9686be6fc34c098e2e5e38f66b9d98/bygg-mottak-vindu-eikelund-mai-2025-33.jpg",
+    "bufdir_url": "https://www.bufdir.no/barnevern/finn-institusjon/fana-og-ytrebygda-ungdomssenter/",
+    "owner_type": "Statlig",
+    "id": 74262,
+    "email": null,
+    "phone": null,
+    "location": "Bergen"
+  },
+  {
+    "name": "Fana og Ytrebygda ungdomssenter, Eikelund",
+    "address": "Besøksadresse Sandbrekkvegen 27, 5231 Paradis \\n Postadresse Postboks 2233, 3103 Tønsberg",
+    "description": "",
+    "legal_bases": [
+      "Atferd §§ 6-1 og 6-2"
+    ],
+    "image_url": "https://cms.bufdir.no//contentassets/87c217d9d1b545f89f09df2983fac79d/bygg-mottak-vindu-eikelund-mai-2025-33.jpg",
+    "bufdir_url": "https://www.bufdir.no/barnevern/finn-institusjon/eikelund-ungdomssenter/",
+    "owner_type": "Statlig",
+    "id": 65323,
+    "email": null,
+    "phone": "46616852",
+    "location": "Bergen"
+  },
+  {
+    "name": "Fana og Ytrebygda ungdomssenter, Hop",
+    "address": "Besøksadresse Nybøveien 24, 5221 Nesttun \\n Postadresse Postboks 2233, 3103 Tønsberg",
+    "description": "",
+    "legal_bases": [
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": "https://cms.bufdir.no//contentassets/6eeebda1520c48f8b8904806809fe78f/2023.0718---kasa-hop---bufetat-38.jpg",
+    "bufdir_url": "https://www.bufdir.no/barnevern/finn-institusjon/kasa-ungdomssenter-hop/",
+    "owner_type": "Statlig",
+    "id": 27909,
+    "email": "kasa.hop@bufetat.no",
+    "phone": "466 19 646",
+    "location": "Nesttun"
+  },
+  {
+    "name": "Fana og Ytrebygda ungdomssenter, Sandsli",
+    "address": "Besøksadresse Aurdalslia 96, 5253 Sandsli \\n Postadresse Postboks 2233, 3103 Tønsberg",
+    "description": "",
+    "legal_bases": [
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": "https://cms.bufdir.no//contentassets/b1c3f6ffbe1b435eba9c2bd90881def2/kasa-sandsli---bufetat-2.jpg",
+    "bufdir_url": "https://www.bufdir.no/barnevern/finn-institusjon/kasa-ungdomssenter-sandsli/",
+    "owner_type": "Statlig",
+    "id": 27912,
+    "email": "kasa.sandsli@bufetat.no",
+    "phone": "466 19 649",
+    "location": "Sandsli"
+  },
+  {
+    "name": "Fana og Ytrebygda ungdomssenter, Skjold",
+    "address": "Besøksadresse Skjoldvegen 51/55, 5221 Nesttun \\n Postadresse Postboks 2233, 3103 Tønsberg \\n",
+    "description": "",
+    "legal_bases": [
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": "https://cms.bufdir.no//contentassets/ba319f37ed0144e3a1daeaf71248b5a3/skjold---drone---06---espen-mills.red.jpg",
+    "bufdir_url": "https://www.bufdir.no/barnevern/finn-institusjon/skjoldvegen-barnevernsenter-skjold/",
+    "owner_type": "Statlig",
+    "id": 27950,
+    "email": "skjoldvegen.barnevernsenter@bufetat.no",
+    "phone": "466 19 376 (betjent hele døgnet)",
+    "location": "Nesttun"
+  },
+  {
+    "name": "Fjellstø omsorg",
+    "address": "",
+    "description": "",
+    "legal_bases": [
+      "Akutt §§ 4-1 og 4-2",
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": null,
+    "bufdir_url": "http://fjellstoomsorg.no/",
+    "owner_type": "Privat",
+    "id": 25070,
+    "email": null,
+    "phone": null,
+    "location": "Hol, Gol"
+  },
+  {
+    "name": "Frelsesarmeens seksjon for oppvekst, enhet midt",
+    "address": "",
+    "description": "",
+    "legal_bases": [
+      "Akutt §§ 4-1 og 4-2",
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": null,
+    "bufdir_url": "https://frelsesarmeen.no/barne-og-familievern/om-oss-frelsesarmeen-barne-og-familievern/hegglia",
+    "owner_type": "Ideell",
+    "id": 25026,
+    "email": null,
+    "phone": null,
+    "location": "Trondheim og Melhus"
+  },
+  {
+    "name": "Frelsesarmeens seksjon for oppvekst, enhet sør",
+    "address": "",
+    "description": "",
+    "legal_bases": [
+      "Akutt §§ 4-1 og 4-2",
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": null,
+    "bufdir_url": "https://frelsesarmeen.no/barne-og-familievern",
+    "owner_type": "Ideell",
+    "id": 25071,
+    "email": null,
+    "phone": null,
+    "location": "Drammen"
+  },
+  {
+    "name": "Frelsesarmeens seksjon for oppvekst, enhet vest",
+    "address": "",
+    "description": "",
+    "legal_bases": [
+      "Akutt §§ 4-1 og 4-2",
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": null,
+    "bufdir_url": "https://frelsesarmeen.no/barne-og-familievern",
+    "owner_type": "Ideell",
+    "id": 25091,
+    "email": null,
+    "phone": null,
+    "location": "Stavanger, Sandnes"
+  },
+  {
+    "name": "Frelsesarmeens seksjon for oppvekst, enhet Øst",
+    "address": "",
+    "description": "",
+    "legal_bases": [
+      "Akutt §§ 4-1 og 4-2",
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": null,
+    "bufdir_url": "https://frelsesarmeen.no/barne-og-familievern",
+    "owner_type": "Ideell",
+    "id": 25110,
+    "email": null,
+    "phone": null,
+    "location": "Frogn, Vestby, Lillestrøm"
+  },
+  {
+    "name": "Gyda ressurssenter",
+    "address": "",
+    "description": "",
+    "legal_bases": [
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": null,
+    "bufdir_url": "https://www.larvik.kommune.no/helse-og-mestring/barn-unge-og-familie/gyda-ressurssenter/",
+    "owner_type": "Kommunal",
+    "id": 25072,
+    "email": null,
+    "phone": null,
+    "location": "Larvik"
+  },
+  {
+    "name": "Haraldsplass Serio Ung, Region Agder",
+    "address": "",
+    "description": "",
+    "legal_bases": [
+      "Akutt §§ 4-1 og 4-2",
+      "Akutt § 4-4",
+      "Atferd §§ 6-1 og 6-2",
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": null,
+    "bufdir_url": "https://www.serio.no/barnevern",
+    "owner_type": "Ideell",
+    "id": 25081,
+    "email": null,
+    "phone": null,
+    "location": "Mandal, Valle, Kristiansand"
+  },
+  {
+    "name": "Haraldsplass Serio Ung, Region Rogaland",
+    "address": "",
+    "description": "",
+    "legal_bases": [
+      "Akutt §§ 4-1 og 4-2",
+      "Akutt § 4-4",
+      "Atferd §§ 6-1 og 6-2",
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": null,
+    "bufdir_url": "https://www.haraldsplass.org/barnevern/",
+    "owner_type": "Ideell",
+    "id": 59654,
+    "email": null,
+    "phone": null,
+    "location": "Time"
+  },
+  {
+    "name": "Haraldsplass Serio Ung, Region Vestland",
+    "address": "",
+    "description": "",
+    "legal_bases": [
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": null,
+    "bufdir_url": "https://www.haraldsplass.org/barnevern/",
+    "owner_type": "Ideell",
+    "id": 25092,
+    "email": null,
+    "phone": null,
+    "location": "Bergen, Bjørnafjorden, Askøy"
+  },
+  {
+    "name": "Himmelblå AS",
+    "address": "",
+    "description": "",
+    "legal_bases": [
+      "Akutt §§ 4-1 og 4-2",
+      "Akutt § 4-4",
+      "Atferd §§ 6-1 og 6-2",
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": null,
+    "bufdir_url": "https://himmel-bla.no/",
+    "owner_type": "Privat",
+    "id": 25073,
+    "email": null,
+    "phone": null,
+    "location": "Skien, Porsgrunn"
+  },
+  {
+    "name": "Humana barnevern region Midt Fosen",
+    "address": "",
+    "description": "",
+    "legal_bases": [
+      "Akutt §§ 4-1 og 4-2",
+      "Akutt § 4-4",
+      "Atferd §§ 6-1 og 6-2",
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": null,
+    "bufdir_url": "https://www.humananorge.no/barnevern/regioner",
+    "owner_type": "Privat",
+    "id": 25028,
+    "email": null,
+    "phone": null,
+    "location": "Indre Fosen, Åfjord"
+  },
+  {
+    "name": "Humana barnevern region Midt Trondheim",
+    "address": "",
+    "description": "",
+    "legal_bases": [
+      "Akutt §§ 4-1 og 4-2",
+      "Akutt § 4-4",
+      "Atferd §§ 6-1 og 6-2",
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": null,
+    "bufdir_url": "https://www.humananorge.no/barnevern/",
+    "owner_type": "Privat",
+    "id": 25027,
+    "email": null,
+    "phone": null,
+    "location": "Trondheim, Skaun"
+  },
+  {
+    "name": "Humana barnevern region Nord Harstad",
+    "address": "",
+    "description": "",
+    "legal_bases": [
+      "Akutt § 4-4",
+      "Atferd §§ 6-1 og 6-2"
+    ],
+    "image_url": null,
+    "bufdir_url": "https://www.humananorge.no/barnevern/",
+    "owner_type": "Privat",
+    "id": 25077,
+    "email": null,
+    "phone": null,
+    "location": "Harstad, Kvæfjord"
+  },
+  {
+    "name": "Humana barnevern region Sør Arendal",
+    "address": "",
+    "description": "",
+    "legal_bases": [
+      "Akutt §§ 4-1 og 4-2",
+      "Akutt § 4-4",
+      "Atferd §§ 6-1 og 6-2",
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": null,
+    "bufdir_url": "https://www.humananorge.no/barnevern/",
+    "owner_type": "Privat",
+    "id": 25074,
+    "email": null,
+    "phone": null,
+    "location": "Arendal, Grimstad"
+  },
+  {
+    "name": "Humana barnevern region Sør Kristiansand",
+    "address": "",
+    "description": "",
+    "legal_bases": [
+      "Akutt §§ 4-1 og 4-2",
+      "Akutt § 4-4",
+      "Atferd §§ 6-1 og 6-2",
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": null,
+    "bufdir_url": "https://www.humananorge.no/barnevern/",
+    "owner_type": "Privat",
+    "id": 25076,
+    "email": null,
+    "phone": null,
+    "location": "Kristiansand, Vennsla, Arendal"
+  },
+  {
+    "name": "Humana barnevern region Sør Tønsberg",
+    "address": "",
+    "description": "",
+    "legal_bases": [
+      "Akutt §§ 4-1 og 4-2",
+      "Akutt § 4-4",
+      "Atferd §§ 6-1 og 6-2",
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": null,
+    "bufdir_url": "https://www.humananorge.no/barnevern/regioner/barnevern-ost",
+    "owner_type": "Privat",
+    "id": 25047,
+    "email": null,
+    "phone": null,
+    "location": "Tønsberg, Horten, Skien, Porsgrunn"
+  },
+  {
+    "name": "Humana barnevern region Vest Bergen",
+    "address": "",
+    "description": "",
+    "legal_bases": [
+      "Akutt § 4-4",
+      "Atferd §§ 6-1 og 6-2"
+    ],
+    "image_url": null,
+    "bufdir_url": "https://www.humananorge.no/barnevern/regioner",
+    "owner_type": "Privat",
+    "id": 25096,
+    "email": null,
+    "phone": null,
+    "location": "Askøy, Øygarden"
+  },
+  {
+    "name": "Humana barnevern region Vest Haugesund",
+    "address": "",
+    "description": "",
+    "legal_bases": [
+      "Akutt §§ 4-1 og 4-2",
+      "Akutt § 4-4",
+      "Atferd §§ 6-1 og 6-2",
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": null,
+    "bufdir_url": "https://www.humananorge.no/barnevern/regioner",
+    "owner_type": "Privat",
+    "id": 25104,
+    "email": null,
+    "phone": null,
+    "location": "Karmøy, Tysvær"
+  },
+  {
+    "name": "Humana barnevern region Vest Sandnes",
+    "address": "",
+    "description": "",
+    "legal_bases": [
+      "Akutt §§ 4-1 og 4-2",
+      "Akutt § 4-4",
+      "Atferd §§ 6-1 og 6-2",
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": null,
+    "bufdir_url": "https://www.humananorge.no/barnevern/",
+    "owner_type": "Privat",
+    "id": 25093,
+    "email": null,
+    "phone": null,
+    "location": "Sandnes, Time, Hå, Gjesdal"
+  },
+  {
+    "name": "Humana barnevern region Øst Askim",
+    "address": "",
+    "description": "",
+    "legal_bases": [
+      "Akutt §§ 4-1 og 4-2",
+      "Akutt § 4-4",
+      "Atferd §§ 6-1 og 6-2",
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": null,
+    "bufdir_url": "https://www.humananorge.no/barnevern/regioner",
+    "owner_type": "Privat",
+    "id": 25051,
+    "email": null,
+    "phone": null,
+    "location": "Bærum, Indre Østfold, Rakkestad"
+  },
+  {
+    "name": "Humana barnevern region Øst Hamar",
+    "address": "",
+    "description": "",
+    "legal_bases": [
+      "Akutt §§ 4-1 og 4-2",
+      "Akutt § 4-4",
+      "Atferd §§ 6-1 og 6-2",
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": null,
+    "bufdir_url": "https://www.humananorge.no/barnevern/regioner",
+    "owner_type": "Privat",
+    "id": 25050,
+    "email": null,
+    "phone": null,
+    "location": "Gran, Vestre Toten"
+  },
+  {
+    "name": "Humana barnevern region Øst Lunner",
+    "address": "",
+    "description": "",
+    "legal_bases": [
+      "Akutt §§ 4-1 og 4-2",
+      "Akutt § 4-4",
+      "Atferd §§ 6-1 og 6-2",
+      "Omsorg §§ 3-2 og 5-1",
+      "Omsorgssenter for enslige midreårige asylsøkere"
+    ],
+    "image_url": null,
+    "bufdir_url": "https://www.humananorge.no/barnevern/regioner",
+    "owner_type": "Privat",
+    "id": 71474,
+    "email": null,
+    "phone": null,
+    "location": "Lunner, Jevnaker"
+  },
+  {
+    "name": "Ideell Omsorg AS",
+    "address": "",
+    "description": "",
+    "legal_bases": [
+      "Akutt § 4-4",
+      "Atferd §§ 6-1 og 6-2",
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": null,
+    "bufdir_url": "https://ideellomsorg.no/",
+    "owner_type": "Privat",
+    "id": 25048,
+    "email": null,
+    "phone": null,
+    "location": "Nes"
+  },
+  {
+    "name": "Janus Omsorg AS",
+    "address": "",
+    "description": "",
+    "legal_bases": [
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": null,
+    "bufdir_url": "http://www.opung.no/",
+    "owner_type": "Privat",
+    "id": 25080,
+    "email": null,
+    "phone": null,
+    "location": "Modum"
+  },
+  {
+    "name": "Josephines Stiftelse Barnehjem",
+    "address": "",
+    "description": "",
+    "legal_bases": [
+      "Akutt §§ 4-1 og 4-2",
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": null,
+    "bufdir_url": "https://www.josephines-stiftelse.no/",
+    "owner_type": "Ideell",
+    "id": 25094,
+    "email": null,
+    "phone": null,
+    "location": "Sola"
+  },
+  {
+    "name": "Katfoss behandling ungdom",
+    "address": "Besøksadresse \\n Ilaugveien 1, 3360 Geithus \\n Postadresse \\n Postboks 2233, 3103 Tønsberg",
+    "description": "",
+    "legal_bases": [
+      "Akutt § 4-4",
+      "Atferd §§ 6-1 og 6-2"
+    ],
+    "image_url": "https://cms.bufdir.no//contentassets/ec2d005ed5644af5a8762e9fb97ca816/bilder-2023/katfoss-redigert.jpg",
+    "bufdir_url": "https://www.bufdir.no/barnevern/finn-institusjon/katfoss-behandling-ungdom/",
+    "owner_type": "Statlig",
+    "id": 50823,
+    "email": "katfoss@bufetat.no",
+    "phone": "466 16 106",
+    "location": "Modum"
+  },
+  {
+    "name": "Klokkergården, Måløykollektivet",
+    "address": "",
+    "description": "",
+    "legal_bases": [
+      "Akutt § 4-4",
+      "Atferd §§ 6-1 og 6-2",
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": null,
+    "bufdir_url": "https://www.maloykollektivene.no/",
+    "owner_type": "Ideell",
+    "id": 25095,
+    "email": null,
+    "phone": null,
+    "location": "Kinn"
+  },
+  {
+    "name": "Kreativ omsorg AS",
+    "address": "",
+    "description": "",
+    "legal_bases": [
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": null,
+    "bufdir_url": "https://www.kreoms.no/",
+    "owner_type": "Privat",
+    "id": 71555,
+    "email": null,
+    "phone": null,
+    "location": "Fredrikstad"
+  },
+  {
+    "name": "Kvamsgrindkollektivet",
+    "address": "",
+    "description": "",
+    "legal_bases": [
+      "Akutt § 4-4",
+      "Atferd §§ 6-1 og 6-2"
+    ],
+    "image_url": null,
+    "bufdir_url": "https://kvamsgrind.no/",
+    "owner_type": "Privat",
+    "id": 59647,
+    "email": null,
+    "phone": null,
+    "location": "Trondheim"
+  },
+  {
+    "name": "MST i Bufetat, region sør",
+    "address": "$34",
+    "description": "",
+    "legal_bases": [
+      "Atferd §§ 6-1 og 6-2"
+    ],
+    "image_url": null,
+    "bufdir_url": "https://www.bufdir.no/barnevern/finn-institusjon/mst-region-sor/",
+    "owner_type": "Statlig",
+    "id": 63828,
+    "email": "mst.sor@bufetat.no",
+    "phone": "466 17 171",
+    "location": "Agder, Telemark. vestfold og Buskerud"
+  },
+  {
+    "name": "Novita Omsorg AS",
+    "address": "",
+    "description": "",
+    "legal_bases": [
+      "Akutt § 4-4",
+      "Atferd §§ 6-1 og 6-2"
+    ],
+    "image_url": null,
+    "bufdir_url": "https://novitaomsorg.no/hjem/",
+    "owner_type": "Privat",
+    "id": 53595,
+    "email": null,
+    "phone": null,
+    "location": "Skien"
+  },
+  {
+    "name": "Næromsorg AS Sør",
+    "address": "",
+    "description": "",
+    "legal_bases": [
+      "Akutt §§ 4-1 og 4-2",
+      "Akutt § 4-4",
+      "Atferd §§ 6-1 og 6-2",
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": null,
+    "bufdir_url": "https://www.naromsorg.no/",
+    "owner_type": "Privat",
+    "id": 25078,
+    "email": null,
+    "phone": null,
+    "location": "Arendal, Kristiansand"
+  },
+  {
+    "name": "Næromsorg AS Vest",
+    "address": "",
+    "description": "",
+    "legal_bases": [
+      "Akutt §§ 4-1 og 4-2",
+      "Akutt § 4-4",
+      "Atferd §§ 6-1 og 6-2",
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": null,
+    "bufdir_url": "https://www.naromsorg.no/",
+    "owner_type": "Privat",
+    "id": 38827,
+    "email": null,
+    "phone": null,
+    "location": "Stord"
+  },
+  {
+    "name": "Omsorgskollektivet AS",
+    "address": "",
+    "description": "",
+    "legal_bases": [
+      "Akutt §§ 4-1 og 4-2",
+      "Akutt § 4-4",
+      "Atferd §§ 6-1 og 6-2",
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": null,
+    "bufdir_url": "https://omsorgskollektivet.no/",
+    "owner_type": "Privat",
+    "id": 25079,
+    "email": null,
+    "phone": null,
+    "location": "Kristiansand, Porsgrunn"
+  },
+  {
+    "name": "Oslo Sanitetsforening Brusetkollen",
+    "address": "",
+    "description": "",
+    "legal_bases": [
+      "Akutt §§ 4-1 og 4-2",
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": null,
+    "bufdir_url": "https://brusetkollen.no/",
+    "owner_type": "Ideell",
+    "id": 25052,
+    "email": null,
+    "phone": null,
+    "location": "Asker"
+  },
+  {
+    "name": "Skjerven rusbehandling ungdom",
+    "address": "Besøksadresse \\n Damtjernveien 598, 3275 Svarstad \\n Postadresse \\n Postboks 2233, 3103 Tønsberg",
+    "description": "",
+    "legal_bases": [
+      "Akutt § 4-4",
+      "Atferd §§ 6-1 og 6-2"
+    ],
+    "image_url": "https://cms.bufdir.no//contentassets/21788f9e2c42449a9ec6f7fcdbbab206/bilder-2023-redusert-storrelse/hovedhuset-med-flaggstang.jpg",
+    "bufdir_url": "https://www.bufdir.no/barnevern/finn-institusjon/skjerven-rusbehandling-ungdom/",
+    "owner_type": "Statlig",
+    "id": 30444,
+    "email": "skjerven@bufetat.no",
+    "phone": "466 18 132",
+    "location": "Svarstad, omtrent midt mellom Kongsberg og Tønsberg"
+  },
+  {
+    "name": "Skjoldvegen barnevernsenter, Fyllingsdalen",
+    "address": "Besøksadresse Vestlundveien 22A, 5145 Bergen \\n Postadresse Postboks 2233, 3103 Tønsberg",
+    "description": "",
+    "legal_bases": [
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": "https://cms.bufdir.no//contentassets/b2b029a834344d348e80f9efccd2b3bc/2023.0612---skjoldvegen-avd.-fyllingsdalen---bufetat-11.jpg",
+    "bufdir_url": "https://www.bufdir.no/barnevern/finn-institusjon/skjoldvegen-barnevernsenter-fyllingsdalen/",
+    "owner_type": "Statlig",
+    "id": 27954,
+    "email": "skjoldvegen.barnevernster@bufetat.no",
+    "phone": "466 18 999 (betjent hele døgnet)",
+    "location": "Fyllingsdalen"
+  },
+  {
+    "name": "Skjoldvegen barnevernsenter, Søfteland",
+    "address": "Besøksadresse Haugane 15, 5212 Søfteland \\n Postadresse Postboks 2233, 3103 Tønsberg",
+    "description": "",
+    "legal_bases": [
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": "https://cms.bufdir.no//contentassets/45ea3f753c064162b70ce30f563d1d33/2023---skjoldvegen---softeland---bufetat---espen-mills-35.jpg",
+    "bufdir_url": "https://www.bufdir.no/barnevern/finn-institusjon/skjoldvegen-barnevernsenter-softeland/",
+    "owner_type": "Statlig",
+    "id": 28050,
+    "email": "skjoldvegen.barnevernsenter@bufetat.no",
+    "phone": "466 18 812 (betjent hele døgnet)",
+    "location": "Søfteland "
+  },
+  {
+    "name": "SMS Omsorg AS",
+    "address": "",
+    "description": "",
+    "legal_bases": [
+      "Akutt §§ 4-1 og 4-2",
+      "Akutt § 4-4",
+      "Atferd §§ 6-1 og 6-2",
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": null,
+    "bufdir_url": "",
+    "owner_type": "Privat",
+    "id": 25054,
+    "email": null,
+    "phone": "90402097",
+    "location": "Nordre Follo, Ås"
+  },
+  {
+    "name": "Sogn og Fjordane ungdomssenter, Meltunet",
+    "address": "Besøksadresse Sophus Lie-vegen 9, 6770 Nordfjordeid \\n Postadresse Postboks 2233, 3103 Tønsberg",
+    "description": "",
+    "legal_bases": [
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": "https://cms.bufdir.no//contentassets/9a9d146624464f3ebe092b48133f0448/meltunet---bufetat---espen-mills-23.jpg",
+    "bufdir_url": "https://www.bufdir.no/barnevern/finn-institusjon/sogn-og-fjordane-ungdomssenter-meltunet/",
+    "owner_type": "Statlig",
+    "id": 27958,
+    "email": "miriam.hoddevik@bufetat.no",
+    "phone": "46618832",
+    "location": "Nordfjordeid"
+  },
+  {
+    "name": "Spesialiserte fosterhjem i Bufetat, region sør",
+    "address": "Besøksadresser : \\n \\n Tordenskjolds gate 65, 4614 Kristiansand S \\n Grønland 68, 3045 Drammen \\n Anton Jenssensgate 2, 3125 Tønsberg \\n Langsæveien 6, 4846 Arendal \\n \\n Postadresse : Postboks 2233, 3103 Tønsberg",
+    "description": "",
+    "legal_bases": [
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": "https://cms.bufdir.no//contentassets/6ad4b6b30e9f45f2bbca561a3184e2d3/to-ungjenter-og-dame-over-leksebokene.jpg",
+    "bufdir_url": "https://www.bufdir.no/barnevern/finn-institusjon/spesialisert-fosterhjem-sor/",
+    "owner_type": "Statlig",
+    "id": 63893,
+    "email": " spesialisertefosterhjem.sor@bufetat.no",
+    "phone": "46618501",
+    "location": "Agder, Telemark, Agder og Telemark"
+  },
+  {
+    "name": "Stavanger akuttsenter",
+    "address": "Besøksadresse: \\n Avdeling Madla: Kompani Linges vei 23, 4045 Hafrsfjord \\n Avdeling Røyneberg: Marknesringen 48, 4052 Røyneberg \\n Postadresse: \\n Postboks 2233, 3102 Tønsberg",
+    "description": "",
+    "legal_bases": [
+      "Akutt §§ 4-1 og 4-2",
+      "Akutt § 4-4",
+      "Atferd §§ 6-1 og 6-2",
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": "https://cms.bufdir.no//contentassets/5390ac4fd5dc49998e75a8062da45fdf/2023---royneberg---bufetat---espen-mills-13.jpg",
+    "bufdir_url": "https://www.bufdir.no/barnevern/finn-institusjon/stavanger-akuttsenter/",
+    "owner_type": "Statlig",
+    "id": 35887,
+    "email": "stavanger.akuttsenter@bufetat.no",
+    "phone": "466 19 180",
+    "location": "Stavanger og Haugesund"
+  },
+  {
+    "name": "Stavanger akuttsenter, Beredskapshjem",
+    "address": "Besøksadresse \\n \\n Stavanger: Kompani Linges vei 23, 4045 Hafrsfjord \\n Haugesund: Haraldsgata 94, 5509 Haugesund \\n \\n Postadresse Postboks 2233, 3103 Tønsberg",
+    "description": "",
+    "legal_bases": [
+      "Akutt §§ 4-1 og 4-2",
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": "https://cms.bufdir.no//contentassets/e1045c75d4d84bd8ad8ea722981d5f45/2023-0123---statens-hus---bufetat-5.jpg",
+    "bufdir_url": "https://www.bufdir.no/barnevern/finn-institusjon/stavanger-akuttsenter-beredskapshjem/",
+    "owner_type": "Statlig",
+    "id": 35809,
+    "email": "stavanger.akuttsenter@bufetat.no",
+    "phone": "466 19 180",
+    "location": "Rogaland "
+  },
+  {
+    "name": "Stavanger akuttsenter, Madla",
+    "address": "Besøksadresse Kompani Linges vei 23, 4045 Hafrsfjord \\n Postadresse Postboks 2233, 3103 Tønsberg",
+    "description": "",
+    "legal_bases": [
+      "Akutt § 4-4"
+    ],
+    "image_url": "https://cms.bufdir.no//contentassets/614df8c5ecd04e399a162a3eb06a494e/stavanger-akuttsenter---madla---bufetat---espen-mills-29.jpg",
+    "bufdir_url": "https://www.bufdir.no/barnevern/finn-institusjon/stavanger-akuttsenter-madla/",
+    "owner_type": "Statlig",
+    "id": 27996,
+    "email": "stavanger.akuttsenter@bufetat.no",
+    "phone": "466 19 180",
+    "location": "Hafrsfjord"
+  },
+  {
+    "name": "Stavanger akuttsenter, Røyneberg",
+    "address": "Besøksadresse Marknesringen 48, 4052 Røyneberg \\n Postadresse Postboks 2233, 3103 Tønsberg",
+    "description": "",
+    "legal_bases": [
+      "Akutt §§ 4-1 og 4-2"
+    ],
+    "image_url": "https://cms.bufdir.no//contentassets/1c0b7238ebe5421f9eb72ff56ecae5fb/2023---royneberg---bufetat---espen-mills-13.jpg",
+    "bufdir_url": "https://www.bufdir.no/barnevern/finn-institusjon/stavanger-akuttsenter-royneberg/",
+    "owner_type": "Statlig",
+    "id": 27999,
+    "email": "stavanger.akuttsenter@bufetat.no",
+    "phone": "466 19 180",
+    "location": "Røyneberg"
+  },
+  {
+    "name": "Stavanger ungdomssenter, Lindøy",
+    "address": "Besøksadresse Lindøy 1, 4013 Stavanger \\n Postadresse Postboks 2233, 3103 Tønsberg \\n",
+    "description": "",
+    "legal_bases": [
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": "https://cms.bufdir.no//contentassets/c0fa796423ea4b1f8d8723de15fba054/2023---stavanger-ungdomssenter---lindoy---bufetat---espen-mills-28.jpg",
+    "bufdir_url": "https://www.bufdir.no/barnevern/finn-institusjon/stavanger-ungdomssenter-lindoy/",
+    "owner_type": "Statlig",
+    "id": 28003,
+    "email": "janne.haugstad.bo@bufetat.no",
+    "phone": "466 19 220 (vakttelefon)",
+    "location": "Stavanger"
+  },
+  {
+    "name": "Stavanger ungdomssenter, Våland",
+    "address": "Besøksadresse Rogalandsgata 18, 4011 Stavanger \\n Postadresse Postboks 2233, 3103 Tønsberg",
+    "description": "",
+    "legal_bases": [
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": "https://cms.bufdir.no//contentassets/1024be12d0944254abc6f3ca999a9f6a/valand---bufetat---espen-mills-3.jpg",
+    "bufdir_url": "https://www.bufdir.no/barnevern/finn-institusjon/stavanger-ungdomssenter-valand/",
+    "owner_type": "Statlig",
+    "id": 28006,
+    "email": "janne.haugstad.bo@bufetat.no",
+    "phone": "466 19 220",
+    "location": "Stavanger "
+  },
+  {
+    "name": "Stendi AS - Agder Vest",
+    "address": "",
+    "description": "",
+    "legal_bases": [
+      "Akutt §§ 4-1 og 4-2",
+      "Akutt § 4-4",
+      "Atferd §§ 6-1 og 6-2",
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": null,
+    "bufdir_url": "https://stendi.no/barnevern",
+    "owner_type": "Privat",
+    "id": 25085,
+    "email": null,
+    "phone": null,
+    "location": "Lund, Farsund"
+  },
+  {
+    "name": "Stendi AS - Agder Øst",
+    "address": "",
+    "description": "",
+    "legal_bases": [
+      "Akutt §§ 4-1 og 4-2",
+      "Akutt § 4-4",
+      "Atferd §§ 6-1 og 6-2",
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": null,
+    "bufdir_url": "https://stendi.no/barnevern",
+    "owner_type": "Privat",
+    "id": 59650,
+    "email": null,
+    "phone": null,
+    "location": "Lindesnes, Mandal, Grimstad"
+  },
+  {
+    "name": "Stendi AS - Alta",
+    "address": "",
+    "description": "",
+    "legal_bases": [
+      "Akutt § 4-4",
+      "Atferd §§ 6-1 og 6-2"
+    ],
+    "image_url": null,
+    "bufdir_url": "https://stendi.no/barnevern",
+    "owner_type": "Privat",
+    "id": 25065,
+    "email": null,
+    "phone": null,
+    "location": "Alta"
+  },
+  {
+    "name": "Stendi AS - Bø i Vesterålen",
+    "address": "",
+    "description": "",
+    "legal_bases": [
+      "Akutt §§ 4-1 og 4-2",
+      "Akutt § 4-4",
+      "Atferd §§ 6-1 og 6-2",
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": null,
+    "bufdir_url": "https://stendi.no/barnevern",
+    "owner_type": "Privat",
+    "id": 25066,
+    "email": null,
+    "phone": null,
+    "location": "Bø i Vesterålen"
+  },
+  {
+    "name": "Stendi AS - Midt",
+    "address": "",
+    "description": "",
+    "legal_bases": [
+      "Akutt §§ 4-1 og 4-2",
+      "Akutt § 4-4",
+      "Atferd §§ 6-1 og 6-2",
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": null,
+    "bufdir_url": "https://stendi.no/barnevern",
+    "owner_type": "Privat",
+    "id": 25032,
+    "email": null,
+    "phone": null,
+    "location": "Trondheim"
+  },
+  {
+    "name": "Stendi AS - Målselv",
+    "address": "",
+    "description": "",
+    "legal_bases": [
+      "Akutt §§ 4-1 og 4-2",
+      "Akutt § 4-4",
+      "Atferd §§ 6-1 og 6-2",
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": null,
+    "bufdir_url": "https://stendi.no/barnevern",
+    "owner_type": "Privat",
+    "id": 25067,
+    "email": null,
+    "phone": null,
+    "location": "Målselv"
+  },
+  {
+    "name": "Stendi AS - Nord-Vest",
+    "address": "",
+    "description": "",
+    "legal_bases": [
+      "Akutt §§ 4-1 og 4-2",
+      "Akutt § 4-4",
+      "Atferd §§ 6-1 og 6-2",
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": null,
+    "bufdir_url": "https://stendi.no/barnevern",
+    "owner_type": "Privat",
+    "id": 25031,
+    "email": null,
+    "phone": null,
+    "location": "Hustadvika, Molde"
+  },
+  {
+    "name": "Stendi AS - Rogaland",
+    "address": "",
+    "description": "",
+    "legal_bases": [
+      "Akutt §§ 4-1 og 4-2",
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": null,
+    "bufdir_url": "https://stendi.no/barnevern",
+    "owner_type": "Privat",
+    "id": 25098,
+    "email": null,
+    "phone": null,
+    "location": "Sola, Stavanger"
+  },
+  {
+    "name": "Stendi AS - Tromsø",
+    "address": "",
+    "description": "",
+    "legal_bases": [
+      "Akutt § 4-4",
+      "Atferd §§ 6-1 og 6-2",
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": null,
+    "bufdir_url": "https://stendi.no/barnevern",
+    "owner_type": "Privat",
+    "id": 25068,
+    "email": null,
+    "phone": null,
+    "location": "Tromsø, Karlsøy"
+  },
+  {
+    "name": "Stendi AS - Vestfold og Telemark",
+    "address": "",
+    "description": "",
+    "legal_bases": [
+      "Akutt §§ 4-1 og 4-2",
+      "Akutt § 4-4",
+      "Atferd §§ 6-1 og 6-2",
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": null,
+    "bufdir_url": "https://stendi.no/barnevern",
+    "owner_type": "Privat",
+    "id": 25083,
+    "email": null,
+    "phone": null,
+    "location": "Skien, Porsgrunn"
+  },
+  {
+    "name": "Stendi AS - Vestland",
+    "address": "",
+    "description": "",
+    "legal_bases": [
+      "Akutt §§ 4-1 og 4-2",
+      "Akutt § 4-4",
+      "Atferd §§ 6-1 og 6-2",
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": null,
+    "bufdir_url": "https://stendi.no/barnevern",
+    "owner_type": "Privat",
+    "id": 25097,
+    "email": null,
+    "phone": null,
+    "location": "Bergen, Askøy, Øygarden"
+  },
+  {
+    "name": "Stendi AS - Østfold",
+    "address": "",
+    "description": "",
+    "legal_bases": [
+      "Akutt §§ 4-1 og 4-2",
+      "Akutt § 4-4",
+      "Atferd §§ 6-1 og 6-2",
+      "Omsorg §§ 3-2 og 5-1",
+      "Omsorgssenter for enslige midreårige asylsøkere"
+    ],
+    "image_url": null,
+    "bufdir_url": "https://stendi.no/barnevern",
+    "owner_type": "Privat",
+    "id": 25056,
+    "email": null,
+    "phone": null,
+    "location": "Råde, Rakkestad, Vestby, Lørenskog, Fredrikstad, Rælingen, Våler, Moss, Lillestrøm"
+  },
+  {
+    "name": "Sti omsorg AS",
+    "address": "",
+    "description": "",
+    "legal_bases": [
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": null,
+    "bufdir_url": "http://www.sti-omsorg.no/",
+    "owner_type": "Privat",
+    "id": 25057,
+    "email": null,
+    "phone": null,
+    "location": "Lillehammer"
+  },
+  {
+    "name": "Stiftelsen Fagertun Norsk Folkehjelp",
+    "address": "",
+    "description": "",
+    "legal_bases": [
+      "Akutt §§ 4-1 og 4-2",
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": null,
+    "bufdir_url": "http://www.fagertunhybelhus.com/",
+    "owner_type": "Ideell",
+    "id": 25059,
+    "email": null,
+    "phone": null,
+    "location": "Brumunddal, Hamar"
+  },
+  {
+    "name": "Stiftelsen Fossumkollektivet",
+    "address": "",
+    "description": "",
+    "legal_bases": [
+      "Akutt § 4-4",
+      "Atferd §§ 6-1 og 6-2"
+    ],
+    "image_url": null,
+    "bufdir_url": "https://www.fossumkollektivet.no/avdelingene/",
+    "owner_type": "Ideell",
+    "id": 25040,
+    "email": null,
+    "phone": null,
+    "location": "Hamar, Stange, Indre Østfold, Skiptvet"
+  },
+  {
+    "name": "Stiftelsen Hiimsmoenkollektivet",
+    "address": "",
+    "description": "",
+    "legal_bases": [
+      "Akutt § 4-4",
+      "Atferd §§ 6-1 og 6-2",
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": null,
+    "bufdir_url": "https://hiimsmoen.no/",
+    "owner_type": "Ideell",
+    "id": 25100,
+    "email": null,
+    "phone": null,
+    "location": "Suldal"
+  },
+  {
+    "name": "Stiftelsen Milepælen",
+    "address": "",
+    "description": "",
+    "legal_bases": [
+      "Akutt §§ 4-1 og 4-2",
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": null,
+    "bufdir_url": "https://www.stiftelsenmilepaelen.no/",
+    "owner_type": "Ideell",
+    "id": 25060,
+    "email": null,
+    "phone": null,
+    "location": "Nes"
+  },
+  {
+    "name": "Team Up Trygg AS",
+    "address": "",
+    "description": "",
+    "legal_bases": [
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": null,
+    "bufdir_url": "https://www.team-up.no/teamup-trygg",
+    "owner_type": "Privat",
+    "id": 59653,
+    "email": null,
+    "phone": null,
+    "location": "Østre Toten"
+  },
+  {
+    "name": "Telemark ungdomssenter, Kjørbekk",
+    "address": "Besøksadresse \\n Kjørbekksvingen 38, 3735 Skien \\n Postadresse \\n Postboks 2233, 3103 Tønsberg",
+    "description": "",
+    "legal_bases": [
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": "https://cms.bufdir.no//siteassets/barnevernsinstitusjoner/bildeblokker/region-sor/kjorbekk/bilder-2023/huset-sett-fra-hagen.jpg",
+    "bufdir_url": "https://www.bufdir.no/barnevern/finn-institusjon/kjorbekk/",
+    "owner_type": "Statlig",
+    "id": 64096,
+    "email": "telemark.ungdomssenter@bufetat.no",
+    "phone": "466 17 750",
+    "location": "Skien"
+  },
+  {
+    "name": "Telemark ungdomssenter, Miljøheimen",
+    "address": "Besøksadresse \\n Haugetuft 16, 3890 Vinje \\n Postadresse \\n Postboks 2233, 3103 Tønsberg",
+    "description": "",
+    "legal_bases": [
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": "https://cms.bufdir.no//siteassets/barnevernsinstitusjoner/bildeblokker/region-sor/miljoheimen/bilder-2023/brunt-hus-med-hage-foran-og-et-tre-med-hostfarger..jpg",
+    "bufdir_url": "https://www.bufdir.no/barnevern/finn-institusjon/miljoheimen/",
+    "owner_type": "Statlig",
+    "id": 64182,
+    "email": "telemark.ungdomssenter@bufetat.no",
+    "phone": "466 17 750",
+    "location": "Vinje i Telemark"
+  },
+  {
+    "name": "Trøndelag behandlingssenter - avdeling Buvika",
+    "address": "\\n \\n Besøksadresse: Hanskleiva 25, Buvika \\n Postadresse: Postboks 2233, 3103 Tønsberg \\n \\n",
+    "description": "",
+    "legal_bases": [
+      "Atferd §§ 6-1 og 6-2"
+    ],
+    "image_url": "https://cms.bufdir.no//contentassets/aa8cb8dca54d4caa88ccced64b2d5e46/trondelag-behandlingssenter-for-ungdom-avdeling-buvika-018.jpg",
+    "bufdir_url": "https://www.bufdir.no/barnevern/finn-institusjon/trondelag-behandlingssenter-for-ungdom-avdeling-buvika/",
+    "owner_type": "Statlig",
+    "id": 27616,
+    "email": null,
+    "phone": "466 17 570",
+    "location": "Skaun kommune"
+  },
+  {
+    "name": "Trøndelag behandlingssenter - avdeling Skatval",
+    "address": "\\n \\n Besøksadresse: Forbordsfjellvegen 119, 7510 Skatval \\n Postadresse: Postboks 2233, 3103 Tønsberg \\n \\n",
+    "description": "",
+    "legal_bases": [
+      "Akutt § 4-4",
+      "Atferd §§ 6-1 og 6-2"
+    ],
+    "image_url": "https://cms.bufdir.no//contentassets/0bd1ba477a944cef86aac76de1477075/trondelag-behandlingssenter-avdeling-skatval.jpg",
+    "bufdir_url": "https://www.bufdir.no/barnevern/finn-institusjon/trondelag-behandlingssenter-avdeling-skatval/",
+    "owner_type": "Statlig",
+    "id": 57978,
+    "email": null,
+    "phone": "466 17 570",
+    "location": "Stjørdal kommune"
+  },
+  {
+    "name": "Ung i Nord AS",
+    "address": "",
+    "description": "",
+    "legal_bases": [
+      "Akutt § 4-4",
+      "Atferd §§ 6-1 og 6-2"
+    ],
+    "image_url": null,
+    "bufdir_url": "https://unginord.as/",
+    "owner_type": "Privat",
+    "id": 65590,
+    "email": null,
+    "phone": null,
+    "location": "Skibotn"
+  },
+  {
+    "name": "Uniped AS",
+    "address": "",
+    "description": "",
+    "legal_bases": [
+      "Akutt §§ 4-1 og 4-2",
+      "Akutt § 4-4",
+      "Atferd §§ 6-1 og 6-2",
+      "Omsorg §§ 3-2 og 5-1",
+      "Omsorgssenter for enslige midreårige asylsøkere"
+    ],
+    "image_url": null,
+    "bufdir_url": "https://www.uniped.no/",
+    "owner_type": "Privat",
+    "id": 25064,
+    "email": null,
+    "phone": null,
+    "location": "Sarpsborg, Halden, Fredrikstad, Moss, Ullensaker"
+  },
+  {
+    "name": "Vestfold ungdomssenter, Svenner",
+    "address": "Adresse \\n Geiteramsveien 81, 3268 Larvik \\n Postadresse \\n Postboks 2233, 3103 Tønsberg",
+    "description": "",
+    "legal_bases": [
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": "https://cms.bufdir.no//contentassets/60270d2bd172407b92a2d3ba888adff2/bilder-2023-redusert-storrelse/brunt-hus-med-hage-foran-og-pa-siden..jpg",
+    "bufdir_url": "https://www.bufdir.no/barnevern/finn-institusjon/svenner/",
+    "owner_type": "Statlig",
+    "id": 64502,
+    "email": "vestfold.ungdomssenter@bufetat.no",
+    "phone": "466 15 280",
+    "location": "Larvik"
+  },
+  {
+    "name": "Vestfold ungdomssenter, Thorøya",
+    "address": "Adresse \\n Thorøyaveien 5, 3209 Sandefjord \\n Postadresse \\n Postboks 2233 3103 Tønsberg \\n Vakttelefon \\n 466 17 794",
+    "description": "",
+    "legal_bases": [
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": "https://cms.bufdir.no//contentassets/ff4f4dc3706c408c98b4c0924aa213ea/bilder-2023/bilder-2023--redusert-str/brunt-hus-med-store-vinduer-mot-hagen./",
+    "bufdir_url": "https://www.bufdir.no/barnevern/finn-institusjon/thoroya/",
+    "owner_type": "Statlig",
+    "id": 64294,
+    "email": "vestfold.ungdomssenter@bufetat.no",
+    "phone": "466 15 280",
+    "location": "Sandefjord"
+  },
+  {
+    "name": "Vestfold ungdomssenter, Ulabrand",
+    "address": "Adresse \\n Geiteramsveien 81, 3268 Larvik \\n Postadresse \\n Postboks 2233, 3103 Tønsberg",
+    "description": "",
+    "legal_bases": [
+      "Omsorg §§ 3-2 og 5-1"
+    ],
+    "image_url": "https://cms.bufdir.no//contentassets/0ee9a5fc5c3d4d77b0921ea5c4932e82/bilder-2023-redusert-storrelse/brunt-hus-med-hage-foran-og-pa-siden..jpg",
+    "bufdir_url": "https://www.bufdir.no/barnevern/finn-institusjon/ulabrand/",
+    "owner_type": "Statlig",
+    "id": 64381,
+    "email": "vestfold.ungdomssenter@bufetat.no",
+    "phone": "466 15 280",
+    "location": "Larvik"
+  }
+]

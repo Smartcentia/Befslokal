@@ -1,0 +1,143 @@
+0261c1b5-57d0-41bb-be57-4cd712a4520c | Aurdalslia 96 | Aurdalslia 96
+33588856-cfa2-4eba-b8ca-4b7591c9643c | Svanehaugvegen 3 | Svanehaugvegen 3
+0c5829b1-2815-405c-a86a-a62886c9d34f | Kjørbekksvingen 38 | Kjørbekksvingen 38
+9983b9f4-eba6-4280-9032-9e5397c7175b | Haugane 15 | Haugane 15
+3390b75a-b8de-4592-9f33-20b2af2efbd3 | Storgata 12, 14, 6413 Molde, Norway | Storgata 12, 14, 6413 Molde, Norway
+ad419511-80cf-4eed-9a08-5871b237fbcb | Solheimsgaten 11 | Solheimsgaten 11
+8d2241f4-311c-4f5d-bee7-6becb72acdb2 | Solheimsgaten 13 | Solheimsgaten 13
+92fab546-af01-4359-bcdf-db8cfa52df65 | Sophus Lie-vegen 5 | Sophus Lie-vegen 5
+f44aa971-1555-4432-befb-10055b93ac8c | Vestlundveien 22a | Vestlundveien 22a
+1d0c0ace-8299-4d3c-879c-92347349928e | Hans Karolius vei 6 | Hans Karolius vei 6
+8ab33aaf-4238-48af-98b3-ad4503188d81 | Rogalandsgata 18 | Rogalandsgata 18
+90ace21e-d277-41cb-a6e4-e52e8c899c7d | Brennstadmoen 23 | Brennstadmoen 23
+cc66c268-a0e9-43c5-939f-341857a0dffe | Bastian Withs gt 11 | Bastian Withs gt 11
+74085fca-7b6b-4ba8-9f54-d7aea9e7f160 | Kirkeveien 33 | Kirkeveien 33
+b2df63d0-9743-40cd-8941-3b8abeada762 | Storveien 1404 | Storveien 1404
+c5b04f79-bd0d-4911-b46e-d014d2f6aba8 | Peder Myhres vei 16 | Peder Myhres vei 16
+1419100a-d540-4d05-9e36-eaa0198b22e0 | Lundeveien 171 | Lundeveien 171
+3667a175-09ba-4869-86c9-46b6e2130127 | Ilaugveien 1 | Ilaugveien 1
+4ede70c5-5d3b-452a-8572-74d5e53e6e7d | Kvalvågveien 113 | Kvalvågveien 113
+4fd0bd96-fcbb-4b9d-8ea8-ad967e3a8bb1 | Vikhovlia 1400 | Vikhovlia 1400
+527d45d9-08e1-426f-928c-b3bf71505e37 | Mindeveien 8 | Mindeveien 8
+5dcc3c80-6c3a-4465-ae29-93b07bd3f542 | Marknesringen 48 | Marknesringen 48
+60f1a9e4-f7e0-4f34-b2e6-ed9161ca303d | Havnegata 9 | Havnegata 9
+a053d0be-8057-4854-a3a6-bbe8e6dd4a5f | Islandsbotnveien 35 | Islandsbotnveien 35
+a86bae6a-cf15-4e3e-b1e7-426377a5a190 | Bispegra 52 | Bispegra 52
+b0bd06f1-dc8a-44dc-9c69-076e7fe47c10 | Østmarkveien 26 D/E | Østmarkveien 26 D/E
+97454cf7-c0d9-4d74-85e9-08f2df76c687 | Furene 8, 6105 Volda | Furene 8, 6105 Volda
+d874fdc5-aee0-4211-a9a9-bd721534ba9e | Furene 8, 6105 Volda | Furene 8, 6105 Volda
+be58086c-0dfb-4d44-bc86-c57cbe85c876 | Kaigata 4 | Kaigata 4
+ed361aca-d1c9-4b2a-8a45-8acf5a325c8d | Bønesskogen 333 | Bønesskogen 333
+f80495cd-5a19-489c-b1d5-3ed193ced4b2 | Rødstokken 16 | Rødstokken 16
+007d72fa-c416-494f-bd6b-275cdb3be778 | Humlevegen 92 | Humlevegen 92
+d4ae2662-5af8-43fc-827a-e028572fc69e | Kvalvågveien 113, 6521 Frei | Kvalvågveien 113, 6521 Frei
+e0aabb9d-6bec-4669-962c-b571d1947956 | Kvalvågveien 113, 6521 Frei | Kvalvågveien 113, 6521 Frei
+11953ada-8b48-4560-8867-d1b776a0a25d | Kvalvågveien 113, 6521 Frei | Kvalvågveien 113, 6521 Frei
+2fb2918b-e808-404f-9835-5f6475813b84 | Justøyveien 493 | Justøyveien 493
+e3500119-fbe4-41e5-859a-d05ab41d4cdc | Sjukehusvegen  5 | Sjukehusvegen  5
+fb02d48c-db9b-49a2-b0b9-a42d22f3e19e | Sjukehusvegen  5 | Sjukehusvegen  5
+aa95ae0b-d557-4b6d-8c57-c770feb6eeda | Sjukehusvegen  5 | Sjukehusvegen  5
+bb3ed2e7-35cb-4ae2-bbdd-aaabfa4ba365 | Storgata 12, 14, 6413 Molde, Norway | Storgata 12, 14, 6413 Molde, Norway
+b3396b23-ea5e-42c4-952d-85a1cee32bd9 | Fredrik Selmers vei 3 | Fredrik Selmers vei 3
+9036fd2c-fdce-4b8b-8c6a-b9b67d70a150 | Håkonsgt 4 | Håkonsgt 4
+f488dadb-1edd-4871-b7b1-2630ea931576 | Wildhagensvei 17 | Wildhagensvei 17
+3febed29-9994-4959-8ff0-4913109c226e | Wiulls gate 3 | Wiulls gate 3
+55618fb3-00c5-423d-977c-bee1561943e9 | Feråsvegen 13 | Feråsvegen 13
+fb891864-da31-43bc-b0b0-390b59412ca2 | Feråsvegen 13 | Feråsvegen 13
+2e8d87ed-c668-428c-98e6-2ae28e3d7e75 | Askveien 132 | Askveien 132
+5ac6e930-40a0-4e45-8538-9ae2c3fb56c8 | Torolv Kveldulvsonsgt 39 | Torolv Kveldulvsonsgt 39
+cad2f853-a6ee-4741-b993-7f453e547209 | Torolv Kveldulvsonsgt 39 | Torolv Kveldulvsonsgt 39
+a07c682b-317b-4196-8533-2c6511060b98 | Sandbrekkevegen 27 | Sandbrekkevegen 27
+65d3364d-5e7b-41b8-90d7-1e2bc0fcddbd | Sandbrekkevegen 27 | Sandbrekkevegen 27
+3a57e4e4-4f81-405e-94da-eeaf32c768eb | Uttrågata 36 | Uttrågata 36
+e88ecdf6-62ef-42d6-b9af-5fab5a887ebc | Thorøyaveien 1 | Thorøyaveien 1
+52286ade-7b8c-43ac-aabc-d5a844db1f81 | Thorøyaveien 5 | Thorøyaveien 5
+6b6f4674-eb52-421f-a8e9-f12e7151a35f | Furene 8 | Furene 8
+f0307514-f0b3-459a-a09f-8f751a40fdb6 | Solheimsgaten 13 | Solheimsgaten 13
+2211b4a1-072d-4444-b561-b4842bbb8fae | Anton Jenssens gate 2 | Anton Jenssens gate 2
+e56c54aa-9873-4c88-a2f1-60eda8c29c24 | Anton Jenssens gate 2 | Anton Jenssens gate 2
+a43d0960-66b5-424a-91b2-16b6e440736b | Baneveien  19 | Baneveien  19
+1268eb77-28dd-457a-a14e-4c2318944f8f | Snorres veg 2 | Snorres veg 2
+47d84982-7c95-4038-9799-ea02f82641db | Torleiv Kvalviks gate 9 | Torleiv Kvalviks gate 9
+21ababa4-d260-41aa-b2ce-acd65269d2ae | Jåttåvågveien 10 | Jåttåvågveien 10
+8bbd3776-ea25-4b83-98f2-5977af0d91ce | Nordsetvegen 227 | Nordsetvegen 227
+e1f0a980-5070-406c-ad55-753ebc391743 | Kompani Lingesvei 23 | Kompani Lingesvei 23
+69a56757-a975-4106-b98a-3e9b9e8eb10c | Kirkeveien 33 | Kirkeveien 33
+b4a23789-4e87-4936-ba2e-48764b77116c | Nedre Nattland 69 | Nedre Nattland 69
+2d7cd827-e68a-4fc6-a718-5bd7598aaca1 | Nybøvegen 24 | Nybøvegen 24
+39d70776-0cce-4c18-8d5f-1946c292cce7 | Nybøvegen 24 | Nybøvegen 24
+c132ff89-2bfc-47d4-a8c8-e2327e02814f | Nybøvegen 24 | Nybøvegen 24
+70ae8b61-9659-48de-924c-aa11118249b5 | Tertneshøyden 33b | Tertneshøyden 33b
+d1a2e180-244e-494f-94f3-87b59525dd15 | Lindøy 9 - ikke oppmålt | Lindøy 9 - ikke oppmålt
+5d56dfc3-0280-413e-825f-b16c49bb37e3 | Lindøy 9 - ikke oppmålt | Lindøy 9 - ikke oppmålt
+2e529872-479c-41d9-a58f-9213b4442fe6 | Røldalsvegen 2 | Røldalsvegen 2
+dbba9f8c-f662-4cab-bbc7-5eaf9b772626 | Frogsvei 21-25 | Frogsvei 21-25
+3f5511dd-da91-4745-84ad-1bcdbefafb38 | Forbordsfjellvegen 119 | Forbordsfjellvegen 119
+51174e56-8c0a-4013-86aa-a91413ed0274 | Austenå 370 | Austenå 370
+f717a7ce-81b0-4d3b-b56a-ad672f4c2f04 | Eideveien 168 | Eideveien 168
+8b1ce614-58cb-445a-a012-5c4ebf059762 | Eideveien 168 | Eideveien 168
+0740f056-9452-4d51-ba6d-eac0f6ba8081 | Eideveien 168 | Eideveien 168
+a53b1acb-5a31-4268-8468-961a4d3cde01 | Eideveien 168 | Eideveien 168
+84961df8-d425-4843-83b5-433a4d484a48 | Vågeveien 10 | Vågeveien 10
+f39340b4-038b-40a1-9b9f-8a39c872e692 | Strandvn 6 | Strandvn 6
+73161f3a-7b98-460c-91df-736fc1e46a2f | Nordnesveien 3 | Nordnesveien 3
+ea0c8609-9ad3-41bd-aee1-684641dc1aa4 | Kongens gate 51-55 | Kongens gate 51-55
+b4f6f61c-90f5-451e-a470-07bf766053a9 | Storgaten 11 | Storgaten 11
+6dbbb04b-5a48-4df5-a795-35828726da8b | Grensen 7 | Grensen 7
+24cb4eb6-13e9-4e47-9d7c-33b59efe388b | Flatøyvegen 45 | Flatøyvegen 45
+651afcc7-ce94-422f-aee4-1b7200ea6613 | Abel Meyers gate 10 | Abel Meyers gate 10
+736e841c-167a-4f85-8209-95a5f721b6c6 | Furene 8, 6105 Volda | Furene 8, 6105 Volda
+8d61e4fb-b2bf-4531-9e2b-dcff414cb1b2 | Storgata 12–14, 6413 Molde | Storgata 12–14, 6413 Molde
+9ad49f56-1587-4e40-b67a-ccfd85d4e0d3 | Storgata 12–14, 6413 Molde | Storgata 12–14, 6413 Molde
+7b7b76d2-e35b-4d86-b348-ce5484ef41d4 | Storgata 12–14, 6413 Molde | Storgata 12–14, 6413 Molde
+d60b4c17-9887-4443-abf3-89725057cacb | Storgaten 62-64 | Storgaten 62-64
+ee1a8454-0e1f-47ca-b577-be43dd6b81f0 | Gulsetringen 313 | Gulsetringen 313
+a10a1792-18ed-44c6-b2c1-343df8915eab | Åsvangveien 2A | Åsvangveien 2A
+d8e8a640-e7d0-4e40-b055-dea21600a3d1 | Frænaveien 16 | Frænaveien 16
+d98ec0c2-80f9-4bc4-8175-7ed128c35a45 | Humlevegen 92 | Humlevegen 92
+32975d31-4e13-4c31-9ac2-dbf95a7b7ffc | Geiteramsveien 81 | Geiteramsveien 81
+e3864636-ce40-40c6-ba41-9ce8caa969e1 | Husafjellet 6 | Husafjellet 6
+47d9e9a8-9f88-41a6-80c5-e4903c762a5c | Sophus Lie-vegen 9 | Sophus Lie-vegen 9
+2d33cf2a-fc8f-493d-a636-bc5b59540721 | Sørøygt 10 | Sørøygt 10
+03cb24d8-55b4-424e-a2d5-8e264cc6ae1b | Kirkegårdsveien 25 | Kirkegårdsveien 25
+05ebe5b4-0b20-4c85-b7c8-9810a741e707 | Solheiveien 25 | Solheiveien 25
+e43aabec-738f-4657-b2bf-435b635614d6 | Bomvegen 3, 7725 Steinkjer, Norway | Bomvegen 3, 7725 Steinkjer, Norway
+4c4629be-dd8e-42d7-a07d-48b60994c921 | Bomvegen 3, 7725 Steinkjer, Norway | Bomvegen 3, 7725 Steinkjer, Norway
+802e6c89-c8a2-4f25-b170-b4562327b62f | Parkvegen 5 | Parkvegen 5
+7605a40e-a552-4488-9fd4-358ae63d374c | Haugetuft 16-18 | Haugetuft 16-18
+601259d9-e906-4b4c-9b35-5ad1a15df7ab | Skoleveien 9 | Skoleveien 9
+72c1e32f-70ec-4225-a3c0-73e6335b4c92 | Jernbaneveien 70 | Jernbaneveien 70
+20a8e7ba-7517-45f2-80f8-f745e53cad7c | Øverbyveien 104 | Øverbyveien 104
+36205811-7a07-4fc0-8ce0-037a170acf88 | Østmarkveien 26 D/E | Østmarkveien 26 D/E
+c387d237-99b4-46e1-b3fc-853b61aef614 | Lokketomarka 24 | Lokketomarka 24
+0633e16d-0255-4199-b6a8-b867b468433b | Damtjernveien 598 | Damtjernveien 598
+cbc75cf6-b327-4394-9262-dd04f5602dd3 | Damtjernveien 598 | Damtjernveien 598
+afa3e3c3-3f60-4a85-b7bc-004a88e99a5f | Hølondvegen 311 | Hølondvegen 311
+2a6d75b1-657f-4956-98ae-2caa5c2575f6 | Rønvikvn 9A,C | Rønvikvn 9A,C
+9bd31e61-c5f6-4908-843c-925d6fd04e60 | Grønlihøgda 24 | Grønlihøgda 24
+3e240c68-90cd-42ae-ad64-f09d13638551 | Jernbanegata 11/13 | Jernbanegata 11/13
+5eccf18e-4328-4cc6-95f5-2ffa6def4d6b | Jernbanegata 11/13 | Jernbanegata 11/13
+cc23ed7d-4266-464c-a708-b5de784bb114 | Røvikveien 21 | Røvikveien 21
+17226e1d-01d8-4095-91a7-fe31d6a465a0 | Langelandsveien 17 | Langelandsveien 17
+4db47188-5eb6-48f7-bac2-2ee8e6ed3c25 | Heimlyvn 5 | Heimlyvn 5
+5b085f4e-2470-44d4-b0aa-96cc305c5698 | Ulefossveien 53 | Ulefossveien 53
+0be21ab1-ff76-4a67-aedf-480424721ef3 | Idrettsvn 5 | Idrettsvn 5
+b52b8a1b-e730-4863-87f9-bd75bf64e8d5 | Rokkeveien 502 | Rokkeveien 502
+6d60ada0-fbf5-4c3c-ba1a-ba22af11aab4 | Stasjonsveien 16B | Stasjonsveien 16B
+339d1bc1-5555-4402-aa3d-f4a44ad2259b | Baneveien 16, 3405 Lier, Norway | Baneveien 16, 3405 Lier, Norway
+69a8c61f-0bc3-4252-b35f-8545891403e5 | Fridtjof Nansensvei 12 | Fridtjof Nansensvei 12
+78f0bb8a-f7bf-41e0-aa21-81efbd9617c4 | Okkenhaugveien 13B | Okkenhaugveien 13B
+1c39308f-046d-4541-a010-a5bfe1a81d22 | Håkøyvn 339 | Håkøyvn 339
+f54e89ef-7188-43df-970c-af8fc36a33ff | Konstadlykkjvegen 55 | Konstadlykkjvegen 55
+47f00336-b668-4110-af6e-2a3bcb2c793f | Ljåmovein 10 | Ljåmovein 10
+0b70c99a-a821-47d5-b848-5d0438e96a84 | Schweigaardsgt 11 | Schweigaardsgt 11
+32dc5ca8-0f5d-41ee-8e9a-338cce7ce7b0 | Markedsgt 20 | Markedsgt 20
+1083770c-31b9-4989-b6aa-d30c53b56613 | Kindsåsveien 2 | Kindsåsveien 2
+d3744e73-3827-40c3-95e0-39f6e7408376 | Grimestadveien 69 | Grimestadveien 69
+d8cbd46f-b665-4860-9db0-da6498874bc2 | Jernbanegata 11/13 | Jernbanegata 11/13
+3b78f8c4-f8cf-4794-b5bc-658726a196f6 | Nesverkveien 190 | Nesverkveien 190
+aca6ccc7-003a-471e-a4a9-219abf22778b | Rennesøygata 16 | Rennesøygata 16
+71732407-0185-4100-bd58-e708d4b4e3ca | Myrakollen 2, 6390 Vestnes, Norway | Myrakollen 2, 6390 Vestnes, Norway
+12788422-2fc4-40dc-a98e-acc58601a466 | Ole Tobias Olsens gate 19 | Ole Tobias Olsens gate 19
+00c90067-28b1-4417-a27f-4f2c9c225610 | Nordstrandveien 41 | Nordstrandveien 41
+c52cbb4b-f458-4f9e-9f0b-54623d264975 | Tordenskjoldsgt. 65 | Tordenskjoldsgt. 65

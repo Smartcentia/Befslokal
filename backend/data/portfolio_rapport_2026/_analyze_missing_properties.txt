@@ -1,0 +1,6 @@
+Unmapped koststed with GL data: 278
+Active properties without prediction: 446
+
+Name matches (score>=0.55): 52(se full konsoll-output i kjøringslogg – topp 30 vist med koststed vs property og gl25)
+
+Total reachable if matched: 207

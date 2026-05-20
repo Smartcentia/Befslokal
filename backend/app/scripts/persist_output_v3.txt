@@ -1,0 +1,121 @@
+Loading DB Report...
+Loading Input Data...
+Reading /Users/frank/BEFS3/KNOWME/input.md...
+Loaded DB: 231 rows
+Loaded Input: 35818 rows
+Loaded Fallback: 149 rows
+Matching 231 DB records against Input & Fallback...
+Report generated at /Users/frank/BEFS3/KNOWME/matched_results.md
+Matches: 99
+Persisting 99 matches to Database...
+Traceback (most recent call last):
+  File "/Users/frank/Library/Python/3.9/lib/python/site-packages/sqlalchemy/dialects/postgresql/asyncpg.py", line 584, in _executemany
+    return await self._connection.executemany(
+  File "/Users/frank/Library/Python/3.9/lib/python/site-packages/asyncpg/connection.py", line 401, in executemany
+    return await self._executemany(command, args, timeout)
+  File "/Users/frank/Library/Python/3.9/lib/python/site-packages/asyncpg/connection.py", line 1997, in _executemany
+    result, _ = await self._do_execute(
+  File "/Users/frank/Library/Python/3.9/lib/python/site-packages/asyncpg/connection.py", line 2033, in _do_execute
+    result = await executor(stmt, None)
+  File "asyncpg/protocol/protocol.pyx", line 266, in bind_execute_many
+asyncpg.exceptions.InvalidTextRepresentationError: invalid input syntax for type json
+DETAIL:  Token "NaN" is invalid.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/frank/Library/Python/3.9/lib/python/site-packages/sqlalchemy/engine/base.py", line 1938, in _exec_single_context
+    self.dialect.do_executemany(
+  File "/Users/frank/Library/Python/3.9/lib/python/site-packages/sqlalchemy/engine/default.py", line 919, in do_executemany
+    cursor.executemany(statement, parameters)
+  File "/Users/frank/Library/Python/3.9/lib/python/site-packages/sqlalchemy/dialects/postgresql/asyncpg.py", line 596, in executemany
+    return self._adapt_connection.await_(
+  File "/Users/frank/Library/Python/3.9/lib/python/site-packages/sqlalchemy/util/_concurrency_py3k.py", line 125, in await_only
+    return current.driver.switch(awaitable)  # type: ignore[no-any-return]
+  File "/Users/frank/Library/Python/3.9/lib/python/site-packages/sqlalchemy/util/_concurrency_py3k.py", line 185, in greenlet_spawn
+    value = await result
+  File "/Users/frank/Library/Python/3.9/lib/python/site-packages/sqlalchemy/dialects/postgresql/asyncpg.py", line 588, in _executemany
+    self._handle_exception(error)
+  File "/Users/frank/Library/Python/3.9/lib/python/site-packages/sqlalchemy/dialects/postgresql/asyncpg.py", line 520, in _handle_exception
+    self._adapt_connection._handle_exception(error)
+  File "/Users/frank/Library/Python/3.9/lib/python/site-packages/sqlalchemy/dialects/postgresql/asyncpg.py", line 808, in _handle_exception
+    raise translated_error from error
+sqlalchemy.dialects.postgresql.asyncpg.Error: <class 'asyncpg.exceptions.InvalidTextRepresentationError'>: invalid input syntax for type json
+DETAIL:  Token "NaN" is invalid.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/frank/BEFS3/KNOWME/backend/app/scripts/match_contracts_input.py", line 381, in <module>
+    asyncio.run(update_matches_in_db(matches))
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/asyncio/base_events.py", line 642, in run_until_complete
+    return future.result()
+  File "/Users/frank/BEFS3/KNOWME/backend/app/scripts/match_contracts_input.py", line 368, in update_matches_in_db
+    await db.commit()
+  File "/Users/frank/Library/Python/3.9/lib/python/site-packages/sqlalchemy/ext/asyncio/session.py", line 1011, in commit
+    await greenlet_spawn(self.sync_session.commit)
+  File "/Users/frank/Library/Python/3.9/lib/python/site-packages/sqlalchemy/util/_concurrency_py3k.py", line 192, in greenlet_spawn
+    result = context.switch(value)
+  File "/Users/frank/Library/Python/3.9/lib/python/site-packages/sqlalchemy/orm/session.py", line 1969, in commit
+    trans.commit(_to_root=True)
+  File "<string>", line 2, in commit
+  File "/Users/frank/Library/Python/3.9/lib/python/site-packages/sqlalchemy/orm/state_changes.py", line 139, in _go
+    ret_value = fn(self, *arg, **kw)
+  File "/Users/frank/Library/Python/3.9/lib/python/site-packages/sqlalchemy/orm/session.py", line 1256, in commit
+    self._prepare_impl()
+  File "<string>", line 2, in _prepare_impl
+  File "/Users/frank/Library/Python/3.9/lib/python/site-packages/sqlalchemy/orm/state_changes.py", line 139, in _go
+    ret_value = fn(self, *arg, **kw)
+  File "/Users/frank/Library/Python/3.9/lib/python/site-packages/sqlalchemy/orm/session.py", line 1231, in _prepare_impl
+    self.session.flush()
+  File "/Users/frank/Library/Python/3.9/lib/python/site-packages/sqlalchemy/orm/session.py", line 4312, in flush
+    self._flush(objects)
+  File "/Users/frank/Library/Python/3.9/lib/python/site-packages/sqlalchemy/orm/session.py", line 4448, in _flush
+    transaction.rollback(_capture_exception=True)
+  File "/Users/frank/Library/Python/3.9/lib/python/site-packages/sqlalchemy/util/langhelpers.py", line 146, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "/Users/frank/Library/Python/3.9/lib/python/site-packages/sqlalchemy/orm/session.py", line 4408, in _flush
+    flush_context.execute()
+  File "/Users/frank/Library/Python/3.9/lib/python/site-packages/sqlalchemy/orm/unitofwork.py", line 466, in execute
+    rec.execute(self)
+  File "/Users/frank/Library/Python/3.9/lib/python/site-packages/sqlalchemy/orm/unitofwork.py", line 642, in execute
+    util.preloaded.orm_persistence.save_obj(
+  File "/Users/frank/Library/Python/3.9/lib/python/site-packages/sqlalchemy/orm/persistence.py", line 85, in save_obj
+    _emit_update_statements(
+  File "/Users/frank/Library/Python/3.9/lib/python/site-packages/sqlalchemy/orm/persistence.py", line 909, in _emit_update_statements
+    c = connection.execute(
+  File "/Users/frank/Library/Python/3.9/lib/python/site-packages/sqlalchemy/engine/base.py", line 1416, in execute
+    return meth(
+  File "/Users/frank/Library/Python/3.9/lib/python/site-packages/sqlalchemy/sql/elements.py", line 516, in _execute_on_connection
+    return connection._execute_clauseelement(
+  File "/Users/frank/Library/Python/3.9/lib/python/site-packages/sqlalchemy/engine/base.py", line 1639, in _execute_clauseelement
+    ret = self._execute_context(
+  File "/Users/frank/Library/Python/3.9/lib/python/site-packages/sqlalchemy/engine/base.py", line 1848, in _execute_context
+    return self._exec_single_context(
+  File "/Users/frank/Library/Python/3.9/lib/python/site-packages/sqlalchemy/engine/base.py", line 1988, in _exec_single_context
+    self._handle_dbapi_exception(
+  File "/Users/frank/Library/Python/3.9/lib/python/site-packages/sqlalchemy/engine/base.py", line 2343, in _handle_dbapi_exception
+    raise sqlalchemy_exception.with_traceback(exc_info[2]) from e
+  File "/Users/frank/Library/Python/3.9/lib/python/site-packages/sqlalchemy/engine/base.py", line 1938, in _exec_single_context
+    self.dialect.do_executemany(
+  File "/Users/frank/Library/Python/3.9/lib/python/site-packages/sqlalchemy/engine/default.py", line 919, in do_executemany
+    cursor.executemany(statement, parameters)
+  File "/Users/frank/Library/Python/3.9/lib/python/site-packages/sqlalchemy/dialects/postgresql/asyncpg.py", line 596, in executemany
+    return self._adapt_connection.await_(
+  File "/Users/frank/Library/Python/3.9/lib/python/site-packages/sqlalchemy/util/_concurrency_py3k.py", line 125, in await_only
+    return current.driver.switch(awaitable)  # type: ignore[no-any-return]
+  File "/Users/frank/Library/Python/3.9/lib/python/site-packages/sqlalchemy/util/_concurrency_py3k.py", line 185, in greenlet_spawn
+    value = await result
+  File "/Users/frank/Library/Python/3.9/lib/python/site-packages/sqlalchemy/dialects/postgresql/asyncpg.py", line 588, in _executemany
+    self._handle_exception(error)
+  File "/Users/frank/Library/Python/3.9/lib/python/site-packages/sqlalchemy/dialects/postgresql/asyncpg.py", line 520, in _handle_exception
+    self._adapt_connection._handle_exception(error)
+  File "/Users/frank/Library/Python/3.9/lib/python/site-packages/sqlalchemy/dialects/postgresql/asyncpg.py", line 808, in _handle_exception
+    raise translated_error from error
+sqlalchemy.exc.DBAPIError: (sqlalchemy.dialects.postgresql.asyncpg.Error) <class 'asyncpg.exceptions.InvalidTextRepresentationError'>: invalid input syntax for type json
+DETAIL:  Token "NaN" is invalid.
+[SQL: UPDATE contracts SET external_data=$1::JSON, updated_at=now() WHERE contracts.contract_id = $2::UUID]
+[parameters: [('{"opsjon": null, "region": "01 - Nord", "filnavn": null, "utleier": "Heian AS", "elements": null, "kommentar": null, "p_plasser": "inkl 6 p-plasser", ... (826 characters truncated) ... Leieavtale Nordstrandveien 41...\', \'Kontraktnr\': \'-\', \'Kategori\': \'Konkurranse\', \'Adresse\': \'Nordstrandveien 41, Bod\\u00f8\', \'Type "}}', UUID('00c90067-28b1-4417-a27f-4f2c9c225610')), ('{"opsjon": null, "region": "03 - Vest", "filnavn": null, "utleier": "Statsbygg", "elements": "2004/12010-14", "kommentar": null, "p_plasser": null, " ... (821 characters truncated) ... ': \'04-12010-14 8323 Aurdalslia 96...\', \'Kontraktnr\': \'8323\', \'Kategori\': \'Leieavtale\', \'Adresse\': \'Aurdalslia 96, Sandsli\', \'Type "}}', UUID('0261c1b5-57d0-41bb-be57-4cd712a4520c')), ('{"opsjon": null, "region": "05 - \\u00d8st", "filnavn": null, "utleier": "Vangsvegen 119 AS", "elements": null, "kommentar": null, "p_plasser": "ikke ... (1086 characters truncated) ... eling\': \'204416\', \'Avdeling(T)\': \'Regionkontor Seksjon \\u00d8V - teknisk Statlige institusjoner\', \'Dim 2\': \'2050108\', \'Dim 2(T)\': \'"}}', UUID('08f162ba-e76c-48dd-b2cf-d9fddba01d3f')), ('{"opsjon": null, "region": "04 - S\\u00f8r", "filnavn": null, "utleier": "Statsbygg", "elements": null, "kommentar": "Mangler vedlegg A (kart og tegn ... (949 characters truncated) ... NR 11511 Reforhandlet...\', \'Kontraktnr\': \'11511\', \'Kategori\': \'Leiekontrakt\', \'Adresse\': \'Kj\\u00f8rbekksvingen 38, Skien\', \'Type Lo"}}', UUID('0c5829b1-2815-405c-a86a-a62886c9d34f')), ('{"opsjon": null, "region": "05 - \\u00d8st", "filnavn": null, "utleier": "Oscars gata 20 AS", "elements": null, "kommentar": null, "p_plasser": null, ... (961 characters truncated) ... eling\': \'204416\', \'Avdeling(T)\': \'Regionkontor Seksjon \\u00d8V - teknisk Statlige institusjoner\', \'Dim 2\': \'2050117\', \'Dim 2(T)\': \'"}}', UUID('0f93efbb-5a3d-4fb9-978b-5abe183167c1')), ('{"opsjon": null, "region": "05 - \\u00d8st", "filnavn": null, "utleier": "Tema N\\u00e6ringsbygg", "elements": null, "kommentar": null, "p_plasser":  ... (1067 characters truncated) ... eling\': \'204416\', \'Avdeling(T)\': \'Regionkontor Seksjon \\u00d8V - teknisk Statlige institusjoner\', \'Dim 2\': \'2050170\', \'Dim 2(T)\': \'"}}', UUID('0f97c535-9f82-4ef5-a9a8-2fc1ea1958db')), ('{"opsjon": null, "region": "04 - S\\u00f8r", "filnavn": null, "utleier": "Statsbygg", "elements": null, "kommentar": null, "p_plasser": null, "avtale ... (822 characters truncated) ...  Signert Lunde\', \'Kontraktnr\': \'-\', \'Kategori\': \'Fil mangler\', \'Adresse\': \'Lundeveien 171, S\\u00f8gne\', \'Type Lokale\': \'Institusj"}}', UUID('1419100a-d540-4d05-9e36-eaa0198b22e0')), ('{"opsjon": null, "region": "05 - \\u00d8st", "filnavn": null, "utleier": "Storgata 10 AS", "elements": null, "kommentar": null, "p_plasser": "inklude ... (863 characters truncated) ... eling\': \'204416\', \'Avdeling(T)\': \'Regionkontor Seksjon \\u00d8V - teknisk Statlige institusjoner\', \'Dim 2\': \'2050140\', \'Dim 2(T)\': \'"}}', UUID('1442489d-67e8-4936-81e9-987fe3a001a5'))  ... displaying 10 of 99 total bound parameter sets ...  ('{"opsjon": null, "region": "05 - \\u00d8st", "filnavn": null, "utleier": "Statsbygg", "elements": null, "kommentar": null, "p_plasser": null, "avtale ... (1044 characters truncated) ... eling\': \'204416\', \'Avdeling(T)\': \'Regionkontor Seksjon \\u00d8V - teknisk Statlige institusjoner\', \'Dim 2\': \'2050178\', \'Dim 2(T)\': \'"}}', UUID('fb30a9bb-4ce4-447d-9383-50b17e81b34a')), ('{"opsjon": null, "region": "01 - Nord", "filnavn": null, "utleier": "Triko Storgata 70 Troms\\u00f8 AS", "elements": null, "kommentar": "* Administra ... (1040 characters truncated) ... tale Storgata 70 Troms\\u00f8...\', \'Kontraktnr\': \'-\', \'Kategori\': \'Leieavtale\', \'Adresse\': \'Storgata 70, Troms\\u00f8\', \'Type Lokale"}}', UUID('fd647dd3-e33c-4825-a566-4109cf75a740'))]]
+(Background on this error at: https://sqlalche.me/e/20/dbapi)

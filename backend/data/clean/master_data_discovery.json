@@ -1,0 +1,48 @@
+{
+    "birk_segments": [
+        {
+            "Region": "Vest",
+            "EnhetID": "53145",
+            "UnitName": "beredskapshjemmene i Bergen og Førde",
+            "StreetAddress": "Solheimsgaten 11",
+            "Postnr": "5058",
+            "Line": 325
+        },
+        {
+            "Region": "Midt",
+            "EnhetID": "614",
+            "UnitName": "Clausenengen ungdomshjem",
+            "StreetAddress": "Kvalvågveien Boenhet",
+            "Postnr": "6521",
+            "Line": 3
+        },
+        {
+            "Region": "Nord",
+            "EnhetID": "813",
+            "UnitName": "Yttrabekken ungdomssenter administrasjon",
+            "StreetAddress": "Brennstadmoen 23",
+            "Postnr": "8614",
+            "Line": 200
+        }
+    ],
+    "address_catalog_segments": [
+        {
+            "Source": "Midt",
+            "StreetAddress": "Solheimsgaten 11 3. etg",
+            "Postnr": "5058",
+            "Contact": "MST RV Bergen Team 1"
+        },
+        {
+            "Source": "Midt",
+            "StreetAddress": "Solheimsgaten 11",
+            "Postnr": "5058",
+            "Contact": "Bufetat Fellestjenester Bergen"
+        },
+        {
+            "Source": "Nord",
+            "StreetAddress": "Brennstadmoen 23",
+            "Postnr": "8614",
+            "Contact": "Yttrabekken US"
+        }
+    ]
+}

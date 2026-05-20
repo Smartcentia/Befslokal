@@ -1,0 +1,1095 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>BEFS Database Explorer</title>
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+:root{
+  --bg:#f8fafc;--surface:#ffffff;--surface2:#f1f5f9;--border:#e2e8f0;
+  --text:#0f172a;--muted:#64748b;--accent:#2563eb;--green:#3fb950;
+  --yellow:#d29922;--red:#f85149;--purple:#bc8cff;--orange:#f0883e;
+  --font:'Helvetica Neue',Helvetica,Arial,sans-serif;
+  --mono:'SF Mono','Fira Code',Consolas,monospace;
+}
+body{background:var(--bg);color:var(--text);font-family:var(--font);font-size:13px;height:100vh;display:flex;flex-direction:column;overflow:hidden}
+#header{background:var(--surface);border-bottom:1px solid var(--border);padding:9px 16px;display:flex;align-items:center;gap:12px;flex-shrink:0}
+#header h1{font-size:13px;font-weight:600;white-space:nowrap}
+.preset-chip{background:var(--surface2);border:1px solid var(--border);border-radius:45px;padding:3px 10px;font-size:11px;color:var(--muted);cursor:pointer;white-space:nowrap;transition:all .15s}
+.preset-chip:hover{border-color:var(--accent);color:var(--accent)}
+#main{display:flex;flex:1;overflow:hidden}
+#left{width:272px;min-width:272px;border-right:1px solid var(--border);display:flex;flex-direction:column;overflow:hidden;background:var(--surface)}
+#left-scroll{flex:1;overflow-y:auto;padding:10px 12px}
+.sec-label{font-size:10px;font-weight:600;text-transform:uppercase;letter-spacing:.5px;color:var(--muted);margin:12px 0 5px}
+.sec-label:first-child{margin-top:0}
+.domain-chips{display:flex;flex-wrap:wrap;gap:4px;margin-bottom:8px}
+.domain-chip{padding:2px 8px;border-radius:12px;font-size:10px;font-weight:500;cursor:pointer;border:1px solid transparent;opacity:.55;transition:opacity .15s}
+.domain-chip.active{opacity:1}
+#search{width:100%;background:var(--bg);border:1px solid var(--border);border-radius:14px;padding:5px 9px;color:var(--text);font-size:12px;margin-bottom:7px;outline:none}
+#search:focus{border-color:var(--accent)}
+#table-list{max-height:195px;overflow-y:auto;border:1px solid var(--border);border-radius:14px;background:var(--bg)}
+.table-item{padding:5px 9px;cursor:pointer;display:flex;align-items:center;gap:7px;border-bottom:1px solid var(--border);transition:background .1s}
+.table-item:last-child{border-bottom:none}
+.table-item:hover{background:var(--surface2)}
+.table-item.selected{background:rgba(88,166,255,.1)}
+.table-dot{width:7px;height:7px;border-radius:50%;flex-shrink:0}
+.table-name{font-family:var(--mono);font-size:11px;flex:1}
+.table-cols-count{font-size:10px;color:var(--muted)}
+#col-list{max-height:130px;overflow-y:auto;border:1px solid var(--border);border-radius:14px;background:var(--bg);padding:3px}
+.col-check-item{display:flex;align-items:center;gap:6px;padding:3px 5px;border-radius:3px;cursor:pointer}
+.col-check-item:hover{background:var(--surface2)}
+.col-check-item input[type=checkbox]{cursor:pointer;flex-shrink:0}
+.col-label{font-family:var(--mono);font-size:11px;flex:1}
+.col-type{font-size:10px;color:var(--muted)}
+#filters{display:flex;flex-direction:column;gap:4px}
+.filter-row{display:flex;gap:3px;align-items:center}
+.filter-row select,.filter-row input{background:var(--bg);border:1px solid var(--border);border-radius:12px;color:var(--text);font-size:11px;padding:3px 5px;outline:none}
+.filter-row select{width:95px}.filter-row .op-sel{width:50px}.filter-row input{flex:1;min-width:0}
+.filter-row select:focus,.filter-row input:focus{border-color:var(--accent)}
+.btn-sm{background:var(--surface2);border:1px solid var(--border);border-radius:12px;color:var(--muted);font-size:11px;padding:3px 8px;cursor:pointer;white-space:nowrap}
+.btn-sm:hover{border-color:var(--accent);color:var(--accent)}
+.btn-rm{background:none;border:none;color:var(--muted);cursor:pointer;padding:1px 4px;font-size:13px;line-height:1}
+.btn-rm:hover{color:var(--red)}
+.ctrl-row{display:flex;align-items:center;gap:5px}
+.ctrl-row label{font-size:11px;color:var(--muted);white-space:nowrap}
+.ctrl-row select{background:var(--bg);border:1px solid var(--border);border-radius:12px;color:var(--text);font-size:11px;padding:3px 5px;outline:none;flex:1}
+.ctrl-row select:focus{border-color:var(--accent)}
+#dir-toggle{background:var(--surface2);border:1px solid var(--border);border-radius:12px;color:var(--text);font-size:10px;padding:3px 6px;cursor:pointer;font-family:var(--mono)}
+#dir-toggle:hover{border-color:var(--accent)}
+#right{flex:1;display:flex;flex-direction:column;overflow:hidden}
+#tabs{display:flex;border-bottom:1px solid var(--border);background:var(--surface);flex-shrink:0}
+.tab-btn{padding:8px 14px;border:none;background:none;color:var(--muted);font-size:12px;cursor:pointer;border-bottom:2px solid transparent;margin-bottom:-1px;transition:color .15s}
+.tab-btn:hover{color:var(--text)}
+.tab-btn.active{color:var(--accent);border-bottom-color:var(--accent)}
+#tab-content{flex:1;overflow-y:auto;padding:16px}
+.schema-table{width:100%;border-collapse:collapse;font-size:12px}
+.schema-table th{text-align:left;padding:5px 10px;border-bottom:1px solid var(--border);color:var(--muted);font-weight:500;font-size:10px;text-transform:uppercase;letter-spacing:.3px;position:sticky;top:0;background:var(--bg)}
+.schema-table td{padding:4px 10px;border-bottom:1px solid rgba(48,54,61,.5);font-family:var(--mono);font-size:11px}
+.schema-table tr:hover td{background:var(--surface2)}
+.badge{display:inline-block;padding:1px 5px;border-radius:3px;font-size:9px;font-weight:600;text-transform:uppercase;letter-spacing:.3px;margin-right:2px}
+.badge-pk{background:rgba(188,140,255,.2);color:var(--purple)}
+.badge-fk{background:rgba(88,166,255,.2);color:var(--accent)}
+.badge-nn{background:rgba(63,185,80,.2);color:var(--green)}
+.badge-idx{background:rgba(210,153,34,.2);color:var(--yellow)}
+.rel-card{background:var(--surface);border:1px solid var(--border);border-radius:6px;padding:9px 13px;margin-bottom:7px;display:flex;align-items:center;gap:9px;cursor:pointer;transition:border-color .15s}
+.rel-card:hover{border-color:var(--accent)}
+.rel-arrow{color:var(--muted);font-size:15px}
+.rel-tbl{font-family:var(--mono);font-size:12px}
+.rel-via{font-size:10px;color:var(--muted);flex:1}
+.rel-type{font-size:10px;padding:2px 6px;border-radius:10px}
+.rt-one{background:rgba(88,166,255,.15);color:var(--accent)}
+.rt-many{background:rgba(63,185,80,.15);color:var(--green)}
+.rt-mm{background:rgba(188,140,255,.15);color:var(--purple)}
+.mig-item{display:flex;gap:11px;padding-bottom:14px;position:relative}
+.mig-item::before{content:'';position:absolute;left:6px;top:14px;bottom:0;width:1px;background:var(--border)}
+.mig-item:last-child::before{display:none}
+.mig-dot{width:13px;height:13px;border-radius:50%;flex-shrink:0;margin-top:2px;border:2px solid var(--bg)}
+.mig-dot.core{background:var(--accent)}
+.mig-dot.schema{background:var(--green)}
+.mig-dot.fix{background:var(--yellow)}
+.mig-dot.auth{background:var(--orange)}
+.mig-body{flex:1}
+.mig-id{font-family:var(--mono);font-size:10px;color:var(--muted)}
+.mig-desc{font-size:12px;margin-top:2px}
+#sql-output{background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:14px;font-family:var(--mono);font-size:12px;line-height:1.75;white-space:pre;overflow-x:auto}
+.kw{color:#ff7b72}.tbl{color:#79c0ff}.str{color:#a5d6ff}.num{color:#79c0ff}
+#footer{border-top:1px solid var(--border);background:var(--surface);padding:9px 14px;flex-shrink:0;display:flex;gap:9px;align-items:flex-end}
+#prompt-wrap{flex:1}
+#prompt-label{font-size:10px;font-weight:600;text-transform:uppercase;color:var(--muted);margin-bottom:4px;letter-spacing:.5px}
+#prompt-output{width:100%;background:var(--bg);border:1px solid var(--border);border-radius:14px;padding:7px 11px;font-size:12px;color:var(--text);font-family:var(--mono);min-height:48px;max-height:72px;overflow-y:auto;resize:none}
+#copy-btn{background:var(--accent);border:none;border-radius:14px;color:#fff;font-size:12px;font-weight:500;padding:7px 14px;cursor:pointer;white-space:nowrap}
+#copy-btn:hover{opacity:.85}
+.empty{text-align:center;padding:48px 20px;color:var(--muted)}
+.empty-icon{font-size:40px;opacity:.18;margin-bottom:10px}
+.empty p{font-size:13px}
+::-webkit-scrollbar{width:5px;height:5px}
+::-webkit-scrollbar-track{background:transparent}
+::-webkit-scrollbar-thumb{background:var(--border);border-radius:3px}
+</style>
+</head>
+<body>
+
+<div id="header">
+  <h1>&#x2BD1; BEFS Database Explorer</h1>
+  <div id="presets" style="display:flex;gap:6px;flex-wrap:wrap"></div>
+</div>
+
+<div id="main">
+  <aside id="left">
+    <div id="left-scroll">
+      <div class="sec-label">Domain</div>
+      <div class="domain-chips" id="domain-chips"></div>
+      <div class="sec-label">Tables</div>
+      <input type="text" id="search" placeholder="Search tables...">
+      <div id="table-list"></div>
+
+      <div id="query-controls" style="display:none">
+        <div class="sec-label">Columns</div>
+        <div id="col-list"></div>
+        <div class="sec-label">Filters</div>
+        <div id="filters"></div>
+        <button class="btn-sm" id="add-filter" style="width:100%;margin-top:5px;text-align:center">+ Add Filter</button>
+        <div class="sec-label">Order By</div>
+        <div class="ctrl-row">
+          <select id="order-col"></select>
+          <button id="dir-toggle">ASC</button>
+        </div>
+        <div class="sec-label">Limit</div>
+        <div class="ctrl-row">
+          <label id="limit-label">100 rows</label>
+          <input type="range" id="limit-slider" min="0" max="4" value="3" style="flex:1;cursor:pointer">
+        </div>
+      </div>
+    </div>
+  </aside>
+
+  <section id="right">
+    <div id="tabs">
+      <button class="tab-btn active" data-tab="schema">Schema</button>
+      <button class="tab-btn" data-tab="relations">Relations</button>
+      <button class="tab-btn" data-tab="migrations">Migrations</button>
+      <button class="tab-btn" data-tab="sql">SQL Preview</button>
+    </div>
+    <div id="tab-content"></div>
+  </section>
+</div>
+
+<div id="footer">
+  <div id="prompt-wrap">
+    <div id="prompt-label">Prompt Output</div>
+    <textarea id="prompt-output" readonly placeholder="Select a table to generate a query prompt..."></textarea>
+  </div>
+  <button id="copy-btn">Copy</button>
+</div>
+
+<script>
+// ── DOMAIN COLORS ──────────────────────────────────────────
+var DC = {
+  'Core':      { bg:'rgba(88,166,255,.15)',  color:'#58a6ff' },
+  'HMS':       { bg:'rgba(63,185,80,.15)',   color:'#3fb950' },
+  'FDV':       { bg:'rgba(210,153,34,.15)',  color:'#d29922' },
+  'Financial': { bg:'rgba(188,140,255,.15)', color:'#bc8cff' },
+  'AI':        { bg:'rgba(255,123,114,.15)', color:'#ff7b72' },
+  'Auth':      { bg:'rgba(240,136,62,.15)',  color:'#f0883e' },
+  'Analytics': { bg:'rgba(121,192,255,.15)', color:'#79c0ff' },
+};
+var LIMIT_VALS = [10, 25, 50, 100, 500];
+
+// ── SCHEMA ─────────────────────────────────────────────────
+var SCHEMA = {
+  properties: {
+    domain:'Core', desc:'Real estate properties managed in BEFS',
+    columns:[
+      {name:'id',type:'Integer',pk:true},
+      {name:'name',type:'String',nn:true},
+      {name:'address',type:'String'},
+      {name:'city',type:'String'},
+      {name:'postal_code',type:'String'},
+      {name:'property_type',type:'String'},
+      {name:'region',type:'String'},
+      {name:'owner_org',type:'String'},
+      {name:'municipality',type:'String'},
+      {name:'gnr',type:'String'},
+      {name:'bnr',type:'String'},
+      {name:'created_at',type:'DateTime',nn:true},
+      {name:'updated_at',type:'DateTime'},
+    ],
+    relations:[
+      {table:'units',type:'one-many',via:'units.property_id'},
+      {table:'contracts',type:'one-many',via:'contracts.property_id'},
+      {table:'internal_control_cases',type:'one-many',via:'property_id'},
+      {table:'risk_assessments',type:'one-many',via:'property_id'},
+      {table:'building_components',type:'one-many',via:'property_id'},
+      {table:'sensors',type:'one-many',via:'property_id'},
+      {table:'text_content',type:'one-many',via:'property_id'},
+      {table:'users',type:'many-many',via:'user_property_association'},
+    ],
+    migs:['20230101_initial','20250101_municipality','20260218_owner_org'],
+  },
+  units: {
+    domain:'Core', desc:'Individual rental units within a property',
+    columns:[
+      {name:'id',type:'Integer',pk:true},
+      {name:'property_id',type:'Integer',fk:'properties.id',nn:true},
+      {name:'unit_number',type:'String',nn:true},
+      {name:'floor',type:'Integer'},
+      {name:'area_sqm',type:'Float'},
+      {name:'unit_type',type:'String'},
+      {name:'description',type:'Text'},
+      {name:'created_at',type:'DateTime',nn:true},
+    ],
+    relations:[
+      {table:'properties',type:'many-one',via:'property_id'},
+      {table:'contracts',type:'one-many',via:'contracts.unit_id'},
+      {table:'sensors',type:'one-many',via:'sensors.unit_id'},
+    ],
+    migs:['20230101_initial'],
+  },
+  parties: {
+    domain:'Core', desc:'External organisations and individuals (tenants, suppliers)',
+    columns:[
+      {name:'id',type:'Integer',pk:true},
+      {name:'name',type:'String',nn:true},
+      {name:'org_number',type:'String'},
+      {name:'party_type',type:'String'},
+      {name:'email',type:'String'},
+      {name:'phone',type:'String'},
+      {name:'address',type:'String'},
+      {name:'created_at',type:'DateTime',nn:true},
+    ],
+    relations:[
+      {table:'contracts',type:'one-many',via:'contracts.party_id'},
+    ],
+    migs:['20230101_initial'],
+  },
+  contracts: {
+    domain:'Core', desc:'Lease and service contracts — status is TEXT (not ENUM)',
+    columns:[
+      {name:'id',type:'Integer',pk:true},
+      {name:'property_id',type:'Integer',fk:'properties.id',nn:true},
+      {name:'unit_id',type:'Integer',fk:'units.id'},
+      {name:'party_id',type:'Integer',fk:'parties.id'},
+      {name:'status',type:'String',nn:true},
+      {name:'contract_type',type:'String'},
+      {name:'category',type:'String'},
+      {name:'start_date',type:'Date'},
+      {name:'end_date',type:'Date'},
+      {name:'monthly_rent',type:'Numeric'},
+      {name:'annual_rent',type:'Numeric'},
+      {name:'deposit',type:'Numeric'},
+      {name:'cost_per_sqm',type:'Numeric'},
+      {name:'total_cost',type:'Numeric'},
+      {name:'notes',type:'Text'},
+      {name:'created_at',type:'DateTime',nn:true},
+      {name:'updated_at',type:'DateTime'},
+    ],
+    relations:[
+      {table:'properties',type:'many-one',via:'property_id'},
+      {table:'units',type:'many-one',via:'unit_id'},
+      {table:'parties',type:'many-one',via:'party_id'},
+    ],
+    migs:['20230101_initial','20260218_convert_enum','20260219_contract_cols'],
+  },
+  users: {
+    domain:'Core', desc:'App users with RBAC roles (ADMIN, REGIONAL_MANAGER, PROPERTY_MANAGER, JANITOR, TENANT)',
+    columns:[
+      {name:'id',type:'Integer',pk:true},
+      {name:'email',type:'String',nn:true,idx:true},
+      {name:'hashed_password',type:'String',nn:true},
+      {name:'full_name',type:'String'},
+      {name:'role',type:'String',nn:true},
+      {name:'is_active',type:'Boolean',nn:true},
+      {name:'is_verified',type:'Boolean',nn:true},
+      {name:'created_at',type:'DateTime',nn:true},
+      {name:'last_login',type:'DateTime'},
+    ],
+    relations:[
+      {table:'properties',type:'many-many',via:'user_property_association'},
+      {table:'sessions',type:'one-many',via:'sessions.user_id'},
+      {table:'audit_logs',type:'one-many',via:'audit_logs.user_id'},
+      {table:'mfa_tokens',type:'one-many',via:'mfa_tokens.user_id'},
+    ],
+    migs:['20230101_initial','20250201_is_verified'],
+  },
+  user_property_association: {
+    domain:'Core', desc:'Junction table: which users can access which properties',
+    columns:[
+      {name:'user_id',type:'Integer',fk:'users.id',nn:true},
+      {name:'property_id',type:'Integer',fk:'properties.id',nn:true},
+    ],
+    relations:[
+      {table:'users',type:'many-one',via:'user_id'},
+      {table:'properties',type:'many-one',via:'property_id'},
+    ],
+    migs:['20230101_initial'],
+  },
+  internal_control_cases: {
+    domain:'HMS', desc:'HMS internal control cases — deviations, incidents, non-conformances',
+    columns:[
+      {name:'id',type:'Integer',pk:true},
+      {name:'property_id',type:'Integer',fk:'properties.id',nn:true},
+      {name:'title',type:'String',nn:true},
+      {name:'description',type:'Text'},
+      {name:'category',type:'String'},
+      {name:'severity',type:'String'},
+      {name:'status',type:'String',nn:true},
+      {name:'assigned_to',type:'Integer',fk:'users.id'},
+      {name:'due_date',type:'Date'},
+      {name:'resolved_at',type:'DateTime'},
+      {name:'created_at',type:'DateTime',nn:true},
+      {name:'updated_at',type:'DateTime'},
+    ],
+    relations:[
+      {table:'properties',type:'many-one',via:'property_id'},
+      {table:'users',type:'many-one',via:'assigned_to'},
+      {table:'risk_assessments',type:'one-many',via:'risk_assessments.case_id'},
+    ],
+    migs:['20240601_hms_tables'],
+  },
+  risk_assessments: {
+    domain:'HMS', desc:'Risk assessments linked to properties or cases',
+    columns:[
+      {name:'id',type:'Integer',pk:true},
+      {name:'property_id',type:'Integer',fk:'properties.id',nn:true},
+      {name:'case_id',type:'Integer',fk:'internal_control_cases.id'},
+      {name:'title',type:'String',nn:true},
+      {name:'risk_category',type:'String'},
+      {name:'likelihood',type:'Integer'},
+      {name:'consequence',type:'Integer'},
+      {name:'risk_score',type:'Integer'},
+      {name:'mitigation',type:'Text'},
+      {name:'status',type:'String'},
+      {name:'created_at',type:'DateTime',nn:true},
+    ],
+    relations:[
+      {table:'properties',type:'many-one',via:'property_id'},
+      {table:'internal_control_cases',type:'many-one',via:'case_id'},
+    ],
+    migs:['20240601_hms_tables'],
+  },
+  scheduled_activities: {
+    domain:'HMS', desc:'Recurring maintenance and inspection schedules',
+    columns:[
+      {name:'id',type:'Integer',pk:true},
+      {name:'property_id',type:'Integer',fk:'properties.id',nn:true},
+      {name:'title',type:'String',nn:true},
+      {name:'activity_type',type:'String'},
+      {name:'frequency',type:'String'},
+      {name:'next_due',type:'Date'},
+      {name:'last_done',type:'Date'},
+      {name:'assigned_to',type:'Integer',fk:'users.id'},
+      {name:'status',type:'String'},
+      {name:'created_at',type:'DateTime',nn:true},
+    ],
+    relations:[
+      {table:'properties',type:'many-one',via:'property_id'},
+      {table:'users',type:'many-one',via:'assigned_to'},
+    ],
+    migs:['20240601_hms_tables'],
+  },
+  building_components: {
+    domain:'FDV', desc:'Building elements tracked for lifecycle management (FDV)',
+    columns:[
+      {name:'id',type:'Integer',pk:true},
+      {name:'property_id',type:'Integer',fk:'properties.id',nn:true},
+      {name:'name',type:'String',nn:true},
+      {name:'component_type',type:'String'},
+      {name:'manufacturer',type:'String'},
+      {name:'model',type:'String'},
+      {name:'installed_date',type:'Date'},
+      {name:'lifespan_years',type:'Integer'},
+      {name:'next_service',type:'Date'},
+      {name:'condition',type:'String'},
+      {name:'created_at',type:'DateTime',nn:true},
+    ],
+    relations:[
+      {table:'properties',type:'many-one',via:'property_id'},
+      {table:'work_orders',type:'one-many',via:'work_orders.component_id'},
+    ],
+    migs:['20240701_fdv_tables'],
+  },
+  work_orders: {
+    domain:'FDV', desc:'Maintenance and repair work orders',
+    columns:[
+      {name:'id',type:'Integer',pk:true},
+      {name:'property_id',type:'Integer',fk:'properties.id',nn:true},
+      {name:'component_id',type:'Integer',fk:'building_components.id'},
+      {name:'title',type:'String',nn:true},
+      {name:'description',type:'Text'},
+      {name:'priority',type:'String'},
+      {name:'status',type:'String',nn:true},
+      {name:'assigned_to',type:'Integer',fk:'users.id'},
+      {name:'estimated_cost',type:'Numeric'},
+      {name:'actual_cost',type:'Numeric'},
+      {name:'due_date',type:'Date'},
+      {name:'completed_at',type:'DateTime'},
+      {name:'created_at',type:'DateTime',nn:true},
+    ],
+    relations:[
+      {table:'properties',type:'many-one',via:'property_id'},
+      {table:'building_components',type:'many-one',via:'component_id'},
+      {table:'users',type:'many-one',via:'assigned_to'},
+    ],
+    migs:['20240701_fdv_tables'],
+  },
+  sensors: {
+    domain:'FDV', desc:'IoT sensors installed in properties or units',
+    columns:[
+      {name:'id',type:'Integer',pk:true},
+      {name:'property_id',type:'Integer',fk:'properties.id',nn:true},
+      {name:'unit_id',type:'Integer',fk:'units.id'},
+      {name:'name',type:'String',nn:true},
+      {name:'sensor_type',type:'String'},
+      {name:'location',type:'String'},
+      {name:'is_active',type:'Boolean'},
+      {name:'installed_at',type:'DateTime'},
+      {name:'created_at',type:'DateTime',nn:true},
+    ],
+    relations:[
+      {table:'properties',type:'many-one',via:'property_id'},
+      {table:'units',type:'many-one',via:'unit_id'},
+      {table:'sensor_readings',type:'one-many',via:'sensor_readings.sensor_id'},
+    ],
+    migs:['20240701_fdv_tables','20250301_sensors'],
+  },
+  sensor_readings: {
+    domain:'FDV', desc:'Time-series readings from sensors',
+    columns:[
+      {name:'id',type:'Integer',pk:true},
+      {name:'sensor_id',type:'Integer',fk:'sensors.id',nn:true},
+      {name:'value',type:'Float',nn:true},
+      {name:'unit',type:'String'},
+      {name:'recorded_at',type:'DateTime',nn:true},
+    ],
+    relations:[
+      {table:'sensors',type:'many-one',via:'sensor_id'},
+    ],
+    migs:['20250301_sensors'],
+  },
+  gl_transactions: {
+    domain:'Financial', desc:'General ledger transactions from accounting system',
+    columns:[
+      {name:'id',type:'Integer',pk:true},
+      {name:'property_id',type:'Integer',fk:'properties.id'},
+      {name:'account_code',type:'String',nn:true},
+      {name:'account_name',type:'String'},
+      {name:'amount',type:'Numeric',nn:true},
+      {name:'currency',type:'String'},
+      {name:'transaction_date',type:'Date',nn:true},
+      {name:'description',type:'Text'},
+      {name:'source_system',type:'String'},
+      {name:'created_at',type:'DateTime',nn:true},
+    ],
+    relations:[
+      {table:'properties',type:'many-one',via:'property_id'},
+    ],
+    migs:['20250601_financial'],
+  },
+  budget_entries: {
+    domain:'Financial', desc:'Annual budget entries per property and account',
+    columns:[
+      {name:'id',type:'Integer',pk:true},
+      {name:'property_id',type:'Integer',fk:'properties.id'},
+      {name:'year',type:'Integer',nn:true},
+      {name:'account_code',type:'String',nn:true},
+      {name:'account_name',type:'String'},
+      {name:'amount',type:'Numeric',nn:true},
+      {name:'created_at',type:'DateTime',nn:true},
+    ],
+    relations:[
+      {table:'properties',type:'many-one',via:'property_id'},
+    ],
+    migs:['20250601_financial'],
+  },
+  text_content: {
+    domain:'AI', desc:'Structured text attached to properties for AI indexing',
+    columns:[
+      {name:'id',type:'Integer',pk:true},
+      {name:'property_id',type:'Integer',fk:'properties.id'},
+      {name:'content_type',type:'String'},
+      {name:'title',type:'String'},
+      {name:'content',type:'Text'},
+      {name:'language',type:'String'},
+      {name:'created_at',type:'DateTime',nn:true},
+      {name:'updated_at',type:'DateTime'},
+    ],
+    relations:[
+      {table:'properties',type:'many-one',via:'property_id'},
+      {table:'text_chunks',type:'one-many',via:'text_chunks.content_id'},
+    ],
+    migs:['20250401_ai_tables'],
+  },
+  text_chunks: {
+    domain:'AI', desc:'Chunked text with pgvector embeddings for semantic search',
+    columns:[
+      {name:'id',type:'Integer',pk:true},
+      {name:'content_id',type:'Integer',fk:'text_content.id',nn:true},
+      {name:'chunk_index',type:'Integer',nn:true},
+      {name:'text',type:'Text',nn:true},
+      {name:'embedding',type:'vector(1536)'},
+      {name:'created_at',type:'DateTime',nn:true},
+    ],
+    relations:[
+      {table:'text_content',type:'many-one',via:'content_id'},
+    ],
+    migs:['20250401_ai_tables','20250402_pgvector'],
+  },
+  ai_tools: {
+    domain:'AI', desc:'AI tool configurations — status is String (converted from ENUM)',
+    columns:[
+      {name:'id',type:'Integer',pk:true},
+      {name:'name',type:'String',nn:true},
+      {name:'description',type:'Text'},
+      {name:'tool_type',type:'String'},
+      {name:'status',type:'String',nn:true},
+      {name:'config',type:'JSON'},
+      {name:'created_at',type:'DateTime',nn:true},
+    ],
+    relations:[],
+    migs:['20250401_ai_tables','20260218_convert_enum'],
+  },
+  sessions: {
+    domain:'Auth', desc:'Active user sessions with JWT token tracking',
+    columns:[
+      {name:'id',type:'Integer',pk:true},
+      {name:'user_id',type:'Integer',fk:'users.id',nn:true},
+      {name:'token_hash',type:'String',nn:true,idx:true},
+      {name:'expires_at',type:'DateTime',nn:true},
+      {name:'created_at',type:'DateTime',nn:true},
+      {name:'ip_address',type:'String'},
+      {name:'user_agent',type:'String'},
+    ],
+    relations:[
+      {table:'users',type:'many-one',via:'user_id'},
+    ],
+    migs:['20250201_auth_tables'],
+  },
+  mfa_tokens: {
+    domain:'Auth', desc:'MFA verification tokens (time-limited, constant-time compared)',
+    columns:[
+      {name:'id',type:'Integer',pk:true},
+      {name:'user_id',type:'Integer',fk:'users.id',nn:true},
+      {name:'token_hash',type:'String',nn:true},
+      {name:'purpose',type:'String'},
+      {name:'expires_at',type:'DateTime',nn:true},
+      {name:'used_at',type:'DateTime'},
+      {name:'created_at',type:'DateTime',nn:true},
+    ],
+    relations:[
+      {table:'users',type:'many-one',via:'user_id'},
+    ],
+    migs:['20260206_mfa_hardening'],
+  },
+  audit_logs: {
+    domain:'Auth', desc:'Security audit trail for authentication events',
+    columns:[
+      {name:'id',type:'Integer',pk:true},
+      {name:'user_id',type:'Integer',fk:'users.id'},
+      {name:'event_type',type:'String',nn:true},
+      {name:'success',type:'Boolean'},
+      {name:'ip_address',type:'String'},
+      {name:'user_agent',type:'String'},
+      {name:'details',type:'JSON'},
+      {name:'created_at',type:'DateTime',nn:true},
+    ],
+    relations:[
+      {table:'users',type:'many-one',via:'user_id'},
+    ],
+    migs:['20260206_audit_logging'],
+  },
+  notifications: {
+    domain:'Analytics', desc:'User notification records',
+    columns:[
+      {name:'id',type:'Integer',pk:true},
+      {name:'user_id',type:'Integer',fk:'users.id',nn:true},
+      {name:'type',type:'String',nn:true},
+      {name:'title',type:'String',nn:true},
+      {name:'message',type:'Text'},
+      {name:'is_read',type:'Boolean',nn:true},
+      {name:'created_at',type:'DateTime',nn:true},
+    ],
+    relations:[
+      {table:'users',type:'many-one',via:'user_id'},
+    ],
+    migs:['20260218_notifications'],
+  },
+  file_meta: {
+    domain:'Analytics', desc:'Metadata for uploaded files stored in object storage',
+    columns:[
+      {name:'id',type:'Integer',pk:true},
+      {name:'property_id',type:'Integer',fk:'properties.id'},
+      {name:'filename',type:'String',nn:true},
+      {name:'file_type',type:'String'},
+      {name:'size_bytes',type:'Integer'},
+      {name:'storage_path',type:'String',nn:true},
+      {name:'uploaded_by',type:'Integer',fk:'users.id'},
+      {name:'created_at',type:'DateTime',nn:true},
+    ],
+    relations:[
+      {table:'properties',type:'many-one',via:'property_id'},
+      {table:'users',type:'many-one',via:'uploaded_by'},
+    ],
+    migs:['20260218_file_meta'],
+  },
+  api_usage: {
+    domain:'Analytics', desc:'API endpoint usage telemetry (rate-limited to avoid Railway log spam)',
+    columns:[
+      {name:'id',type:'Integer',pk:true},
+      {name:'user_id',type:'Integer',fk:'users.id'},
+      {name:'endpoint',type:'String',nn:true},
+      {name:'method',type:'String',nn:true},
+      {name:'status_code',type:'Integer'},
+      {name:'response_time_ms',type:'Integer'},
+      {name:'created_at',type:'DateTime',nn:true},
+    ],
+    relations:[
+      {table:'users',type:'many-one',via:'user_id'},
+    ],
+    migs:['20250901_analytics'],
+  },
+};
+
+// ── MIGRATIONS TIMELINE ────────────────────────────────────
+var MIGRATIONS = [
+  {id:'20230101_initial',       desc:'Initial schema: properties, units, parties, contracts, users, user_property_association', type:'core'},
+  {id:'20240601_hms_tables',    desc:'HMS tables: internal_control_cases, risk_assessments, scheduled_activities', type:'core'},
+  {id:'20240701_fdv_tables',    desc:'FDV tables: building_components, work_orders, sensors', type:'core'},
+  {id:'20250101_municipality',  desc:'Add municipality, gnr, bnr to properties', type:'schema'},
+  {id:'20250201_auth_tables',   desc:'Add sessions table for JWT session tracking', type:'auth'},
+  {id:'20250201_is_verified',   desc:'Add is_verified column to users', type:'schema'},
+  {id:'20250301_sensors',       desc:'Add sensor_readings table for time-series IoT data', type:'schema'},
+  {id:'20250401_ai_tables',     desc:'Add text_content, text_chunks, ai_tools for AI features', type:'core'},
+  {id:'20250402_pgvector',      desc:'Enable pgvector extension; add embedding column to text_chunks', type:'schema'},
+  {id:'20250601_financial',     desc:'Add gl_transactions, budget_entries for financial reporting', type:'core'},
+  {id:'20250901_analytics',     desc:'Add api_usage table for endpoint telemetry', type:'schema'},
+  {id:'20260206_mfa_hardening', desc:'Add mfa_tokens table; switch to secrets.token_urlsafe()', type:'auth'},
+  {id:'20260206_audit_logging', desc:'Add audit_logs table for security event trail', type:'auth'},
+  {id:'20260218_notifications', desc:'Add notifications table', type:'schema'},
+  {id:'20260218_file_meta',     desc:'Add file_meta table for uploaded file metadata', type:'schema'},
+  {id:'20260218_convert_enum',  desc:'Convert contractstatus / toolstatus / qastatus ENUM columns to TEXT', type:'fix'},
+  {id:'20260218_owner_org',     desc:'Add owner_org column to properties', type:'schema'},
+  {id:'20260219_contract_cols', desc:'Add start_date, end_date, category, cost fields to contracts', type:'schema'},
+];
+
+// ── PRESETS ────────────────────────────────────────────────
+var PRESETS = [
+  {name:'Active Contracts',    table:'contracts',               cols:['id','property_id','status','start_date','end_date','monthly_rent'],filters:[{col:'status',op:'=',val:'active'}],order:'start_date',dir:'DESC',lim:3},
+  {name:'Open Critical Cases', table:'internal_control_cases',  cols:['id','property_id','title','severity','status','due_date'],       filters:[{col:'status',op:'!=',val:'closed'}],order:'due_date',dir:'ASC',lim:3},
+  {name:'Recent Audit Events', table:'audit_logs',              cols:['id','user_id','event_type','success','ip_address','created_at'], filters:[],order:'created_at',dir:'DESC',lim:3},
+  {name:'Properties Overview', table:'properties',              cols:['id','name','city','region','property_type','owner_org'],         filters:[],order:'name',dir:'ASC',lim:3},
+  {name:'API Error Rate',      table:'api_usage',               cols:['endpoint','method','status_code','response_time_ms','created_at'],filters:[{col:'status_code',op:'>=',val:'400'}],order:'created_at',dir:'DESC',lim:3},
+];
+
+// ── STATE ──────────────────────────────────────────────────
+var S = {
+  domain: 'All',
+  table: null,
+  cols: [],
+  filters: [],
+  order: '',
+  dir: 'ASC',
+  lim: 3,       // index into LIMIT_VALS → 100
+  tab: 'schema',
+};
+
+// ── HELPERS ────────────────────────────────────────────────
+function mk(tag, cls, txt, style) {
+  var e = document.createElement(tag);
+  if (cls)   e.className = cls;
+  if (txt != null) e.textContent = txt;
+  if (style) e.style.cssText = style;
+  return e;
+}
+function clear(el) { while (el.firstChild) el.removeChild(el.firstChild); }
+
+// ── DOMAIN CHIPS ───────────────────────────────────────────
+function renderDomains() {
+  var wrap = document.getElementById('domain-chips');
+  clear(wrap);
+  var domains = ['All'].concat(Object.keys(DC));
+  domains.forEach(function(d) {
+    var chip = mk('span', 'domain-chip' + (S.domain === d ? ' active' : ''), d);
+    var dc = DC[d];
+    if (dc) {
+      chip.style.background = dc.bg;
+      chip.style.color = dc.color;
+      chip.style.borderColor = dc.color.replace('rgb(','rgba(').replace(')',',0.45)');
+    } else {
+      chip.style.background = S.domain === 'All' ? 'rgba(139,148,158,.3)' : 'rgba(139,148,158,.12)';
+      chip.style.color = '#8b949e';
+      chip.style.borderColor = 'rgba(139,148,158,.4)';
+    }
+    chip.addEventListener('click', function() {
+      S.domain = d; S.table = null; S.cols = []; S.filters = [];
+      renderAll();
+    });
+    wrap.appendChild(chip);
+  });
+}
+
+// ── TABLE LIST ─────────────────────────────────────────────
+function filteredTables() {
+  var q = document.getElementById('search').value.toLowerCase();
+  return Object.keys(SCHEMA).filter(function(name) {
+    var info = SCHEMA[name];
+    if (S.domain !== 'All' && info.domain !== S.domain) return false;
+    if (q && name.toLowerCase().indexOf(q) === -1) return false;
+    return true;
+  });
+}
+
+function renderTableList() {
+  var wrap = document.getElementById('table-list');
+  clear(wrap);
+  var tables = filteredTables();
+  if (!tables.length) {
+    wrap.appendChild(mk('div', null, 'No tables match', 'padding:12px;text-align:center;color:#8b949e;font-size:11px'));
+    return;
+  }
+  tables.forEach(function(name) {
+    var info = SCHEMA[name];
+    var dc = DC[info.domain] || {color:'#8b949e'};
+    var row = mk('div', 'table-item' + (S.table === name ? ' selected' : ''));
+    var dot = mk('div', 'table-dot');
+    dot.style.background = dc.color;
+    row.appendChild(dot);
+    row.appendChild(mk('span', 'table-name', name));
+    row.appendChild(mk('span', 'table-cols-count', info.columns.length + 'c'));
+    row.addEventListener('click', function() { pickTable(name); });
+    wrap.appendChild(row);
+  });
+}
+
+function pickTable(name) {
+  S.table = name; S.cols = []; S.filters = []; S.order = '';
+  renderAll();
+}
+
+// ── QUERY CONTROLS ─────────────────────────────────────────
+function renderQueryControls() {
+  var wrap = document.getElementById('query-controls');
+  if (!S.table) { wrap.style.display = 'none'; return; }
+  wrap.style.display = '';
+  renderColList();
+  renderFilters();
+  renderOrderBy();
+  document.getElementById('limit-label').textContent = LIMIT_VALS[S.lim] + ' rows';
+  document.getElementById('limit-slider').value = S.lim;
+}
+
+function renderColList() {
+  var wrap = document.getElementById('col-list');
+  clear(wrap);
+  var info = SCHEMA[S.table];
+  if (!info) return;
+  info.columns.forEach(function(col) {
+    var label = mk('label', 'col-check-item');
+    var cb = document.createElement('input');
+    cb.type = 'checkbox';
+    cb.checked = S.cols.indexOf(col.name) !== -1;
+    cb.addEventListener('change', function() {
+      if (cb.checked) { if (S.cols.indexOf(col.name) === -1) S.cols.push(col.name); }
+      else { var i = S.cols.indexOf(col.name); if (i !== -1) S.cols.splice(i,1); }
+      renderAll();
+    });
+    label.appendChild(cb);
+    label.appendChild(mk('span', 'col-label', col.name));
+    label.appendChild(mk('span', 'col-type', col.type));
+    wrap.appendChild(label);
+  });
+}
+
+function renderFilters() {
+  var wrap = document.getElementById('filters');
+  clear(wrap);
+  var info = SCHEMA[S.table];
+  var colNames = info ? info.columns.map(function(c){return c.name;}) : [];
+  S.filters.forEach(function(f, idx) {
+    var row = mk('div', 'filter-row');
+    // column select
+    var cSel = document.createElement('select');
+    var nOpt = mk('option', null, 'column'); nOpt.value=''; cSel.appendChild(nOpt);
+    colNames.forEach(function(cn) {
+      var opt = mk('option', null, cn); opt.value = cn;
+      if (f.col === cn) opt.selected = true;
+      cSel.appendChild(opt);
+    });
+    cSel.addEventListener('change', function(){ f.col = cSel.value; renderAll(); });
+    // op select
+    var oSel = document.createElement('select');
+    oSel.className = 'op-sel';
+    ['=','!=','>','>=','<','<=','LIKE','IS NULL','IS NOT NULL'].forEach(function(op){
+      var opt = mk('option',null,op); opt.value=op;
+      if (f.op===op) opt.selected=true;
+      oSel.appendChild(opt);
+    });
+    oSel.addEventListener('change', function(){ f.op = oSel.value; renderAll(); });
+    // value input
+    var vInp = document.createElement('input');
+    vInp.type='text'; vInp.placeholder='value'; vInp.value = f.val||'';
+    vInp.addEventListener('input', function(){ f.val = vInp.value; renderAll(); });
+    // remove
+    var rm = mk('button','btn-rm','×');
+    (function(i){ rm.addEventListener('click', function(){ S.filters.splice(i,1); renderAll(); }); })(idx);
+    row.appendChild(cSel); row.appendChild(oSel); row.appendChild(vInp); row.appendChild(rm);
+    wrap.appendChild(row);
+  });
+}
+
+function renderOrderBy() {
+  var sel = document.getElementById('order-col');
+  clear(sel);
+  var none = mk('option',null,'— none —'); none.value=''; sel.appendChild(none);
+  var info = SCHEMA[S.table];
+  if (info) {
+    info.columns.forEach(function(col){
+      var opt = mk('option',null,col.name); opt.value=col.name;
+      if (S.order===col.name) opt.selected=true;
+      sel.appendChild(opt);
+    });
+  }
+  document.getElementById('dir-toggle').textContent = S.dir;
+}
+
+// ── TAB PANEL ──────────────────────────────────────────────
+function renderMainPanel() {
+  var btns = document.querySelectorAll('.tab-btn');
+  for (var i=0; i<btns.length; i++) {
+    btns[i].className = 'tab-btn' + (btns[i].dataset.tab === S.tab ? ' active' : '');
+  }
+  var wrap = document.getElementById('tab-content');
+  clear(wrap);
+  if (!S.table) {
+    var empty = mk('div','empty');
+    empty.appendChild(mk('div','empty-icon','\u2BD1'));
+    empty.appendChild(mk('p',null,'Select a table from the left panel to explore its schema, relations, and migrations.'));
+    wrap.appendChild(empty);
+    return;
+  }
+  if (S.tab==='schema')     renderSchemaTab(wrap);
+  else if (S.tab==='relations')  renderRelationsTab(wrap);
+  else if (S.tab==='migrations') renderMigrationsTab(wrap);
+  else if (S.tab==='sql')        renderSQLTab(wrap);
+}
+
+// ── SCHEMA TAB ─────────────────────────────────────────────
+function renderSchemaTab(wrap) {
+  var info = SCHEMA[S.table];
+  var dc = DC[info.domain] || {color:'#8b949e',bg:'rgba(139,148,158,.15)'};
+  // Header
+  var hdr = mk('div',null,null,'margin-bottom:14px');
+  var h2 = mk('h2',null,null,'font-size:15px;font-weight:600;font-family:var(--mono);display:flex;align-items:center;gap:8px;flex-wrap:wrap');
+  h2.appendChild(document.createTextNode(S.table));
+  var badge = mk('span',null,info.domain,'padding:2px 8px;border-radius:10px;font-size:10px;font-weight:600');
+  badge.style.background = dc.bg; badge.style.color = dc.color;
+  h2.appendChild(badge);
+  hdr.appendChild(h2);
+  hdr.appendChild(mk('p',null,info.desc,'color:#8b949e;font-size:12px;margin-top:4px'));
+  wrap.appendChild(hdr);
+  // Table
+  var tbl = mk('table','schema-table');
+  var thead = document.createElement('thead');
+  var hrow = document.createElement('tr');
+  ['Column','Type','Attributes','Reference'].forEach(function(h){ hrow.appendChild(mk('th',null,h)); });
+  thead.appendChild(hrow); tbl.appendChild(thead);
+  var tbody = document.createElement('tbody');
+  info.columns.forEach(function(col) {
+    var tr = document.createElement('tr');
+    var sel = S.cols.indexOf(col.name) !== -1;
+    if (sel) tr.style.background = 'rgba(88,166,255,.06)';
+    // name
+    var td1 = document.createElement('td');
+    var code = mk('code',null,col.name,'font-family:var(--mono);font-size:11px');
+    if (sel) code.style.color = '#58a6ff';
+    td1.appendChild(code);
+    // type
+    var td2 = mk('td',null,col.type,'color:#8b949e');
+    // attrs
+    var td3 = document.createElement('td');
+    if (col.pk)  td3.appendChild(mk('span','badge badge-pk','PK'));
+    if (col.fk)  td3.appendChild(mk('span','badge badge-fk','FK'));
+    if (col.nn)  td3.appendChild(mk('span','badge badge-nn','NOT NULL'));
+    if (col.idx) td3.appendChild(mk('span','badge badge-idx','INDEX'));
+    // ref
+    var td4 = mk('td',null,col.fk||'','color:#8b949e;font-size:10px');
+    tr.appendChild(td1); tr.appendChild(td2); tr.appendChild(td3); tr.appendChild(td4);
+    tbody.appendChild(tr);
+  });
+  tbl.appendChild(tbody);
+  wrap.appendChild(tbl);
+}
+
+// ── RELATIONS TAB ──────────────────────────────────────────
+function renderRelationsTab(wrap) {
+  wrap.appendChild(mk('h2',null,'Relations','font-size:14px;font-weight:600;margin-bottom:12px'));
+  var info = SCHEMA[S.table];
+  if (!info.relations.length) {
+    wrap.appendChild(mk('p',null,'No defined relations.','color:#8b949e;font-size:12px'));
+    return;
+  }
+  info.relations.forEach(function(rel) {
+    var card = mk('div','rel-card');
+    var from = mk('span','rel-tbl',S.table); from.style.color='#58a6ff';
+    var arrow = mk('span','rel-arrow', rel.type==='many-one' ? '\u2192' : rel.type==='one-many' ? '\u21A0' : '\u27F7');
+    var to = mk('span','rel-tbl',rel.table);
+    var via = mk('span','rel-via','via '+rel.via);
+    var typeClass = rel.type==='many-many' ? 'rt-mm' : rel.type==='one-many' ? 'rt-many' : 'rt-one';
+    var typeBadge = mk('span','rel-type '+typeClass, rel.type);
+    typeBadge.style.marginLeft='auto';
+    card.appendChild(from); card.appendChild(arrow); card.appendChild(to);
+    card.appendChild(via); card.appendChild(typeBadge);
+    card.addEventListener('click', function(){ if (SCHEMA[rel.table]) pickTable(rel.table); });
+    wrap.appendChild(card);
+  });
+}
+
+// ── MIGRATIONS TAB ─────────────────────────────────────────
+function migMatches(migId, tableMigs) {
+  for (var i=0; i<tableMigs.length; i++) {
+    var t = tableMigs[i];
+    if (migId === t || migId.indexOf(t) === 0 || t.indexOf(migId) === 0) return true;
+  }
+  return false;
+}
+
+function renderMigrationsTab(wrap) {
+  wrap.appendChild(mk('h2',null,'Migrations','font-size:14px;font-weight:600;margin-bottom:4px'));
+  wrap.appendChild(mk('p',null,'Highlighted migrations affect this table.','color:#8b949e;font-size:11px;margin-bottom:14px'));
+  var info = SCHEMA[S.table];
+  MIGRATIONS.forEach(function(mig) {
+    var relevant = migMatches(mig.id, info.migs);
+    var item = mk('div','mig-item');
+    if (!relevant) item.style.opacity='0.3';
+    var dot = mk('div','mig-dot '+mig.type);
+    var body = mk('div','mig-body');
+    var idEl = mk('div','mig-id', mig.id);
+    var descEl = mk('div','mig-desc', mig.desc);
+    if (relevant) descEl.style.fontWeight='500';
+    body.appendChild(idEl); body.appendChild(descEl);
+    item.appendChild(dot); item.appendChild(body);
+    wrap.appendChild(item);
+  });
+}
+
+// ── SQL TAB ────────────────────────────────────────────────
+function buildSQL() {
+  if (!S.table) return '-- Select a table to generate SQL';
+  var colStr = S.cols.length ? S.cols.join(', ') : '*';
+  var lines = ['SELECT '+colStr, 'FROM '+S.table];
+  var where = [];
+  S.filters.forEach(function(f) {
+    if (!f.col) return;
+    if (f.op==='IS NULL'||f.op==='IS NOT NULL') { where.push(f.col+' '+f.op); return; }
+    if (!f.val && f.val!==0) return;
+    var v = (isNaN(parseFloat(f.val))||!isFinite(f.val)||f.op==='LIKE') ? "'"+f.val+"'" : f.val;
+    where.push(f.col+' '+f.op+' '+v);
+  });
+  if (where.length) lines.push('WHERE '+where.join('\n  AND '));
+  if (S.order) lines.push('ORDER BY '+S.order+' '+S.dir);
+  lines.push('LIMIT '+LIMIT_VALS[S.lim]);
+  return lines.join('\n');
+}
+
+function renderSQLHighlighted(pre, sql) {
+  clear(pre);
+  var KWS = ['SELECT','FROM','WHERE','ORDER BY','LIMIT','AND','OR','JOIN','ON','LEFT','INNER','NOT NULL','IS NOT NULL','IS NULL','LIKE','GROUP BY','HAVING','AS'];
+  // Split on keywords and string literals
+  var parts = sql.split(/(ORDER BY|GROUP BY|IS NOT NULL|NOT NULL|IS NULL|\b(?:SELECT|FROM|WHERE|LIMIT|AND|OR|JOIN|ON|LEFT|INNER|HAVING|LIKE|AS)\b|'[^']*')/);
+  parts.forEach(function(tok) {
+    if (!tok) return;
+    var span = document.createElement('span');
+    var up = tok.trim().toUpperCase();
+    if (KWS.indexOf(up) !== -1) span.className='kw';
+    else if (tok.length>0 && tok[0]==="'") span.className='str';
+    else if (tok.trim()!=='' && !isNaN(parseFloat(tok)) && isFinite(tok.trim())) span.className='num';
+    span.textContent = tok;
+    pre.appendChild(span);
+  });
+}
+
+function renderSQLTab(wrap) {
+  var sql = buildSQL();
+  var pre = mk('pre',null,null,'');
+  pre.id = 'sql-output';
+  renderSQLHighlighted(pre, sql);
+  wrap.appendChild(pre);
+  var btn = mk('button','btn-sm','Copy SQL','margin-top:10px;padding:6px 14px');
+  btn.addEventListener('click', function() {
+    navigator.clipboard.writeText(sql).then(function(){ btn.textContent='Copied!'; setTimeout(function(){btn.textContent='Copy SQL';},1500); });
+  });
+  wrap.appendChild(btn);
+}
+
+// ── PROMPT OUTPUT ──────────────────────────────────────────
+function renderPrompt() {
+  var ta = document.getElementById('prompt-output');
+  if (!S.table) { ta.value=''; return; }
+  var info = SCHEMA[S.table];
+  var colPart = S.cols.length ? 'the columns: '+S.cols.join(', ') : 'all columns';
+  var parts = ['Write a SQL query to fetch '+colPart+' from the '+S.table+' table ('+info.domain+' domain)'];
+  var fParts = [];
+  S.filters.forEach(function(f){
+    if (!f.col) return;
+    if (f.op==='IS NULL') fParts.push(f.col+' is null');
+    else if (f.op==='IS NOT NULL') fParts.push(f.col+' is not null');
+    else if (f.val!==undefined&&f.val!=='') fParts.push(f.col+' '+f.op+' '+f.val);
+  });
+  if (fParts.length) parts.push('filtered where '+fParts.join(' and '));
+  if (S.order) parts.push('ordered by '+S.order+' '+S.dir.toLowerCase());
+  parts.push('limited to '+LIMIT_VALS[S.lim]+' rows');
+  if (info.desc) parts.push('Note: '+info.desc);
+  ta.value = parts.join(', ')+'.';
+}
+
+// ── RENDER ALL ─────────────────────────────────────────────
+function renderAll() {
+  renderDomains();
+  renderTableList();
+  renderQueryControls();
+  renderMainPanel();
+  renderPrompt();
+}
+
+// ── INIT ───────────────────────────────────────────────────
+(function init() {
+  // Presets
+  var presetsEl = document.getElementById('presets');
+  PRESETS.forEach(function(p) {
+    var chip = mk('button','preset-chip',p.name);
+    chip.addEventListener('click', function() {
+      S.domain='All'; S.table=p.table;
+      S.cols=p.cols.slice();
+      S.filters=p.filters.map(function(f){return{col:f.col,op:f.op,val:f.val};});
+      S.order=p.order||''; S.dir=p.dir||'ASC'; S.lim=p.lim; S.tab='sql';
+      renderAll();
+    });
+    presetsEl.appendChild(chip);
+  });
+
+  // Search
+  document.getElementById('search').addEventListener('input', function(){ renderTableList(); });
+
+  // Tabs
+  document.querySelectorAll('.tab-btn').forEach(function(btn) {
+    btn.addEventListener('click', function() { S.tab=btn.dataset.tab; renderMainPanel(); });
+  });
+
+  // Add filter
+  document.getElementById('add-filter').addEventListener('click', function() {
+    S.filters.push({col:'',op:'=',val:''});
+    renderAll();
+  });
+
+  // Order select
+  document.getElementById('order-col').addEventListener('change', function() {
+    S.order=this.value; renderAll();
+  });
+
+  // Dir toggle
+  document.getElementById('dir-toggle').addEventListener('click', function() {
+    S.dir = S.dir==='ASC' ? 'DESC' : 'ASC';
+    this.textContent = S.dir; renderAll();
+  });
+
+  // Limit slider
+  document.getElementById('limit-slider').addEventListener('input', function() {
+    S.lim=parseInt(this.value,10);
+    document.getElementById('limit-label').textContent=LIMIT_VALS[S.lim]+' rows';
+    renderAll();
+  });
+
+  // Copy prompt
+  document.getElementById('copy-btn').addEventListener('click', function() {
+    var ta = document.getElementById('prompt-output');
+    navigator.clipboard.writeText(ta.value).then(function() {
+      document.getElementById('copy-btn').textContent='Copied!';
+      setTimeout(function(){document.getElementById('copy-btn').textContent='Copy';},1500);
+    });
+  });
+
+  renderAll();
+})();
+</script>
+</body>
+</html>

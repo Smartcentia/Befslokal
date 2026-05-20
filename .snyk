@@ -1,0 +1,33 @@
+# Snyk (https://snyk.io) policy file
+# https://snyk.io/docs/using-snyk
+
+version: v1.25.0
+
+# Ignorer spesifikke sårbarheter (kun hvis de er false positives eller ikke relevant)
+ignore:
+  # Eksempel: Ignorer en lav-severity sårbarhet som ikke påvirker oss
+  # 'SNYK-PYTHON-REQUESTS-1234567':
+  #   - '*':
+  #       reason: 'Not applicable - we do not use the vulnerable functionality'
+  #       expires: '2024-12-31T00:00:00.000Z'
+
+# Patch-instruksjoner (Snyk kan automatisk patche noen sårbarheter)
+patch: {}
+
+# Language settings
+language-settings:
+  python: '3.11'
+
+# Exclude directories from scanning
+exclude:
+  global:
+    - '**/__pycache__/**'
+    - '**/node_modules/**'
+    - '**/venv/**'
+    - '**/env/**'
+    - '**/.venv/**'
+    - '**/dist/**'
+    - '**/build/**'
+    - '**/.next/**'
+    - '**/arkiv/**'
+    - '**/tests/**'

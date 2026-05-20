@@ -1,0 +1,110 @@
+INFO: Starting Robust Financial Mapping Fix (Dry Run: True, Promote Orphans: True)
+INFO: Sources (Financial Data): 50
+INFO: Candidates (Master Props): 167
+WARNING: NO MATCH: 'Emma Hjortsvei 60, 1336 Sandvika' (Norm: emma hjortsvn 60). Best candidate: 'Stasjonsveien 16B' (0.53)
+INFO:   -> PROMOTING ORPHAN: 0ecd1f71-6209-44c8-9b72-299ec676d64d
+WARNING: NO MATCH: 'Tærudgata 16, 2004 Lillestrøm' (Norm: tærudgt 16). Best candidate: 'Storgata 10' (0.63)
+INFO:   -> PROMOTING ORPHAN: 106ba3ae-43a5-41a2-b70a-184258aab3da
+WARNING: NO MATCH: 'Klukevegen 30, 2318 Hamar' (Norm: klukevegen 30). Best candidate: 'Klatrevegen 2' (0.69)
+INFO:   -> PROMOTING ORPHAN: 18a79e87-0bca-47b6-8316-363a04a157d7
+WARNING: NO MATCH: 'Gartneriveien 8, 2260 Kirkenær' (Norm: gartnerivn 8). Best candidate: 'Marknesringen 48' (0.64)
+INFO:   -> PROMOTING ORPHAN: 20732c83-67fe-4f99-9b34-6f0014ee332c
+WARNING: NO MATCH: 'Kirkenærtunet 27, Kirkenær' (Norm: kirkenærtunet 27). Best candidate: 'Bregnetunet 15' (0.60)
+INFO:   -> PROMOTING ORPHAN: 23f0c475-2cb8-4470-859a-6e820bc55404
+WARNING: NO MATCH: 'Storveien 121, 1621 Gressvik' (Norm: storvn 121). Best candidate: 'Storgaten 11' (0.80)
+INFO:   -> PROMOTING ORPHAN: 2997b0cb-b5da-4db3-b325-03e9d7790c49
+WARNING: NO MATCH: 'Vestrevei 1, 1710 Sarpsborg' (Norm: vestrevn 1). Best candidate: 'Testveien 1' (0.78)
+INFO:   -> PROMOTING ORPHAN: 299b72c2-38f4-4c3e-8389-cdb3d39ca2cb
+WARNING: NO MATCH: 'Ullsvei 16, 1782 Halden' (Norm: ullsvn 16). Best candidate: 'Langsæveien 6' (0.63)
+INFO:   -> PROMOTING ORPHAN: 2efdd58b-99f3-4e1e-bff0-1203a9c32a1d
+WARNING: NO MATCH: 'Riserveien 40A/B, 1930 Aurskog' (Norm: riservn 40a/b). Best candidate: 'Solerødveien 50' (0.56)
+INFO:   -> PROMOTING ORPHAN: 38f32174-66ec-4eaf-8211-d6d4c63b539a
+WARNING: NO MATCH: 'Marmorveien 23, 2818 Gjøvik' (Norm: marmorvn 23). Best candidate: 'Bomveien 3' (0.56)
+INFO:   -> PROMOTING ORPHAN: 38f73ec1-f193-4f3b-bb40-f18c732be658
+WARNING: NO MATCH: 'Rådhusgata 16, 1830 Askim' (Norm: rådhusgt 16). Best candidate: 'Rødstokken 16' (0.58)
+INFO:   -> PROMOTING ORPHAN: 3a7e5945-5370-4304-a749-8b6db4364a8d
+WARNING: NO MATCH: 'Bekkegata 2a, 3513 Hønefoss' (Norm: bekkegt 2a). Best candidate: 'Fiskergata 22' (0.57)
+INFO:   -> PROMOTING ORPHAN: 23cdc6d9-f7cb-41af-8c01-9a537575b97c
+WARNING: NO MATCH: 'Uglevn 1, 1712 Grålum' (Norm: uglevn 1). Best candidate: 'Vågeveien 10' (0.71)
+INFO:   -> PROMOTING ORPHAN: 43dbddf7-3afa-48ce-9477-ca8e556e1233
+WARNING: NO MATCH: 'Gågata 5, 2211 Kongsvinger' (Norm: gågt 5). Best candidate: 'Håkonsgt 4' (0.50)
+INFO:   -> PROMOTING ORPHAN: 4db367c3-934b-4822-9206-61b72bda015d
+WARNING: NO MATCH: 'Njords vei 11, 1540 Vestby' (Norm: njords vn 11). Best candidate: 'Nordnesveien 3' (0.70)
+INFO:   -> PROMOTING ORPHAN: 5cf9e2c5-683d-407c-bcb3-d28ef147178f
+WARNING: NO MATCH: 'Østheimveien 14, 1630 Gamle Fredrikstad' (Norm: østheimvn 14). Best candidate: 'Heimlyvn 5' (0.64)
+INFO:   -> PROMOTING ORPHAN: 5e6f9406-13aa-4851-acf0-1d65494c46b7
+WARNING: NO MATCH: 'Glynitveien 30, 3020 Nordre Follo' (Norm: glynitvn 30). Best candidate: 'Horniveien 100' (0.55)
+INFO:   -> PROMOTING ORPHAN: 669babb9-a9a8-4e25-a79b-dcc9de47233e
+WARNING: NO MATCH: 'Kanalveien 18, 2004 Lillestrøm' (Norm: kanalvn 18). Best candidate: 'Kantarellveien 4' (0.70)
+INFO:   -> PROMOTING ORPHAN: 69cf49d2-8aec-4891-a745-7f5c2aaf03d3
+WARNING: NO MATCH: 'Kabelgata 2, 0508 Oslo' (Norm: kabelgt 2). Best candidate: 'Kaigata 4' (0.62)
+INFO:   -> PROMOTING ORPHAN: 6a1df674-30ef-46f8-beca-2d73f8e52de6
+WARNING: NO MATCH: 'Hovdenveien 159, 1708 Sarpsborg' (Norm: hovdenvn 159). Best candidate: 'Damtjernveien 598' (0.62)
+INFO:   -> PROMOTING ORPHAN: 81a8b47d-c65f-41ac-b3b6-a36bc1528f09
+WARNING: NO MATCH: 'Vangsvegen 121, 2318 Hamar' (Norm: vangsvegen 121). Best candidate: 'Svanehaugvegen 3' (0.67)
+INFO:   -> PROMOTING ORPHAN: 861d16cb-5c0d-4776-998f-510d428c4cf3
+WARNING: NO MATCH: 'Glemmengaten 55, 1608 Fredrikstad' (Norm: glemmengtn 55). Best candidate: 'Kongens gate 51-55' (0.55)
+INFO:   -> PROMOTING ORPHAN: 8b489d49-6241-4e77-8edf-3520abb85563
+WARNING: NO MATCH: 'Elias Smiths vei 22-24, 1337 Sandvika' (Norm: elias smiths vn 22-24). Best candidate: 'Peder Myhres vei 16' (0.46)
+INFO:   -> PROMOTING ORPHAN: 8e533686-f65a-49d5-9970-e54cf02852c8
+WARNING: NO MATCH: 'Grønlandsleiret 25, 0190 Oslo' (Norm: grønlandsleiret 25). Best candidate: 'Grønland 68' (0.62)
+INFO:   -> PROMOTING ORPHAN: 991f5a5a-9386-4216-b4c0-4ea9a4965257
+WARNING: NO MATCH: 'Åsaveien 662, 3512 Hønefoss' (Norm: åsavn 662). Best candidate: 'Åsvangveien 2A' (0.70)
+INFO:   -> PROMOTING ORPHAN: 9d50cecf-66b4-40a0-953a-2723b1080cc1
+WARNING: NO MATCH: 'Aumliveien 4C, 2500 Tynset' (Norm: aumlivn 4c). Best candidate: 'Mindeveien 8' (0.53)
+INFO:   -> PROMOTING ORPHAN: a1b6459e-7559-40db-a68d-a42b359a6f53
+WARNING: NO MATCH: 'Liaveien 2, 4 og 6, 1930 Aurskog' (Norm: liavn 2). Best candidate: 'Solheiveien 25' (0.67)
+INFO:   -> PROMOTING ORPHAN: a61852c4-cb4e-48e3-bd3b-9ccf6618553e
+WARNING: NO MATCH: 'Energiveien 14, 2069 Jessheim' (Norm: energivn 14). Best candidate: 'Energivegen 13' (0.80)
+INFO:   -> PROMOTING ORPHAN: abe87908-72ad-46da-9893-d23d758330b6
+WARNING: NO MATCH: 'Korpåsen 172, 1386 Asker' (Norm: korpåsen 172). Best candidate: 'Grensen 7' (0.57)
+INFO:   -> PROMOTING ORPHAN: af45d6c9-8361-4e24-b28e-34b1d59013f9
+WARNING: NO MATCH: 'Alfheimvn 6, 1779 Halden' (Norm: alfheimvn 6). Best candidate: 'Heimlyvn 5' (0.67)
+INFO:   -> PROMOTING ORPHAN: b2b42787-c89a-424c-8fd1-9c98b888d3a3
+WARNING: NO MATCH: 'Skolegata 53, 1724 Sarpsborg' (Norm: skolegt 53). Best candidate: 'Skjoldvegen 51' (0.67)
+INFO:   -> PROMOTING ORPHAN: b318c535-d78f-4c2d-9756-e7c46e199b38
+WARNING: NO MATCH: 'Just Brochs gate 13, 2321 Hamar' (Norm: just brochs gt 13). Best candidate: 'Solheimsgaten 13' (0.58)
+INFO:   -> PROMOTING ORPHAN: b505be3a-f588-4816-ab80-7ff400018b10
+WARNING: NO MATCH: 'Kroerveien 9, 1540 Vestby' (Norm: kroervn 9). Best candidate: 'Skoleveien 9' (0.78)
+INFO:   -> PROMOTING ORPHAN: b879bb48-715b-4302-8b2c-2a896f75e066
+WARNING: NO MATCH: 'Lundebyveien 363,1878 Hærland' (Norm: lundebyvn 363). Best candidate: 'Lundeveien 171' (0.67)
+INFO:   -> PROMOTING ORPHAN: bb867dea-a90b-4952-bd80-1b29f094d1ec
+INFO: MATCH: 'Horniveien 100, 1339 Vøyenenga' (Norm: hornivn 100) matches 'Horniveien 100' (Norm: hornivn 100) | Score: 1.00
+WARNING: NO MATCH: 'Storgata 56-58, 2609 Lillehammer' (Norm: storgt 56-58). Best candidate: 'Storgaten 62-64' (0.72)
+INFO:   -> PROMOTING ORPHAN: c57eb087-c507-4de6-a58c-7a4f19e1573c
+WARNING: NO MATCH: 'Solfallsveien 27, 1435 Ås' (Norm: solfallsvn 27). Best candidate: 'Røldalsvegen 2' (0.59)
+INFO:   -> PROMOTING ORPHAN: cf7c936e-29f7-4c5e-a00a-30bb5a149bbc
+WARNING: NO MATCH: 'Strandsagvegen 2 D, 2383 Brumunddal' (Norm: strandsagvegen 2 d). Best candidate: 'Svanehaugvegen 3' (0.65)
+INFO:   -> PROMOTING ORPHAN: d0f2c476-35f7-467c-82a4-dab53cd35ef8
+WARNING: NO MATCH: 'Kurlandveien 12, 1727 Sarpsborg' (Norm: kurlandvn 12). Best candidate: 'Strandvn 6' (0.64)
+INFO:   -> PROMOTING ORPHAN: d126bf19-3050-4584-b129-cfcc00d9b729
+WARNING: NO MATCH: 'Torget 6, 2000 Lillestrøm' (Norm: torget 6). Best candidate: 'Torget 10' (0.82)
+INFO:   -> PROMOTING ORPHAN: d2614545-e50f-4834-a12e-a76f470dfd3e
+WARNING: NO MATCH: 'Bjørlistubben 14, 1540 Vestby' (Norm: bjørlistubben 14). Best candidate: 'Bjørndalsvegen 178' (0.59)
+INFO:   -> PROMOTING ORPHAN: e6835592-bd51-48d4-b172-ce753cc5a96c
+WARNING: NO MATCH: 'Ramsrudveien 32, 3518 Hønefoss' (Norm: ramsrudvn 32). Best candidate: 'Askveien 132' (0.67)
+INFO:   -> PROMOTING ORPHAN: e6f3a657-2683-4ff6-afca-392ff52d52df
+WARNING: NO MATCH: 'Henrik Gerners gate 14, 1530 Moss' (Norm: henrik gerners gt 14). Best candidate: 'Abel Meyers gate 10' (0.59)
+INFO:   -> PROMOTING ORPHAN: eb839aa2-81ad-4369-98cd-4da17c380919
+WARNING: NO MATCH: 'Stenliveien 7, 1784 Halden' (Norm: stenlivn 7). Best candidate: 'Strandvn 6' (0.60)
+INFO:   -> PROMOTING ORPHAN: f6b8b4bf-1426-4917-9cda-2ef47611b68e
+WARNING: NO MATCH: 'Nymosvingen 6, 2609 Lillehammer' (Norm: nymosvingen 6). Best candidate: 'Nybøvegen 24' (0.56)
+INFO:   -> PROMOTING ORPHAN: f7b306b4-1617-479c-8c25-32cf566eaadc
+WARNING: NO MATCH: 'Dr. Thorshaugsveg 8, 2335 Stange' (Norm: dr. thorshaugsveg 8). Best candidate: 'Svanehaugvegen 3' (0.51)
+INFO:   -> PROMOTING ORPHAN: 09fb5c2b-c408-4817-ad2c-0d67ac963630
+WARNING: NO MATCH: 'Oscarsgate 20, 0301 Oslo' (Norm: oscarsgt 20). Best candidate: 'Markedsgt 20' (0.70)
+INFO:   -> PROMOTING ORPHAN: 69e731c0-8904-4aae-91ef-f0d88e2c8a3b
+INFO: MATCH: 'Kantarellveien 4, 1708 Sarpsborg' (Norm: kantarellvn 4) matches 'Kantarellveien 4' (Norm: kantarellvn 4) | Score: 1.00
+INFO: MATCH: 'Veslekila 1, 2260 Kirkenær' (Norm: veslekila 1) matches 'Veslekila 1' (Norm: veslekila 1) | Score: 1.00
+INFO: MATCH: 'Energivegen 13, 2260 Kirkenær' (Norm: energivegen 13) matches 'Energivegen 13' (Norm: energivegen 13) | Score: 1.00
+INFO: Dry run complete. No changes made.
+Traceback (most recent call last):
+  File "/Users/frank/BEFS3/KNOWME/backend/app/scripts/fix_financial_mapping.py", line 230, in <module>
+    asyncio.run(fix_financial_mapping(dry_run=not args.commit, promote_orphans=args.promote_orphans))
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/asyncio/base_events.py", line 642, in run_until_complete
+    return future.result()
+  File "/Users/frank/BEFS3/KNOWME/backend/app/scripts/fix_financial_mapping.py", line 221, in fix_financial_mapping
+    logger.info(f"Summary: Linked {changes_made} financial records.")
+NameError: name 'changes_made' is not defined

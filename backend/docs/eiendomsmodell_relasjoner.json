@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "beskrivelse": "Denne JSON-en viser sammenhengen og hierarkiet mellom eiendommer, avdelinger, enheter (units), kontrakter og leietakere (parties) basert på SQLAlchemy-datamodellen i app/domains/core/models/.",
+        "struktur_forklaring": {
+            "Eiendom": "Hovedentitet (properties-tabellen).",
+            "Avdeling": "Ligger også i properties-tabellen, er koblet til hovedeiendommen ved hjelp av 'parent_unit_id_erp' som peker på hovedeiendommens 'unit_id_erp'. Har 'unit_short_type' lik 'Avdeling'.",
+            "Enhet (Unit)": "Kobler en eiendom/avdeling (property_id) til en fysisk/logisk del av bygget.",
+            "Kontrakt": "Ligger i contracts-tabellen. Er koblet til en spesifikk Enhet (unit_id) og en Part (party_id).",
+            "Leietaker (Party)": "Den juridiske parten i kontrakten (leietaker/utleier)."
+        }
+    },
+    "eiendommer": [
+        {
+            "property_id": "550e8400-e29b-41d4-a716-446655440000",
+            "navn": "Hovedsaklig Barnevernsinstitusjon Oslo",
+            "unit_short_type": "Barnevernsinstitusjon",
+            "unit_id_erp": "ERP-1000",
+            "parent_unit_id_erp": null,
+            "avdelinger": [
+                {
+                    "property_id": "550e8400-e29b-41d4-a716-446655440001",
+                    "navn": "Avdeling Ungdom Nord",
+                    "unit_short_type": "Avdeling",
+                    "unit_id_erp": "ERP-1001",
+                    "parent_unit_id_erp": "ERP-1000",
+                    "enheter": [
+                        {
+                            "unit_id": "123e4567-e89b-12d3-a456-426614174000",
+                            "beskrivelse": "Hele 1. etasje Avdeling Nord",
+                            "kontrakter": [
+                                {
+                                    "contract_id": "999e4567-e89b-12d3-a456-426614174999",
+                                    "kategori": "Leiekontrakt",
+                                    "status": "active",
+                                    "leietaker": {
+                                        "party_id": "111e4567-e89b-12d3-a456-426614174111",
+                                        "navn": "Oslo Kommune (Leietaker)",
+                                        "orgnr": "987654321"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "property_id": "550e8400-e29b-41d4-a716-446655440002",
+                    "navn": "Avdeling Barn Sør",
+                    "unit_short_type": "Avdeling",
+                    "unit_id_erp": "ERP-1002",
+                    "parent_unit_id_erp": "ERP-1000",
+                    "enheter": []
+                }
+            ],
+            "enheter_knyttet_direkte_til_hovedeiendom": [
+                {
+                    "unit_id": "123e4567-e89b-12d3-a456-426614174001",
+                    "beskrivelse": "Felles kantine",
+                    "kontrakter": [
+                        {
+                            "contract_id": "888e4567-e89b-12d3-a456-426614174888",
+                            "kategori": "Serviceavtale",
+                            "status": "active",
+                            "leietaker_eller_tjenesteyter": {
+                                "party_id": "222e4567-e89b-12d3-a456-426614174222",
+                                "navn": "Catering AS",
+                                "orgnr": "123456789"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

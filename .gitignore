@@ -1,0 +1,144 @@
+# System
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+venv/
+.venv/
+env/
+ENV/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+!backend/.env.befslokal
+!frontend/.env.local.example
+!.env.local.example
+
+# Supabase CLI temp (inneholder pooler-URL fra sky)
+supabase/.temp/
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+.next/
+out/
+.vercel
+
+# Testing
+.coverage
+htmlcov/
+.pytest_cache/
+.pytest_dspy_cache/
+.tox/
+
+# Database
+*.db
+*.sqlite3
+
+# Backend specific
+backend/error.log
+backend/celerybeat-schedule
+backend/property_husleie_csv_backup_*.json
+
+# Genererte uttrekk (skript-output fra suggest_koststed_property_mapping.py)
+backend/data/unmapped_koststed_til_eiendom.json
+# Arbeidsliste fra audit_properties_full.py (regenereres mot DB)
+backend/data/property_contract_finance_gaps.csv
+
+# Frontend specific
+frontend/.next/
+frontend/out/
+frontend/build/
+frontend/coverage/
+
+# Logs
+*.log
+logs/
+
+# OS
+Thumbs.db
+
+# Misc
+tmp/
+Eiendom301025*
+*.zip
+.env*.local
+
+# .txt i prosjektrot (logger, eksport, midlertidige filer) – backend .txt forblir tracked
+/*.txt
+
+# Archive (old debug files, reports, configs)
+archive/
+
+# PDF testmappe: ekstrahert tekst og brukerens PDF-er (README og mappestruktur trackes)
+pdf_docs/extracted/
+pdf_docs/*.pdf
+
+# Sensitive Data
+*.csv
+
+# Temporary fix scripts
+check_hosts.sh
+fix_dns_hosts.sh
+fix_fly_permissions.sh
+fix_ssl_env.sh
+backend/DEPLOY_NOW.md
+
+
+# Claude Code internal files
+.claude/
+.cursor/mcp.json
+
+# Office temp locks
+~$*.xlsx
+~$*.xls
+
+# Midlertidige scrape/debug-HTML (backend)
+backend/tmp_*.html
+
+# Dokumentasjon – lokale filer, ikke del av deploy
+dokumentasjon/
+
+# Large binary exports (generated files, not source)
+backend/docs/*.xlsx
+backend/docs/*.docx
+finans/*.xlsx
+finans/*.docx
+backend/data/*.xlsx
+backend/data/*.docx
+*.docx

@@ -1,0 +1,111 @@
+name: Security Scan
+
+on:
+  push:
+    branches: [main, develop]
+  pull_request:
+    branches: [main]
+  schedule:
+    # Kjør hver mandag kl 09:00
+    - cron: '0 9 * * 1'
+
+jobs:
+  dependency-review:
+    name: Dependency Review
+    runs-on: ubuntu-latest
+    continue-on-error: true
+    if: github.event_name == 'pull_request'
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Dependency Review
+        continue-on-error: true
+        uses: actions/dependency-review-action@v4
+        with:
+          fail-on-severity: moderate
+          deny-licenses: GPL-3.0, AGPL-3.0
+
+  python-security:
+    name: Python Security Scan
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          cd backend
+          pip install safety bandit
+
+      - name: Run Safety (dependency vulnerability scanner)
+        run: |
+          cd backend
+          # Safety sjekker kjente sårbarheter i dependencies
+          safety check --json || true
+
+      - name: Run Bandit (code security scanner)
+        run: |
+          cd backend
+          # Bandit sjekker Python-kode for vanlige sikkerhetsproblemer
+          bandit -r app -f json -o bandit-report.json || true
+
+      - name: Upload Bandit results
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: bandit-results
+          path: backend/bandit-report.json
+
+  npm-audit:
+    name: NPM Security Audit
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: |
+          cd frontend
+          npm ci
+
+      - name: Run npm audit
+        run: |
+          cd frontend
+          npm audit --audit-level=moderate || true
+
+  secret-scan:
+    name: Secret Scanning
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Full history for better detection
+
+      - name: Check Gitleaks license
+        id: gitleaks_license
+        run: |
+          if [ -n "${{ secrets.GITLEAKS_LICENSE }}" ]; then
+            echo "enabled=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "enabled=false" >> "$GITHUB_OUTPUT"
+            echo "Gitleaks license not configured; skipping secret scan." 
+          fi
+
+      - name: Run Gitleaks
+        if: steps.gitleaks_license.outputs.enabled == 'true'
+        uses: gitleaks/gitleaks-action@v2
+        env:
+          GITLEAKS_LICENSE: ${{ secrets.GITLEAKS_LICENSE }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

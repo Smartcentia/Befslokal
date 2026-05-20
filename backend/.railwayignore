@@ -1,0 +1,11 @@
+.venv
+__pycache__
+*.pyc
+*.pyo
+.pytest_cache
+tests/.pytest_dspy_cache
+.env
+.env.local
+*.db
+app/scripts/archive
+comparison_report.csv

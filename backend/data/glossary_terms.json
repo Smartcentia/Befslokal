@@ -1,0 +1,458 @@
+[
+    {
+        "term": "administrative metadata",
+        "definition": "Administrative metadata er informasjon som kan brukes til å administrere en (digital) ressurs. Eksempler på administrative metadata er informasjon om når og hvordan ressursen ble opprettet, hvilken filtype det er, og hvem som har tilgang til den. Administrative metadata kan også inneholde informasjon om immaterielle rettigheter og informasjon som trengs for å arkivere og bevare en ressurs (‘bevaringsmetadata’)."
+    },
+    {
+        "term": "anonyme data",
+        "definition": "Data som det ikke er mulig, ved hjelp av alle rimelige tekniske hjelpemidler, å knytte tilbake til en enkeltperson."
+    },
+    {
+        "term": "anonymisering",
+        "definition": "Behandlingen der man gjør identifiserbare data til anonyme data. Denne behandlingen regnes som en behandling av personopplysninger."
+    },
+    {
+        "term": "arkivering",
+        "definition": "Arkivering: her forstått som alle de aktiviteter som er nødvendige for at digitale objekter (forskningsdata) kan forstås, bevares og gjøres tilgjengelig. Disse aktivitetene kan også benevnes som (data)kuratering."
+    },
+    {
+        "term": "avidentifisert personopplysning",
+        "definition": "Personopplysning der navn, personnummer eller andre personentydige kjennetegn er fjernet."
+    },
+    {
+        "term": "begrenset tilgang",
+        "definition": "Betyr at data har en viss beskyttelse, og at tilgang kontrolleres med tilgangsrettigheter."
+    },
+    {
+        "term": "behandling av personopplysninger",
+        "definition": "All bruk av personopplysninger, slik som innsamling, registrering, sammenstilling, lagring og utlevering, eller en kombinasjon av slike bruksmåter."
+    },
+    {
+        "term": "behandlingsansvarlig",
+        "definition": "Den som bestemmer formålet med behandlingen av personopplysninger og hvilke hjelpemidler som skal brukes. Dette er vanligvis en virksomhet."
+    },
+    {
+        "term": "behandlingsgrunnlag",
+        "definition": "Rettslig grunnlag for å behandle personopplysninger. Dette kan for eksempel være samtykke."
+    },
+    {
+        "term": "bidragsyter",
+        "definition": "En bidragsyter er en person som bidrar med noe. Som en del av et forskningsprosjekt kan det å definere bidragsytere være en måte å beskrive og klassifisere de ulike rollene folk har i arbeidet som fører til et publisert forskningsresultat."
+    },
+    {
+        "term": "bruksvilkår",
+        "definition": "Betingelser, forutsetninger for bruk (av data, program, nettsider, etc.)."
+    },
+    {
+        "term": "dataarkiv",
+        "definition": "En arkivtjeneste som sørger for langtidsbevaring og tilgjengeliggjøring (enten åpent eller med begrenset tilgang) av digitale objekter med forskningsverdi."
+    },
+    {
+        "term": "database",
+        "definition": "En samling data som er lagt til rette for et bestemt formål eller dataprogram. Datasamlingen er organisert og strukturert etter en bestemt strategi eller modell – en databasemodell. Dataene brukes og vedlikeholdes gjennom et bestemt programsystem som kalles et databasesystem eller databasehåndteringssystem."
+    },
+    {
+        "term": "databehandler",
+        "definition": "Den som behandler personopplysninger på oppdrag fra den behandlingsansvarlige. Dette er vanligvis en virksomhet."
+    },
+    {
+        "term": "databehandleravtale",
+        "definition": "En avtale mellom databehandler og behandlingsansvarlig om hvordan personopplysninger skal behandles."
+    },
+    {
+        "term": "databehandling",
+        "definition": "Databehandling, bearbeiding av informasjon, i snevrere betydning en systematisk serie operasjoner/prosedyrer som utføres på et sett av data, når som helst i datalivssyklusen."
+    },
+    {
+        "term": "datafangst",
+        "definition": "Datafangst er registrering av data for digital lagring og behandling. Datafangst spenner fra manuell inntasting av skriftlige, som regel skjemabaserte data, til automatisk datalogging i sanntid ved hjelp av overvåkings- og styringssystemer. I dag er det mulig med massiv innsamling av data ved bruk av sensorer og IoT enheter. Eksempler på slik datafangst kan være innsamling av store mengder video fra overvåkningskamera, GPS-informasjon (lokasjon) til smarttelefoner, eller sensorer som registrerer temperatur og andre værforhold."
+    },
+    {
+        "term": "dataforvalter",
+        "definition": "En dataforvalter er en ekspert på håndtering av data. En dataforvalter bistår forskere eller andre som håndterer data med å sikre god datahåndtering gjennom alle fasene av datalivssyklusen. Dette inkluderer for eksempel datainnsamling, prosessering, lagring, arkivering, sikkerhet, kvalitet, metadatavedlikehold, formidling og deling av data, samt andre aktiviteter som bidrar til å gjøre data FAIR."
+    },
+    {
+        "term": "dataforvaltning",
+        "definition": "Dataforvaltning handler om å sikre god datahåndtering gjennom alle fasene av datalivssyklusen. Dette inkluderer for eksempel datainnsamling, prosessering, lagring, arkivering, sikkerhet, kvalitet, metadatavedlikehold, formidling og deling av data, samt andre aktiviteter som bidrar til å gjøre data FAIR. Se også 'Dataforvalter'."
+    },
+    {
+        "term": "datahåndtering",
+        "definition": "Datahåndtering, i denne sammenheng forstått som håndtering av forskningsdata, er aktiv planlegging, organisering og vedlikehold av data gjennom hele forskningsprosessen. Det er en aktivitet som pågår gjennom hele datalivssyklusen, fra planlegging, datainnsamling/generering, prosessering, analyse, lagring, deling, arkivering og gjen- og viderebruk."
+    },
+    {
+        "term": "datahåndteringsplan",
+        "definition": "En datahåndteringsplan (ofte kalt DMP, Data Management Plan) er et dokument som beskriver hvordan data skal håndteres både underveis i et forskningsprosjekt og etter at prosjektet er avsluttet. Målet med en datahåndteringsplan er å vurdere og ta stilling til de ulike aspektene ved håndtering av forskningsdata slik at data blir hensiktsmessig og lovmessig håndtert underveis i prosjektet og slik at data blir tilrettelagt for deling og/eller arkivering av data etter prosjektslutt."
+    },
+    {
+        "term": "datainnsamler",
+        "definition": "Den (personen) som samler inn data."
+    },
+    {
+        "term": "datakatalog",
+        "definition": "Datakatalog er en kuratert samling av metadata om en eller flere dataressurser."
+    },
+    {
+        "term": "datakuratering",
+        "definition": "Innordne (tilfang) i vitenskapelige eller andre faglige system. Det er ofte en oppgave man gjør i for eksempel et dataarkiv. Kuratering handler i så måte om kvalitetssikring, dokumentering, standardisering og formatering av data. Det innebærer ofte også å legge på metadata, lage og ha kontroll over ulike versjoner av data, aggregering eller omkoding av data, og danne nye datasamlinger med utgangspunkt i ulike datakilder. Datakuraering handler også om å sikre datakvalitet og sørge for at databehandling og -prosessering skjer i overensstemmelse med lover, regler og retningslinjer. Se også 'Datakurator.'"
+    },
+    {
+        "term": "datakurator",
+        "definition": "En datakurator har det overordnede styrings- og tilsynsansvar for databeholdningen til en organisasjon, institusjon eller et prosjekt. Rollen innebærer ansvar for sikre å datakvalitet og sørge for at databehandling og -prosessering skjer i overensstemmelse med lover, regler og retningslinjer. I tillegg skal en datakurator sørge for sikker, langsiktig bevaring av data, og sørge for at data er kontinuerlig tilgjengelig for relevante brukere på en konsistent måte."
+    },
+    {
+        "term": "datakvalitet",
+        "definition": "Datakvalitet handler om at dataenes evne eller egnethet til å tjene/støtte de informasjonsformål de brukes til. Dette innebærer at de må tilfredsstille krav til korrekthet (accuracy), fullstendighet (completeness), aktualitet (timeliness) og konsistens (consistency)."
+    },
+    {
+        "term": "datalivssyklus",
+        "definition": "Refererer til alle de ulike stadier som digital informasjon og digitale objekter kan inngå i, fra data genereres/samles inn til de arkiveres (eller eventuelt destrueres). Ulike fagfelt vektlegger ulike stadier i en datalivssyklus, men de vanligste stadiene er planlegge, samle inn/generere, lagre, beskrive/dokumentere, analysere, publisere, arkivere, dele, og gjenbruke. Ved å anrette et livssyklusperspektiv på forskningsdata legger man til rette for aktiv styring av dataobjektene over tid, og man står dermed bedre rustet til å gjøre data forståelig, tilgjengelig og gjenbrukbare over tid."
+    },
+    {
+        "term": "dataproduksjon",
+        "definition": "Omfatter alle aktiviteter knyttet til planlegging, innsamling, prosessering, analyse og vedlikehold av data. Blant disse aktivitetene er for eksempel datainnsamling/datagenerering; kvalitetssikring, redigering, verifisering/validering av data; dataanalyser; dataversjonering og sikkerhetskopiering; og lage og legge på metadata."
+    },
+    {
+        "term": "dataprodusent",
+        "definition": "Person eller organisasjon som innehar det administrative og finansielle ansvaret for dataene."
+    },
+    {
+        "term": "datasenter",
+        "definition": "Et anlegg bestående av servere og andre komponenter som brukes til å organisere, behandle, lagre og spre store mengder data."
+    },
+    {
+        "term": "datasett",
+        "definition": "Et datasett er en organisert samling med data, for eksempel i form av en tabell, liste eller en database som kan gjøres tilgjengelig som en nedlastbar fil, og/eller nåes via et Web-API."
+    },
+    {
+        "term": "datasikkerhet",
+        "definition": "Datasikkerhet er en samlebetegnelse for metoder, tjenester og verktøy som sikrer at digital informasjon og digitale systemer ikke uten eiernes ønske eller forutgående handling, blir utilgjengelig, går tapt, blir lest eller endret."
+    },
+    {
+        "term": "datasitering",
+        "definition": "Datasitering handler om å referere til dataprodukter som brukes i forskning. En datasitering skal inneholde all nøkkelinformasjon om opphavet til dataene, som for eksempel tittel, kilde og ansvarlige parter. Som i annet akademisk arbeid (vitenskapelig artikkel, bok, oppgave) skal det henvises til kilden når andres data brukes i forskning, både for å kreditere opphavsperson og for å gi andre mulighet til selv å oppsøke kildene."
+    },
+    {
+        "term": "datatilgjengelighet",
+        "definition": "Datatilgjengelighet refererer vanligvis til (informasjon om) hvor tilgjengelige data er når de lagres eller arkiveres i en eller annen form. Informasjon om datatilgjengelighet definerer i hvilken grad data lett kan brukes sammen med nødvendige IT- og styringsprosedyrer, verktøy og teknologier som kreves for å aktivere, administrere og fortsette å gjøre data tilgjengelig."
+    },
+    {
+        "term": "datatype",
+        "definition": "Bestemt slag, kategori, utgave, variant av data - en egenskap til dataen som spesifiserer hvordan dataen skal bli brukt. F.eks. tall, tekst, bilde, lyd, video."
+    },
+    {
+        "term": "deling",
+        "definition": "Det å gjøre data tilgjengelige for bruk og gjenbruk. Dette kan for eksempel gjøres ved å lagre data på lagringstjenester der data kan deles med samarbeidspartnere underveis i et prosjekt, og/eller ved å deponere og publisere data i et arkiv for forskningsdata. Et viktig aspekt av datadeling handler om i hvilken grad publiserte data kan bli funnet, vurdert, forstås og gjenbrukes av andre enn den/de som opprinnelig samlet inn eller genererte dataene."
+    },
+    {
+        "term": "den registrerte",
+        "definition": "Enkeltpersonen som de lagrede opplysningene kan knyttes til."
+    },
+    {
+        "term": "deponent",
+        "definition": "Den som utfører og/eller er ansvarlig for deponeringen."
+    },
+    {
+        "term": "deponere",
+        "definition": "På overordnet nivå, det å plassere noe til midlertidig oppbevaring (forvaring) hos en annen. I denne sammenheng forstått som det å avlevere/laste opp en digital kopi av forskningsdata til et dataarkiv, sammen med metadata som ideelt sett støtter FAIR-prinsippene. Deponeringen utføres gjerne av dataeier eller av den som har fått ansvaret for å deponere data."
+    },
+    {
+        "term": "deskriptive metadata",
+        "definition": "Deskriptive metadata er den delen av metadata som inneholder identifiserende egenskaper som tittel, sammendrag, nøkkelord, metode, o.l. Noen av disse opplysningene gjøres søkbare for gjenfinning. I deskriptive data inngår også opplysninger om hvor en kan finne ressursen/det digitale objektet."
+    },
+    {
+        "term": "digital identifikator",
+        "definition": "En (unik) identifikator for et digitalt eller fysisk objekt som identifiserer objektet på dets navn, lokasjon eller begge deler."
+    },
+    {
+        "term": "digital objektidentifikator",
+        "definition": "En digital objektidentifikator er en persistent identifikator som brukes til å identifisere digitale objekter."
+    },
+    {
+        "term": "distribuere",
+        "definition": "Det å gjøre tilgjengelig."
+    },
+    {
+        "term": "DPIA",
+        "definition": "Forkortelse for Data Protection Impact Assessment, en vurdering av personvernkonsekvenser. En prosess som skal bidra til å håndtere de risikoene behandlingen medfører for enkeltpersoners rettigheter og friheter ved å vurdere dem og fastlegge risikoreduserende tiltak."
+    },
+    {
+        "term": "embargo",
+        "definition": "Tilgangsbegrensning til datafiler under en periode etter at et datasett er publisert, f.eks. fram til artikkelen eller boka som dataene danner grunnlag for er publisert."
+    },
+    {
+        "term": "etterprøvbar forskning",
+        "definition": "For at kunnskap skal regnes som vitenskap, er det et krav at den er etterprøvbar. Det vil si at fagfeller skal ha muligheter for å tilbakevise tidligere forskningsfunn på grunnlag av observasjoner, resonnement eller eksperimenter."
+    },
+    {
+        "term": "fagspesifikk",
+        "definition": "Som er spesifikk for et fagområde."
+    },
+    {
+        "term": "FAIR",
+        "definition": "FAIR data er data som kan gjenfinnes (Findable), er tilgjengelige (Accessible), er interoperable (Interoperable) og kan gjenbrukes (Reusable)."
+    },
+    {
+        "term": "FAIR - gjenbrukbar",
+        "definition": "Det overordnete målet med FAIR er å optimalisere gjenbruken av data. For å oppnå dette bør metadata og data være godt beskrevet slik at de kan etterprøves og/eller kombineres i ulike sammenhenger."
+    },
+    {
+        "term": "FAIR - gjenfinnbar",
+        "definition": "Før man kan gjenbruke data, må man oppdage dem. Det skal være enkelt for både mennesker og datamaskiner å finne metadata og data. Maskinlesbare metadata er avgjørende for automatisert oppdagelse av datasett og tjenester, og er derfor en viktig komponent i FAIRifiseringsprosessen."
+    },
+    {
+        "term": "FAIR - interoperabel",
+        "definition": "Ofte skal dataene kunne kombineres med andre data på en fornuftig måte. I tillegg må det være mulig å handtere dataene i applikasjoner eller arbeidsflyter for analyse, lagring og behandling."
+    },
+    {
+        "term": "FAIR - tilgjengelig",
+        "definition": "Når brukeren har funnet et datasett, blir neste skrittet å få vite hvordan man kan få tilgang til det, f.eks. gjennom nødvendig autentisering og tillatelse."
+    },
+    {
+        "term": "FAIR økosystem for forskningsdata",
+        "definition": "En modell som består av alle de komponenter og entiteter som er nødvendig for å danne et system der FAIR data kan skapes, forvaltes og gjenbrukes på en effektiv og bærekraftig måte. I et slikt system er forskningsdataene understøttet og ledsaget av følgende essensielle komponenter: policyer og retningslinjer; datahåndteringsplaner; identifikatorer (PIDs); standarder; og dataarkiver og andre relevante tjenesteleverandører."
+    },
+    {
+        "term": "filformat",
+        "definition": "Filformat er en formalisert beskrivelse av hvordan informasjon av en viss type skal lagres i en fil. Dette formatet vil variere med innholdstype, system og applikasjon. Enkelte filformater er direkte knyttet til en bestemt applikasjon, mens andre filformater er standardiserte og fungerer på tvers av applikasjoner og systemer."
+    },
+    {
+        "term": "forordning",
+        "definition": "En forordning er en lov. En forordning i EU er en betegnelse på en lov som i sin helhet får bindende virkning i alle medlemsstatene."
+    },
+    {
+        "term": "forskning",
+        "definition": "Forskning er å undersøke noe ved hjelp av vitenskapelig metode for å frembringe ny kunnskap."
+    },
+    {
+        "term": "forskningsdata",
+        "definition": "Forskningsdata er alle registeringer/nedtegnelser/rapporteringer i form av tall, tekster, bilder og lyder som genereres eller oppstår underveis i forskningsprosjekter. Dette kan for eksempel være data som er generert gjennom ny analyse, sammenstilling av eksisterende data, eller helt nye data generert gjennom ny datainnsamling. Forskningsdata er alltid et direkte resultat av forskningen, uavhengig av om dataene baserer seg på eksisterende data eller om de er samlet inn på nytt."
+    },
+    {
+        "term": "forskningsinfrastruktur",
+        "definition": "Forskningsinfrastrukturer - i noen tilfeller omtalt som e-infrastrukturer – er organisasjoner som tilbyr ressurser og tjenester som forskningsmiljøene kan benytte seg av. Dette kan for eksempel være kommunikasjonsnettverk, data(behandlings)systemer, utstyr og instrumenter, arkiver, lagringsløsninger, dataprosesseringsplattformer og andre tilhørende støttetjenester."
+    },
+    {
+        "term": "forvaltningsdata / administrative data",
+        "definition": "Administrative data er data som er hentet fra en administrativ kilde. Administrative data refererer til informasjon som først og fremst er samlet inn for administrative formål (altså ikke forskningsformål). Denne typen data samles inn av offentlige myndigheter (og andre organisasjoner) for registrering, transaksjoner og journalføring, ofte i forbindelse med levering av en tjeneste. Eksempler: helseregister, skatteregister, fødselsregister, o.l."
+    },
+    {
+        "term": "GDPR",
+        "definition": "Forkortelse for The General Data Protection Regulation, EUs forordning (regelverk) for personvern. Også kalt personvernforordningen."
+    },
+    {
+        "term": "gjenbruk, viderebruk",
+        "definition": "Bruk av (data) til formål annet enn det formål de ble samlet inn til."
+    },
+    {
+        "term": "helseopplysning",
+        "definition": "Personopplysning om helseforhold."
+    },
+    {
+        "term": "immaterialrett",
+        "definition": "Rettsområde som befatter seg med rettigheter av ikke-materiell art. Innenfor immaterialretten faller rettigheter av svært ulik grad, alt fra opphavsrett og patenter til foretaksnavn, varemerker og design."
+    },
+    {
+        "term": "informasjonssikkerhet",
+        "definition": "Informasjonssikkerhet er en utvidelse av fagområdet datasikkerhet, som tar for seg både digital og analog informasjon. Informasjonssikkerhet fokuserer på organisasjoners overordnede prosesser og rutiner rundt sikring av informasjon og tjenester, mer enn metodene og verktøyene. Informasjonssikkerhet fokuserer på prinsippene om konfidensialitet, integritet og tilgjengelighet."
+    },
+    {
+        "term": "integritet",
+        "definition": "Integritet er en sikkerhetstjeneste som skal sørge for at informasjon i IT-systemer alltid forblir korrekt med hensyn til hvordan den ble lagret eller sendt. For eksempel at en datafil ikke er blitt ødelagt/endret ved overføring, en e-post ikke er endret av noen andre mellom avsender og mottaker, eller at personer uten tillatelse kan endre en fil. Integritet oppnås med sikkerhetsmekanismer slik som kryptering, signering og autentikatorer. Noen mekanismer vil kun rapportere at noe er endret, andre kan også tilbakestille endringene. Innen personvern er integritet et prinsipp om at personopplysninger skal være sikret mot utilsiktet eller uautorisert endring eller sletting."
+    },
+    {
+        "term": "internkontroll",
+        "definition": "Planlagt og systematisk styringssystem som virksomheter etablerer for å oppdage brudd på gjeldende regler."
+    },
+    {
+        "term": "interoperabilitet",
+        "definition": "Det at data eller enheter er kompatible med hverandre og kan kombineres på en meningsfull måte."
+    },
+    {
+        "term": "kildedata",
+        "definition": "Kildedata, også kalt sekundærdata, er informasjon som er innhentet til andre formål enn forskning, for eksempel data fra offentlig forvaltning, helsevesenet, privat virksomhet eller data i form av fysiske samlinger, litterære tekster eller annen kunstnerisk produksjon. Det kan også være snakk om data fra tidligere gjennomført forskningsaktivitet."
+    },
+    {
+        "term": "konfidensialitet",
+        "definition": "Konfidensialitet består i at informasjon begrenses til dem som er autorisert til å ha tilgang til den. Det er ikke bare spørsmålet om begrenset tilgang som er viktig for konfidensialitet. Av betydning er også forskerens forsikring om konfidensialitet til den det forskes på. Konfidensialitet skjerpes normalt med graden av informasjonens sensitivitet, samt med graden av utsatthet den det forskes på lever under."
+    },
+    {
+        "term": "kontrollert vokabular",
+        "definition": "Kontrollerte vokabular er en måte å organisere kunnskap på, i ordlister der ordenes form, betydning og tilføyelser av nye ord er gjenstand for normativ kontroll. Kontrollerte vokabularer brukes i emneindekseringssystemer, emneklassifiseringer, ordsamlinger (tesauruser), taksonomier og andre kunnskapsorganisasjonssystemer."
+    },
+    {
+        "term": "kvalitative data",
+        "definition": "Data som vanligvis foreligger i form av tekst (eller lyd, bilde, video), i motsetning til kvantitative data, som uttrykkes i form av tall eller andre mengdetermer. Metoder for innsamling av kvalitative data kan være deltakende observasjon, etnografi, ustrukturerte intervjuer, fokusgrupper eller kvalitativ innholdsanalyse."
+    },
+    {
+        "term": "langtidsbevaring",
+        "definition": "Tjenester og tiltak som gjør at data er tilgjengelige og kan gjenbrukes på lang sikt, gjerne på ubestemt tid. Langtidsbevaring innebærer å ta hensyn til endringer og skiftende teknologier, nye (oppbevarings)medier og nye formater, og å holde data og tilhørende informasjon tilgjengelig og forståelig for relevante brukergrupper uavhengig av disse endringene."
+    },
+    {
+        "term": "lisens",
+        "definition": "(Standardiserte) bruksvilkår for data. En lisens betyr tillatelse. Lisensen som knyttes til dataene, er en avtale mellom den som har gjort dataene tilgjengelige, og den som gjør bruk av dataene. Lisensen regulerer eventuelle vilkår for bruken av dataene, som at de kun skal brukes til forskning, eller at den som har produsert datasettet, skal navngis."
+    },
+    {
+        "term": "maskinhåndterbar",
+        "definition": "Refererer til informasjon som er strukturert på en konsistent måte slik at (data)maskiner kan anvende og/eller programmeres mot den strukturerte informasjonen."
+    },
+    {
+        "term": "maskinlesbar",
+        "definition": "I en form som kan leses og forstås av datamaskiner."
+    },
+    {
+        "term": "menneskelesbar",
+        "definition": "Som kan leses/handteres av mennesker."
+    },
+    {
+        "term": "metadata",
+        "definition": "Metadata er data om data, eller informasjon som beskriver annen informasjon. Det er strukturert informasjon som lokaliserer, beskriver, forklarer, eller på andre måter gjør det enklere å hente, (gjen)bruke eller forvalte en informasjonsressurs / et digitalt objekt"
+    },
+    {
+        "term": "metadata for bevaring",
+        "definition": "Metadata som gir tilstrekkelig med informasjon om digitale objekter til at de kan bevares i et langtidsperspektiv."
+    },
+    {
+        "term": "metadatastandard",
+        "definition": "En metadatastandard er en måte å standardisere et sett med metadata på. Metadatastandarder utvikles gjerne som ofte som skjemaer utviklet av og for et bestemt forskermiljø eller andre brukerfellesskap for best mulig å beskrive data/ressurstyper som er relevante for deres behov. Utviklingen av slike skjemaer skjer gjerne gjennom fellesskapskonsensus kombinert med formelle prosesser for innsending, godkjenning/revidering og publisering av nye metadataelementer."
+    },
+    {
+        "term": "nøkkelord",
+        "definition": "Ord som karakteriserer dataene."
+    },
+    {
+        "term": "opphavsrett",
+        "definition": "Opphavsrett er den rett som blir gitt til den som skaper et åndsverk. Eksempler på åndsverk kan være bøker, filmer, musikk, fotografier eller dataprogrammer. For at noe skal regnes som åndsverk må det være resultat av en original, skapende innsats. Opphaveren får enerett til å fremstille eksemplarer av verket og til å gjøre det tilgjengelig. Opphavsretten gir vern for kunstneriske og litterære verk som er «uttrykk for original og skapende åndsinnsats», jf. åndsverkloven § 2 annet ledd, og gir enerett til å framstille eksemplarer av verket og gjøre det tilgjengelig for allmennheten. Dette omfatter blant annet faglitterære tekster og muntlige foredrag, jf. åndsverkloven § 2 annet ledd bokstav a og b. Slike tekster eller foredrag kan inneholde forskningsdata."
+    },
+    {
+        "term": "pålitelig digitalt arkiv",
+        "definition": "En infrastrukturkomponent som forvalter og gir pålitelig og langsiktig tilgang til digitale ressurser. Den lagrer, administrerer og kuraterer digitale objekter (og returnerer bitstrømmene deres når en forespørsel sendes). For å få benevnelsen pålitelig digitalt arkiv må arkivet gjennomgå regelmessige evalueringer i henhold til et sett med regler som er definert av Core Trust Seal (CTS) eller TRAC (ISO 16363)."
+    },
+    {
+        "term": "persistent identifikator",
+        "definition": "En persistent identifikator (PID) er en langvarig referanse til en digital ressurs. Ressursen kan for eksempel være en publikasjon, et datasett, en institusjon eller en person. Hovedformålet med en PID er å tilkjennegi informasjonen som kreves for å kunne identifisere, verifisere og lokalisere den på en pålitelig måte. En PID kan være koblet til et sett med metadata som beskriver et element i stedet for til selve elementet."
+    },
+    {
+        "term": "personopplysning",
+        "definition": "Opplysning eller vurdering som kan knyttes til en enkeltperson. Dette kan være navn, adresse, telefonnummer, e-postadresse, bilnummer, bilder eller fødselsnummer."
+    },
+    {
+        "term": "personvern",
+        "definition": "Personvern handler om retten til et privatliv og retten til å bestemme over egne personopplysninger."
+    },
+    {
+        "term": "personvernombud",
+        "definition": "En person som er utpekt av en behandlingsansvarlig. Personen har som oppgave å bidra til at den behandlingsansvarlige følger personopplysningsloven med forskrift."
+    },
+    {
+        "term": "primærdata",
+        "definition": "Nye data, eller primærdata, er data som er samlet inn av forskeren eller prosjektet som utfører undersøkelsen. Kan også betegnes som resultatdata."
+    },
+    {
+        "term": "prosjekt",
+        "definition": "Her forstått som en finansiert forskningsaktivitet med definerte start- og sluttdatoer."
+    },
+    {
+        "term": "prosjektleder",
+        "definition": "Prosjektlederen har ansvar og myndighet til å lede prosjektet og levere de nødvendige produktene innenfor de rammer og begrensninger som er definert av prosjekteier."
+    },
+    {
+        "term": "proveniens",
+        "definition": "Proveniens er informasjon eller metadata om opprinnelsen, lokasjonen, eller kilden til et objekt eller en ressurs, inkludert digitale objekter. Proveniens kan også handle om historien til eierskapet til objektet/ressursen. Eksempler: informasjon om dataprodusent eller dataeier, eller informasjon om lagring, håndtering og migrering."
+    },
+    {
+        "term": "pseudonymisering",
+        "definition": "Å avidentifisere personopplysninger slik at de ikke kan knyttes til en bestemt person uten bruk av tilleggsopplysninger (for eksempel en koblingsnøkkel) som lagres adskilt og tilstrekkelig sikkert. Pseudonymiserte personopplysninger er ikke anonyme."
+    },
+    {
+        "term": "publisere",
+        "definition": "I overordnet forstand betyr det å offentliggjøre, å kunngjøre eller å utgi. I vitenskapelig/akademisk forstand betyr det å utgi en vitenskapelig artikkel eller å tilgjengeliggjøre forskningsdata i et arkiv eller lignende."
+    },
+    {
+        "term": "rådata",
+        "definition": "Data som ikke er behandlet eller prosessert. Rådata krever gjerne ulik grad av seleksjon, organisering, analysering eller formattering før de er klar for videre bruk."
+    },
+    {
+        "term": "rettighetshaver",
+        "definition": "En rettighetshaver er en juridisk enhet eller en person som har krav på rettighetene til noe. I forskningssammenheng kan det dreie seg om rettigheter til forskningsdata eller annet resultat av forskning. En rettighetshaver kan lisensiere hele eller deler av materialet som er beskyttet, gjennom internasjonale lov- og lisensieringsbestemmelser."
+    },
+    {
+        "term": "særlige kategorier (av personopplysninger)",
+        "definition": "Også kalt sensitive personopplysninger. Dette er opplysninger som krever ekstra vern, slik som opplysninger om rasemessig eller etnisk opprinnelse, religion, helseopplysninger, seksuell orientering med mer."
+    },
+    {
+        "term": "samtykke",
+        "definition": "En frivillig, spesifikk, informert, utvetydig og aktiv erklæring fra den registrerte om at han eller hun godtar behandling av opplysninger om seg selv."
+    },
+    {
+        "term": "sensitive personopplysninger",
+        "definition": "I loven kalt særlige kategorier av personopplysninger. Dette er opplysninger som krever ekstra vern, slik som opplysninger om rasemessig eller etnisk opprinnelse, religion, helseopplysninger, seksuell orientering med mer."
+    },
+    {
+        "term": "skytjenester",
+        "definition": "Skytjenester (cloud computing) er en samlebetegnelse på alt fra dataprosessering og datalagring til programvare på servere som er tilgjengelig fra eksterne serverparker tilknyttet internett."
+    },
+    {
+        "term": "standardisering",
+        "definition": "Innen vitenskap, teknologi og økonomi gir standardisering løsninger for gjentatt anvendelse på problemer, og tar sikte på å oppnå høyest mulig grad av orden i en bestemt sammenheng."
+    },
+    {
+        "term": "stordata",
+        "definition": "Store mengder digitale data, strukturerte og ustrukturerte, som blir analysert for å identifisere trender og sammenhenger."
+    },
+    {
+        "term": "støttedata",
+        "definition": "All bakenforliggende data knyttet til et produkt (eksempel i farma: data på farmakologiske egenskaper, kliniske tester, og kjemiske analyser som må med for å søke godkjenning av en medisin)."
+    },
+    {
+        "term": "tekniske metadata",
+        "definition": "Ansees gjerne å være en underkategori av administrative metadata. Tekniske metadata er informasjon om de tekniske prosessene som brukes, har blitt brukt, eller som kreves for å anvende et digitalt objekt."
+    },
+    {
+        "term": "tilgang",
+        "definition": "Tilgang, her forstått som tilgang til et digitalt objekt. For at et digitalt objekt skal være tilgjengelig over tid må det beholde alle egenskaper som gjør at det kan gjenbrukes (åpnes, hentes, lastes, leses og forstås) over tid. Tilgang handler i den forstand også om tilrettelegging og om alle de grep som må gjøres for å opprettholde kvalitet, autentisitet og funksjonalitet for det digitale objektet slik at det er tilgjengelig for viderebruk."
+    },
+    {
+        "term": "tilgangskontroll",
+        "definition": "Regler for å styre hvem som skal ha tilgang til hvilke opplysninger eller systemer. Synonym: tilgangsstyring."
+    },
+    {
+        "term": "tilgjengelighet",
+        "definition": "At informasjon er tilgjengelig når den trengs. Innenfor personvern handler det om at personopplysninger skal være tilgjengelig for det formålet de er tiltenkt."
+    },
+    {
+        "term": "tillit",
+        "definition": "Tro på, forvissning om at noen er til å stole på eller har de egenskapene som kreves for å mestre en bestemt situasjon, utføre en bestemt oppgave [naob]. I denne sammenheng handler det om hvor stor pålitelighet man kan ha til den eller de som tilbyr eller utfører en (forskningsdata)tjeneste. For forskningsdataarkiver finnes det for eksempel ulike måter å ‘sertifisere’ pålitelighet (trust). Se pålitelige arkiv."
+    },
+    {
+        "term": "tilsyn",
+        "definition": "Betyr å passe på. Tilsyn er en felles betegnelse på instanser innenfor offentlig forvaltning som ser etter at lov- og regelverk blir overholdt. Datatilsynet gjennomfører tilsyn for å se om den etterlever personvernreglene."
+    },
+    {
+        "term": "versjonskontroll",
+        "definition": "Kontroll over tid av data, datakode, programvare og dokumenter som gjør det mulig å gå tilbake til en tidligere versjon. Detter er avgjørende for å kunne spore endringer i data og for å kunne rette opp i feil. Versjonskontrollering innebærer å generere en (endret) kopi av et dataobjekt. Det nyopprettede dataobjektet er unikt og blir merket med et eget versjonsnummer. Oppretting av nye versjoner er forskjellig fra det å opprette en sikkerhetskopi, som vanligvis er en kopi/duplikat laget på et bestemt tidspunkt."
+    },
+    {
+        "term": "vitenskap",
+        "definition": "Vitenskap er en metodisk innsamling, ordning og etterprøving av kunnskaper etter allment godkjente regler og krav (om intersubjektivitet, klarhet osv.). Det kan også være fagområde som er emne for vitenskap."
+    },
+    {
+        "term": "vurdere personvern-konsekvenser",
+        "definition": "En prosess som skal bidra til å håndtere de risikoene behandlingen medfører for enkeltpersoners rettigheter og friheter ved å vurdere dem og fastlegge risikoreduserende tiltak. Også kalt DPIA."
+    },
+    {
+        "term": "åpen forskning",
+        "definition": "Åpen forskning eller open science er et fellesbegrep som betegner åpne forskningsprosesser, åpen tilgang til publikasjoner og data, samt brukermedvirkning i forskning."
+    },
+    {
+        "term": "åpen tilgang",
+        "definition": "Åpen tilgang eller open access, OA, brukes vanligvis om åpen tilgang til forskningspublikasjoner."
+    },
+    {
+        "term": "åpen vitenskap",
+        "definition": "Åpen vitenskap (Open Science) handler i sin enkleste form om gratis og fri (uten restriksjoner) tilgang til resultater fra offentlig finansiert forskning, men begrepet brukes også om mer omfattende endringer av det vitenskapelige systemet. Åpen vitenskap omfatter en hel rekke tendenser og retninger som i stor grad er muliggjort av nye digitale teknologier for deling av informasjon."
+    },
+    {
+        "term": "åpne data",
+        "definition": "Åpne data er digitale data som er gjort tilgjengelige med de tekniske og juridiske egenskaper som er nødvendige for at de skal kunne brukes fritt, og bli distribuert av hvem som helst, når som helst og hvor som helst."
+    }
+]

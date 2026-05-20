@@ -1,0 +1,775 @@
+<!DOCTYPE html>
+<html lang="no">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>BEFS Design Token Synkronisator</title>
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+body{
+  background:#0d1117;color:#e6edf3;
+  font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;
+  font-size:13px;height:100vh;display:flex;flex-direction:column;overflow:hidden;
+}
+
+/* ── HEADER ─────────────────────────────────────────────── */
+#header{
+  background:#161b22;border-bottom:1px solid #30363d;
+  padding:9px 16px;display:flex;align-items:center;gap:10px;flex-shrink:0;
+}
+#header h1{font-size:13px;font-weight:600}
+.hbadge{
+  font-size:10px;font-weight:600;padding:2px 7px;border-radius:3px;
+  background:rgba(88,166,255,.12);color:#58a6ff;border:1px solid rgba(88,166,255,.3);
+}
+.spacer{flex:1}
+.preset-chips{display:flex;gap:5px}
+.preset-chip{
+  background:#21262d;border:1px solid #30363d;border-radius:20px;
+  padding:3px 10px;font-size:11px;color:#8b949e;cursor:pointer;transition:all .15s;
+}
+.preset-chip:hover,.preset-chip.active{border-color:#58a6ff;color:#58a6ff;background:rgba(88,166,255,.08)}
+
+/* ── LAYOUT ─────────────────────────────────────────────── */
+#main{display:flex;flex:1;overflow:hidden}
+
+/* ── CONTROLS ───────────────────────────────────────────── */
+#controls{
+  width:250px;min-width:250px;
+  background:#161b22;border-right:1px solid #30363d;
+  overflow-y:auto;padding:12px;
+  display:flex;flex-direction:column;gap:14px;
+}
+.ctrl-group{display:flex;flex-direction:column;gap:8px}
+.ctrl-group-label{
+  font-size:10px;font-weight:600;text-transform:uppercase;letter-spacing:.5px;
+  color:#8b949e;border-bottom:1px solid #30363d;padding-bottom:4px;
+}
+.ctrl-row{display:flex;align-items:center;gap:7px}
+.ctrl-row label{font-size:11px;color:#e6edf3;flex:1;min-width:0}
+
+/* Color picker */
+.color-wrap{display:flex;align-items:center;gap:5px;flex-shrink:0}
+input[type=color]{
+  width:28px;height:22px;border:1px solid #30363d;border-radius:4px;
+  cursor:pointer;padding:1px;background:none;
+}
+.val-hex{
+  font-family:'SF Mono','Fira Code',Consolas,monospace;
+  font-size:10px;color:#58a6ff;min-width:54px;
+}
+
+/* Slider */
+input[type=range]{flex:1;accent-color:#58a6ff;cursor:pointer;min-width:0}
+.val-num{
+  font-family:'SF Mono','Fira Code',Consolas,monospace;
+  font-size:10px;color:#58a6ff;min-width:30px;text-align:right;
+}
+
+/* Select */
+select{
+  background:#21262d;border:1px solid #30363d;border-radius:4px;
+  color:#e6edf3;font-size:11px;padding:3px 6px;outline:none;cursor:pointer;flex:1;
+}
+select:focus{border-color:#58a6ff}
+
+/* Warning chip */
+.warn-chip{
+  font-size:10px;color:#d29922;
+  background:rgba(210,153,34,.1);border:1px solid rgba(210,153,34,.25);
+  border-radius:3px;padding:2px 7px;margin-top:2px;line-height:1.4;
+}
+
+/* ── RIGHT PANEL ─────────────────────────────────────────── */
+#right{flex:1;display:flex;flex-direction:column;overflow:hidden}
+
+/* Diff bar */
+#diff-bar{
+  background:#161b22;border-bottom:1px solid #30363d;
+  padding:8px 14px;flex-shrink:0;overflow-y:auto;max-height:120px;
+}
+.diff-bar-hdr{
+  font-size:10px;font-weight:600;text-transform:uppercase;
+  letter-spacing:.5px;color:#8b949e;margin-bottom:5px;
+}
+.diff-row{display:flex;align-items:baseline;gap:6px;margin-bottom:3px;font-size:11px;line-height:1.4}
+.diff-dot{width:6px;height:6px;border-radius:50%;flex-shrink:0;margin-top:4px}
+.diff-dot.ok{background:#3fb950}
+.diff-dot.warn{background:#d29922}
+.diff-dot.err{background:#f85149}
+.diff-token{font-family:'SF Mono',Consolas,monospace;color:#58a6ff;flex-shrink:0}
+.diff-detail{color:#8b949e}
+.diff-bold{font-weight:600;color:#c9d1d9}
+
+/* Preview stage */
+#preview-stage{
+  flex:1;overflow-y:auto;padding:18px 20px;
+  display:flex;flex-direction:column;gap:0;
+}
+.sec-lbl{
+  font-size:10px;font-weight:600;text-transform:uppercase;
+  letter-spacing:.5px;color:#8b949e;margin-bottom:8px;margin-top:16px;
+}
+.sec-lbl:first-child{margin-top:0}
+
+/* ── FOOTER ──────────────────────────────────────────────── */
+#footer{
+  border-top:1px solid #30363d;background:#161b22;
+  padding:10px 14px;flex-shrink:0;display:flex;gap:10px;align-items:flex-end;
+}
+#prompt-wrap{flex:1}
+#prompt-label{
+  font-size:10px;font-weight:600;text-transform:uppercase;
+  letter-spacing:.5px;color:#8b949e;margin-bottom:4px;
+}
+#prompt-out{
+  width:100%;background:#0d1117;border:1px solid #30363d;border-radius:5px;
+  padding:7px 10px;font-size:11px;color:#e6edf3;
+  font-family:'SF Mono','Fira Code',Consolas,monospace;
+  min-height:52px;max-height:80px;overflow-y:auto;resize:none;line-height:1.5;
+}
+#copy-btn{
+  background:#58a6ff;border:none;border-radius:5px;color:#000;
+  font-size:12px;font-weight:600;padding:8px 14px;cursor:pointer;white-space:nowrap;
+}
+#copy-btn:hover{opacity:.85}
+#copy-btn.copied{background:#3fb950;color:#fff}
+
+::-webkit-scrollbar{width:5px;height:5px}
+::-webkit-scrollbar-track{background:transparent}
+::-webkit-scrollbar-thumb{background:#30363d;border-radius:3px}
+</style>
+</head>
+<body>
+
+<div id="header">
+  <h1>🎨 BEFS Design Token Synkronisator</h1>
+  <span class="hbadge">4 filer</span>
+  <div class="spacer"></div>
+  <div class="preset-chips" id="presets"></div>
+</div>
+
+<div id="main">
+
+  <!-- ── CONTROLS ── -->
+  <aside id="controls">
+
+    <div class="ctrl-group">
+      <div class="ctrl-group-label">Farger</div>
+
+      <div class="ctrl-row">
+        <label>Aksent</label>
+        <div class="color-wrap">
+          <input type="color" id="c-accent" value="#58a6ff">
+          <span class="val-hex" id="v-accent">#58a6ff</span>
+        </div>
+      </div>
+
+      <div class="ctrl-row">
+        <label>Bakgrunn</label>
+        <div class="color-wrap">
+          <input type="color" id="c-bg" value="#0d1117">
+          <span class="val-hex" id="v-bg">#0d1117</span>
+        </div>
+      </div>
+
+      <div class="ctrl-row">
+        <label>Overflate</label>
+        <div class="color-wrap">
+          <input type="color" id="c-surface" value="#161b22">
+          <span class="val-hex" id="v-surface">#161b22</span>
+        </div>
+      </div>
+
+      <div class="ctrl-row">
+        <label>Overflate 2</label>
+        <div class="color-wrap">
+          <input type="color" id="c-surface2" value="#21262d">
+          <span class="val-hex" id="v-surface2">#21262d</span>
+        </div>
+      </div>
+
+      <div class="ctrl-row">
+        <label>Ramme</label>
+        <div class="color-wrap">
+          <input type="color" id="c-border" value="#30363d">
+          <span class="val-hex" id="v-border">#30363d</span>
+        </div>
+      </div>
+
+      <div class="ctrl-row">
+        <label>Tekst</label>
+        <div class="color-wrap">
+          <input type="color" id="c-text" value="#e6edf3">
+          <span class="val-hex" id="v-text">#e6edf3</span>
+        </div>
+      </div>
+
+      <div>
+        <div class="ctrl-row">
+          <label>Dempet tekst</label>
+          <div class="color-wrap">
+            <input type="color" id="c-muted" value="#8b949e">
+            <span class="val-hex" id="v-muted">#8b949e</span>
+          </div>
+        </div>
+        <div class="warn-chip">⚠ code-map og claude-md-review bruker #7d8590</div>
+      </div>
+    </div>
+
+    <div class="ctrl-group">
+      <div class="ctrl-group-label">Form (border-radius)</div>
+
+      <div class="ctrl-row">
+        <label>Liten (inputs, knapper)</label>
+        <input type="range" id="s-sm" min="0" max="16" value="4">
+        <span class="val-num" id="v-sm">4px</span>
+      </div>
+
+      <div class="ctrl-row">
+        <label>Middels (kort, modaler)</label>
+        <input type="range" id="s-md" min="0" max="24" value="8">
+        <span class="val-num" id="v-md">8px</span>
+      </div>
+
+      <div class="ctrl-row">
+        <label>Pille (chips)</label>
+        <input type="range" id="s-pill" min="0" max="50" value="20">
+        <span class="val-num" id="v-pill">20px</span>
+      </div>
+    </div>
+
+    <div class="ctrl-group">
+      <div class="ctrl-group-label">Typografi</div>
+      <div class="ctrl-row">
+        <label>Skrifttype</label>
+        <select id="sel-font">
+          <option value="system">System UI (standard)</option>
+          <option value="helvetica">Helvetica / Arial</option>
+          <option value="georgia">Georgia (serif)</option>
+          <option value="mono">Monospace</option>
+        </select>
+      </div>
+    </div>
+
+  </aside>
+
+  <!-- ── RIGHT: diff + preview ── -->
+  <section id="right">
+
+    <div id="diff-bar">
+      <div class="diff-bar-hdr">Avviksrapport</div>
+      <div id="diff-rows"></div>
+    </div>
+
+    <div id="preview-stage"></div>
+
+  </section>
+</div>
+
+<div id="footer">
+  <div id="prompt-wrap">
+    <div id="prompt-label">Endringsforslag — kopier og gi til Claude</div>
+    <textarea id="prompt-out" readonly></textarea>
+  </div>
+  <button id="copy-btn">Kopier endringsforslag</button>
+</div>
+
+<script>
+// ── CONSTANTS ────────────────────────────────────────────────────
+const MONO = "'SF Mono','Fira Code',Consolas,monospace";
+
+const FONT_MAP = {
+  system:    "-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif",
+  helvetica: "'Helvetica Neue',Helvetica,Arial,sans-serif",
+  georgia:   "Georgia,'Times New Roman',serif",
+  mono:      MONO,
+};
+const FONT_LABEL = {
+  system: 'System UI', helvetica: 'Helvetica / Arial',
+  georgia: 'Georgia (serif)', mono: 'Monospace',
+};
+
+// ── FILE REGISTRY ────────────────────────────────────────────────
+// Each file's CURRENT design tokens
+const FILES = [
+  {
+    id: 'btn',
+    name: 'button-playground.html',
+    type: 'css-vars',            // uses :root { --var: value }
+    tokens: {
+      accent: '#2563eb', bg: '#0d1117', surface: '#161b22', surface2: '#21262d',
+      border: '#30363d', text: '#e6edf3', muted: '#8b949e',
+      radSm: 4, radMd: 5, radPill: 20, font: 'system',
+    },
+    // CSS variable names for each token
+    varMap: {
+      accent: '--accent', bg: '--bg', surface: '--surface', surface2: '--surface2',
+      border: '--border', text: '--text', muted: '--muted', font: '--font',
+    },
+  },
+  {
+    id: 'map',
+    name: 'befs-code-map.html',
+    type: 'hardcoded',           // uses literal hex values, no CSS vars
+    tokens: {
+      accent: '#58a6ff', accentAlt: '#1f6feb',
+      bg: '#0d1117', surface: '#161b22', surface2: '#21262d',
+      border: '#30363d', text: '#e6edf3', muted: '#7d8590',
+      radSm: 4, radMd: 7, radPill: 20, font: 'system',
+    },
+    note: 'Merk: #1f6feb brukes som primær interaktiv blå — vil ikke erstattes automatisk av aksent-endring.',
+  },
+  {
+    id: 'db',
+    name: 'befs-db-explorer.html',
+    type: 'css-vars',
+    tokens: {
+      accent: '#58a6ff', bg: '#0d1117', surface: '#161b22', surface2: '#21262d',
+      border: '#30363d', text: '#e6edf3', muted: '#8b949e',
+      radSm: 4, radMd: 5, radPill: 20, font: 'system',
+    },
+    varMap: {
+      accent: '--accent', bg: '--bg', surface: '--surface', surface2: '--surface2',
+      border: '--border', text: '--text', muted: '--muted', font: '--font',
+    },
+  },
+  {
+    id: 'claude',
+    name: 'claude-md-review.html',
+    type: 'hardcoded',
+    tokens: {
+      accent: '#58a6ff', bg: '#0d1117', surface: '#161b22', surface2: '#21262d',
+      border: '#30363d', text: '#e6edf3', muted: '#7d8590',
+      radSm: 4, radMd: 8, radPill: 20, font: 'system',
+    },
+  },
+];
+
+const COLOR_KEYS = ['accent', 'bg', 'surface', 'surface2', 'border', 'text', 'muted'];
+
+// ── STATE & DEFAULTS ─────────────────────────────────────────────
+const DEFAULTS = {
+  accent: '#58a6ff', bg: '#0d1117', surface: '#161b22', surface2: '#21262d',
+  border: '#30363d', text: '#e6edf3', muted: '#8b949e',
+  radSm: 4, radMd: 8, radPill: 20, font: 'system',
+};
+
+const PRESETS = [
+  { name: 'BEFS Standard' },  // uses DEFAULTS
+  {
+    name: 'Varm & dempet',
+    accent: '#f97316', bg: '#0c0a09', surface: '#1c1917', surface2: '#292524',
+    border: '#44403c', text: '#fafaf9', muted: '#a8a29e',
+    radSm: 6, radMd: 10, radPill: 24, font: 'system',
+  },
+  {
+    name: 'Lys & åpen',
+    accent: '#2563eb', bg: '#f8fafc', surface: '#ffffff', surface2: '#f1f5f9',
+    border: '#e2e8f0', text: '#0f172a', muted: '#64748b',
+    radSm: 8, radMd: 14, radPill: 50, font: 'system',
+  },
+  {
+    name: 'Terminal',
+    accent: '#00d26a', bg: '#000000', surface: '#0a0f0a', surface2: '#111a11',
+    border: '#1a2e1a', text: '#d4f1d4', muted: '#5a7a5a',
+    radSm: 2, radMd: 3, radPill: 3, font: 'mono',
+  },
+];
+
+const S = { ...DEFAULTS };
+
+// ── DIFF COMPUTATION ─────────────────────────────────────────────
+function getFileChanges(f) {
+  const changes = [];
+  COLOR_KEYS.forEach(k => {
+    const oldVal = (f.tokens[k] || '').toLowerCase();
+    const newVal = S[k].toLowerCase();
+    if (oldVal && oldVal !== newVal) {
+      if (f.type === 'css-vars' && f.varMap && f.varMap[k]) {
+        changes.push({ kind: 'css-var', desc: `${f.varMap[k]}: ${f.tokens[k]} → ${S[k]}` });
+      } else {
+        changes.push({ kind: 'replace', desc: `Erstatt alle "${f.tokens[k]}" med "${S[k]}"` });
+      }
+    }
+  });
+  if (f.tokens.radSm !== S.radSm)
+    changes.push({ kind: 'radius', desc: `Liten radius: ${f.tokens.radSm}px → ${S.radSm}px` });
+  if (f.tokens.radMd !== S.radMd)
+    changes.push({ kind: 'radius', desc: `Middels radius: ${f.tokens.radMd}px → ${S.radMd}px` });
+  if (f.tokens.radPill !== S.radPill)
+    changes.push({ kind: 'radius', desc: `Pille-radius: ${f.tokens.radPill}px → ${S.radPill}px` });
+  if (f.tokens.font !== S.font) {
+    const newFont = FONT_MAP[S.font];
+    changes.push({ kind: 'font', desc: `Font: ${FONT_LABEL[f.tokens.font]} → ${FONT_LABEL[S.font]} (${newFont})` });
+  }
+  return changes;
+}
+
+// ── RENDER DIFF BAR ──────────────────────────────────────────────
+function renderDiffBar() {
+  const wrap = document.getElementById('diff-rows');
+  while (wrap.firstChild) wrap.removeChild(wrap.firstChild);
+
+  function addRow(level, token, detail) {
+    const row = document.createElement('div'); row.className = 'diff-row';
+    const dot = document.createElement('div'); dot.className = 'diff-dot ' + level;
+    const tok = document.createElement('span'); tok.className = 'diff-token';
+    tok.textContent = token ? token + ' ' : '';
+    const det = document.createElement('span'); det.className = 'diff-detail';
+    det.textContent = detail;
+    row.appendChild(dot); row.appendChild(tok); row.appendChild(det);
+    wrap.appendChild(row);
+  }
+
+  // Planned changes summary
+  const changedFiles = FILES.filter(f => getFileChanges(f).length > 0);
+  if (changedFiles.length === 0) {
+    addRow('ok', '', 'Alle filer er allerede synkronisert med valgte verdier ✓');
+  } else {
+    changedFiles.forEach(f => {
+      const n = getFileChanges(f).length;
+      addRow('warn', f.name, `${n} endring${n !== 1 ? 'er' : ''} planlagt`);
+    });
+  }
+
+  // Static divergences that already exist between files
+  addRow('err', 'muted', 'Eksisterende avvik: button+db-explorer=#8b949e · code-map+claude-md-review=#7d8590');
+  addRow('warn', 'accent (primær)', 'befs-code-map bruker #1f6feb (primær) vs #58a6ff (sekundær) i de andre');
+
+  // radMd divergence
+  const radMdVals = FILES.map(f => f.tokens.radMd);
+  if (new Set(radMdVals).size > 1) {
+    addRow('warn', 'radius-md', FILES.map(f => `${f.name.split('.')[0]}=${f.tokens.radMd}px`).join(' · '));
+  }
+}
+
+// ── RENDER PREVIEW ───────────────────────────────────────────────
+function renderPreview() {
+  const stage = document.getElementById('preview-stage');
+  while (stage.firstChild) stage.removeChild(stage.firstChild);
+
+  const font = FONT_MAP[S.font];
+
+  function div(style, text) {
+    const e = document.createElement('div');
+    Object.assign(e.style, style);
+    if (text !== undefined) e.textContent = text;
+    return e;
+  }
+  function span(style, text) {
+    const e = document.createElement('span');
+    Object.assign(e.style, style);
+    if (text !== undefined) e.textContent = text;
+    return e;
+  }
+  function btn(style, text) {
+    const e = document.createElement('button');
+    Object.assign(e.style, { border: 'none', cursor: 'pointer', fontFamily: font, ...style });
+    e.textContent = text;
+    return e;
+  }
+  function lbl(text) {
+    const e = document.createElement('div');
+    e.className = 'sec-lbl';
+    e.textContent = text;
+    return e;
+  }
+
+  const baseCard = {
+    background: S.surface, border: `1px solid ${S.border}`,
+    borderRadius: S.radMd + 'px', fontFamily: font,
+    color: S.text, maxWidth: '420px',
+  };
+
+  // ── Kortkomponent ──────────────────────────────────────────
+  stage.appendChild(lbl('Kortkomponent'));
+
+  const card = div({ ...baseCard, padding: '16px' });
+
+  const cardTop = div({ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: '10px' });
+  cardTop.appendChild(span({ fontWeight: '600', fontSize: '14px' }, 'Storgata 15, Oslo'));
+  cardTop.appendChild(span({
+    background: S.accent + '22', color: S.accent,
+    border: `1px solid ${S.accent}55`, borderRadius: S.radSm + 'px',
+    fontSize: '10px', fontWeight: '600', padding: '2px 8px',
+  }, 'AKTIV'));
+  card.appendChild(cardTop);
+
+  card.appendChild(div({ fontSize: '12px', color: S.muted, marginBottom: '14px', lineHeight: '1.5' },
+    '3 etasjer · 1 200 m² · Region Øst'));
+
+  const btnRow = div({ display: 'flex', gap: '8px', flexWrap: 'wrap' });
+  btnRow.appendChild(btn({
+    background: S.accent, color: '#fff',
+    borderRadius: S.radSm + 'px', padding: '7px 14px',
+    fontSize: '12px', fontWeight: '600',
+  }, 'Åpne detaljer'));
+  btnRow.appendChild(btn({
+    background: 'transparent', color: S.accent,
+    border: `1px solid ${S.accent}66`,
+    borderRadius: S.radSm + 'px', padding: '7px 14px',
+    fontSize: '12px', fontWeight: '500',
+  }, 'Se kontrakter'));
+  btnRow.appendChild(btn({
+    background: S.surface2, color: S.muted,
+    border: `1px solid ${S.border}`,
+    borderRadius: S.radSm + 'px', padding: '7px 14px',
+    fontSize: '12px',
+  }, 'Avbryt'));
+  card.appendChild(btnRow);
+  stage.appendChild(card);
+
+  // ── Chips ──────────────────────────────────────────────────
+  stage.appendChild(lbl('Pille-chips'));
+
+  const chipRow = div({ display: 'flex', gap: '6px', flexWrap: 'wrap' });
+  ['Alle', 'Kontrakter', 'HMS', 'FDV', 'Finans', 'AI'].forEach((lbl2, i) => {
+    chipRow.appendChild(span({
+      background: i === 0 ? S.accent + '15' : S.surface,
+      border: `1px solid ${i === 0 ? S.accent : S.border}`,
+      color: i === 0 ? S.accent : S.muted,
+      borderRadius: S.radPill + 'px',
+      padding: '3px 12px', fontSize: '11px', cursor: 'pointer',
+      fontFamily: font,
+    }, lbl2));
+  });
+  stage.appendChild(chipRow);
+
+  // ── Input + kodeblokk ──────────────────────────────────────
+  stage.appendChild(lbl('Input-felt'));
+
+  const inputWrap = div({ display: 'flex', gap: '8px', alignItems: 'center', maxWidth: '380px' });
+  const inp = document.createElement('input');
+  inp.type = 'text'; inp.placeholder = 'Søk eiendommer…';
+  Object.assign(inp.style, {
+    flex: '1', background: S.bg, border: `1px solid ${S.border}`,
+    borderRadius: S.radSm + 'px', color: S.text,
+    fontSize: '12px', padding: '6px 10px',
+    outline: 'none', fontFamily: font,
+  });
+  inputWrap.appendChild(inp);
+
+  const selEl = document.createElement('select');
+  Object.assign(selEl.style, {
+    background: S.surface2, border: `1px solid ${S.border}`,
+    borderRadius: S.radSm + 'px', color: S.text,
+    fontSize: '11px', padding: '6px 8px', outline: 'none', fontFamily: font,
+  });
+  ['Region', 'Øst', 'Vest'].forEach(o => {
+    const opt = document.createElement('option'); opt.textContent = o;
+    selEl.appendChild(opt);
+  });
+  inputWrap.appendChild(selEl);
+  stage.appendChild(inputWrap);
+
+  // ── Kodeblokk ──────────────────────────────────────────────
+  stage.appendChild(lbl('CSS-variabler (levende forhåndsvisning)'));
+
+  const pre = document.createElement('pre');
+  Object.assign(pre.style, {
+    background: S.surface2 + 'cc', border: `1px solid ${S.border}`,
+    borderRadius: S.radSm + 'px', padding: '12px 14px',
+    fontSize: '11px', color: S.text, fontFamily: MONO,
+    maxWidth: '420px', lineHeight: '1.7', overflow: 'auto',
+  });
+
+  // Syntax highlight manually (no innerHTML)
+  function addCode(txt, color) {
+    const s = document.createElement('span');
+    s.textContent = txt;
+    if (color) s.style.color = color;
+    pre.appendChild(s);
+  }
+  addCode(':root {\n');
+  [
+    ['--accent', S.accent],
+    ['--bg', S.bg],
+    ['--surface', S.surface],
+    ['--surface2', S.surface2],
+    ['--border', S.border],
+    ['--text', S.text],
+    ['--muted', S.muted],
+  ].forEach(([k, v]) => {
+    addCode('  ');
+    addCode(k, '#79c0ff');
+    addCode(': ');
+    addCode(v, '#a5d6ff');
+    addCode(';\n');
+  });
+  addCode('  ');
+  addCode('border-radius', '#79c0ff');
+  addCode(': ');
+  addCode(`${S.radSm}px / ${S.radMd}px / ${S.radPill}px`, '#a5d6ff');
+  addCode('; /* sm / md / pill */\n');
+  addCode('}');
+  stage.appendChild(pre);
+
+  // ── Fargepalett ────────────────────────────────────────────
+  stage.appendChild(lbl('Fargepalett'));
+
+  const swatchRow = div({ display: 'flex', gap: '6px', flexWrap: 'wrap' });
+  [
+    { key: 'bg', val: S.bg },
+    { key: 'surface', val: S.surface },
+    { key: 'surface2', val: S.surface2 },
+    { key: 'border', val: S.border },
+    { key: 'text', val: S.text },
+    { key: 'muted', val: S.muted },
+    { key: 'accent', val: S.accent },
+  ].forEach(sw => {
+    const wrap = div({ display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '4px' });
+    wrap.appendChild(div({
+      width: '38px', height: '38px',
+      borderRadius: S.radSm + 'px',
+      background: sw.val, border: `1px solid ${S.border}33`,
+      boxShadow: '0 1px 4px rgba(0,0,0,.4)',
+    }));
+    wrap.appendChild(span({
+      fontSize: '9px', color: S.muted, fontFamily: MONO,
+    }, sw.key));
+    swatchRow.appendChild(wrap);
+  });
+  stage.appendChild(swatchRow);
+
+  // bottom padding
+  stage.appendChild(div({ height: '20px' }));
+}
+
+// ── PROMPT OUTPUT ────────────────────────────────────────────────
+function buildPrompt() {
+  const fileChanges = FILES.map(f => ({ f, changes: getFileChanges(f) }));
+  const anyChanges = fileChanges.some(fc => fc.changes.length > 0);
+
+  if (!anyChanges) {
+    return 'Alle 4 filer er allerede synkronisert med de valgte design-token-verdiene. Ingen endringer nødvendig.';
+  }
+
+  const lines = ['Oppdater følgende BEFS HTML-filer med synkroniserte design-tokens:\n'];
+
+  fileChanges.forEach(({ f, changes }) => {
+    if (changes.length === 0) {
+      lines.push(`✅ ${f.name} — ingen endringer nødvendig\n`);
+      return;
+    }
+    const typeLabel = f.type === 'css-vars' ? 'CSS-variabler i :root' : 'Hardkodede hex-verdier (finn-og-erstatt)';
+    lines.push(`📄 ${f.name}  [${typeLabel}]`);
+    changes.forEach(c => lines.push(`   • ${c.desc}`));
+    if (f.note) lines.push(`   ℹ️  ${f.note}`);
+    lines.push('');
+  });
+
+  lines.push('---');
+  lines.push('Bruk "Finn og erstatt" i editoren for hardkodede verdier.');
+  lines.push('Oppdater :root-blokken for CSS-variabelfiler.');
+
+  return lines.join('\n').trim();
+}
+
+function updatePrompt() {
+  document.getElementById('prompt-out').value = buildPrompt();
+}
+
+// ── FULL UPDATE ──────────────────────────────────────────────────
+function updateAll() {
+  renderPreview();
+  renderDiffBar();
+  updatePrompt();
+}
+
+// ── SYNC CONTROLS → STATE ────────────────────────────────────────
+function syncControls() {
+  const cm = { accent:'c-accent', bg:'c-bg', surface:'c-surface', surface2:'c-surface2', border:'c-border', text:'c-text', muted:'c-muted' };
+  const vm = { accent:'v-accent', bg:'v-bg', surface:'v-surface', surface2:'v-surface2', border:'v-border', text:'v-text', muted:'v-muted' };
+  Object.keys(cm).forEach(k => {
+    document.getElementById(cm[k]).value = S[k];
+    document.getElementById(vm[k]).textContent = S[k];
+  });
+  document.getElementById('s-sm').value = S.radSm;
+  document.getElementById('v-sm').textContent = S.radSm + 'px';
+  document.getElementById('s-md').value = S.radMd;
+  document.getElementById('v-md').textContent = S.radMd + 'px';
+  document.getElementById('s-pill').value = S.radPill;
+  document.getElementById('v-pill').textContent = S.radPill + 'px';
+  document.getElementById('sel-font').value = S.font;
+}
+
+// ── INIT ─────────────────────────────────────────────────────────
+(function init() {
+
+  // Presets
+  const presetsEl = document.getElementById('presets');
+  PRESETS.forEach((p, idx) => {
+    const chip = document.createElement('button');
+    chip.className = 'preset-chip' + (idx === 0 ? ' active' : '');
+    chip.textContent = p.name;
+    chip.addEventListener('click', () => {
+      const merged = { ...DEFAULTS, ...p };
+      Object.keys(DEFAULTS).forEach(k => { S[k] = merged[k]; });
+      syncControls();
+      document.querySelectorAll('.preset-chip').forEach(c => c.classList.remove('active'));
+      chip.classList.add('active');
+      updateAll();
+    });
+    presetsEl.appendChild(chip);
+  });
+
+  // Color pickers
+  [
+    ['c-accent', 'accent', 'v-accent'],
+    ['c-bg', 'bg', 'v-bg'],
+    ['c-surface', 'surface', 'v-surface'],
+    ['c-surface2', 'surface2', 'v-surface2'],
+    ['c-border', 'border', 'v-border'],
+    ['c-text', 'text', 'v-text'],
+    ['c-muted', 'muted', 'v-muted'],
+  ].forEach(([id, key, vid]) => {
+    document.getElementById(id).addEventListener('input', function() {
+      S[key] = this.value;
+      document.getElementById(vid).textContent = this.value;
+      document.querySelectorAll('.preset-chip').forEach(c => c.classList.remove('active'));
+      updateAll();
+    });
+  });
+
+  // Sliders
+  [
+    ['s-sm', 'radSm', 'v-sm'],
+    ['s-md', 'radMd', 'v-md'],
+    ['s-pill', 'radPill', 'v-pill'],
+  ].forEach(([id, key, vid]) => {
+    document.getElementById(id).addEventListener('input', function() {
+      S[key] = parseInt(this.value, 10);
+      document.getElementById(vid).textContent = this.value + 'px';
+      document.querySelectorAll('.preset-chip').forEach(c => c.classList.remove('active'));
+      updateAll();
+    });
+  });
+
+  // Font select
+  document.getElementById('sel-font').addEventListener('change', function() {
+    S.font = this.value;
+    document.querySelectorAll('.preset-chip').forEach(c => c.classList.remove('active'));
+    updateAll();
+  });
+
+  // Copy button
+  document.getElementById('copy-btn').addEventListener('click', () => {
+    const txt = document.getElementById('prompt-out').value;
+    navigator.clipboard.writeText(txt).then(() => {
+      const b = document.getElementById('copy-btn');
+      b.textContent = 'Kopiert! ✓';
+      b.classList.add('copied');
+      setTimeout(() => {
+        b.textContent = 'Kopier endringsforslag';
+        b.classList.remove('copied');
+      }, 2000);
+    });
+  });
+
+  syncControls();
+  updateAll();
+})();
+</script>
+</body>
+</html>

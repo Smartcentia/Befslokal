@@ -1,0 +1,15 @@
+Loading DB Report...
+Loading Input Data...
+Reading /Users/frank/BEFS3/KNOWME/input.md...
+Loaded DB: 231 rows
+Loaded Input: 35818 rows
+Matching 231 DB records against 35818 Input records...
+Report generated at /Users/frank/BEFS3/KNOWME/matched_results.md
+# Data Correlation Report
+
+Total Matches Found: 54
+
+| DB Eiendom | DB Adresse | Input Adresse | Score | Input Details |
+| --- | --- | --- | --- | --- |
+| Storgata 56-58 | Storgata 56-58 | Storgata 56-58, 2609 Lillehammer | 0.95 | {'Regioner': '2', 'Regioner(T)': 'Region Øst', 'Avdeling': '204416', 'Avdeling(T)': 'Regionkontor Se... |
+| Bekkegata 2A | Bekkegata 2A | Bekkegata 2a, 3513 Hønefoss | 0.95 | {'Regioner': '2', 'Regioner(T)': 'Region Øst', 'Avdeling': '204416', 'Avdeling(T)': 'Regionkont

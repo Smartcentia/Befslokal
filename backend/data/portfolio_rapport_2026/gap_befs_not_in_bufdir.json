@@ -1,0 +1,5842 @@
+[
+  {
+    "property_id": "1f0b433f-9348-4891-a83c-759c5e3b1987",
+    "name": "Solerødveien 50",
+    "address": null,
+    "postal_code": "3185",
+    "city": "Skoppum",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "4823"
+  },
+  {
+    "property_id": "f99addee-487d-4c1a-9089-06dfa10b4635",
+    "name": "NyeFuruly",
+    "address": "Fr. Nansens vei 12",
+    "postal_code": "4514",
+    "city": "MANDAL",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "331810"
+  },
+  {
+    "property_id": "1d26f5a9-4a07-4d91-aa0a-05318a600438",
+    "name": "AVVIKLES -  Akershus ungdoms- og familiesenter - akutt, avd Jibbe",
+    "address": "Kantarellveien 4",
+    "postal_code": "1708",
+    "city": "SARPSBORG",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "5903"
+  },
+  {
+    "property_id": "06adb36c-befb-4309-9d56-747748578b5f",
+    "name": "Hansnes Bofellesskap",
+    "address": "Grunnfjordvegen 36",
+    "postal_code": "9130",
+    "city": "HANSNES",
+    "region": "Nord",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "23750eca-630f-44bb-8a93-78f6dd168c33",
+    "name": "Skjelsvik",
+    "address": "Østvendthagen 25",
+    "postal_code": "3943",
+    "city": "PORSGRUNN",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "068adbb0-d374-4104-b8bc-7cbdc3aa0f0f",
+    "name": "Trosvik",
+    "address": "Mølleveien 3",
+    "postal_code": "1613",
+    "city": "FREDRIKSTAD",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "33ee9f33-c71b-4f77-bd0e-cbce78cc3eef",
+    "name": "Øverbyvegen 88 -104",
+    "address": "Øverbyveien 104",
+    "postal_code": "2450",
+    "city": "Rena",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "0bcb1ac0-e33c-4e71-8c55-0d01443195d8",
+    "name": "Rogalandsgata 35A",
+    "address": null,
+    "postal_code": "5506",
+    "city": "HAUGESUND",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "2eb8f71f-4dcd-4ba2-bd92-469ea9178ecc",
+    "name": "Lertrøa",
+    "address": "Lertrøveien 3",
+    "postal_code": "7551",
+    "city": "HOMMELVIK",
+    "region": "Midt-Norge",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "317d58e2-ee70-44f9-b387-e7b81ec05595",
+    "name": "TFCO Lillestrøm uten behandlingshjem",
+    "address": "Lillestrøm torv 6",
+    "postal_code": "2000",
+    "city": "LILLESTRØM",
+    "region": "Øst",
+    "unit_type_derived": "Oppfølgingsteam",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "a736b9a7-0ea4-4e24-9b58-71ada437af8b",
+    "name": "Ole Tobias Olsens gate 19",
+    "address": null,
+    "postal_code": "8622",
+    "city": "Mo I Rana",
+    "region": "Nord",
+    "unit_type_derived": null,
+    "lokalisering_id": "1113"
+  },
+  {
+    "property_id": "322bbf2c-bc0a-4ea5-9310-830df3c366c6",
+    "name": "Avd. Birka, BF Havro",
+    "address": "Hangerslettveien 398",
+    "postal_code": "7070",
+    "city": "BOSBERG",
+    "region": "Midt-Norge",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "213fa944-e83c-4ee1-8f92-baf6ef05b65f",
+    "name": "KUS SKM",
+    "address": "Storgata 31",
+    "postal_code": "9900",
+    "city": "Kirkenes",
+    "region": "Nord",
+    "unit_type_derived": null,
+    "lokalisering_id": "1115"
+  },
+  {
+    "property_id": "36b4a9b9-693a-49d7-bae1-1ec4266690f1",
+    "name": "Fossum ung 3",
+    "address": "Grinibakken 4",
+    "postal_code": "1820",
+    "city": "SPYDEBERG",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "fb13e57b-22d6-427f-83bf-475975be1e7e",
+    "name": "Furene 8",
+    "address": null,
+    "postal_code": "6105",
+    "city": "Volda",
+    "region": "Midt-Norge",
+    "unit_type_derived": null,
+    "lokalisering_id": "6011"
+  },
+  {
+    "property_id": "326092b3-850d-42a0-97a8-b7feebea3e8d",
+    "name": "FVK, FHT mf. Finnsnes",
+    "address": "Hans Karolius vei 6",
+    "postal_code": "9300",
+    "city": "Finnsnes",
+    "region": "Nord",
+    "unit_type_derived": null,
+    "lokalisering_id": "1204"
+  },
+  {
+    "property_id": "38938e89-a32e-492e-9ad9-697eb5c439d7",
+    "name": "Hesjakollen",
+    "address": "Ture Nermannsvei 87",
+    "postal_code": "5143",
+    "city": "FYLLINGSDALEN",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "df67f736-1ccd-4fb1-b689-023f1a177132",
+    "name": "Kvæfjord Ungdomssenter",
+    "address": "Heimlyvn 5",
+    "postal_code": "9475",
+    "city": "Borkenes",
+    "region": "Nord",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "1206"
+  },
+  {
+    "property_id": "3cce208a-fbfe-44e0-97b4-4fa56004a19c",
+    "name": "Skogtunet",
+    "address": "Vinnesgate 57",
+    "postal_code": "3057",
+    "city": "SOLBERGELVA",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "3d488fa2-f914-43a6-9e79-85c414f6bc05",
+    "name": "Ramberget",
+    "address": "Rambergsvegen 142",
+    "postal_code": "5282",
+    "city": "LONEVÅG",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "090f628a-297d-4a4b-9242-dc57ceecebd3",
+    "name": "Tilla",
+    "address": "Otto Valstadsvei 70",
+    "postal_code": "1373",
+    "city": "ASKER",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "c1f76687-7793-47e5-9962-c5f58cafb7f5",
+    "name": "Humana Barnevern Harstad",
+    "address": "Landsåsveien 21",
+    "postal_code": "9406",
+    "city": "HARSTAD",
+    "region": "Nord",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "d8c83002-5c28-4c6e-8792-daf865fd93c7",
+    "name": "SMS Omsorg AS",
+    "address": "Hesteskoen 21",
+    "postal_code": "1408",
+    "city": "KRÅKSTAD",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "09a8bb77-d0de-455b-945b-3d30e7130d6a",
+    "name": "Barkåker",
+    "address": "Kantarellveien 25",
+    "postal_code": "3157",
+    "city": "BARKÅKER",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "4801"
+  },
+  {
+    "property_id": "cb994fce-a5e6-4397-8e03-a35c89c8e275",
+    "name": "Næromsorg Sør AS",
+    "address": "Kroodden 41",
+    "postal_code": "4633",
+    "city": "KRISTIANSAND S",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "76c68da7-9683-4925-8d08-7e024e5ddcef",
+    "name": "CRUX oppvekst - institusjon Bergen",
+    "address": "Kringstølen 2a",
+    "postal_code": "5124",
+    "city": "MORVIK",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "4455698e-d5a0-4a6f-a88c-4b597db84763",
+    "name": "Pælen",
+    "address": "Postboks 122",
+    "postal_code": "2151",
+    "city": "ÅRNES",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "403ff377-2f6d-4442-a8c7-8169c6679683",
+    "name": "Tryggheim",
+    "address": "Jåttåhagen 12 A og B",
+    "postal_code": "4032",
+    "city": "STAVANGER",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "d31e5212-bb29-4b34-a562-50ae1cc00cac",
+    "name": "Svenner",
+    "address": null,
+    "postal_code": null,
+    "city": null,
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "db80e8ba-d8c4-403a-a348-ce71e20405ab",
+    "name": "Nyhuset",
+    "address": null,
+    "postal_code": null,
+    "city": null,
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "7b3c92f6-da1a-4e01-b0f4-700626626c67",
+    "name": "Harebakken",
+    "address": null,
+    "postal_code": null,
+    "city": null,
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "211781be-20a7-4c5f-afdc-12132ecdf936",
+    "name": "Skeie",
+    "address": "xx",
+    "postal_code": "4516",
+    "city": "MANDAL",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "8128d2e0-1c43-411a-a3f2-1b00c78b2a41",
+    "name": "Trøndelag behandlingssenter for ungdom",
+    "address": null,
+    "postal_code": null,
+    "city": null,
+    "region": "Midt-Norge",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "d32bc4b8-26b2-4101-aaaa-8cb2e0d834a8",
+    "name": "Stendi Område Sør og Vest",
+    "address": "Dybingveien 139",
+    "postal_code": "4463",
+    "city": "UALAND",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "bbdaeda9-6beb-4e09-a28e-38067a7b179e",
+    "name": "Stendi Område Øst",
+    "address": "Solbergveien 5",
+    "postal_code": "1354",
+    "city": "BÆRUMS VERK",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "b5de7cff-100a-400f-8662-844658d28367",
+    "name": "KUS SKM, FVK, RK Harstad",
+    "address": "Håkonsgt 4",
+    "postal_code": "9405",
+    "city": "Harstad",
+    "region": "Nord",
+    "unit_type_derived": null,
+    "lokalisering_id": "1212"
+  },
+  {
+    "property_id": "a0368488-7c15-4b34-81ca-188220fb2049",
+    "name": "Indre finnmark FV",
+    "address": null,
+    "postal_code": null,
+    "city": null,
+    "region": "Nord",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "46c6e40c-7a86-4a1d-b1c2-2b8214a39f56",
+    "name": "Familievernkontoret Nedre Romerike",
+    "address": null,
+    "postal_code": null,
+    "city": null,
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "4ebf3a26-f7a1-4002-9259-17cd35fcbbdf",
+    "name": "Frelsesarmeen øst, avd. Cathrine",
+    "address": "Sørumterassen 45B",
+    "postal_code": "2007",
+    "city": "KJELLER",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "b22828d5-67c3-4fe4-88a9-a80e4476a6cf",
+    "name": "Familievernkontoret Øvre Romerike Glåmdal",
+    "address": null,
+    "postal_code": null,
+    "city": null,
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "4ad94478-327d-4a07-893d-62421f969937",
+    "name": "Ramstadsletta behandling",
+    "address": "Solvikveien 8",
+    "postal_code": "1363",
+    "city": "HØVIK",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "e02a2a09-c288-4bd1-8d3b-d550cab1ecef",
+    "name": "MST Sunnmøre",
+    "address": null,
+    "postal_code": null,
+    "city": null,
+    "region": "Midt-Norge",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "4b4731ae-5d5b-45f1-af21-753f6f3ecdc5",
+    "name": "Fana og Ytrebygda ungdomssenter adm",
+    "address": "Skjoldvegen 51-55",
+    "postal_code": "5221",
+    "city": "NESTTUN",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "453201"
+  },
+  {
+    "property_id": "4c2cdaf2-ed34-4905-a631-60bc965fa6e7",
+    "name": "Stendi Område Øst",
+    "address": "Monolittveien 45",
+    "postal_code": "0375",
+    "city": "OSLO",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "11847a90-2104-4dfc-8ee5-e01563b88a13",
+    "name": "Humana (tidl Solhaugen Omsorg og behandling AS)",
+    "address": "Storetjernveien 150",
+    "postal_code": "3520",
+    "city": "JEVNAKER",
+    "region": "Øst",
+    "unit_type_derived": "Omsorgssenter",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "b2bd061a-e273-4086-90bb-0daacfc3fbdd",
+    "name": "Familievernkontoret Sunnmøre",
+    "address": null,
+    "postal_code": null,
+    "city": null,
+    "region": "Midt-Norge",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "f026ebf4-a770-4504-a692-7c3e3b8e5b17",
+    "name": "Familievernkontoret Romsdal",
+    "address": null,
+    "postal_code": null,
+    "city": null,
+    "region": "Midt-Norge",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "fd5433fe-8385-4e74-94a9-547d27924208",
+    "name": "Husafjellheimen, familiehjem",
+    "address": null,
+    "postal_code": null,
+    "city": null,
+    "region": "Midt-Norge",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "e0c23144-35ed-4807-8967-073c11b93efb",
+    "name": "Humana Barnevern Sandnes",
+    "address": "Gimramyrvegen 10",
+    "postal_code": "4054",
+    "city": "TJELTA",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "b72a7453-cf35-40a4-9787-440099f1b216",
+    "name": "SFU avd.Meltunet",
+    "address": null,
+    "postal_code": null,
+    "city": null,
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "4febe101-9a8b-427a-b2d0-e975d55959b7",
+    "name": "Villa Krogh akuttinstitusjon for barn",
+    "address": "Øvre Langåsvei 11",
+    "postal_code": "0880",
+    "city": "OSLO",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "60d63432-048a-4f24-b474-6834dc65600b",
+    "name": "Familievernkontoret i Vestfold",
+    "address": null,
+    "postal_code": null,
+    "city": null,
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "ebbdd7ba-8fe0-47bf-b5dd-558a7b45809e",
+    "name": "Avdeling familiebehandling",
+    "address": null,
+    "postal_code": null,
+    "city": null,
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "c2c995ae-704d-4d4b-a42c-6b7c40f4d57b",
+    "name": "Vestfold barne- og familiesenter Adm",
+    "address": null,
+    "postal_code": null,
+    "city": null,
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "a73acead-4093-4c9e-bdb1-218475e61ca4",
+    "name": "Sogndal ungdomsenter-adm.",
+    "address": null,
+    "postal_code": null,
+    "city": null,
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "4ece54b4-843b-4e38-a406-5d9dea106fd3",
+    "name": "Frysja",
+    "address": "Kjelsåsveien 176 A",
+    "postal_code": "0884",
+    "city": "OSLO",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "d6e3728a-833a-45c6-9f8d-7f4f7c5e09f3",
+    "name": "Kvammen Gård",
+    "address": "Hølondvegen 311",
+    "postal_code": "7224",
+    "city": "Melhus",
+    "region": "Midt-Norge",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "2324"
+  },
+  {
+    "property_id": "a119a2b5-5f4e-4a74-88b1-5e27c4c9a7bf",
+    "name": "Alta og Hammerfest familievernkontor",
+    "address": null,
+    "postal_code": null,
+    "city": null,
+    "region": "Nord",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "86f949d8-c05c-490f-baf7-2700432acc5e",
+    "name": "Akershus ungdoms- og familiesenter - akutt, avd Bjørlien",
+    "address": "Bjørlistubben 14",
+    "postal_code": "1540",
+    "city": "VESTBY",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "5905"
+  },
+  {
+    "property_id": "caeccc78-8c7e-4085-ae9a-1c2d1a923556",
+    "name": "Akershus ungdoms- og familiesenter - akutt, avd Tjernlia",
+    "address": "Trondheimsveien 205",
+    "postal_code": "2050",
+    "city": "JESSHEIM",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "236105"
+  },
+  {
+    "property_id": "ea771518-032a-4dcf-941c-36af2cb05177",
+    "name": "SKM opplæring fosterhjem",
+    "address": null,
+    "postal_code": null,
+    "city": null,
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "1c28a07e-abc6-4b00-87e0-af5fda4650f6",
+    "name": "Sogn og Fjordane ungdomssenter Meltunet - før brann",
+    "address": "Sjukehusvegen  5",
+    "postal_code": "5704",
+    "city": "Voss",
+    "region": "Vest",
+    "unit_type_derived": null,
+    "lokalisering_id": "3522"
+  },
+  {
+    "property_id": "02d465c4-0ab0-4fe1-904d-835d880350db",
+    "name": "Avdeling for ung.no",
+    "address": null,
+    "postal_code": null,
+    "city": null,
+    "region": "Bufdir",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "532154d0-bc0c-448c-a427-f8658c9292ea",
+    "name": "Skjoldvegen Søfteland",
+    "address": null,
+    "postal_code": null,
+    "city": null,
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "75f22971-47ac-42db-8c62-e1cb04ac65ea",
+    "name": "MST Agder 1",
+    "address": null,
+    "postal_code": null,
+    "city": null,
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "415325d9-e719-49ef-b932-88cd82466a4c",
+    "name": "Grepperød Barnevernssenter",
+    "address": "Østre Årefjordvei 106",
+    "postal_code": "1570",
+    "city": "DILLING",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "5b71f288-0a0f-4295-ba1e-0c81be840f22",
+    "name": "Russeluft Bofellesskap",
+    "address": "Russeluftveien 260",
+    "postal_code": "9517",
+    "city": "ALTA",
+    "region": "Nord",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "13b14373-dd15-4396-bc78-1665d841896d",
+    "name": "Familievernkontoret Nordmøre",
+    "address": null,
+    "postal_code": null,
+    "city": null,
+    "region": "Midt-Norge",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "595a0ca6-6a26-45da-a4a6-35dbd21c256c",
+    "name": "Humana (tidl Solhaugen Omsorg og behandling AS)",
+    "address": "Leirvollvegen 4",
+    "postal_code": "5570",
+    "city": "AKSDAL",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "4219418e-e5b4-46ef-9e41-c8cb747e958a",
+    "name": "Familievernkontoret Namdalen",
+    "address": null,
+    "postal_code": null,
+    "city": null,
+    "region": "Midt-Norge",
+    "unit_type_derived": "Familievernkontor",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "a6a76e19-e0d8-4884-ae73-7ef2e97b06bc",
+    "name": "Familievernkontoret Asker og Bærum",
+    "address": null,
+    "postal_code": null,
+    "city": null,
+    "region": "Øst",
+    "unit_type_derived": "Familievernkontor",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "9c2c5529-e35f-460c-a197-351b1c1925a7",
+    "name": "Familievernkontoret Enerhaugen",
+    "address": null,
+    "postal_code": null,
+    "city": null,
+    "region": "Øst",
+    "unit_type_derived": "Familievernkontor",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "87076fca-8f00-4c20-be14-9870168f7de2",
+    "name": "Familievernkontoret Homansbyen",
+    "address": null,
+    "postal_code": null,
+    "city": null,
+    "region": "Øst",
+    "unit_type_derived": "Familievernkontor",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "a0ba18fc-915a-4c0f-8a1b-ea11065fa7fb",
+    "name": "Familievernkontoret Østfold",
+    "address": null,
+    "postal_code": null,
+    "city": null,
+    "region": "Øst",
+    "unit_type_derived": "Familievernkontor",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "e281ef91-5df0-4290-83f2-71aa72295f3a",
+    "name": "Grøterød ungdomshjem",
+    "address": null,
+    "postal_code": null,
+    "city": null,
+    "region": "Sør",
+    "unit_type_derived": "Familievernkontor",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "21b13a36-cc1f-44e9-88fb-c3d541ab0a08",
+    "name": "Agder ungdomshjem",
+    "address": null,
+    "postal_code": null,
+    "city": null,
+    "region": "Sør",
+    "unit_type_derived": "Familievernkontor",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "9d0bcf0e-0697-4284-b5b4-5d21ce59c199",
+    "name": "Agder ungdomssenter",
+    "address": null,
+    "postal_code": null,
+    "city": null,
+    "region": "Sør",
+    "unit_type_derived": "Familievernkontor",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "46c73a48-e91a-46ed-9202-34333f5b222f",
+    "name": "Grinde",
+    "address": "Grindafjordvegen 203",
+    "postal_code": "5570",
+    "city": "AKSDAL",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "5b94d0a7-4cba-4d3f-bbb6-52eded3b5a5d",
+    "name": "Villahaugen",
+    "address": "Dalsveien 31F",
+    "postal_code": "0775",
+    "city": "OSLO",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "df788c1f-d80b-475f-a391-91ec6aef96fa",
+    "name": "Vestfold ungdomssenter",
+    "address": null,
+    "postal_code": null,
+    "city": null,
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "657120db-175e-4977-91cd-ee76ed023838",
+    "name": "Olsvik Sør",
+    "address": "Olsvikskjenet 69 og 73",
+    "postal_code": "5184",
+    "city": "OLSVIK",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "1f930639-75ad-4c92-b170-c3a31392d264",
+    "name": "Otto",
+    "address": "Solstadlia 76",
+    "postal_code": "1395",
+    "city": "HVALSTAD",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "b19e31a3-d549-43e9-9ba3-095fdd479070",
+    "name": "Familievernkontoret i Molde",
+    "address": "Storgata 12 - 14",
+    "postal_code": "6413",
+    "city": "Molde",
+    "region": "Midt-Norge",
+    "unit_type_derived": null,
+    "lokalisering_id": "2403"
+  },
+  {
+    "property_id": "658403e6-29af-40db-9c55-5cedaf031a98",
+    "name": "Kartleggingsteam ungdom",
+    "address": "Ulefossveien 52",
+    "postal_code": "3730",
+    "city": "SKIEN",
+    "region": "Sør",
+    "unit_type_derived": "Utredningsteam",
+    "lokalisering_id": "310910"
+  },
+  {
+    "property_id": "66344f55-fe3f-4350-901b-17fb5c48e2d5",
+    "name": "Fugledalen",
+    "address": "Rankensvegen 1074",
+    "postal_code": "5281",
+    "city": "VALESTRANDSFOSSEN",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "68efa4d8-16b4-4ec8-981b-774cb3104717",
+    "name": "Aberia Ung - Bergen",
+    "address": "Totlandsveien 410",
+    "postal_code": "5226",
+    "city": "NESTTUN",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "65ff8646-d34e-477d-ab88-d684bfadc6b6",
+    "name": "CRUX oppvekst - institusjon Bergen",
+    "address": "Storhammeren 38",
+    "postal_code": "5145",
+    "city": "FYLLINGSDALEN",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "dbbff592-2fed-4390-bece-8eafbf514226",
+    "name": "Østfold ungdoms- og familiesenter - omsorg, avdeling Kurland ungdomshjem",
+    "address": "Kurlandveien 12",
+    "postal_code": "1727",
+    "city": "SARPSBORG",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "5942"
+  },
+  {
+    "property_id": "10dbe205-732b-4e22-ace6-d0f1d56abae4",
+    "name": "Haugland",
+    "address": "Høgliveien 11",
+    "postal_code": "5310",
+    "city": "HAUGLANDSHELLA",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "590c5fa7-15db-4d6f-ad57-c0774eb058f7",
+    "name": "Blå Kors Barnevern avdeling Malvik (Villa Vika)",
+    "address": "Vuluveien 27",
+    "postal_code": "7563",
+    "city": "MALVIK",
+    "region": "Midt-Norge",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "324ad308-b29c-4da2-a807-1f1e92f69f57",
+    "name": "Kirkenær barnevern- og omsorgssenter Avdeling Frigg",
+    "address": "Snorresveg 2",
+    "postal_code": "2260",
+    "city": "KIRKENÆR",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "232813"
+  },
+  {
+    "property_id": "69221dae-b7ac-4329-9a96-54f11742cf26",
+    "name": "Fossum ung 2",
+    "address": "Kulaveien 62-64",
+    "postal_code": "1804",
+    "city": "SPYDEBERG",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "5784e642-7dd5-4a31-b1ab-0717abf8784e",
+    "name": "Pynten",
+    "address": "Rostadveien 300",
+    "postal_code": "7670",
+    "city": "INDERØY",
+    "region": "Midt-Norge",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "6f6c68d9-126c-4cb1-90f2-318a8e5d1c32",
+    "name": "Lone",
+    "address": "Lohneveien 244",
+    "postal_code": "4642",
+    "city": "SØGNE",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "114021e3-59f8-4161-8449-9fd064ea4cb4",
+    "name": "Stendi Område Øst",
+    "address": "Eddaveien 12",
+    "postal_code": "1513",
+    "city": "MOSS",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "228"
+  },
+  {
+    "property_id": "0b639970-3074-4d2e-a6bd-6af841e840a5",
+    "name": "Bufetats behandlingssenter Akershus_Østfold, avd Ressursteam",
+    "address": "Solfallsveien 27",
+    "postal_code": "1435",
+    "city": "ÅS",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "5951"
+  },
+  {
+    "property_id": "71c799d5-9df8-4a86-ac97-3ed246f0406a",
+    "name": "Heimtun",
+    "address": "Ekrenveien 6",
+    "postal_code": "6444",
+    "city": "FARSTAD",
+    "region": "Midt-Norge",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "438c4047-1861-47f4-b655-1b8f283f86cc",
+    "name": "Feilregistert",
+    "address": "Nedre Nattland 69",
+    "postal_code": "5099",
+    "city": "BERGEN",
+    "region": "Vest",
+    "unit_type_derived": "Utredningsteam",
+    "lokalisering_id": "3510"
+  },
+  {
+    "property_id": "63955fbb-6fb5-4f4d-9a91-b1f4b2a65900",
+    "name": "Foreldre og barn Sudmannske",
+    "address": "Feråsvegen 13",
+    "postal_code": "5251",
+    "city": "Søreidgrend",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "3513"
+  },
+  {
+    "property_id": "1662d66f-627e-46dc-bd79-0dc8a139bcd8",
+    "name": "Blylaget",
+    "address": "Blylagveien 90",
+    "postal_code": "1459",
+    "city": "NESODDEN",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "ee9379ce-ceca-4641-9424-0e70945beaac",
+    "name": "Familievern Odda",
+    "address": "Røldalsvegen 2",
+    "postal_code": "5750",
+    "city": "Odda",
+    "region": "Vest",
+    "unit_type_derived": null,
+    "lokalisering_id": "3530"
+  },
+  {
+    "property_id": "74f65160-00fe-47b1-b024-bb33b6fcd333",
+    "name": "Fjellstø",
+    "address": "Seljevegen 6",
+    "postal_code": "3550",
+    "city": "GOL",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "72cda5ad-a09e-4c65-8215-1f83a8a2d3da",
+    "name": "Humla akuttavdeling",
+    "address": "Humleveien 90 og 92",
+    "postal_code": "6020",
+    "city": "ÅLESUND",
+    "region": "Midt-Norge",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "0681c042-051a-4b0f-81b8-cbb5e3a19396",
+    "name": "Tverrfaglig helsekartlegging",
+    "address": "Østmarkveien 26 E-F",
+    "postal_code": "7040",
+    "city": "TRONDHEIM",
+    "region": "Midt-Norge",
+    "unit_type_derived": "Utredningsteam",
+    "lokalisering_id": "521403"
+  },
+  {
+    "property_id": "b8fcd912-7c52-4294-907c-8ada717c9268",
+    "name": "Skjoldvegen Skjold",
+    "address": "Skjoldvegen 51",
+    "postal_code": "5221",
+    "city": "Nesttun",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "3537"
+  },
+  {
+    "property_id": "16eba19a-3e88-4f15-ab84-887bc498bef9",
+    "name": "Stiftelsen Kirkens Bymisjon, Avdeling Skovheimhuset",
+    "address": "Lindbäckveien 51 A",
+    "postal_code": "1163",
+    "city": "OSLO",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "65080457-34c4-4962-8600-ebac380f3bb7",
+    "name": "Yttrabekken Ungdomssenter",
+    "address": "Brennstadmoen 23",
+    "postal_code": "8614",
+    "city": "MO I RANA",
+    "region": "Nord",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "1107"
+  },
+  {
+    "property_id": "baa5bf7a-08f3-424f-9fd8-23038a1d5bda",
+    "name": "Familievern Stord",
+    "address": "Torget 10",
+    "postal_code": "5417",
+    "city": "Stord",
+    "region": "Vest",
+    "unit_type_derived": null,
+    "lokalisering_id": "3531"
+  },
+  {
+    "property_id": "22d02a20-8ff4-447c-8279-2d56d029803a",
+    "name": "Nygården",
+    "address": "Rostadveien 300",
+    "postal_code": "7670",
+    "city": "INDERØY",
+    "region": "Midt-Norge",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "7d4f64b3-f43c-4edc-a6f9-810db6f0db7d",
+    "name": "Kvalvågveien Boenhet",
+    "address": "Kvalvågv. 113",
+    "postal_code": "6521",
+    "city": "FREI",
+    "region": "Midt-Norge",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "7b45f684-6491-448c-9a56-ebd1bb8e33c2",
+    "name": "Signe",
+    "address": "Jacob Neumannsvei 48",
+    "postal_code": "1384",
+    "city": "ASKER",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "7c088736-518d-4b7e-af26-1feac7ddf0f7",
+    "name": "Toppen bofellesskap",
+    "address": "Åsjordet 13",
+    "postal_code": "0381",
+    "city": "OSLO",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "022fa3c0-9c3a-431c-a239-6dbf5d8f31c8",
+    "name": "Bodø behandlingsenter",
+    "address": "Rønvikvn 9A,C",
+    "postal_code": "8009",
+    "city": "Bodø",
+    "region": "Nord",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "1102"
+  },
+  {
+    "property_id": "ed78199f-712c-475a-93e2-73ffe68d2b7b",
+    "name": "Halshaug",
+    "address": "Halsaug Terrasse 10",
+    "postal_code": "4514",
+    "city": "MANDAL",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "1eeb9366-8cd8-4c54-8406-f3528c1b8731",
+    "name": "Eikebo",
+    "address": "Sagbakken 4",
+    "postal_code": "7234",
+    "city": "LER",
+    "region": "Midt-Norge",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "20934ba7-efce-4cae-bea6-13fa0dcae49d",
+    "name": "Lillebo",
+    "address": "Løkendalen 2",
+    "postal_code": "2019",
+    "city": "SKEDSMOKORSET",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "c65eb1d3-ccf7-49b4-aa98-119ab07eacd0",
+    "name": "Familievern Voss",
+    "address": "Uttrågata 36",
+    "postal_code": "5700",
+    "city": "Voss",
+    "region": "Vest",
+    "unit_type_derived": null,
+    "lokalisering_id": "3540"
+  },
+  {
+    "property_id": "0a087b83-b90f-4b6c-b5fb-e70170f57e57",
+    "name": "Munken",
+    "address": "Erik Munks veg 5",
+    "postal_code": "3714",
+    "city": "SKIEN",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "239d9e79-e177-4bee-b51e-7d358a8b7cea",
+    "name": "Sollia barne- og ungdomssenter miljøavdeling",
+    "address": "Idrettsveien 5",
+    "postal_code": "8402",
+    "city": "SORTLAND",
+    "region": "Nord",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "635801"
+  },
+  {
+    "property_id": "a4f8b4d6-4d7b-404c-83fd-1177427dc158",
+    "name": "Driftsavdeling region vest",
+    "address": "Nedre Nøttveit 58",
+    "postal_code": "5238",
+    "city": "Rådal",
+    "region": "Vest",
+    "unit_type_derived": null,
+    "lokalisering_id": "3550"
+  },
+  {
+    "property_id": "28994e51-c949-4b80-9598-69699d14b37b",
+    "name": "Karmsund",
+    "address": "Skudnesgata 10",
+    "postal_code": "5529",
+    "city": "HAUGESUND",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "30bcb03f-45d2-4b07-aa1c-914917e2fcf6",
+    "name": "Bufetathus Haugesund",
+    "address": "Haraldsgata 94",
+    "postal_code": "5528",
+    "city": "Haugesund",
+    "region": "Vest",
+    "unit_type_derived": null,
+    "lokalisering_id": "3609"
+  },
+  {
+    "property_id": "24e282e3-c1b7-4f17-8a7e-b555d584836c",
+    "name": "Zinober",
+    "address": "Rundtjernveien 38E",
+    "postal_code": "0672",
+    "city": "OSLO",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "1f7fc800-1830-4ea7-8c2c-a8c455f317fb",
+    "name": "Furuhaugen",
+    "address": "Kolsåsen 38",
+    "postal_code": "7079",
+    "city": "FLATÅSEN",
+    "region": "Midt-Norge",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "fcd55797-687d-4ae4-8f7a-7ad07b0031f2",
+    "name": "Bufetathus Stavanger",
+    "address": "Jåttåvågveien 10",
+    "postal_code": "4020",
+    "city": "Stavanger",
+    "region": "Vest",
+    "unit_type_derived": null,
+    "lokalisering_id": "3618"
+  },
+  {
+    "property_id": "25a91155-96d8-4673-adf7-8da2c82caf82",
+    "name": "Tvedestrand",
+    "address": "Epleviktangen 63",
+    "postal_code": "4900",
+    "city": "TVEDESTRAND",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "cdea14e5-f1f5-43b7-bd11-bf1703d328d4",
+    "name": "FVK Bodø",
+    "address": "Storgata 27/29 ",
+    "postal_code": "8006",
+    "city": "Bodø",
+    "region": "Nord",
+    "unit_type_derived": null,
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "d31772a5-1891-4bc8-9653-b9cb0de4f3ee",
+    "name": "Vikhovlia Akuttavdeling",
+    "address": "Vihovlia 1400",
+    "postal_code": "7560",
+    "city": "VIKHAMMER",
+    "region": "Midt-Norge",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "8378e9a6-3d67-432f-b1b0-4181ad69b6a7",
+    "name": "Silsand ungdomssenter miljøavdeling",
+    "address": "Islandsbotnveien 35",
+    "postal_code": "9303",
+    "city": "SILSAND",
+    "region": "Nord",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "1221"
+  },
+  {
+    "property_id": "e39e55b9-76ba-4165-a7ff-2cd6cb324143",
+    "name": "Tromsø Ungdomssenter",
+    "address": "Håkøyvn 339",
+    "postal_code": "9109",
+    "city": "Kvaløysletta",
+    "region": "Nord",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "1213"
+  },
+  {
+    "property_id": "847e6e3c-1b7c-4acc-a603-b289dcba645e",
+    "name": "Vennesla",
+    "address": "Ludefladen 34",
+    "postal_code": "4700",
+    "city": "VENNESLA",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "12003bdd-0a9f-42d6-936e-507ffd270889",
+    "name": "Aberia Ung - Bergen",
+    "address": "Høgstølen 21",
+    "postal_code": "5111",
+    "city": "BREISTEIN",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "27e00a4f-852e-4feb-a129-5f0f4ac355b2",
+    "name": "Frelsesarmeen institusjon, enhet sør",
+    "address": "Konglefaret 17",
+    "postal_code": "3021",
+    "city": "DRAMMEN",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "86a969f2-c0d8-44f0-a7fb-be049878c2e9",
+    "name": "TFCO Bergen, avdeling institusjon",
+    "address": "Solheimsgaten 13",
+    "postal_code": "5058",
+    "city": "BERGEN",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "3535"
+  },
+  {
+    "property_id": "9cd8ef03-11f7-4d9f-9543-ee3c5f2a2c8b",
+    "name": "Bufetathus Haugesund",
+    "address": "Rennesøygata 16",
+    "postal_code": "5537",
+    "city": "Haugesund",
+    "region": "Vest",
+    "unit_type_derived": null,
+    "lokalisering_id": "3619"
+  },
+  {
+    "property_id": "2f8605b9-b918-4979-8bb0-f9336dbf68d3",
+    "name": "Energivegen 13, 2260 Kirkenær",
+    "address": "Energivegen 13",
+    "postal_code": "2260",
+    "city": "Kirkenær",
+    "region": "Øst",
+    "unit_type_derived": null,
+    "lokalisering_id": "5119"
+  },
+  {
+    "property_id": "862c7048-174e-4d40-9d4f-745b78c661f4",
+    "name": "TFCO Stavanger",
+    "address": "Statens hus",
+    "postal_code": "4010",
+    "city": "STAVANGER",
+    "region": "Vest",
+    "unit_type_derived": "Ukjent",
+    "lokalisering_id": "442612"
+  },
+  {
+    "property_id": "2a3100f0-3d4d-4601-95d2-bf360b593fd8",
+    "name": "Staraberget",
+    "address": "Lindeveien 65",
+    "postal_code": "4314",
+    "city": "SANDNES",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "2c6616b9-efa8-40ba-9453-be6bb9524dc5",
+    "name": "Bjorbekk",
+    "address": "Sørsvannsveien 114",
+    "postal_code": "4824",
+    "city": "BJORBEKK",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "cda8c3bc-cbab-4c88-907e-ad61ced8b9d4",
+    "name": "Regionkontoret, Inntak, AT, FVK Alta",
+    "address": "Løkkeveien 33",
+    "postal_code": "9515",
+    "city": "Alta",
+    "region": "Nord",
+    "unit_type_derived": null,
+    "lokalisering_id": "1218"
+  },
+  {
+    "property_id": "2d9c6382-5967-43cb-9d40-a52968389be7",
+    "name": "Cura Kompetanse AS",
+    "address": "Skogfaret 26",
+    "postal_code": "3946",
+    "city": "PORSGRUNN",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "a57241b0-8b55-4582-b1b9-993b9038e7b5",
+    "name": "Spillumheimen ungdomsheim",
+    "address": "Grønlihøgda 24",
+    "postal_code": "7820",
+    "city": "Spillum",
+    "region": "Midt-Norge",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "2328"
+  },
+  {
+    "property_id": "ce49e57e-bccd-4359-8805-296cb37158bd",
+    "name": "Miljøheimen",
+    "address": "Haugetuft 16-18",
+    "postal_code": "3890",
+    "city": "Vinje",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "4817"
+  },
+  {
+    "property_id": "59ed91a3-5534-4dd4-b4e7-43e3844e40c3",
+    "name": "Moholt Ungdomssenter",
+    "address": "Åsvangveien 2",
+    "postal_code": "7048",
+    "city": "TRONDHEIM",
+    "region": "Midt-Norge",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "541103"
+  },
+  {
+    "property_id": "2d2f9312-87bd-4bc1-b4f4-eb71db4a58fb",
+    "name": "SMS Omsorg AS",
+    "address": "Kråkstadveien 100C",
+    "postal_code": "1408",
+    "city": "KRÅKSTAD",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "786fdb14-2c9a-4160-aba8-e9b6edcb9486",
+    "name": "Lamo Ungdomssenter",
+    "address": "Eideveien 168",
+    "postal_code": "9350",
+    "city": "Sjøvegan",
+    "region": "Nord",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "1217"
+  },
+  {
+    "property_id": "07a4c12b-6404-4603-b3f8-2ece9bcf6b79",
+    "name": "Oscarsgate 20, 0301 Oslo",
+    "address": "Oscarsgate 20",
+    "postal_code": "0352",
+    "city": "Oslo",
+    "region": "Øst",
+    "unit_type_derived": null,
+    "lokalisering_id": "5109"
+  },
+  {
+    "property_id": "0d46544f-5aaf-46bc-b982-e9fc670bbe04",
+    "name": "Holum",
+    "address": "Daleveien 952",
+    "postal_code": "4519",
+    "city": "HOLUM",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "00081f10-fa89-4d52-af07-f2b7dbe57cf7",
+    "name": "Henrik Gerners gate 14, 1530 Moss",
+    "address": "Henrik Gerners gate 14",
+    "postal_code": "1530",
+    "city": "Moss",
+    "region": "Øst",
+    "unit_type_derived": null,
+    "lokalisering_id": "5911"
+  },
+  {
+    "property_id": "0e0ab9b2-adc8-42c9-99fa-4f7294ab297d",
+    "name": "Randem",
+    "address": "Nordlysveien 50",
+    "postal_code": "1540",
+    "city": "VESTBY",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "c2e24201-7b61-498e-96b0-225c48c2f8af",
+    "name": "Sollia barne- og ungdomssenter",
+    "address": "Idrettsvn 5",
+    "postal_code": "8402",
+    "city": "Sortland",
+    "region": "Nord",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "1106"
+  },
+  {
+    "property_id": "e68e5386-a0f4-440c-bf5c-21be51567621",
+    "name": "Ulabrand",
+    "address": "Geiteramsveien 81",
+    "postal_code": "3268",
+    "city": "LARVIK",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "4821"
+  },
+  {
+    "property_id": "2e6f7b81-22cc-4672-9490-1539c507c5e8",
+    "name": "Stendi Område Øst",
+    "address": "Alexander Kiellands gate 10 B",
+    "postal_code": "2000",
+    "city": "LILLESTRØM",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "5c4e49b7-a703-493b-85a2-61ad60fb6863",
+    "name": "Sogndal ungdomssenter, avd. Rødstokken",
+    "address": "Rødstokken 16",
+    "postal_code": "6856",
+    "city": "SOGNDAL",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "3515"
+  },
+  {
+    "property_id": "0e066f06-1a96-4e60-af5e-ce4ab38e036d",
+    "name": "Barn i Villa - Oslo",
+    "address": "Snøggveien 8F",
+    "postal_code": "1263",
+    "city": "OSLO",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "2e8e87a3-dcfd-420f-9616-189f0b4c0156",
+    "name": "Støa",
+    "address": "Brelandsveien 639",
+    "postal_code": "4534",
+    "city": "MARNARDAL",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "32645e00-1602-4f09-b1c6-14480a7ce410",
+    "name": "Familievern-kontoret i Kristiansund",
+    "address": "Vågeveien 10",
+    "postal_code": "6509",
+    "city": "Kristiansund N",
+    "region": "Midt-Norge",
+    "unit_type_derived": null,
+    "lokalisering_id": "2410"
+  },
+  {
+    "property_id": "15e98a58-6766-4a84-b4ad-2ec3b967c356",
+    "name": "Bufetathus Arendal",
+    "address": "Langsæveien 6",
+    "postal_code": "4846",
+    "city": "Arendal",
+    "region": "Sør",
+    "unit_type_derived": null,
+    "lokalisering_id": "4717"
+  },
+  {
+    "property_id": "3125d47a-de47-4912-9aa7-05238180012c",
+    "name": "Nordlys",
+    "address": "Ørakerstien 6A",
+    "postal_code": "0284",
+    "city": "OSLO",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "67e55d04-545b-4083-8d95-579f5b2bcb59",
+    "name": "Heimdal",
+    "address": "Peder Morsets veg 7",
+    "postal_code": "7072",
+    "city": "HEIMDAL",
+    "region": "Midt-Norge",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "db1bf00d-bed7-4a47-81de-2f0e39435f32",
+    "name": "Tovdal",
+    "address": "Austenå 370",
+    "postal_code": "4869",
+    "city": "Dølemo",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "4715"
+  },
+  {
+    "property_id": "71ce6d58-806f-4ff3-85b2-7b0939351571",
+    "name": "Nye Tromsø ungdomssenter Fjære",
+    "address": "Håkøyveien 339",
+    "postal_code": "9105",
+    "city": "KVALØYA",
+    "region": "Nord",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "614720"
+  },
+  {
+    "property_id": "08b57672-9f6a-4289-b3cb-6f47ac31f098",
+    "name": "Toppen",
+    "address": "Kirkegårsdsveien 25",
+    "postal_code": "4847",
+    "city": "ARENDAL",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "343105"
+  },
+  {
+    "property_id": "1ffe7a00-7ca9-489a-a556-35ffeaf4a1d9",
+    "name": "AVVIKLES -  Innlandet Barnevernsenter avdeling Kauffeldt",
+    "address": "Øverbyvegen 88-104",
+    "postal_code": "2819",
+    "city": "GJØVIK",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "245402"
+  },
+  {
+    "property_id": "0e2ab9fa-f59a-434a-81a1-92cc1b27d2b0",
+    "name": "Myra",
+    "address": "Moldveien 28",
+    "postal_code": "4848",
+    "city": "ARENDAL",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "0f066ab2-85ab-40d1-9324-e511b57154e0",
+    "name": "Villa Sole",
+    "address": "Soleveien 1",
+    "postal_code": "1540",
+    "city": "VESTBY",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "9208e7d5-533a-4f53-9e64-234a5ba53ae1",
+    "name": "Opstad",
+    "address": "Stevneveien 9C",
+    "postal_code": "1719",
+    "city": "GREÅKER",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "23b34d63-66cb-4425-aba1-5ccb338bbda0",
+    "name": "ESF, FHT, RK Vadsø",
+    "address": "Grensen 7",
+    "postal_code": "9800",
+    "city": "Vadsø",
+    "region": "Nord",
+    "unit_type_derived": null,
+    "lokalisering_id": "1214"
+  },
+  {
+    "property_id": "ca447380-524c-4ef9-bf0f-1f326241bfd9",
+    "name": "Regionkontoret region sør",
+    "address": "Anton Jenssens gate 2",
+    "postal_code": "3125",
+    "city": "Tønsberg",
+    "region": "Sør",
+    "unit_type_derived": null,
+    "lokalisering_id": "4807"
+  },
+  {
+    "property_id": "442eeb8d-cc2e-48f2-9f0b-6382d8de0880",
+    "name": "Klokkerhuset",
+    "address": "Ulefossveien 52",
+    "postal_code": "3730",
+    "city": "SKIEN",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "310905"
+  },
+  {
+    "property_id": "6e8e40f3-2c78-4bd1-95da-227a50e01eb0",
+    "name": "Mynten",
+    "address": "Frogsvei 21-27",
+    "postal_code": "3611",
+    "city": "KONGSBERG",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "333901"
+  },
+  {
+    "property_id": "483c159e-1133-4a38-9ebe-80daaadd25df",
+    "name": "Kasa Ungdomssenter avd. Morvik",
+    "address": "Lokketomarka 24",
+    "postal_code": "5136",
+    "city": "MJØLKERÅEN",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "3506"
+  },
+  {
+    "property_id": "3bfd66fb-a476-4b28-b5e3-2da4f464e7d7",
+    "name": "Prosjekt Care",
+    "address": "Gulsetringen 313",
+    "postal_code": "3742",
+    "city": "SKIEN",
+    "region": "Sør",
+    "unit_type_derived": "Utredningsteam",
+    "lokalisering_id": "4818"
+  },
+  {
+    "property_id": "fd0d6ac2-c7ce-4ad6-baed-b74c4cea8482",
+    "name": "Sundstedtråkka",
+    "address": "Storgaten 62-64",
+    "postal_code": "3060",
+    "city": "Svelvik",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "4901"
+  },
+  {
+    "property_id": "02eeba8c-cf87-466a-9a26-477df36a7937",
+    "name": "Sortatunet",
+    "address": "Sortasvegen 56",
+    "postal_code": "7517",
+    "city": "HELL",
+    "region": "Midt-Norge",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "53181bf2-e205-4486-a30d-0342cc1e1ea6",
+    "name": "Bodø ungdomssentersenter",
+    "address": "Skoleveien 9",
+    "postal_code": "8009",
+    "city": "Bodø",
+    "region": "Nord",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "1117"
+  },
+  {
+    "property_id": "0e5a2bbd-7000-420d-be90-7a2496496497",
+    "name": "Aberia avdeling Blommenholm",
+    "address": "Blommenholmveien 13",
+    "postal_code": "1365",
+    "city": "BLOMMENHOLM",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "10a9ca7f-fe12-4636-95f7-3f5d12af0314",
+    "name": "Kongsgård bolig",
+    "address": "Kongsgård alle 50B",
+    "postal_code": "4632",
+    "city": "KRISTIANSAND S",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "9289cffe-b74b-49c7-91d8-ed16402b54be",
+    "name": "SMS Omsorg AS",
+    "address": "Midtskogen 7B",
+    "postal_code": "1423",
+    "city": "SKI",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "9ca3a315-11e6-45a9-a3c3-589e6662de9b",
+    "name": "Lågen",
+    "address": "Frogsvei 21-25",
+    "postal_code": "3611",
+    "city": "Kongsberg",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "4921"
+  },
+  {
+    "property_id": "216d1c60-6058-4bb2-b2af-1482618023e6",
+    "name": "Familievernkontoret Innlandet Øst - Hamar",
+    "address": "Vangsvegen 121",
+    "postal_code": "2318",
+    "city": "Hamar",
+    "region": "Øst",
+    "unit_type_derived": null,
+    "lokalisering_id": "5106"
+  },
+  {
+    "property_id": "140a23a9-9c9e-4ff3-a879-8548981cf795",
+    "name": "Familievern-kontoret i Namsos",
+    "address": "Abel Meyers gate 10",
+    "postal_code": "7800",
+    "city": "Namsos",
+    "region": "Midt-Norge",
+    "unit_type_derived": null,
+    "lokalisering_id": "2330"
+  },
+  {
+    "property_id": "7904d263-01f7-4821-a6f7-0dc4bbac7831",
+    "name": "Obrestad",
+    "address": "Håvegen 206",
+    "postal_code": "4365",
+    "city": "NÆRBØ",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "eab25d70-6d6f-498a-8217-c6537181e67e",
+    "name": "Grønlandsleiret 25, 0191 Oslo",
+    "address": "Grønlandsleiret 25",
+    "postal_code": "0190",
+    "city": "Oslo",
+    "region": "Øst",
+    "unit_type_derived": null,
+    "lokalisering_id": "5101"
+  },
+  {
+    "property_id": "93898b0a-1dd4-45d3-ae5c-c4f2897f5cb6",
+    "name": "Soldammen Gården",
+    "address": "Gjølstadveien 73",
+    "postal_code": "1550",
+    "city": "HØLEN",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "0a84b12c-b439-4bb2-b3c3-f918640bd81b",
+    "name": "Nymosvingen 6, 2609 Lillehammer",
+    "address": "Nymosvingen 6",
+    "postal_code": "2609",
+    "city": "Lillehammer",
+    "region": "Øst",
+    "unit_type_derived": null,
+    "lokalisering_id": "5103"
+  },
+  {
+    "property_id": "9458fdc4-5a72-4781-8f9c-cef26c3e702e",
+    "name": "Ruggevika",
+    "address": "Rundeveien 15",
+    "postal_code": "9415",
+    "city": "HARSTAD",
+    "region": "Nord",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "31e86e0e-42b9-4c43-b49e-723bf5904f57",
+    "name": "Kalbakken",
+    "address": "Kristian Bogneruds vei 12",
+    "postal_code": "0956",
+    "city": "OSLO",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "ea0c6516-c284-422c-9b65-e030aa7d1a58",
+    "name": "Rena ungdoms- og familiesenter, Øst",
+    "address": "Dr. Thorshaugsveg 8",
+    "postal_code": "2336",
+    "city": "Stange",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "5111"
+  },
+  {
+    "property_id": "8266dbcd-1d75-4f8f-8c37-40a8e1ffa0c5",
+    "name": "Nyvoll Bofellesskap",
+    "address": "Postboks 56",
+    "postal_code": "8465",
+    "city": "STRAUMSJØEN",
+    "region": "Nord",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "7e249429-bd9a-44c5-a63a-3f871c8c25dc",
+    "name": "Sogn og Fjordane ungdomssenter, avd. Meltunet",
+    "address": "Sophus Lie-vegen 9",
+    "postal_code": "6770",
+    "city": "NORDFJORDEID",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "3525"
+  },
+  {
+    "property_id": "2b901fbe-9ab1-4eae-890d-8521a9da338a",
+    "name": "Jong Ungdomshjem , hybel",
+    "address": "Horniveien 100",
+    "postal_code": "1339",
+    "city": "Vøyenenga",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "5115"
+  },
+  {
+    "property_id": "7d9a3260-abaf-4b8a-ad1f-7855faae29e8",
+    "name": "Bergen Akutts. avd. Toppe",
+    "address": "Skinflorbakkane 12",
+    "postal_code": "5136",
+    "city": "MJØLKERÅEN",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "3536"
+  },
+  {
+    "property_id": "32e72a72-f946-4c1e-b760-8c95d83bdbfe",
+    "name": "Solheim",
+    "address": "Haverløkka 2",
+    "postal_code": "1440",
+    "city": "DRØBAK",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "3594d704-7e39-4fa7-9255-51c2654c7494",
+    "name": "Fosterhjemstjeneste avd. Ålesund, familievernkontoret Ålesund",
+    "address": "Langelandsveien 17",
+    "postal_code": "6010",
+    "city": "Ålesund",
+    "region": "Midt-Norge",
+    "unit_type_derived": null,
+    "lokalisering_id": "2409"
+  },
+  {
+    "property_id": "6d29e122-7782-4709-9a3d-a0550c71f0d2",
+    "name": "Stavanger ungdomssenter Lindøy",
+    "address": "Lindøy 9 - ikke oppmålt",
+    "postal_code": "4013",
+    "city": "Stavanger",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "3606"
+  },
+  {
+    "property_id": "32c96c01-6fc3-4899-857e-b4c85e460231",
+    "name": "Avdeling Brauta",
+    "address": "Jåsundvegen 87",
+    "postal_code": "4058",
+    "city": "TANANGER",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "8860e3ec-e294-4bdf-9f21-ccb6a67858e8",
+    "name": "Nye Tromsø ungdomssenter Flo",
+    "address": "Håkøyveien 339",
+    "postal_code": "9105",
+    "city": "KVALØYA",
+    "region": "Nord",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "614710"
+  },
+  {
+    "property_id": "3740535a-e92f-438f-b3cf-ef23faf6449d",
+    "name": "Ålgård",
+    "address": "Jærbubråtet 5",
+    "postal_code": "4330",
+    "city": "ÅLGÅRD",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "0c2961b1-6548-475c-ac73-b228fbfd2496",
+    "name": "Fana og Ytrebygda ungdomssenter avd. Eikelund",
+    "address": "Sandbrekkvegen 27",
+    "postal_code": "5231",
+    "city": "PARADIS",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "453205"
+  },
+  {
+    "property_id": "74d40ee8-3370-4df0-8f79-01a4243481a9",
+    "name": "Ullsvei 16",
+    "address": "Kindsåsveien 2",
+    "postal_code": "3533",
+    "city": "Tyristrand",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "5940"
+  },
+  {
+    "property_id": "776defcb-d174-4332-aa14-1f0081d55911",
+    "name": "Klokkerhuset",
+    "address": "Ulefossveien 53",
+    "postal_code": "3730",
+    "city": "Skien",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "4822"
+  },
+  {
+    "property_id": "06204cdd-eeff-446f-8423-d0a54696a08c",
+    "name": "Aberia Ung Sør - Agder",
+    "address": "Tofteveien 88",
+    "postal_code": "4516",
+    "city": "MANDAL",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "6b4073f1-3a4e-46d4-a3dd-53b99dee678d",
+    "name": "Buvika ungdomssenter",
+    "address": "Hanskleiva 25",
+    "postal_code": "7350",
+    "city": "BUVIKA",
+    "region": "Midt-Norge",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "2339"
+  },
+  {
+    "property_id": "9a057848-da4a-4a27-90c6-2893225c5274",
+    "name": "Kjørbekk",
+    "address": "Kjørbekksvingen 38",
+    "postal_code": "3735",
+    "city": "SKIEN",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "4816"
+  },
+  {
+    "property_id": "247566b1-58b0-4a81-9fea-40523ecde657",
+    "name": "Øverbyvegen 88 -104",
+    "address": "Tokerudkollen 31-33",
+    "postal_code": "1336",
+    "city": "Sandvika",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "5117"
+  },
+  {
+    "property_id": "13ffb54b-6d55-4305-86b3-ea82c9993117",
+    "name": "Toppen",
+    "address": "Kirkegårdsveien 25",
+    "postal_code": "4857",
+    "city": "Arendal",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "4703"
+  },
+  {
+    "property_id": "478af782-27b5-4efe-80da-df5c7272395c",
+    "name": "Tverrfaglig helsekartlegging region nord",
+    "address": "Kaigata 4",
+    "postal_code": "9008",
+    "city": "TROMSØ",
+    "region": "Nord",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "1216"
+  },
+  {
+    "property_id": "18b7233d-2a83-40e1-9ad7-48ffb29544ea",
+    "name": "Østfold ungdoms- og familiesenter - omsorg, avdeling Rokkeveien ungdomshjem",
+    "address": "Rokkeveien 829",
+    "postal_code": "1763",
+    "city": "HALDEN",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "232706"
+  },
+  {
+    "property_id": "da964e7f-4307-4413-ba69-bee455d3859f",
+    "name": "Kirkenærtunet 27, 2260 Kirkenær",
+    "address": "Kirkenærtunet 27",
+    "postal_code": "2260",
+    "city": "Kirkenær",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "5121"
+  },
+  {
+    "property_id": "ce7970c1-f04d-4f09-9a62-2dad50ff4101",
+    "name": "Energivegen 17,2260 Kirkenær",
+    "address": "Energivegen 17",
+    "postal_code": "2260",
+    "city": "Kirkenær",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "5118"
+  },
+  {
+    "property_id": "f0d880cb-0d66-416d-911c-08692be73572",
+    "name": "Wenchebo",
+    "address": "Damtjernveien 598",
+    "postal_code": "3275",
+    "city": "SVARSTAD",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "4804"
+  },
+  {
+    "property_id": "33483f79-71c3-4c3a-94e4-984d31971612",
+    "name": "Blomsterkroken Bofellesskap",
+    "address": "Askliveien 1",
+    "postal_code": "1365",
+    "city": "BLOMMENHOLM",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "1d6a85cc-827e-417c-9c4a-b0581c901824",
+    "name": "Jernbanevegen 70",
+    "address": "Jernbaneveien 70",
+    "postal_code": "2260",
+    "city": "Kirkenær",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "5126"
+  },
+  {
+    "property_id": "3c76521c-3cf1-4ae7-8f0a-2ef01fdddd05",
+    "name": "Solbakken barne- og familiesenter",
+    "address": "Solbakken 12",
+    "postal_code": "9006",
+    "city": "Tromsø",
+    "region": "Nord",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "1210"
+  },
+  {
+    "property_id": "1a828233-c0b6-4561-a649-997a41c518e3",
+    "name": "Østfold ungdoms- og familiesenter - omsorg avdeling Eika",
+    "address": "Rokkeveien 849",
+    "postal_code": "1763",
+    "city": "HALDEN",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "232703"
+  },
+  {
+    "property_id": "9a0a0849-18f3-4062-afb6-b0d562e4eec0",
+    "name": "Frelsesarmeen øst, avd. William",
+    "address": "Sørumterrassen 45A",
+    "postal_code": "2000",
+    "city": "LILLESTRØM",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "5df186d2-0846-4a38-94a7-9bc87ef3a6dc",
+    "name": "Storgata 10- Gjøvik",
+    "address": "Storgata 10",
+    "postal_code": "2815",
+    "city": "Gjøvik",
+    "region": "Øst",
+    "unit_type_derived": null,
+    "lokalisering_id": "5159"
+  },
+  {
+    "property_id": "00f82124-85f5-4e69-b0e2-96335918eecd",
+    "name": "Bruvegen 6, 2260 Kirkenær",
+    "address": "Bruvegen 6",
+    "postal_code": "7320",
+    "city": "Fannrem",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "4ed3d8d3-02bc-4364-9234-6394089dcf75",
+    "name": "Østfold ungdoms- og familiesenter - omsorg, avd Dal",
+    "address": "Hovdenveien 159",
+    "postal_code": "1708",
+    "city": "SARPSBORG",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "5953"
+  },
+  {
+    "property_id": "37270f85-cea2-4216-8d94-679391cb431f",
+    "name": "Eikeland",
+    "address": "Ødegårdsveien 27",
+    "postal_code": "4342",
+    "city": "UNDHEIM",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "5faead1e-e83e-4294-b78b-585edc1ba52b",
+    "name": "Veslekila 1",
+    "address": "Veslekila 3A",
+    "postal_code": "2260",
+    "city": "Kirkenær",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "5125"
+  },
+  {
+    "property_id": "9f8f9476-fa63-46e4-a70f-f19cb87d335f",
+    "name": "Brusetkollen Barnevernsenter",
+    "address": "Solstadlia 69, Pb. 422 Hvalsta",
+    "postal_code": "1373",
+    "city": "ASKER",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "3dad633d-78cc-477e-8518-3dbdc4448883",
+    "name": "Trondheimsveien 205",
+    "address": "Trondheimsvegen - Jessheim 205",
+    "postal_code": "2067",
+    "city": "Jessheim",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "5902"
+  },
+  {
+    "property_id": "9c54ff37-5be7-4ed8-8240-b88fda3051a4",
+    "name": "Hortemo",
+    "address": "Songdalsveien 252",
+    "postal_code": "4645",
+    "city": "NODELAND",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "1679f1b0-cdb7-4a06-a067-4a34e15dc2f4",
+    "name": "Lerketoppen",
+    "address": "Grimestadveien 69",
+    "postal_code": "3160",
+    "city": "STOKKE",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "334201"
+  },
+  {
+    "property_id": "54bbf902-417b-4890-bc03-4dfebb575685",
+    "name": "Familievern Sogndal",
+    "address": "Parkvegen 5",
+    "postal_code": "6856",
+    "city": "Sogndal",
+    "region": "Vest",
+    "unit_type_derived": null,
+    "lokalisering_id": "3509"
+  },
+  {
+    "property_id": "12ef3688-b17e-416d-a814-489452a7dc79",
+    "name": "Panorama",
+    "address": "Brattvoll Platå 8",
+    "postal_code": "4658",
+    "city": "TVEIT",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "16b03741-2e9d-4dc8-ae3e-7f20d08748a5",
+    "name": "Avdeling Ravn",
+    "address": "Sørumsgata 39",
+    "postal_code": "2000",
+    "city": "LILLESTRØM",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "4b3185d4-2cee-40c6-8b40-e9fce684b0de",
+    "name": "Bufetats behandlingssenter Akershus_Østfold, avd Kroerveien",
+    "address": "Kroerveien 9",
+    "postal_code": "1540",
+    "city": "VESTBY",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "5904"
+  },
+  {
+    "property_id": "ceaeea8d-0917-44dc-a290-47ecc110b65c",
+    "name": "Hedmark ungdoms- og familiesenter - akutt, avd Disen",
+    "address": "Just Brochs gate 13",
+    "postal_code": "2321",
+    "city": "HAMAR",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "5129"
+  },
+  {
+    "property_id": "005ea20f-5be6-40ae-a2bf-28411c16c067",
+    "name": "Akershus ungdoms- og familiesenter, Sole",
+    "address": "Njords vei 11",
+    "postal_code": "1541",
+    "city": "Vestby",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "5906"
+  },
+  {
+    "property_id": "beba97af-e090-4f66-8689-10bba5094155",
+    "name": "Glynitveien 30, 1400 Ski",
+    "address": "Glynitveien 30",
+    "postal_code": "1400",
+    "city": "Ski",
+    "region": "Øst",
+    "unit_type_derived": null,
+    "lokalisering_id": "5907"
+  },
+  {
+    "property_id": "0e9f30f1-c831-4a3f-9fa2-491b87951a08",
+    "name": "Grorud bolig",
+    "address": "Pastor Blaauws vei 30 og 32",
+    "postal_code": "0662",
+    "city": "OSLO",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "0f9b6c1a-b779-4109-aefc-40f30f8a5566",
+    "name": "Storgata 11",
+    "address": "Storgaten 11",
+    "postal_code": "3510",
+    "city": "Hønefoss",
+    "region": "Øst",
+    "unit_type_derived": null,
+    "lokalisering_id": "5916"
+  },
+  {
+    "property_id": "a127fa19-915f-4ecf-a38c-03f386b73192",
+    "name": "Strandsagvegen 2 D, 2383 Brumunddal",
+    "address": "Strandsagvegen 2 D",
+    "postal_code": "2383",
+    "city": "Brumunddal",
+    "region": "Øst",
+    "unit_type_derived": null,
+    "lokalisering_id": "5128"
+  },
+  {
+    "property_id": "8fd91980-110e-47a8-9799-945efb88af6f",
+    "name": "Hedmark ungdoms- og familiesenter - akutt, avd Stange 1",
+    "address": "Doktor Thorshaugs veg 8",
+    "postal_code": "2335",
+    "city": "STANGE",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "236203"
+  },
+  {
+    "property_id": "db0495a5-fe18-42ce-afcf-2bdb1852c308",
+    "name": "Gågata 5, 2211 Kongsvinger",
+    "address": "Gågata 5",
+    "postal_code": "2211",
+    "city": "Kongsvinger",
+    "region": "Øst",
+    "unit_type_derived": null,
+    "lokalisering_id": "5915"
+  },
+  {
+    "property_id": "7421803f-c042-47a2-9307-2fba2dc72e67",
+    "name": "Åsen",
+    "address": "Kruttmølleveien 43",
+    "postal_code": "1414",
+    "city": "TROLLÅSEN",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "272"
+  },
+  {
+    "property_id": "c0e0b9e4-5ca8-45f8-af5d-b341baee7aff",
+    "name": "Tærudgata 16, 2004 Lillestrøm",
+    "address": "Tærudgata 16",
+    "postal_code": "2004",
+    "city": "Lillestrøm",
+    "region": "Øst",
+    "unit_type_derived": null,
+    "lokalisering_id": "5924"
+  },
+  {
+    "property_id": "91ec8785-f2d6-448b-b0d4-0a4a7e4a9bf5",
+    "name": "Familievernkontoret Innlandet Øst - Tynset",
+    "address": "Aumliveien 4C",
+    "postal_code": "2500",
+    "city": "Tynset",
+    "region": "Øst",
+    "unit_type_derived": null,
+    "lokalisering_id": "5107"
+  },
+  {
+    "property_id": "91a76803-c9a1-40ce-8df0-b5bea1fd936a",
+    "name": "Egge Gård, 3514 Hønefoss",
+    "address": "Egge gård",
+    "postal_code": "7725",
+    "city": "Steinkjer",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "5927"
+  },
+  {
+    "property_id": "1090549d-5571-48c5-aeee-72339819fb51",
+    "name": "Kvammen, avdeling enetiltak",
+    "address": "Kirkevegen 33",
+    "postal_code": "7514",
+    "city": "STJØRDAL",
+    "region": "Midt-Norge",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "512004"
+  },
+  {
+    "property_id": "a1f939b6-90b1-4138-82cd-ee0e507968a2",
+    "name": "FHT, ESF, MST, Inntak, RK, Bodø",
+    "address": "Nordstrandveien 41",
+    "postal_code": "8012",
+    "city": "Bodø",
+    "region": "Nord",
+    "unit_type_derived": null,
+    "lokalisering_id": "1101"
+  },
+  {
+    "property_id": "a2f166f0-bef2-489a-8489-891d7272b647",
+    "name": "Roterud",
+    "address": "Svensrudvegen 17",
+    "postal_code": "2611",
+    "city": "LILLEHAMMER",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "54fb49a0-43dd-40a5-ba7a-5cae4b64e271",
+    "name": "FHT, FVK, beredskapshjem, FIT Hammerfest",
+    "address": "Sørøygt 10",
+    "postal_code": "9600",
+    "city": "Hammerfest",
+    "region": "Nord",
+    "unit_type_derived": null,
+    "lokalisering_id": "1211"
+  },
+  {
+    "property_id": "105b0df1-3e3e-49b6-bac0-a61b0e02b2a3",
+    "name": "AVVIKLES -  Innlandet barnevernsenter avdeling Prøysen",
+    "address": "Øverbyvegen 88-104",
+    "postal_code": "2825",
+    "city": "GJØVIK",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "215402"
+  },
+  {
+    "property_id": "eeef94c2-03c9-491c-867d-18313d6067e7",
+    "name": "Adrian Vaagsnes",
+    "address": "Seilduksgata 23B",
+    "postal_code": "0553",
+    "city": "OSLO",
+    "region": "Øst",
+    "unit_type_derived": "Støttefamilie",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "a3db8036-ec17-4183-80e8-e262c26b100f",
+    "name": "Nye-Thorøya",
+    "address": "Thorøyaveien 5",
+    "postal_code": "3209",
+    "city": "SANDEFJORD",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "4803"
+  },
+  {
+    "property_id": "3a710dcb-6f49-4361-bc96-4497196e5e38",
+    "name": "Bjørkhagen",
+    "address": "Rønningsbakken 20",
+    "postal_code": "7045",
+    "city": "TRONDHEIM",
+    "region": "Midt-Norge",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "d3a4f4d1-cdee-41e6-acc4-552ef5360382",
+    "name": "Snorres vei 2",
+    "address": "Snorres veg 2",
+    "postal_code": "2260",
+    "city": "Kirkenær",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "5123"
+  },
+  {
+    "property_id": "3a9f5471-f736-4fed-a667-976d11929c89",
+    "name": "Lillevannet Bofellesskap",
+    "address": "Mathisdalen 299",
+    "postal_code": "9518",
+    "city": "ALTA",
+    "region": "Nord",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "a43ffccb-4d57-4082-b7f9-7433a3531a3c",
+    "name": "Elias Smiths vei 22-24, 1337 Sandvika",
+    "address": "Elias Smiths vei 22-24",
+    "postal_code": "1337",
+    "city": "Sandvika",
+    "region": "Øst",
+    "unit_type_derived": null,
+    "lokalisering_id": "5909"
+  },
+  {
+    "property_id": "1ee335ab-98be-4c7c-8cbd-d9213ff0db32",
+    "name": "SMS Omsorg AS",
+    "address": "Eiklia 19J",
+    "postal_code": "1407",
+    "city": "VINTERBRO",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "3aa6ee0e-bfbf-4116-8c72-df8106d4512a",
+    "name": "Eir barnevern AS",
+    "address": "Siliusveien 1",
+    "postal_code": "3480",
+    "city": "FILTVET",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "1884da2d-b3d1-4de8-98ac-b5d61dd4d7f9",
+    "name": "Alta Ungdomssenter Utsikten akutt",
+    "address": "Strandveien 12",
+    "postal_code": "9513",
+    "city": "ALTA",
+    "region": "Nord",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "611903"
+  },
+  {
+    "property_id": "51791f47-6740-43c4-8575-a9dc319b0b4b",
+    "name": "Bufetats behandlingssenter Akershus/Østfold, Østlund",
+    "address": "Stasjonsveien 16B",
+    "postal_code": "0774",
+    "city": "Oslo",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "5933"
+  },
+  {
+    "property_id": "99113427-c1e7-4c60-995d-acfe9b3072d3",
+    "name": "Lundebyveien 363, 1878 Hærland",
+    "address": "Lundebyveien 363",
+    "postal_code": "1878",
+    "city": "Hærland",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "5934"
+  },
+  {
+    "property_id": "17b3f9f6-d9c5-4cb8-ac55-95f2e25dcedd",
+    "name": "Innlandet barnevernsenter avdeling Vestly",
+    "address": "Øverbyvegen 88-104",
+    "postal_code": "2825",
+    "city": "GJØVIK",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "235404"
+  },
+  {
+    "property_id": "2a83dc54-d1f5-4045-90e0-343ce536c932",
+    "name": "Borg - Team for tverrfaglig helsekartlegging",
+    "address": "Sundløkkaveien 73",
+    "postal_code": "1659",
+    "city": "TORP",
+    "region": "Øst",
+    "unit_type_derived": "Utredningsteam",
+    "lokalisering_id": "5935"
+  },
+  {
+    "property_id": "668d3fac-5ade-4f43-b4be-9b3ece895e92",
+    "name": "Innlandet barnevernsenter avdeling Undset",
+    "address": "Nordsetvegen 227",
+    "postal_code": "2840",
+    "city": "REINSVOLL",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "5937"
+  },
+  {
+    "property_id": "3c889ab0-d6b8-4665-9e05-7d5c9f226690",
+    "name": "Dilling omsorgshjem",
+    "address": "Østre Årefjordvei",
+    "postal_code": "1570",
+    "city": "DILLING",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "3d8508e9-4001-4084-94f8-ef5906a5c5e4",
+    "name": "Rissjøveien Bofellesskap",
+    "address": "Rissjøveien 4",
+    "postal_code": "8475",
+    "city": "STRAUMSJØEN",
+    "region": "Nord",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "00658fb2-21fd-48d2-a839-cc525e28afe2",
+    "name": "Østfold ungdoms- og familiesenter, Rokkeveien",
+    "address": "Rokkeveien 502",
+    "postal_code": "1763",
+    "city": "Halden",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "5938"
+  },
+  {
+    "property_id": "53ade079-fcf4-49db-8b9a-a8205e0666da",
+    "name": "Bufetathus Drammen",
+    "address": "Grønland 68",
+    "postal_code": "3045",
+    "city": "Drammen",
+    "region": "Sør",
+    "unit_type_derived": null,
+    "lokalisering_id": "4912"
+  },
+  {
+    "property_id": "29015ab3-3608-4e85-b1f8-443b0d0d697f",
+    "name": "Tverrfaglig helsekartlegging NABE",
+    "address": "Havnegata 9 - blokk C 4.etg",
+    "postal_code": "7010",
+    "city": "TRONDHEIM",
+    "region": "Midt-Norge",
+    "unit_type_derived": "Utredningsteam",
+    "lokalisering_id": "544130"
+  },
+  {
+    "property_id": "ab7e341d-777b-4cda-844b-742da78284bf",
+    "name": "Båteviken",
+    "address": "Båtevika 16",
+    "postal_code": "5363",
+    "city": "ÅGOTNES",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "1ed4eef6-0577-4ad6-b7e3-3372fb2515eb",
+    "name": "Ullsvei 16, 1782 Halden",
+    "address": "Ullsvei 16",
+    "postal_code": "1782",
+    "city": "Halden",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "5940"
+  },
+  {
+    "property_id": "3cd3d9a5-60f0-4d7c-8b41-b7fcbef30a94",
+    "name": "Sogn og Fjordane ungdomssenter Meltunet - midlertidig",
+    "address": "Sophus Lie-vegen 5",
+    "postal_code": "6770",
+    "city": "Nordfjordeid",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "3523"
+  },
+  {
+    "property_id": "3dbbded2-9a64-425b-9da9-b2b1547bf0ed",
+    "name": "Jong ungdoms- og familiesenter, avd Kollen",
+    "address": "Emma Hjorths vei 60",
+    "postal_code": "1336",
+    "city": "SANDVIKA",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "237202"
+  },
+  {
+    "property_id": "3dd04abf-0946-4771-8ee6-10f62792c2d1",
+    "name": "Melum",
+    "address": "Dolvavegen 80",
+    "postal_code": "3729",
+    "city": "SKIEN",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "6e0cdda3-3fcc-4113-a9a0-7d4ca7165dc9",
+    "name": "Uglevn 1, 1712 Grålum",
+    "address": "Uglevn 1",
+    "postal_code": "1554",
+    "city": "Son",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "5946"
+  },
+  {
+    "property_id": "93ccbcdb-5d45-4604-b702-6f748d669329",
+    "name": "Bufdir Tønsberg",
+    "address": "Anton Jensens gt. 5",
+    "postal_code": "3125",
+    "city": "Tønsberg",
+    "region": "Bufdir",
+    "unit_type_derived": null,
+    "lokalisering_id": "6125"
+  },
+  {
+    "property_id": "3f049b94-815f-419b-a4d2-c62cd35a5104",
+    "name": "Solsiden",
+    "address": "Solbergveien 5",
+    "postal_code": "1354",
+    "city": "BÆRUMS VERK",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "412ccfc8-2f2a-4ab8-a466-e4e86ac04505",
+    "name": "Skiftenes",
+    "address": "Hørteveien 8",
+    "postal_code": "4886",
+    "city": "GRIMSTAD",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "41945d34-833a-42c5-8f25-734bbe958133",
+    "name": "Fossum ung 4",
+    "address": "Engskleiva 8",
+    "postal_code": "1816",
+    "city": "SKIPTVET",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "ade85975-f507-43fb-ad6c-1b0974619f65",
+    "name": "Fiskergata 22",
+    "address": null,
+    "postal_code": "8300",
+    "city": "Svolvær",
+    "region": "Nord",
+    "unit_type_derived": null,
+    "lokalisering_id": "1114"
+  },
+  {
+    "property_id": "21476b33-73ed-4811-86d6-e9d424c3a61f",
+    "name": "Haraldsplass Serio Ung Region Agder og Rogaland",
+    "address": "Hognestadvegen 115",
+    "postal_code": "4346",
+    "city": "BRYNE",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "ccac64bf-b0a0-429a-94d8-10b14058e322",
+    "name": "Bufetathus Telemark",
+    "address": "Schweigaardsgt 11",
+    "postal_code": "3717",
+    "city": "Skien",
+    "region": "Sør",
+    "unit_type_derived": null,
+    "lokalisering_id": "4820"
+  },
+  {
+    "property_id": "b06d603b-99d1-477d-8020-e8f5393ec148",
+    "name": "Rødtinden",
+    "address": "Moridvegen 5",
+    "postal_code": "9100",
+    "city": "KVALØYSLETTA",
+    "region": "Nord",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "ec1c9fc5-fda8-49c6-87a9-5064c304af3b",
+    "name": "Lierfoss ungdoms- og familiesenter, Riserhagen",
+    "address": "Riserveien 40A/B",
+    "postal_code": "1930",
+    "city": "Aurskog",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "5952"
+  },
+  {
+    "property_id": "d686c38e-22f6-481f-ba9a-0261088b64f8",
+    "name": "Familievern-kontoret i Levanger",
+    "address": "Jernbanegata 11/13",
+    "postal_code": "7600",
+    "city": "Levanger",
+    "region": "Midt-Norge",
+    "unit_type_derived": null,
+    "lokalisering_id": "2335"
+  },
+  {
+    "property_id": "a6e9ab34-7dd0-4afb-8590-44ee473ba6f3",
+    "name": "Kasa Ungdomssenter avd. Flatøy",
+    "address": "Flatøyvegen 45",
+    "postal_code": "5918",
+    "city": "FREKHAUG",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "3502"
+  },
+  {
+    "property_id": "831ea4c5-f627-42aa-9849-b46bbc9e89cf",
+    "name": "Bufetats behandlingssenter Akershus_Østfold, avd Østheim",
+    "address": "Østheimveien 14",
+    "postal_code": "1630",
+    "city": "GAMLE FREDRIKSTAD",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "5932"
+  },
+  {
+    "property_id": "de02cb91-c790-4edb-a291-d59b50db2016",
+    "name": "Storveien 1404/1408",
+    "address": "Storveien 1404",
+    "postal_code": "1950",
+    "city": "Rømskog",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "5954"
+  },
+  {
+    "property_id": "1eb61339-daa3-4148-8fdb-caa2f4e80b59",
+    "name": "Kanalveien 18, 2004 Lillestrøm",
+    "address": "Kanalveien 18",
+    "postal_code": "2004",
+    "city": "Lillestrøm",
+    "region": "Øst",
+    "unit_type_derived": null,
+    "lokalisering_id": "5955"
+  },
+  {
+    "property_id": "a208ad6d-987a-4762-89c0-7199d9c36481",
+    "name": "Familievernkontoret Ringerike - Hallingdal, avdeling Ringerike",
+    "address": "Bekkegata 2A",
+    "postal_code": "3513",
+    "city": "Hønefoss",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "5957"
+  },
+  {
+    "property_id": "f338aff5-a4c8-4239-8c99-f3e9682abc0e",
+    "name": "FVK, kontorsted Narvik",
+    "address": "Kongens gate 51-55",
+    "postal_code": "8514",
+    "city": "Narvik",
+    "region": "Nord",
+    "unit_type_derived": null,
+    "lokalisering_id": "1118"
+  },
+  {
+    "property_id": "b420aaeb-a5cf-4756-b084-44c5da117798",
+    "name": "Gilantunet ungdomshjem",
+    "address": "Konstadlykkvegen 55",
+    "postal_code": "7213",
+    "city": "GÅSBAKKEN",
+    "region": "Midt-Norge",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "521"
+  },
+  {
+    "property_id": "b4cd2a02-dac7-4b99-878f-f42aaaa215e3",
+    "name": "Skaug",
+    "address": "Midnattsolveien 1564",
+    "postal_code": "8016",
+    "city": "BODØ",
+    "region": "Nord",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "b66e414f-8e37-43d0-8dc7-27eccaac096c",
+    "name": "Lottebo",
+    "address": "Postboks 122",
+    "postal_code": "2151",
+    "city": "ÅRNES",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "b42b3e5e-25d3-4735-b02a-7a6672449357",
+    "name": "Stendi Område Sør og Vest",
+    "address": "Fjellsenden 6",
+    "postal_code": "4026",
+    "city": "STAVANGER",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "437d6bb3-e89d-4e7f-9885-db21463e65cb",
+    "name": "Solvold",
+    "address": "Jønsbergvegen 545",
+    "postal_code": "2335",
+    "city": "STANGE",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "f77b5834-5e5f-4171-a6a4-7a587fbd7ca8",
+    "name": "FVK/NASAK, Karasjok",
+    "address": "Fitnodatgeaidnu 41-43",
+    "postal_code": "9730",
+    "city": "Karasjok",
+    "region": "Nord",
+    "unit_type_derived": null,
+    "lokalisering_id": "1202"
+  },
+  {
+    "property_id": "4cf2a0d0-2513-4f27-a985-e22ac804d5e0",
+    "name": "Rådhusgata 16, 1380 Askim",
+    "address": "Rådhusgata 16",
+    "postal_code": "1830",
+    "city": "Askim",
+    "region": "Øst",
+    "unit_type_derived": null,
+    "lokalisering_id": "5958"
+  },
+  {
+    "property_id": "a934f7b2-2f30-4ab1-92d6-462d724198eb",
+    "name": "Fana og Ytrebygda ungdomssenter avd. Skjold",
+    "address": "Skjoldvegen 51-55",
+    "postal_code": "5221",
+    "city": "NESTTUN",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "453202"
+  },
+  {
+    "property_id": "43a31a6f-a243-4b5a-9506-51ebb9ba1a61",
+    "name": "Kirkenær barnevern- og omsorgssenter Avdeling Balder",
+    "address": "Jernbanevegen 70",
+    "postal_code": "2260",
+    "city": "KIRKENÆR",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "232812"
+  },
+  {
+    "property_id": "b7ba206e-e99f-4a16-a4e6-49ce53221bd3",
+    "name": "Granhaugen",
+    "address": "Prestegådslia 2",
+    "postal_code": "7170",
+    "city": "ÅFJORD",
+    "region": "Midt-Norge",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "447e90d5-4ce3-4df9-b1ce-41358e959e9d",
+    "name": "Ideell",
+    "address": "Vik 30",
+    "postal_code": "4885",
+    "city": "GRIMSTAD",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "43fcb8fe-2135-46ec-aa9f-f9eaec537eb5",
+    "name": "Avd. Kompasset, BF Kompasset",
+    "address": "Tors veg 4",
+    "postal_code": "7032",
+    "city": "TRONDHEIM",
+    "region": "Midt-Norge",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "46c161ea-8dfc-4d8f-bfeb-793ee1941b51",
+    "name": "Stendi Område Sør og Vest",
+    "address": "Ospedalen 268",
+    "postal_code": "5308",
+    "city": "KLEPPESTØ",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "63ac87b6-e0fb-499f-9471-00f4acebc8cc",
+    "name": "Bufdir Hovedkontor",
+    "address": "Fredrik Selmers vei 3",
+    "postal_code": "0663",
+    "city": "Oslo",
+    "region": "Bufdir",
+    "unit_type_derived": null,
+    "lokalisering_id": "6121"
+  },
+  {
+    "property_id": "aed6cd3e-fbc1-46b8-8b49-b5609dbc4175",
+    "name": "Justøya",
+    "address": "Justøyveien 493",
+    "postal_code": "4780",
+    "city": "BREKKESTØ",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "4718"
+  },
+  {
+    "property_id": "46d300fd-775d-4b39-8011-8b5be6776890",
+    "name": "Hus 131",
+    "address": "Myrakollen 16",
+    "postal_code": "6390",
+    "city": "VESTNES",
+    "region": "Midt-Norge",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "4706fb58-bfa7-4391-9190-518af8e4d0e0",
+    "name": "Billingstad",
+    "address": "Åstadbakken 32",
+    "postal_code": "1341",
+    "city": "SLEPENDEN",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "c06dc87e-21b6-413d-add9-a09345939cb2",
+    "name": "Ungdomsheimen",
+    "address": "Husafjellet 6",
+    "postal_code": "6009",
+    "city": "ÅLESUND",
+    "region": "Midt-Norge",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "2406"
+  },
+  {
+    "property_id": "47197a05-084e-438c-be85-7284bcc28cc4",
+    "name": "Bufetats behandlingssenter Akershus_Østfold, avd Østlund",
+    "address": "Grimstadtunet 27",
+    "postal_code": "1746",
+    "city": "SKJEBERG",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "237106"
+  },
+  {
+    "property_id": "c0a26dcd-b482-4ba5-bad3-3245b6ebeb76",
+    "name": "Fagertun Norsk Folkehjelp",
+    "address": "Furnesveien 128",
+    "postal_code": "2318",
+    "city": "HAMAR",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "b2763326-fda4-41bb-b662-35c8ecea583e",
+    "name": "Karienborg, Langtidsavdelingen",
+    "address": "Okkenhaugvn 13B",
+    "postal_code": "7604",
+    "city": "LEVANGER",
+    "region": "Midt-Norge",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "531001"
+  },
+  {
+    "property_id": "4775816d-f7c6-4505-ba83-7995071b6005",
+    "name": "Himmelblå AS",
+    "address": "Høyåstoppen 5",
+    "postal_code": "3727",
+    "city": "SKIEN",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "c4d1ad59-2725-45b5-a33f-08757051ec45",
+    "name": "Havgløtt",
+    "address": "Hangerslettveien 398",
+    "postal_code": "7070",
+    "city": "BOSBERG",
+    "region": "Midt-Norge",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "b6ae6405-22ef-43e4-8cb2-6e8db7c815c4",
+    "name": "Skatval ungdomssenter",
+    "address": "Forbordsfjellveien 119",
+    "postal_code": "7510",
+    "city": "SKATVAL",
+    "region": "Midt-Norge",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "541105"
+  },
+  {
+    "property_id": "c8b50256-86b4-4e20-8545-129cb60c5cf9",
+    "name": "Skott",
+    "address": "Skotselvvegen 226B",
+    "postal_code": "3302",
+    "city": "HOKKSUND",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "c6be9e74-5841-493c-8ca0-bfc595516dbd",
+    "name": "Gullhella - Team for tverrfaglig helsekartlegging",
+    "address": "Korpåsen 172",
+    "postal_code": "1386",
+    "city": "ASKER",
+    "region": "Øst",
+    "unit_type_derived": "Utredningsteam",
+    "lokalisering_id": "5917"
+  },
+  {
+    "property_id": "caf1147e-864d-4ac3-9e71-ada76e4be1c7",
+    "name": "Høybråten bofelleskap",
+    "address": "Ruths vei 23",
+    "postal_code": "0980",
+    "city": "OSLO",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "2c1227fd-959e-429d-9eea-e463c78b9e79",
+    "name": "Haralosen 2",
+    "address": null,
+    "postal_code": "2450",
+    "city": "RENA",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "cc46573d-d19e-4672-8999-f75269425371",
+    "name": "Aberia Ung - Østfold",
+    "address": "Oslogata 6B og C",
+    "postal_code": "1610",
+    "city": "FREDRIKSTAD",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "b896d209-db38-4470-8f9c-75dea1494b9c",
+    "name": "Innlandet Barnevernsenter avdeling Sandvig",
+    "address": "Øverbyveien 88-104",
+    "postal_code": "2819",
+    "city": "GJØVIK",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "235402"
+  },
+  {
+    "property_id": "be5698f7-3726-4bc5-98d5-07ef97764097",
+    "name": "Knuten",
+    "address": "Frogsvei 21-27",
+    "postal_code": "3611",
+    "city": "KONGSBERG",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "333902"
+  },
+  {
+    "property_id": "cd705961-247a-4e6c-9ba0-0b31d1ced6d1",
+    "name": "Groos",
+    "address": "Landgraffsvei 12",
+    "postal_code": "4879",
+    "city": "GRIMSTAD",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "ccdb3b79-2b12-4479-9501-fdce335fbf07",
+    "name": "beredskapshjemmene i Bergen og Førde",
+    "address": "Solheimsgaten 11",
+    "postal_code": "5058",
+    "city": "BERGEN",
+    "region": "Vest",
+    "unit_type_derived": "Utredningsteam",
+    "lokalisering_id": "3534"
+  },
+  {
+    "property_id": "cedf8508-cab2-4ced-a650-98e8db76abb4",
+    "name": "Huset Bofellesskap",
+    "address": "Hofsjef Løvenskiolds vei",
+    "postal_code": "0382",
+    "city": "OSLO",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "b9fe4a95-4de1-4cfc-b632-0760886e8505",
+    "name": "Sogn og Fjordane ungdomssenter avdeling Bregnetunet behandling høy",
+    "address": "Bregnetunet 15",
+    "postal_code": "6812",
+    "city": "FØRDE",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "3518"
+  },
+  {
+    "property_id": "4af09d69-15a8-413a-a46f-9ff1a6ecc199",
+    "name": "Østfold ungdoms- og familiesenter - omsorg, avdeling Tune ungdomshjem",
+    "address": "Ugleveien 1",
+    "postal_code": "1712",
+    "city": "GRÅLUM",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "232707"
+  },
+  {
+    "property_id": "4a541779-5ce2-4428-a85d-9b5dc99e701d",
+    "name": "Cura Kompetanse AS",
+    "address": "Mosserødveien 53",
+    "postal_code": "3226",
+    "city": "SANDEFJORD",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "4c912f75-3f57-41c9-b0f4-a61e8da68d20",
+    "name": "Statlig",
+    "address": "Raveien 345E",
+    "postal_code": "3220",
+    "city": "SANDEFJORD",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "c1d4f513-d858-422d-aacd-237e4083c9dc",
+    "name": "Kasa Ungdomssenter avd. Tertnes",
+    "address": "Tertneshøyden 33b",
+    "postal_code": "5113",
+    "city": "TERTNES",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "3507"
+  },
+  {
+    "property_id": "50366a05-798c-4b98-8f70-3bd142ea9ebe",
+    "name": "Gården",
+    "address": "Høgda 40",
+    "postal_code": "1820",
+    "city": "SPYDEBERG",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "50bc8ce3-159a-4846-9ca9-e7138ae3413e",
+    "name": "Helleberg",
+    "address": "Mårvegen 15",
+    "postal_code": "4347",
+    "city": "LYE",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "50ed300c-22d7-4ce9-bfb8-181514163132",
+    "name": "Humana Barnevern Øst",
+    "address": "Mastebakke 65",
+    "postal_code": "3184",
+    "city": "BORRE",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "c7ef4b8d-fb42-4f2e-a18e-f75877fc719e",
+    "name": "Akershus ungdoms- og familiesenter - akutt, avd Sole",
+    "address": "Njordsvei 11",
+    "postal_code": "1540",
+    "city": "VESTBY",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "236104"
+  },
+  {
+    "property_id": "d59d2ea4-0091-49f9-8fc0-8de08587b78e",
+    "name": "Stendi Område Sør og Vest",
+    "address": "Sola Prestegårdsvei 100",
+    "postal_code": "4050",
+    "city": "SOLA",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "04264ce4-f4a6-449a-b52c-453cb4d0b9e0",
+    "name": "Vårheim",
+    "address": "Vestre Toten veg 1231",
+    "postal_code": "2846",
+    "city": "BØVERBRU",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "d06a3e8e-85c9-43c7-a2c0-2fb991589df2",
+    "name": "Røvika ungdomssenter Skogly",
+    "address": "Røvikveien 21",
+    "postal_code": "8214",
+    "city": "FAUSKE",
+    "region": "Nord",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "1104"
+  },
+  {
+    "property_id": "546202d7-f8eb-430a-8814-f07bc1018517",
+    "name": "Sivle",
+    "address": "Per Sivles vei 5",
+    "postal_code": "1511",
+    "city": "MOSS",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "53169438-154b-4899-92b6-3e722ced5ca6",
+    "name": "Haraldsplass Serio Ung Region Agder og Rogaland",
+    "address": "Langenesveien 129",
+    "postal_code": "4640",
+    "city": "SØGNE",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "0158f026-1a9c-4c17-9fa5-872519bd9b5a",
+    "name": "Stendi Område Øst",
+    "address": "Ertevannsveien 1098",
+    "postal_code": "1890",
+    "city": "RAKKESTAD",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "d9f6be50-917e-4854-be89-bc3692d90027",
+    "name": "Bjørgvin Ungdomssenter, avd. Bønesstølen",
+    "address": "Bønesstølen 13",
+    "postal_code": "5154",
+    "city": "BØNES",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "442702"
+  },
+  {
+    "property_id": "d40af4c8-9944-470d-92a8-286508d98911",
+    "name": "AVVIKLES -  Eikelund US avd. beh. høy",
+    "address": "Sandbrekkvegen 27",
+    "postal_code": "5231",
+    "city": "PARADIS",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "445402"
+  },
+  {
+    "property_id": "6645f7f4-c796-4626-88f9-28a979c1ff1c",
+    "name": "Katfoss",
+    "address": "Ilaugveien 1",
+    "postal_code": "3360",
+    "city": "Geithus",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "4903"
+  },
+  {
+    "property_id": "7df60875-2b81-43c9-af5e-4424fcfe91c0",
+    "name": "Foreldre og barn Stavanger",
+    "address": "Torleiv Kvalviks gate 9",
+    "postal_code": "4022",
+    "city": "Stavanger",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "3601"
+  },
+  {
+    "property_id": "2a59703a-d8f8-404c-b65f-ffe2b21d6ea8",
+    "name": "Skjoldvegen barnevernsenter avd. Fyllingsdalen",
+    "address": "Vestlundveien 22a",
+    "postal_code": "5145",
+    "city": "FYLLINGSDALEN",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "3524"
+  },
+  {
+    "property_id": "5605f306-c6f1-4baa-a3c3-68cadc5fa8df",
+    "name": "Aberia Ung Sør - Agder",
+    "address": "Lillemyr 9",
+    "postal_code": "4879",
+    "city": "GRIMSTAD",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "2c4afec7-9e04-43d2-a663-a216ae82b7fe",
+    "name": "Stavanger ungdomssenter - avd. Lindøy",
+    "address": "Lindøy 1",
+    "postal_code": "4013",
+    "city": "STAVANGER",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "432203"
+  },
+  {
+    "property_id": "822d911a-efd2-472e-b67c-d8f0587290d7",
+    "name": "Stenliveien 7, 1784 Halden",
+    "address": "Stenliveien 7",
+    "postal_code": "1784",
+    "city": "Halden",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "5949"
+  },
+  {
+    "property_id": "5621bb68-b9b2-4e84-8bac-3a0b8e06e607",
+    "name": "TEST - Birk-AD - Barn 1",
+    "address": "Anton Jenssens gate 5",
+    "postal_code": "3125",
+    "city": "TØNSBERG",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "30507bce-f155-49b2-b57f-e8f693444707",
+    "name": "Aberia Ung - Østfold",
+    "address": "Evjestien 16",
+    "postal_code": "1663",
+    "city": "ROLVSØY",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "c82cf2cd-7f3a-48bd-a653-6cbe934f69dc",
+    "name": "Alta storbakken Hybel",
+    "address": "Storbakken 64",
+    "postal_code": "9515",
+    "city": "ALTA",
+    "region": "Nord",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "1972740e-9933-4490-ac11-353967ff78d5",
+    "name": "Hilde Hasle",
+    "address": "Lyderhornslien 73",
+    "postal_code": "5178",
+    "city": "LODDEFJORD",
+    "region": "Vest",
+    "unit_type_derived": "Støttefamilie",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "585c92c4-4143-409c-bf6c-1bb843c92145",
+    "name": "Sunnmørsheimen ungdomsheim, avd. Nygardsvegen",
+    "address": "Nygardsvegen 2",
+    "postal_code": "6103",
+    "city": "VOLDA",
+    "region": "Midt-Norge",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "543301"
+  },
+  {
+    "property_id": "5b9b5a87-b90e-4ad1-bf3d-06a0c01fd27f",
+    "name": "Gimle bofellesskap",
+    "address": "Njords veg 49",
+    "postal_code": "9019",
+    "city": "TROMSØ",
+    "region": "Nord",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "5c82ba87-9138-4096-9307-44f55d50a143",
+    "name": "Hølen",
+    "address": "Brandstadveien 96",
+    "postal_code": "1550",
+    "city": "HØLEN",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "5d313cbf-e45c-4daf-8ad4-002a0abefda0",
+    "name": "Vormsund",
+    "address": "Røavegen 304",
+    "postal_code": "2160",
+    "city": "VORMSUND",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "5d383fdd-58ac-4561-a99a-7c815d937dda",
+    "name": "Lierfoss ungdoms- og familiesenter - avdeling Skogtun",
+    "address": "Storveien 1408",
+    "postal_code": "1950",
+    "city": "RØMSKOG",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "232611"
+  },
+  {
+    "property_id": "4e2851da-f658-4e5c-99b4-a48625028697",
+    "name": "Snytasvingen, 3519 Hønefoss",
+    "address": "Askveien 132",
+    "postal_code": "3519",
+    "city": "Hønefoss",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "5926"
+  },
+  {
+    "property_id": "0bb2827c-c320-43b5-91ac-d75ffd0b07eb",
+    "name": "Tveit",
+    "address": "Birkelandsveien 2171",
+    "postal_code": "4658",
+    "city": "TVEIT",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "352403aa-d8b5-4855-bc8f-484740d6d678",
+    "name": "Østfold ungdoms- og familiesenter - avdeling Fossen",
+    "address": "Skolegata 53",
+    "postal_code": "1724",
+    "city": "SARPSBORG",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "232710"
+  },
+  {
+    "property_id": "3c484a9c-69c1-4cff-a112-d5581b737ca0",
+    "name": "Lier",
+    "address": "Myraveien 26A",
+    "postal_code": "3425",
+    "city": "REISTAD",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "5f2e4606-9f35-46a8-a3f9-33e83a6a5b71",
+    "name": "Birkenlund",
+    "address": "Ridebaneveien 6",
+    "postal_code": "4843",
+    "city": "ARENDAL",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "601fbe35-e06a-412c-8926-b1d331c712a7",
+    "name": "Alta Ungdomssenter sjøtun",
+    "address": "Strandveien 12",
+    "postal_code": "9513",
+    "city": "ALTA",
+    "region": "Nord",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "611901"
+  },
+  {
+    "property_id": "d34979da-4b1f-46d0-96b3-b1266a9f731f",
+    "name": "St. Hansgården",
+    "address": "Bispegra 52",
+    "postal_code": "4632",
+    "city": "KRISTIANSAND S",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "4701"
+  },
+  {
+    "property_id": "be083c31-bc5e-479b-9f16-b5688b5f12ba",
+    "name": "Viktoria familiesenter",
+    "address": "Østmarkveien 26 D/E",
+    "postal_code": "7040",
+    "city": "Trondheim",
+    "region": "Midt-Norge",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "2315"
+  },
+  {
+    "property_id": "61362483-c5c9-4f74-b34e-27ddab66040c",
+    "name": "Østfold Ungdoms- og familiesenter avd Hjemmebasert",
+    "address": "Violgata 8",
+    "postal_code": "1776",
+    "city": "HALDEN",
+    "region": "Øst",
+    "unit_type_derived": "Oppfølgingsteam",
+    "lokalisering_id": "232708"
+  },
+  {
+    "property_id": "07276949-848c-4fa8-9f3b-4aed07fd21b6",
+    "name": "Engelsåsen",
+    "address": "Engelåsvegen 389",
+    "postal_code": "7039",
+    "city": "TRONDHEIM",
+    "region": "Midt-Norge",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "63111101-c830-473b-b576-35f9eebf8e50",
+    "name": "Syrinveien",
+    "address": "Syrinvegen 14",
+    "postal_code": "5535",
+    "city": "HAUGESUND",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "414bdc29-127d-4f77-8a93-e10f4c552e95",
+    "name": "Åsvangveien 2A",
+    "address": null,
+    "postal_code": "7049",
+    "city": "Trondheim",
+    "region": "Midt-Norge",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "2342"
+  },
+  {
+    "property_id": "66bae8f3-d24e-4b13-97dd-7c8514161c66",
+    "name": "Olsvik Nord",
+    "address": "Olsvikskjenet 63",
+    "postal_code": "5184",
+    "city": "OLSVIK",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "ac1348ff-a869-4ab6-83d1-c955e561d178",
+    "name": "Thorøya Vaktmesterbolig",
+    "address": "Thorøyaveien 1 ",
+    "postal_code": "3209",
+    "city": "Sandefjord",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "19aafc4b-2f41-4565-9e3b-97b82729c2ee",
+    "name": "Josiana Grønslet",
+    "address": "Smedbakken 7",
+    "postal_code": "1890",
+    "city": "RAKKESTAD",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "d7be3080-ef92-4e24-82d3-80283a64954e",
+    "name": "Hedmark ungdoms- og familiesenter - akutt, avd Vien 1",
+    "address": "Klukevegen 30",
+    "postal_code": "2318",
+    "city": "HAMAR",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "5110"
+  },
+  {
+    "property_id": "44c79017-0a59-4720-bdd8-0d5b7ffa1a91",
+    "name": "Marianne Heen",
+    "address": "Solsidevegen 66",
+    "postal_code": "6006",
+    "city": "ÅLESUND",
+    "region": "Midt-Norge",
+    "unit_type_derived": "Støttefamilie",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "2666c8ed-31cb-459e-a35b-61aa2d34aa02",
+    "name": "Gilantunet ungdomshjem (oppsagt)",
+    "address": "Konstadlykkjvegen 55",
+    "postal_code": "7213",
+    "city": "Gåsbakken",
+    "region": "Midt-Norge",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "2325"
+  },
+  {
+    "property_id": "e103ebfa-80aa-44d1-8d4b-5d59e2d84f65",
+    "name": "Forbordsfjellvegen 119",
+    "address": null,
+    "postal_code": "7510",
+    "city": "Skatval",
+    "region": "Midt-Norge",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "2343"
+  },
+  {
+    "property_id": "1bc6da2e-abde-4420-a25c-53e390abca05",
+    "name": "Stendi Område Øst",
+    "address": "Ødegårdsvei 36",
+    "postal_code": "1470",
+    "city": "LØRENSKOG",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "37533dc4-c3ea-4e76-9c27-9086aec9c7c1",
+    "name": "Bodø behandlingssenter avdeling 3",
+    "address": "Rønvikveien 9",
+    "postal_code": "8009",
+    "city": "BODØ",
+    "region": "Nord",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "634803"
+  },
+  {
+    "property_id": "694dfd5a-78c9-4903-8eaa-ae52fd37e414",
+    "name": "Sæbytunet",
+    "address": "Missingmyrveien 78, 1593 Svinndal",
+    "postal_code": "1593",
+    "city": "SVINNDAL",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "22f1c7d7-8370-44f9-a85a-6c110fac7330",
+    "name": "Stendi Område Sør og Vest",
+    "address": "Løbergsveien 113 pb 11 Slåtth.",
+    "postal_code": "5073",
+    "city": "BERGEN",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "d1d05727-46d9-41b2-9ccf-aff3d714322f",
+    "name": "Stendi Område Sør og Vest",
+    "address": "Unnelandsvn 297, pb 11 Slåttha",
+    "postal_code": "5268",
+    "city": "HAUKELAND",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "4569715a-a204-4c03-ab49-3c422b4d34b0",
+    "name": "Tanem",
+    "address": "Plogvegen 3",
+    "postal_code": "7549",
+    "city": "TANEM",
+    "region": "Midt-Norge",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "5823eb50-794b-47bb-8fee-69323ca081ea",
+    "name": "Skogtun bofellesskap",
+    "address": "Målsnesveien 396",
+    "postal_code": "9321",
+    "city": "MOEN",
+    "region": "Nord",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "f0831c60-192d-4f41-9863-520dbe471caa",
+    "name": "Kantum",
+    "address": "Baneveien  19",
+    "postal_code": "3300",
+    "city": "Hokksund",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "4902"
+  },
+  {
+    "property_id": "688be43e-7eff-46ed-8631-340533f761f7",
+    "name": "Lierfoss ungdoms- og familiesenter - omsorg Furulia ungdomshjem",
+    "address": "Liaveien 2",
+    "postal_code": "1930",
+    "city": "AURSKOG",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "5919"
+  },
+  {
+    "property_id": "d7541108-7370-491a-afa9-7635bda48375",
+    "name": "Stjørdal Ungdomssenter - Boenhet",
+    "address": "Kirkeveien 33",
+    "postal_code": "7501",
+    "city": "STJØRDAL",
+    "region": "Midt-Norge",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "2331"
+  },
+  {
+    "property_id": "6a0c639f-17fc-4bee-8271-508eba525a0d",
+    "name": "Vikersund",
+    "address": "Flatlivegen 6",
+    "postal_code": "3370",
+    "city": "VIKERSUND",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "5ded71e5-cba9-44d3-9d4a-9a992b888b9c",
+    "name": "AVVIKLES -  Kasa ungdomssenter, avd. Sandsli",
+    "address": "Aurdalslia 96",
+    "postal_code": "5253",
+    "city": "SANDSLI",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "3501"
+  },
+  {
+    "property_id": "6a9d2f46-da39-487f-a3e6-e50382e0dc04",
+    "name": "Seterhøyveien ved Munkerud bofellesskap",
+    "address": "Seterhøyveien 27d",
+    "postal_code": "1176",
+    "city": "OSLO",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "6d3e596f-78e0-49d3-a102-580a62c6c9ee",
+    "name": "Solsvingen",
+    "address": "Molvikveien 32",
+    "postal_code": "1550",
+    "city": "HØLEN",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "6d7a570d-a346-45c1-8686-83241d68fcc4",
+    "name": "Rissa",
+    "address": "Hertug Skules vei 3",
+    "postal_code": "7100",
+    "city": "RISSA",
+    "region": "Midt-Norge",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "6e3928b4-5f6a-4e9b-91a3-34d7c5267242",
+    "name": "Rossåsen",
+    "address": "Rossåskroken 9",
+    "postal_code": "4332",
+    "city": "FIGGJO",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "6e5e6626-0f0f-40b5-ba7b-02dcfead2e9d",
+    "name": "Klavestadhaugen",
+    "address": "Nedre Langgate 74",
+    "postal_code": "1743",
+    "city": "KLAVESTADHAUGEN",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "703281ea-2c49-4df3-8f7e-7fc892fad7f9",
+    "name": "Fosterhjemstjeneste Steinkjer, Inntak Steinkjer",
+    "address": "Bomveien 3",
+    "postal_code": "7725",
+    "city": "Steinkjer",
+    "region": "Midt-Norge",
+    "unit_type_derived": null,
+    "lokalisering_id": "2338"
+  },
+  {
+    "property_id": "7045dd96-b96c-4378-8ab8-4aab9dc9c39a",
+    "name": "Lille Rud",
+    "address": "Nedre Damvei 38",
+    "postal_code": "1820",
+    "city": "SPYDEBERG",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "70d8ab53-f6a3-401a-9035-c7ae70dd4685",
+    "name": "Ramstadsletta akuttinstitusjon 1",
+    "address": "Ramstadsletta 27",
+    "postal_code": "1363",
+    "city": "HØVIK",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "71f5a08f-cf60-4b58-8c18-2a55db108d2e",
+    "name": "Kragerø",
+    "address": "Barmsøyveien 2",
+    "postal_code": "3790",
+    "city": "HELLE",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "35b95d69-6ebe-465b-8598-953d8a917339",
+    "name": "Stavanger akutt Madla",
+    "address": "Kompani Lingesvei 23",
+    "postal_code": "4045",
+    "city": "Hafrsfjord",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "3603"
+  },
+  {
+    "property_id": "d56dcc5b-6f7c-4736-943e-7d20d21d4852",
+    "name": "Ramsrudveien 32, 3518 Hønefoss",
+    "address": "Ramsrudveien 32",
+    "postal_code": "3518",
+    "city": "Hønefoss",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "5929"
+  },
+  {
+    "property_id": "66100e87-ab65-4431-8fed-978a13cdbcfb",
+    "name": "Strøno",
+    "address": "Sørstrøno 216",
+    "postal_code": "5217",
+    "city": "HAGAVIK",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "72cb96e5-46bd-4568-aab8-2cd2804dddb6",
+    "name": "Slottet akuttinstitusjon",
+    "address": "Ramstadsletta 31",
+    "postal_code": "1363",
+    "city": "HØVIK",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "738f9169-7db3-403e-b8e8-76d9551f0b3b",
+    "name": "Sannidal",
+    "address": "Krokenveien 59",
+    "postal_code": "3766",
+    "city": "SANNIDAL",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "74fed63c-5374-4bef-beb4-c90eec2b09b2",
+    "name": "Ørentoppen",
+    "address": "Hotvetveien 134",
+    "postal_code": "3023",
+    "city": "DRAMMEN",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "758f1782-e8ad-478d-a657-b49159f7a2dc",
+    "name": "Hevingen",
+    "address": "Svartedalsberget 39",
+    "postal_code": "1739",
+    "city": "BORGENHAUGEN",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "76ab0023-f3ae-40c4-88a1-4e76cd1e1901",
+    "name": "Myklebostad",
+    "address": "Midnattsolveien 853",
+    "postal_code": "8016",
+    "city": "BODØ",
+    "region": "Nord",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "77a52094-43f1-4aa8-ad6b-7697fb051ddf",
+    "name": "Jong ungdoms- og familiesenter, avd Åsen",
+    "address": "Emma Hjorths vei 60",
+    "postal_code": "1336",
+    "city": "SANDVIKA",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "237203"
+  },
+  {
+    "property_id": "789d9c82-9d87-4558-8732-936ed960e3e3",
+    "name": "Kirkenær barnevern- og omsorgssenter Snorre ungdomshjem",
+    "address": "Gartnerivegen 8",
+    "postal_code": "2260",
+    "city": "KIRKENÆR",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "232805"
+  },
+  {
+    "property_id": "7794035c-0e04-429f-95e0-23ad4613f1d5",
+    "name": "Voss Barnevernsenter",
+    "address": "Øvrebøvegen 17",
+    "postal_code": "5710",
+    "city": "SKULESTADMO",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "5da7eeda-27a2-4d76-bada-8e8e0db30877",
+    "name": "Grindvold",
+    "address": "Mor Åses vei 15",
+    "postal_code": "1535",
+    "city": "MOSS",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "6b7ebde8-8b81-4717-a0fb-315d725b6389",
+    "name": "Stavanger akuttsenter - Røyneberg",
+    "address": "Marknesringen 48",
+    "postal_code": "4052",
+    "city": "RØYNEBERG",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "3605"
+  },
+  {
+    "property_id": "7abe25ac-d08a-4754-8197-3b1e570251a4",
+    "name": "Bodø Familievernkontor",
+    "address": "Storgata 27/29",
+    "postal_code": "8006",
+    "city": "Bodø",
+    "region": "Nord",
+    "unit_type_derived": null,
+    "lokalisering_id": "1112"
+  },
+  {
+    "property_id": "7bc51c8e-e44a-4113-ac98-86569bc972f6",
+    "name": "Bjørndalsvegen 178, 2150 Årnes",
+    "address": "Bjørndalsvegen 178",
+    "postal_code": "2150",
+    "city": "Årnes",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "5956"
+  },
+  {
+    "property_id": "7bf0d132-3fd6-4e02-b39b-96683511638a",
+    "name": "Gaupefjell ungdomsinstitusjon",
+    "address": "Bjørnelia 54",
+    "postal_code": "1453",
+    "city": "BJØRNEMYR",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "7e5f2def-ae8e-4f2b-9d90-0fbd2044ae73",
+    "name": "Sølvsmia bofellesskap",
+    "address": "Kjerresnesveien 9",
+    "postal_code": "9322",
+    "city": "KARLSTAD",
+    "region": "Nord",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "7eb85e83-ec18-4a76-9fa9-29799034fc56",
+    "name": "Lundarhovden",
+    "address": "Strandavegen 193",
+    "postal_code": "5710",
+    "city": "SKULESTADMO",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "7f4a2bac-7c30-4672-b6d2-ef443d3a2771",
+    "name": "Avdeling Vivestad",
+    "address": "Bårnesveien 1",
+    "postal_code": "3175",
+    "city": "RAMNES",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "80006add-5d00-4715-86d5-01f60034f6ee",
+    "name": "Hakastein Bofellesskap",
+    "address": "Hakasteinvegen 27",
+    "postal_code": "3728",
+    "city": "SKIEN",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "807e1e74-de16-459f-86a4-5d0485a21f21",
+    "name": "Risvika Bofellesskap",
+    "address": "Kvaløyvågvegen 750",
+    "postal_code": "9100",
+    "city": "KVALØYSLETTA",
+    "region": "Nord",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "814bfdaa-f838-4e34-ac84-c764e95daf47",
+    "name": "Bakkane gård",
+    "address": "Bakkane 17",
+    "postal_code": "3728",
+    "city": "SKIEN",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "820792dd-f380-4428-b2b9-b315f9702515",
+    "name": "ESF, FHT, RK, beredskapshjem, Tromsø",
+    "address": "Storgata 70",
+    "postal_code": "9008",
+    "city": "Tromsø",
+    "region": "Nord",
+    "unit_type_derived": null,
+    "lokalisering_id": "1209"
+  },
+  {
+    "property_id": "7b8bf0d2-836c-4d5e-9345-7deb113f8bc2",
+    "name": "Eikelund ungdomssenter",
+    "address": "Sandbrekkevegen 27",
+    "postal_code": "5231",
+    "city": "Paradis",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "3560"
+  },
+  {
+    "property_id": "833e8992-2e74-40f2-901e-8a893cd068b8",
+    "name": "Villa Kråkebakken",
+    "address": "Munkestø 5",
+    "postal_code": "4823",
+    "city": "NEDENES",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "85049c54-c4ab-4937-afd9-7300280b45e6",
+    "name": "Bodø behandlingssenter Landegode",
+    "address": "Rønvikveien 9",
+    "postal_code": "8009",
+    "city": "BODØ",
+    "region": "Nord",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "634802"
+  },
+  {
+    "property_id": "85cfa5ea-0315-4fdc-8eff-df466773a216",
+    "name": "Raskenlund Bofellesskap",
+    "address": "Tverrvegen 6",
+    "postal_code": "3928",
+    "city": "PORSGRUNN",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "86fafa26-532c-418a-a743-737bdf99af43",
+    "name": "Hølen",
+    "address": "Gjølstadveien 141",
+    "postal_code": "1550",
+    "city": "HØLEN",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "874c605b-754b-4319-aa26-8feb18362ab0",
+    "name": "Helleåsveien",
+    "address": "Helleåsvegen 5",
+    "postal_code": "3950",
+    "city": "BREVIK",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "8863b033-437a-4caf-bca2-8d3ac82f3ec5",
+    "name": "Birkeland (Urdalsveien)",
+    "address": "Urdalsveien 38",
+    "postal_code": "4760",
+    "city": "BIRKELAND",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "8871745c-e7a4-4f6c-ab2a-78b90683db38",
+    "name": "Bakkeveien Bofellesskap",
+    "address": "Vannveien 5",
+    "postal_code": "9518",
+    "city": "ALTA",
+    "region": "Nord",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "8a17fbf5-a608-4626-a88b-6b6a8d563b62",
+    "name": "Heimstad",
+    "address": "Sundsmyrveien 1",
+    "postal_code": "7100",
+    "city": "RISSA",
+    "region": "Midt-Norge",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "8a260379-d5c5-4c88-a57c-351cfabee128",
+    "name": "Lille Frankrike",
+    "address": "Valleveien 1547",
+    "postal_code": "3960",
+    "city": "STATHELLE",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "005dcb0c-b7be-4c88-8f64-7cb38ce456bc",
+    "name": "Foreldre og barn Førde - Blåklokka",
+    "address": "Svanehaugvegen 3",
+    "postal_code": "6812",
+    "city": "Førde",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "3508"
+  },
+  {
+    "property_id": "8d4f529e-2e58-4cb1-aefe-4a17cb5218f5",
+    "name": "Femmælen",
+    "address": null,
+    "postal_code": "5710",
+    "city": "SKULESTADMO",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "8db9fa81-0ed7-446e-85a5-b96b4c680da3",
+    "name": "Humana Barnevern Kristiansand",
+    "address": "Vågsbygd Ringvei 26",
+    "postal_code": "4620",
+    "city": "KRISTIANSAND S",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "8a4ef60a-230b-45ce-8e79-c40b1be55a5c",
+    "name": "Bodø behandlingssenter Sandhornet",
+    "address": "Rønvikveien 9",
+    "postal_code": "8009",
+    "city": "BODØ",
+    "region": "Nord",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "634801"
+  },
+  {
+    "property_id": "8c622ed3-dea1-4295-bc3e-4ae40bef1141",
+    "name": "Sjøly",
+    "address": "Indre Kulen 59",
+    "postal_code": "6718",
+    "city": "DEKNEPOLLEN",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "8d632e88-7f85-4e71-a239-553f2972fed0",
+    "name": "Sagberget",
+    "address": "Ormhaugen 1",
+    "postal_code": "7350",
+    "city": "BUVIKA",
+    "region": "Midt-Norge",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "8ffa77d7-8489-4f58-a4d3-fd7f2967febb",
+    "name": "Rogalandgata 35 C",
+    "address": "Rogalandgata 35",
+    "postal_code": "5531",
+    "city": "HAUGESUND",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "8a6d0197-1df4-4cd0-80c1-df248b01b9bb",
+    "name": "Cura Kompetanse AS",
+    "address": "Bettumveien 224",
+    "postal_code": "3178",
+    "city": "VÅLE",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "f51921e4-82f6-41e8-bc9c-1d332ef2650b",
+    "name": "Pirsenteret - Regionkontor",
+    "address": "Havnegata 9",
+    "postal_code": "7010",
+    "city": "Trondheim",
+    "region": "Midt-Norge",
+    "unit_type_derived": null,
+    "lokalisering_id": "2341"
+  },
+  {
+    "property_id": "e4a46d3c-d1a4-4816-8761-db333473e552",
+    "name": "Bufetathus Stavanger",
+    "address": "Lagårdsveien 44",
+    "postal_code": "4010",
+    "city": "Stavanger",
+    "region": "Vest",
+    "unit_type_derived": null,
+    "lokalisering_id": "3608"
+  },
+  {
+    "property_id": "8203ccf2-21f5-4d5a-834e-4e3367cf5137",
+    "name": "Låven",
+    "address": "Sagbruksvegen 53",
+    "postal_code": "2413",
+    "city": "ELVERUM",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "92017545-8266-469f-be02-1f56faeb719e",
+    "name": "Stavset",
+    "address": "Alfheimsvingen 17",
+    "postal_code": "7026",
+    "city": "TRONDHEIM",
+    "region": "Midt-Norge",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "9352c5af-9cec-4bdd-a548-6fc4e4451b56",
+    "name": "Solgløtt",
+    "address": "Bolstadhagen 61",
+    "postal_code": "3028",
+    "city": "DRAMMEN",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "9557fe2d-b215-49eb-9127-0c0326b69f1c",
+    "name": "Energiveien 14, 2069 Jessheim",
+    "address": "Energiveien 14",
+    "postal_code": "2069",
+    "city": "Jessheim",
+    "region": "Øst",
+    "unit_type_derived": null,
+    "lokalisering_id": "5914"
+  },
+  {
+    "property_id": "960b373b-2af5-4bd3-b0ca-6558cad1fe1e",
+    "name": "Borgestad",
+    "address": "Håvundvegen 371",
+    "postal_code": "3711",
+    "city": "SKIEN",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "81f7e012-561c-4fb6-90d9-b2ccb00362f0",
+    "name": "Rena Ungdoms- og Familiesenter",
+    "address": "Holmevatnet 6",
+    "postal_code": "6020",
+    "city": "ÅLESUND",
+    "region": "Midt-Norge",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "8744c380-305b-4977-9481-f7c91e4fb843",
+    "name": "Sti Omsorg",
+    "address": "Vingnesgata 16",
+    "postal_code": "2608",
+    "city": "LILLEHAMMER",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "967aa67c-9191-4d7f-8823-d93d94a2db58",
+    "name": "Einaren Bofellesskap",
+    "address": "Nedre Einaren 14",
+    "postal_code": "3744",
+    "city": "SKIEN",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "96f9aca5-dd5a-4d69-85a6-ef0f6f532408",
+    "name": "Humana (tidl Solhaugen Omsorg og behandling AS)",
+    "address": "Solbergfossveien 83",
+    "postal_code": "1814",
+    "city": "ASKIM",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "96eb2452-7a3f-4f59-9b7f-e89c24215887",
+    "name": "Stavanger akuttsenter - Madla",
+    "address": "Kompani Linges vei 23",
+    "postal_code": "4045",
+    "city": "HAFRSFJORD",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "410702"
+  },
+  {
+    "property_id": "9902543c-305e-41b0-8a01-8e1b83e05c5c",
+    "name": "Kambo",
+    "address": "Osloveien 182 B",
+    "postal_code": "1503",
+    "city": "MOSS",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "9b29235b-2ff1-4856-a6af-bfda6ded76b9",
+    "name": "Spind",
+    "address": "Bekkevik 89",
+    "postal_code": "4550",
+    "city": "FARSUND",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "9ce0b68b-69f0-432c-93c8-9d5c6757595e",
+    "name": "Gartneriveien 8, 2260 Kirkenær",
+    "address": "Gartneriveien 8",
+    "postal_code": "9414",
+    "city": "Harstad",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "5120"
+  },
+  {
+    "property_id": "9f50d287-bd5a-4394-b4f8-14fed6bee8b4",
+    "name": "Hus 132",
+    "address": "Myrakollen 16",
+    "postal_code": "6390",
+    "city": "VESTNES",
+    "region": "Midt-Norge",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "9eeb0536-eed6-4255-8e14-ca3fcade3a98",
+    "name": "Haralosen 24",
+    "address": null,
+    "postal_code": "2450",
+    "city": "RENA",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "8abe4502-2650-42ff-9744-d592d020c551",
+    "name": "Sjøhagen",
+    "address": "Postboks 83",
+    "postal_code": "1520",
+    "city": "MOSS",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "55aeb5c1-05ee-431b-b50b-2dcc1095f65c",
+    "name": "Kvæfjord Ungdomssenter avdeling 1",
+    "address": "Heimlyveien 5",
+    "postal_code": "9475",
+    "city": "BORKENES",
+    "region": "Nord",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "633501"
+  },
+  {
+    "property_id": "f8edb751-c3c8-41f2-a85f-a4921c5a06e0",
+    "name": "Sunnmørsheimen avd Nygardsvegen",
+    "address": "Nygardsvegen 2 og 4",
+    "postal_code": "6103",
+    "city": "Volda",
+    "region": "Midt-Norge",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "2412"
+  },
+  {
+    "property_id": "84949637-c081-48cd-be0c-1d15ba74250b",
+    "name": "Hannestad",
+    "address": "Gamle Kirkevei 49",
+    "postal_code": "1617",
+    "city": "FREDRIKSTAD",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "9fb3db83-5137-4449-bb8a-c785d526f923",
+    "name": "Symra",
+    "address": "Osveien 876",
+    "postal_code": "1894",
+    "city": "RAKKESTAD",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "a1634e04-0b94-4a51-becf-4f0a8e89c9e3",
+    "name": "Kvæfjord Ungdomssenter avdeling 2",
+    "address": "Heimlyveien 5",
+    "postal_code": "9475",
+    "city": "BORKENES",
+    "region": "Nord",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "633502"
+  },
+  {
+    "property_id": "a21bf175-a408-4656-889a-7de394b2b3bf",
+    "name": "Leirvik bolig",
+    "address": "Prestlio 7",
+    "postal_code": "5417",
+    "city": "STORD",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "a2f26c27-b877-49a6-bed1-7dd9f1b37004",
+    "name": "Bolli 2",
+    "address": "Bolli Nedre",
+    "postal_code": "6493",
+    "city": "LYNGSTAD",
+    "region": "Midt-Norge",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "a51dca69-58b6-4250-bf2f-63308185f5b9",
+    "name": "Rud",
+    "address": "Karjolkroken 186",
+    "postal_code": "1820",
+    "city": "SPYDEBERG",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "a79b850f-ecc2-4aa2-a8be-cf0174144c41",
+    "name": "Kvammen akuttsenter, avdeling Fannrem",
+    "address": "Ljåmovegen 10",
+    "postal_code": "7320",
+    "city": "FANNREM",
+    "region": "Midt-Norge",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "512003"
+  },
+  {
+    "property_id": "a84f1e72-0d83-40c1-a466-42fb7d6f37f2",
+    "name": "Lauvstø",
+    "address": "Ankerveien 4a",
+    "postal_code": "4876",
+    "city": "GRIMSTAD",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "a9766e2e-d31a-4564-8f53-cd3428025bce",
+    "name": "Blidensol",
+    "address": "Øveråsveien 11",
+    "postal_code": "4016",
+    "city": "STAVANGER",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "aab143e3-cb1a-4419-8eef-88b11e965a87",
+    "name": "Mjelde Bofellesskap",
+    "address": "Breivikeidvegen 1899",
+    "postal_code": "9027",
+    "city": "RAMFJORDBOTN",
+    "region": "Nord",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "ad177c9b-b716-4536-9a33-f1cb1233536e",
+    "name": "Trygg Start AS",
+    "address": "Hunnsvegen 64",
+    "postal_code": "2819",
+    "city": "GJØVIK",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "adda3311-6723-4274-8d59-89be53598d59",
+    "name": "Kantum",
+    "address": "Baneveien 19",
+    "postal_code": "3300",
+    "city": "HOKKSUND",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "310804"
+  },
+  {
+    "property_id": "ae66080f-423c-48ef-a5d5-bad6c08186b5",
+    "name": "Skjergarden",
+    "address": "Skjergardsvegen 1263",
+    "postal_code": "5363",
+    "city": "ÅGOTNES",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "69b4b796-e253-460b-9a78-7679576f7603",
+    "name": "Senter for foreldre og barn, Adm.lokaler",
+    "address": "Frænaveien 16",
+    "postal_code": "6415",
+    "city": "Molde",
+    "region": "Midt-Norge",
+    "unit_type_derived": null,
+    "lokalisering_id": "2402"
+  },
+  {
+    "property_id": "aef8fc51-8de9-4879-a5ee-69036414360c",
+    "name": "Storesund",
+    "address": "Haugen 44",
+    "postal_code": "5567",
+    "city": "SKJOLDASTRAUMEN",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "b013a3bc-97a4-4cfd-aa71-5a5b9b122fb9",
+    "name": "Vibostad",
+    "address": "Vestgrenda 61",
+    "postal_code": "2164",
+    "city": "SKOGBYGDA",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "b0dee7aa-4d06-4874-ab07-7d8b10c9e313",
+    "name": "Drangsholt",
+    "address": "Topdalsveien 530",
+    "postal_code": "4620",
+    "city": "KRISTIANSAND S",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "b186b5a0-372a-4331-80d7-605861055456",
+    "name": "Hotvetveien 57",
+    "address": null,
+    "postal_code": "3018",
+    "city": "DRAMMEN",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "cf817286-f568-4259-9ad9-f8a89c6b8e16",
+    "name": "Humla Akuttsenter",
+    "address": "Humlevegen 92",
+    "postal_code": "6020",
+    "city": "Ålesund",
+    "region": "Midt-Norge",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "2408"
+  },
+  {
+    "property_id": "b68eb128-582a-486a-b7f5-f75103df161e",
+    "name": "Humana (tidl Solhaugen Omsorg og behandling AS)",
+    "address": "Davangervegen 50",
+    "postal_code": "5310",
+    "city": "HAUGLANDSHELLA",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "60571f11-e626-49b5-9fc1-dd852c4a1fdc",
+    "name": "Orkdal barnevernsenter",
+    "address": "Ljåmovein 10",
+    "postal_code": "7320",
+    "city": "Fannrem",
+    "region": "Midt-Norge",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "2323"
+  },
+  {
+    "property_id": "b28e9d46-1db9-4e91-9a56-a6e807adaf70",
+    "name": "Lyefjell",
+    "address": "Tverrfjellveien 3",
+    "postal_code": "4340",
+    "city": "BRYNE",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "b2ed1472-9ed7-4541-b44d-889766267a7a",
+    "name": "Glemmengaten 55, 1608 Fredrikstad",
+    "address": "Glemmengaten 55",
+    "postal_code": "1608",
+    "city": "Fredrikstad",
+    "region": "Øst",
+    "unit_type_derived": null,
+    "lokalisering_id": "5912"
+  },
+  {
+    "property_id": "b366d203-1fe3-46fb-9625-20a05490a81f",
+    "name": "Innlandet barnevernsenter avd Prøysen",
+    "address": "Øverbyvegen 88",
+    "postal_code": "2825",
+    "city": "GJØVIK",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "235407"
+  },
+  {
+    "property_id": "b7a38a80-6741-4bb6-af62-921f2ef595d2",
+    "name": "Østre bofellesskap",
+    "address": "Østre Kvenvik 100",
+    "postal_code": "9518",
+    "city": "ALTA",
+    "region": "Nord",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "b7fbd8c0-8887-4dd3-9d99-889382af4ef6",
+    "name": "Temse Bofellesskap",
+    "address": "Nilsesvoldveien 15, 4885 Grimstad",
+    "postal_code": "4848",
+    "city": "ARENDAL",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "cc0aa333-1996-41f6-8cca-4d4f92923cc7",
+    "name": "Skomrak",
+    "address": "Solheiveien 25",
+    "postal_code": "4580",
+    "city": "LYNGDAL",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "4709"
+  },
+  {
+    "property_id": "6d1ec068-2c43-4674-8afe-47b8235056f7",
+    "name": "Familievernkontoret Oslo Nord",
+    "address": "Kabelgata 2",
+    "postal_code": "0581",
+    "city": "Oslo",
+    "region": "Øst",
+    "unit_type_derived": null,
+    "lokalisering_id": "5108"
+  },
+  {
+    "property_id": "a441a42a-75fa-4adf-be29-9c49bc614656",
+    "name": "Borg barne og familiesenter, avlaster for beredskapshjem",
+    "address": "Sørlia 27",
+    "postal_code": "1807",
+    "city": "ASKIM",
+    "region": "Øst",
+    "unit_type_derived": "Team",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "bb5542ee-2f4d-4af9-94c7-868e0a983da9",
+    "name": "Skøyenåsen",
+    "address": "Peter Aas`vei 20b",
+    "postal_code": "0667",
+    "city": "OSLO",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "bf538aa0-3319-4913-9e88-ce916b223ebf",
+    "name": "SMS Omsorg AS",
+    "address": "Gamleveien 47 A",
+    "postal_code": "1406",
+    "city": "SKI",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "bc2c5175-4b1b-4fe5-864b-4e28c8c3d18a",
+    "name": "Breivik",
+    "address": "Kveheiveien 7",
+    "postal_code": "4810",
+    "city": "EYDEHAVN",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "becd206a-ab05-4883-9d2c-3a5ca0a5eaa0",
+    "name": "Betania Almahuset, Kirkenes",
+    "address": "Tunstadbakken 33",
+    "postal_code": "9901",
+    "city": "KIRKENES",
+    "region": "Nord",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "bf124823-3683-4ffc-abb2-9871e6afcdd7",
+    "name": "Sæter ved Munkerud bofellesskap",
+    "address": "Nordstrandveien 49A",
+    "postal_code": "1163",
+    "city": "OSLO",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "c00c41db-9e95-4ef4-bf4b-6f5445f85504",
+    "name": "Tananger",
+    "address": "Myklebustvegen 131",
+    "postal_code": "4056",
+    "city": "TANANGER",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "c0eb5fd0-24c1-4455-ad67-fe8728d8ec8c",
+    "name": "Miljøheimen",
+    "address": "Haugetuft 16",
+    "postal_code": "3890",
+    "city": "VINJE",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "331706"
+  },
+  {
+    "property_id": "b28a9761-ca75-44fc-a974-d3b74a24a061",
+    "name": "Nordstrand",
+    "address": "Lindbãckveien 53 D",
+    "postal_code": "1163",
+    "city": "OSLO",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "c1835507-c8ef-48ab-bcef-29a74b5ddec7",
+    "name": "Heggeli",
+    "address": "Lindbäckveien 49G",
+    "postal_code": "1163",
+    "city": "OSLO",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "c2c05949-5043-43fa-87c9-b591e34cc951",
+    "name": "Topp",
+    "address": "Brennatoppen 10",
+    "postal_code": "3302",
+    "city": "HOKKSUND",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "c38cb712-d464-44f4-9843-e3a4a1d1a3ff",
+    "name": "Grorud ved Munkerud bofellesskap",
+    "address": "Grorudveien 42",
+    "postal_code": "0976",
+    "city": "OSLO",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "c41c3a42-09e2-4063-9f8b-28261dae2dac",
+    "name": "Haslum",
+    "address": "Bærumsveien 288",
+    "postal_code": "1344",
+    "city": "HASLUM",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "c62c02d3-06ec-4451-87f4-ba3f89c860ed",
+    "name": "Sparbytunet",
+    "address": "Vaterudsvegen 23",
+    "postal_code": "2720",
+    "city": "GRINDVOLL",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "c7b85420-9754-4837-8ae3-e6a0a2af5bf6",
+    "name": "Bekkevik",
+    "address": "Sævik 42",
+    "postal_code": "4550",
+    "city": "FARSUND",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "c7cc6337-ea46-49b1-a36a-7c1295524899",
+    "name": "Hilde Hasle",
+    "address": "Lyderhornslien 73",
+    "postal_code": "5178",
+    "city": "LODDEFJORD",
+    "region": "Vest",
+    "unit_type_derived": "Støttefamilie",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "c9dc5d55-29ff-48f3-a295-5ef0d0bba9fd",
+    "name": "Thorøya Vaktmesterbolig",
+    "address": "Thorøyaveien 1",
+    "postal_code": "3209",
+    "city": "Sandefjord",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "4802"
+  },
+  {
+    "property_id": "ca70f9bf-e3ad-41ec-b101-1f14acc31ace",
+    "name": "Marmorveien 23, 2818 Gjøvik",
+    "address": "Marmorveien 23",
+    "postal_code": "2818",
+    "city": "Gjøvik",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "5936"
+  },
+  {
+    "property_id": "ce4f7830-b8b4-43a8-ab00-ae428e2bcc61",
+    "name": "F3 ungdom - Sjukehusvegen 5 - tillegg (kontor)",
+    "address": "Sjukehusvegen 5",
+    "postal_code": "5704",
+    "city": "Voss",
+    "region": "Vest",
+    "unit_type_derived": null,
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "cf3acb12-3fd2-4096-b640-2f857e6b57a9",
+    "name": "Barnevernets akuttinstitusjon for ungdom i Oslo",
+    "address": "Jutulveien 17",
+    "postal_code": "0853",
+    "city": "OSLO",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "d1835978-6d84-4501-bf2e-eb79b39d135a",
+    "name": "Tornefjell",
+    "address": "Rollaugs gate 8A",
+    "postal_code": "4041",
+    "city": "HAFRSFJORD",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "d2073b38-2c8b-4c9c-a2d4-7c405f147478",
+    "name": "Villa Villekulla",
+    "address": "Støleveien 87",
+    "postal_code": "4887",
+    "city": "GRIMSTAD",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "f9cdf6ff-74e6-45c7-b382-aecd5dea68cd",
+    "name": "FVK, Lofoten og Vesterålen",
+    "address": "Markedsgt 20",
+    "postal_code": "8450",
+    "city": "Stokmarknes",
+    "region": "Nord",
+    "unit_type_derived": null,
+    "lokalisering_id": "1110"
+  },
+  {
+    "property_id": "ceb159ad-5f2a-4e30-9308-13e11570e155",
+    "name": "Aberia Ung Sør - Agder",
+    "address": "Fagerheimsveien 2a",
+    "postal_code": "4790",
+    "city": "LILLESAND",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "d373ed6b-3be4-4a56-ba1e-9b986193cb2e",
+    "name": "SMS Omsorg AS",
+    "address": "Askimveien 124",
+    "postal_code": "1408",
+    "city": "KRÅKSTAD",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "884377b1-93fb-4734-9d9d-e8ed61bd5f62",
+    "name": "Ranheim Vestre",
+    "address": "Peder Myhres vei 16",
+    "postal_code": "7055",
+    "city": "Ranheim",
+    "region": "Midt-Norge",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "2314"
+  },
+  {
+    "property_id": "c3f0eddb-f3b6-4c81-91b0-c6d2e5957330",
+    "name": "Avdeling Ørneveien",
+    "address": "Ørneveien 13",
+    "postal_code": "1640",
+    "city": "RÅDE",
+    "region": "Øst",
+    "unit_type_derived": "Omsorgssenter",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "d2b4c32e-50e6-4881-80e4-1da175486aa9",
+    "name": "Lierfoss ungdoms- og familiesenter - avdeling Riserhagen",
+    "address": "Riserveien 40",
+    "postal_code": "1930",
+    "city": "AURSKOG",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "232610"
+  },
+  {
+    "property_id": "d3b34eeb-7cf9-47dd-b966-0e177e36fc50",
+    "name": "Trøa",
+    "address": "Rostadvegen 300",
+    "postal_code": "7670",
+    "city": "INDERØY",
+    "region": "Midt-Norge",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "d7165feb-f829-43b4-b7c8-bd280a644588",
+    "name": "Avd. Kompasset, BF Stjernen",
+    "address": "Venusveien 8",
+    "postal_code": "7036",
+    "city": "TRONDHEIM",
+    "region": "Midt-Norge",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "c7afa247-f0d7-415f-a00d-b8909c6dd510",
+    "name": "Akuttenhet for barn",
+    "address": "Kjærnåsveien 13 A",
+    "postal_code": "3142",
+    "city": "VESTSKOGEN",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "d97aee10-9721-451c-8ce2-88d0091145a2",
+    "name": "Alta Kommune Storbakken",
+    "address": "Storbakken 64",
+    "postal_code": "9515",
+    "city": "ALTA",
+    "region": "Nord",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "da2ea17a-c759-4f78-a5ec-f06a72a9140e",
+    "name": "Innlandet barnevernsenter avd Kauffeldt",
+    "address": "Øverbyvegen 88",
+    "postal_code": "2825",
+    "city": "GJØVIK",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "235409"
+  },
+  {
+    "property_id": "da6ccfca-7a22-45ef-b260-3ed9cf7082b1",
+    "name": "Katfoss",
+    "address": "Ilaugveien 1A",
+    "postal_code": "3360",
+    "city": "GEITHUS",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "344301"
+  },
+  {
+    "property_id": "e2529965-2d97-4f27-ba6b-1d1d648dbefa",
+    "name": "Fossum Ung 1",
+    "address": "Karjolkroken 186",
+    "postal_code": "1820",
+    "city": "SPYDEBERG",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "e3db0799-f9d0-444b-845b-d80e6248b3cd",
+    "name": "Lindern akuttinstitusjon",
+    "address": "Stensgata 43",
+    "postal_code": "0451",
+    "city": "OSLO",
+    "region": "Øst",
+    "unit_type_derived": "Institusjonsavdeling",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "e4b1b8c6-6438-4c3c-94f0-5a642922be99",
+    "name": "Stendi, Utsikten, Avdeling Bergsund",
+    "address": "Hundsundveien 33",
+    "postal_code": "1367",
+    "city": "SNARØYA",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "e551c21e-6827-41af-a432-74c55af588e5",
+    "name": "Kirkens bymisjons barneverntiltak - Heggeli ungdomshjem",
+    "address": "Lindbäckveien 49 G",
+    "postal_code": "1163",
+    "city": "OSLO",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "e235af33-2d59-415a-be1e-30955bd03531",
+    "name": "Humana Barnevern Harstad",
+    "address": "Olderveien 4",
+    "postal_code": "9408",
+    "city": "HARSTAD",
+    "region": "Nord",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "e58c82ff-a86b-4019-84e3-8c96ef8cf47e",
+    "name": "Hystad bolig",
+    "address": "Hystadvegen 58",
+    "postal_code": "5416",
+    "city": "STORD",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "cface194-fad5-4a08-9090-1cc0461086e3",
+    "name": "Kirkenær barnevern- og omsorgssenter Edda ungdomshjem",
+    "address": "Veslekila 1",
+    "postal_code": "2260",
+    "city": "KIRKENÆR",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "232806"
+  },
+  {
+    "property_id": "ea1d9285-95be-4f04-89cd-5bc905a49adb",
+    "name": "Bolli 1",
+    "address": "Nedre Bolli 386",
+    "postal_code": "6493",
+    "city": "LYNGSTAD",
+    "region": "Midt-Norge",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "d0e0d42c-e2aa-4e16-88dd-564436072b43",
+    "name": "Tangen barneinstitusjon",
+    "address": "Postboks 6726 St. Olavs plass",
+    "postal_code": "0130",
+    "city": "OSLO",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "ee91850c-8422-4855-ad50-14b52d1f9d82",
+    "name": "Froland",
+    "address": "Hislihaven 18",
+    "postal_code": "4827",
+    "city": "FROLANDS VERK",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "eee92222-9520-4299-ae48-20d96bd30f0f",
+    "name": "Kannesteinen",
+    "address": "Oppedalsvegen 377",
+    "postal_code": "6700",
+    "city": "MÅLØY",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "f068905b-548c-4b79-9f14-b9838196f09a",
+    "name": "Lamo ungdomssenter Tunet",
+    "address": "Laberg",
+    "postal_code": "9350",
+    "city": "SJØVEGAN",
+    "region": "Nord",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "634001"
+  },
+  {
+    "property_id": "f1e6b912-62ac-4043-b23a-2e674184608b",
+    "name": "Hiimsmoenkollektivet",
+    "address": "Him 63",
+    "postal_code": "4230",
+    "city": "SAND",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "f4b42df1-b101-43c7-8201-5cc2fc178897",
+    "name": "Torget 6, 2000 Lillestrøm",
+    "address": "Torget 6",
+    "postal_code": "2000",
+    "city": "Lillestrøm",
+    "region": "Øst",
+    "unit_type_derived": null,
+    "lokalisering_id": "5910"
+  },
+  {
+    "property_id": "f5c919e3-2ed3-422b-a371-9ca57fe3e344",
+    "name": "Korsegård",
+    "address": "Kongleveien 20",
+    "postal_code": "1812",
+    "city": "ASKIM",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "42ced846-2ddc-4b9c-b6c5-9fe09a7291fa",
+    "name": "Alta Ungdomssenter",
+    "address": "Strandvn 6",
+    "postal_code": "9513",
+    "city": "Alta",
+    "region": "Nord",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "1205"
+  },
+  {
+    "property_id": "d2311222-42bc-4c33-8532-bcfdc724d959",
+    "name": "Raskenkroken",
+    "address": "Raskenlundvegen 51",
+    "postal_code": "3928",
+    "city": "PORSGRUNN",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "f78f5b95-03cf-40bf-b455-20b24c9e556c",
+    "name": "New York",
+    "address": "Nyorkgata 5",
+    "postal_code": "3911",
+    "city": "PORSGRUNN",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "fef1ef54-157b-4d0d-9396-0d8192c97ecb",
+    "name": "Vesten",
+    "address": "Toftebergveien 17",
+    "postal_code": "1659",
+    "city": "TORP",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "fedc9785-2496-4281-881c-d7101dc2b902",
+    "name": "Østfold ungdoms- og familiesenter, Tune",
+    "address": "Vestrevei 1",
+    "postal_code": "1710",
+    "city": "Sarpsborg",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "5947"
+  },
+  {
+    "property_id": "fecd2885-22b7-4a87-a7e3-793863604ce7",
+    "name": "Statlig",
+    "address": "Toppenvegen 14",
+    "postal_code": "9475",
+    "city": "BORKENES",
+    "region": "Nord",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "ff253510-4abe-4e78-b071-6a656018a8cf",
+    "name": "Tromøy",
+    "address": "Østre Tromøyvei 548 B",
+    "postal_code": "4812",
+    "city": "KONGSHAVN",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "4b5ace08-fb41-45da-9a8e-e3ce81125448",
+    "name": "AVVIKLES -  Kasa ungdomssenter, avd. Hop",
+    "address": "Nybøvegen 24",
+    "postal_code": "5221",
+    "city": "NESTTUN",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "3503"
+  },
+  {
+    "property_id": "3cdeca26-c322-40a8-87cd-513b371d4ad9",
+    "name": "Bufetathus Førde",
+    "address": "Storehagen 1b",
+    "postal_code": "6800",
+    "city": "Førde",
+    "region": "Vest",
+    "unit_type_derived": null,
+    "lokalisering_id": "3533"
+  },
+  {
+    "property_id": "4643807b-915b-4b35-bb4a-1ca1eb8ee2f9",
+    "name": "Senter for familie og barn, Molde",
+    "address": "Bastian Withs gt 11",
+    "postal_code": "6415",
+    "city": "Molde",
+    "region": "Midt-Norge",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "2401"
+  },
+  {
+    "property_id": "0bc51285-f295-4130-8cde-7ec5f6afa16f",
+    "name": "FHT, kontorsted Sandnessjøen",
+    "address": "Torolv Kveldulvsonsgt 39",
+    "postal_code": "8800",
+    "city": "Sandnessjøen",
+    "region": "Nord",
+    "unit_type_derived": null,
+    "lokalisering_id": "1116"
+  },
+  {
+    "property_id": "f1634112-dbcd-4a56-94c5-e45c8115ff8d",
+    "name": "KUS SKM, psykologspesialist Kirkenes",
+    "address": "Wiulls gate 3",
+    "postal_code": "9900",
+    "city": "Kirkenes",
+    "region": "Nord",
+    "unit_type_derived": null,
+    "lokalisering_id": "1222"
+  },
+  {
+    "property_id": "dac27672-b5a5-4f02-b97c-613d4c1c97a9",
+    "name": "Skålvik",
+    "address": "Vestsidevegen 131",
+    "postal_code": "5357",
+    "city": "FJELL",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "7546345a-1548-4737-be79-9a3632083f35",
+    "name": "Erik Børresen",
+    "address": "Wildhagensvei 17",
+    "postal_code": "3019",
+    "city": "Drammen",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "4911"
+  },
+  {
+    "property_id": "632db590-145b-4b33-ac90-3e7b2d0585ed",
+    "name": "Storveien 121, 1621 Gressvik",
+    "address": "Storveien 121",
+    "postal_code": "1621",
+    "city": "Gressvik",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "5908"
+  },
+  {
+    "property_id": "dc859f88-061f-4f97-b400-0f93d6d7b7e5",
+    "name": "Fossøya, Liatunet Bofellesskap",
+    "address": "Naustbergvegen 1",
+    "postal_code": "7563",
+    "city": "MALVIK",
+    "region": "Midt-Norge",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "dcf48491-40ab-4109-9675-a03ddf96aece",
+    "name": "Mjåvann",
+    "address": "Høglivegen 3",
+    "postal_code": "4628",
+    "city": "KRISTIANSAND S",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "df31acf9-86bc-4c58-9edf-51581cec84a8",
+    "name": "Othilie",
+    "address": "Kapellveien 59",
+    "postal_code": "0487",
+    "city": "OSLO",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "df81e310-9778-4e5b-944b-e219fbdd9218",
+    "name": "Solbakken",
+    "address": "Skarimoen 6",
+    "postal_code": "2760",
+    "city": "BRANDBU",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "dcc7deb1-fbcb-4548-9f5b-72a6a4fbbe88",
+    "name": "CRUX oppvekst - institusjon Bergen",
+    "address": "Grønnestølsveien 72",
+    "postal_code": "5073",
+    "city": "BERGEN",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "e057f9c8-34d0-4d96-9ac5-e268f2167cb1",
+    "name": "Solgry barnehjem",
+    "address": "Nils Carlsens gate 31",
+    "postal_code": "1440",
+    "city": "DRØBAK",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "e22a0df2-dac4-4417-80ed-613c01c5f52a",
+    "name": "Haraldsplass Serio Ung Region Vestland",
+    "address": "Breidablikk 2",
+    "postal_code": "5310",
+    "city": "HAUGLANDSHELLA",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "e562093d-3005-4d76-986a-f361a6251cf4",
+    "name": "AVVIKLES -  Skjoldvegen barnevernsenter, avd. Skjold",
+    "address": "Skjoldvegen 51/55",
+    "postal_code": "5221",
+    "city": "NESTTUN",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "432104"
+  },
+  {
+    "property_id": "e0587a42-3aeb-453e-9c30-9608287d1b05",
+    "name": "Kaddan",
+    "address": "Høier Støa",
+    "postal_code": "4534",
+    "city": "MARNARDAL",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "e3bbd807-73b8-42aa-a4e9-614187ca1188",
+    "name": "Son",
+    "address": "Grevlingsstien 6",
+    "postal_code": "1556",
+    "city": "SON",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "e5f6ad31-a696-443c-850e-4f4cff7d95ea",
+    "name": "Stavanger ungdomssenter - avd. Våland",
+    "address": "Rogalandsgata 18",
+    "postal_code": "4011",
+    "city": "STAVANGER",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "3602"
+  },
+  {
+    "property_id": "e7c001d7-bab7-4834-899f-c451bf6458ae",
+    "name": "Fagertun Norsk Folkehjelp",
+    "address": "Nerkvernvegen 14",
+    "postal_code": "2380",
+    "city": "BRUMUNDDAL",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "e86a7585-5ffc-4256-8037-96882dff7af2",
+    "name": "Stendi Område Øst",
+    "address": "Porsmyrveien 3",
+    "postal_code": "1655",
+    "city": "SELLEBAKK",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "e8c77ae7-a6c8-4fd6-bec5-2a7cafa67763",
+    "name": "Frogner Bofellesskap",
+    "address": "Bratberghavna 12",
+    "postal_code": "3714",
+    "city": "SKIEN",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "e6005569-515f-44b5-8e85-b995150a3859",
+    "name": "Omsorg 2",
+    "address": "Glomveien 1",
+    "postal_code": "1710",
+    "city": "SARPSBORG",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "e6c42b1d-f4ef-4dca-88df-9deeb93449e1",
+    "name": "Omsorg 1",
+    "address": "Glomveien 1",
+    "postal_code": "1710",
+    "city": "SARPSBORG",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "e7639d3f-61bc-4560-9f68-1c4f120115e5",
+    "name": "Sundlia bofellesskap",
+    "address": "Sundliveien 131",
+    "postal_code": "9325",
+    "city": "BARDUFOSS",
+    "region": "Nord",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "e8a2cb22-2a1b-4c7e-857b-9dbfa84d6261",
+    "name": "Sandnes ungdomssenter - Minde 1",
+    "address": "Mindeveien 8",
+    "postal_code": "4327",
+    "city": "SANDNES",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "433102"
+  },
+  {
+    "property_id": "ea838c8c-0835-4500-8b35-fef258cf5966",
+    "name": "Næromsorg Sør AS",
+    "address": "Skinnarsmoen 12",
+    "postal_code": "4645",
+    "city": "NODELAND",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "ec2807f4-f7e9-4553-b871-33033012c65d",
+    "name": "Stendi Område Øst",
+    "address": "Ljabrubakken 19",
+    "postal_code": "1165",
+    "city": "OSLO",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "ead9837c-30d4-4432-bae6-0519aa82487a",
+    "name": "Haralosen 8",
+    "address": "Haraldosen8",
+    "postal_code": "2450",
+    "city": "RENA",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "ece3e62c-c0c5-4bac-8f19-7c54a351d915",
+    "name": "Fagertun Norsk Folkehjelp",
+    "address": "Rudsenga 2",
+    "postal_code": "2380",
+    "city": "BRUMUNDDAL",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "ed20385b-921b-4304-8dc1-9d24868f2d41",
+    "name": "Glassverket bofellesskap",
+    "address": "Glassverkveien 33A",
+    "postal_code": "1363",
+    "city": "HØVIK",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "eb0f0e46-83d7-4b82-8383-1a27884bb34d",
+    "name": "Ribston bofellesskap - hus 1",
+    "address": "Ris skolevei 3B",
+    "postal_code": "0373",
+    "city": "OSLO",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "ebd7bb74-1107-4e66-a63e-40d93d08c785",
+    "name": "St Olavs omsorg",
+    "address": "Dronningensgate 69",
+    "postal_code": "1723",
+    "city": "SARPSBORG",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "f908ec19-f8e1-4394-9c87-ac5686aae19f",
+    "name": "Cura Kompetanse AS",
+    "address": "Granneveien 28A",
+    "postal_code": "3810",
+    "city": "GVARV",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "f3c8bccc-4684-4cba-b3cc-47c162c08d7f",
+    "name": "Brusetkollen Barnevernsenter",
+    "address": "Haugboveien 39, Pb. 422",
+    "postal_code": "1373",
+    "city": "ASKER",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "f2f9ac74-5320-4088-a5da-1c0e1ecc0a2a",
+    "name": "CRUX oppvekst - institusjon Bergen",
+    "address": "Conrad Mohrs veg 20",
+    "postal_code": "5072",
+    "city": "BERGEN",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "ef73ce9e-6b25-4882-b714-14c0b248a720",
+    "name": "Nyheim",
+    "address": "Arne Garborgs vei 17B",
+    "postal_code": "4319",
+    "city": "SANDNES",
+    "region": "Vest",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "f2d7267e-8a2d-42a5-91a8-ff14114345b7",
+    "name": "Regionalt ressursmiljø rus i barnevernstiltak",
+    "address": "Emma Hjorths vei 60",
+    "postal_code": "1336",
+    "city": "SANDVIKA",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "237204"
+  },
+  {
+    "property_id": "f80c4afb-c903-4586-a6e1-9945477f72e4",
+    "name": "Hegglia",
+    "address": "Øystein Møylas vei 20",
+    "postal_code": "7031",
+    "city": "TRONDHEIM",
+    "region": "Midt-Norge",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "f9e84b5b-997d-48d3-be6c-2d8f9cb93273",
+    "name": "Bølekroken",
+    "address": "x",
+    "postal_code": "3713",
+    "city": "SKIEN",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "fd58d6dd-1ca2-4376-a901-06c6e8e2fab2",
+    "name": "Aberia Ung Sør - Agder",
+    "address": "Slettevollen 80",
+    "postal_code": "4534",
+    "city": "MARNARDAL",
+    "region": "Sør",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "faa5fce8-8642-4f68-b8bd-74a47c2ef6c3",
+    "name": "Stendi Område Øst",
+    "address": "Ulveveien 5",
+    "postal_code": "1890",
+    "city": "RAKKESTAD",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "fa337938-e6f3-49af-a6c0-6b8b1b02604a",
+    "name": "Nye Kvæfjord ungdomssenter avdeling 3",
+    "address": "Heimlyveien 5",
+    "postal_code": "9475",
+    "city": "BORKENES",
+    "region": "Nord",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": "633505"
+  },
+  {
+    "property_id": "fdf3a0ce-bb9e-4998-a9be-b1c965c97be2",
+    "name": "Lønnås",
+    "address": "Kirkeveien 296",
+    "postal_code": "1458",
+    "city": "FJELLSTRAND",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  },
+  {
+    "property_id": "fef120ff-ef48-4920-87d6-b2b7f2543f0b",
+    "name": "Ribston bofellesskap",
+    "address": "Jeppes vei 14",
+    "postal_code": "0768",
+    "city": "OSLO",
+    "region": "Øst",
+    "unit_type_derived": "Barnevernsinstitusjon",
+    "lokalisering_id": null
+  }
+]

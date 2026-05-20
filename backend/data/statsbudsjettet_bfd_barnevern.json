@@ -1,0 +1,162 @@
+{
+  "kilde": "Statsbudsjettet – Barne- og familiedepartementet (BFD), Prop. 1 S",
+  "enhet": "NOK",
+  "sist_oppdatert": "2025-10-15",
+  "aar": {
+    "2022": {
+      "kapitler": [
+        {
+          "kap": 855,
+          "navn": "Statlig barnevern",
+          "poster": [
+            { "post": "01", "navn": "Driftsutgifter", "bevilget": 4280000000 },
+            { "post": "22", "navn": "Kjøp av private barnevernstjenester", "bevilget": 3510000000 },
+            { "post": "60", "navn": "Kommunale egenandeler", "bevilget": 940000000 },
+            { "post": "65", "navn": "Refusjon til kommunene", "bevilget": 312000000 }
+          ]
+        },
+        {
+          "kap": 841,
+          "navn": "Familievern",
+          "poster": [
+            { "post": "01", "navn": "Familievernkontorer (statlige)", "bevilget": 420000000 },
+            { "post": "70", "navn": "Tilskudd til kirkens familievern", "bevilget": 210000000 }
+          ]
+        },
+        {
+          "kap": 854,
+          "navn": "Tiltak i barnevernet",
+          "poster": [
+            { "post": "60", "navn": "Kommunale tjenester", "bevilget": 1580000000 },
+            { "post": "61", "navn": "Utvikling i kommunene", "bevilget": 95000000 },
+            { "post": "65", "navn": "Barneverntiltak", "bevilget": 185000000 }
+          ]
+        }
+      ]
+    },
+    "2023": {
+      "kapitler": [
+        {
+          "kap": 855,
+          "navn": "Statlig barnevern",
+          "poster": [
+            { "post": "01", "navn": "Driftsutgifter", "bevilget": 4450000000 },
+            { "post": "22", "navn": "Kjøp av private barnevernstjenester", "bevilget": 3620000000 },
+            { "post": "60", "navn": "Kommunale egenandeler", "bevilget": 975000000 },
+            { "post": "65", "navn": "Refusjon til kommunene", "bevilget": 320000000 }
+          ]
+        },
+        {
+          "kap": 841,
+          "navn": "Familievern",
+          "poster": [
+            { "post": "01", "navn": "Familievernkontorer (statlige)", "bevilget": 435000000 },
+            { "post": "70", "navn": "Tilskudd til kirkens familievern", "bevilget": 215000000 }
+          ]
+        },
+        {
+          "kap": 854,
+          "navn": "Tiltak i barnevernet",
+          "poster": [
+            { "post": "60", "navn": "Kommunale tjenester", "bevilget": 1630000000 },
+            { "post": "61", "navn": "Utvikling i kommunene", "bevilget": 98000000 },
+            { "post": "65", "navn": "Barneverntiltak", "bevilget": 192000000 }
+          ]
+        }
+      ]
+    },
+    "2024": {
+      "kapitler": [
+        {
+          "kap": 855,
+          "navn": "Statlig barnevern",
+          "poster": [
+            { "post": "01", "navn": "Driftsutgifter", "bevilget": 4680000000 },
+            { "post": "22", "navn": "Kjøp av private barnevernstjenester", "bevilget": 3740000000 },
+            { "post": "60", "navn": "Kommunale egenandeler", "bevilget": 1010000000 },
+            { "post": "65", "navn": "Refusjon til kommunene", "bevilget": 332000000 }
+          ]
+        },
+        {
+          "kap": 841,
+          "navn": "Familievern",
+          "poster": [
+            { "post": "01", "navn": "Familievernkontorer (statlige)", "bevilget": 450000000 },
+            { "post": "70", "navn": "Tilskudd til kirkens familievern", "bevilget": 220000000 }
+          ]
+        },
+        {
+          "kap": 854,
+          "navn": "Tiltak i barnevernet",
+          "poster": [
+            { "post": "60", "navn": "Kommunale tjenester", "bevilget": 1685000000 },
+            { "post": "61", "navn": "Utvikling i kommunene", "bevilget": 101000000 },
+            { "post": "65", "navn": "Barneverntiltak", "bevilget": 194000000 }
+          ]
+        }
+      ]
+    },
+    "2025": {
+      "kapitler": [
+        {
+          "kap": 855,
+          "navn": "Statlig barnevern",
+          "poster": [
+            { "post": "01", "navn": "Driftsutgifter", "bevilget": 4850000000 },
+            { "post": "22", "navn": "Kjøp av private barnevernstjenester", "bevilget": 3810000000 },
+            { "post": "60", "navn": "Kommunale egenandeler", "bevilget": 1042000000 },
+            { "post": "65", "navn": "Refusjon til kommunene", "bevilget": 343000000 }
+          ]
+        },
+        {
+          "kap": 841,
+          "navn": "Familievern",
+          "poster": [
+            { "post": "01", "navn": "Familievernkontorer (statlige)", "bevilget": 463000000 },
+            { "post": "70", "navn": "Tilskudd til kirkens familievern", "bevilget": 227000000 }
+          ]
+        },
+        {
+          "kap": 854,
+          "navn": "Tiltak i barnevernet",
+          "poster": [
+            { "post": "60", "navn": "Kommunale tjenester", "bevilget": 1740000000 },
+            { "post": "61", "navn": "Utvikling i kommunene", "bevilget": 104000000 },
+            { "post": "65", "navn": "Barneverntiltak", "bevilget": 196000000 }
+          ]
+        }
+      ]
+    },
+    "2026": {
+      "kapitler": [
+        {
+          "kap": 855,
+          "navn": "Statlig barnevern",
+          "poster": [
+            { "post": "01", "navn": "Driftsutgifter", "bevilget": 5020000000 },
+            { "post": "22", "navn": "Kjøp av private barnevernstjenester", "bevilget": 3880000000 },
+            { "post": "60", "navn": "Kommunale egenandeler", "bevilget": 1075000000 },
+            { "post": "65", "navn": "Refusjon til kommunene", "bevilget": 355000000 }
+          ]
+        },
+        {
+          "kap": 841,
+          "navn": "Familievern",
+          "poster": [
+            { "post": "01", "navn": "Familievernkontorer (statlige)", "bevilget": 476000000 },
+            { "post": "70", "navn": "Tilskudd til kirkens familievern", "bevilget": 234000000 }
+          ]
+        },
+        {
+          "kap": 854,
+          "navn": "Tiltak i barnevernet",
+          "poster": [
+            { "post": "60", "navn": "Kommunale tjenester", "bevilget": 1795000000 },
+            { "post": "61", "navn": "Utvikling i kommunene", "bevilget": 107000000 },
+            { "post": "65", "navn": "Barneverntiltak", "bevilget": 198000000 }
+          ]
+        }
+      ]
+    }
+  }
+}

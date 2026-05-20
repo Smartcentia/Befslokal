@@ -1,0 +1,183 @@
+{
+  "generated_at": "2026-04-06T14:50:46.634878+00:00",
+  "source": "Stortinget åpne data",
+  "count": 10,
+  "items": [
+    {
+      "sak_id": 200236,
+      "sesjon": null,
+      "title": "Endringer i barnevernsloven  (bedre beskyttelse av barn på institusjon)",
+      "short_title": "Endringer i barnevernsloven  (bedre beskyttelse av barn på institusjon)",
+      "reference": "Prop. 86 L (2025-2026)",
+      "dokumentgruppe": 1,
+      "updated_date": "2026-03-27",
+      "date": null,
+      "match_score": 5,
+      "match_terms": [
+        "barn",
+        "barnevern",
+        "institusjon"
+      ],
+      "prop_url": "http://www.regjeringen.no/id/PRP202520260086000DDDEPIS",
+      "storting_sak_url": "https://data.stortinget.no/eksport/sak?sakid=200236"
+    },
+    {
+      "sak_id": 103474,
+      "sesjon": "2025-2026",
+      "title": "Lov om undersøkelser av offentlige virksomheters arbeid i saker om drap, vold, overgrep og omsorgssvikt mot barn (barnevoldsundersøkelsesloven)",
+      "short_title": "Lov om undersøkelser av offentlige virksomheters arbeid i saker om drap, vold, overgrep og omsorgssvikt mot barn (barnevoldsundersøkelsesloven)",
+      "reference": "Prop. 141 L (2024-2025), Innst. 164 L (2025-2026), Lovvedtak 35 (2025-2026)",
+      "dokumentgruppe": 1,
+      "updated_date": "2026-03-16",
+      "date": null,
+      "match_score": 4,
+      "match_terms": [
+        "barn",
+        "barnevern"
+      ],
+      "prop_url": "http://www.regjeringen.no/id/PRP202420250141000DDDEPIS",
+      "storting_sak_url": "https://data.stortinget.no/eksport/sak?sakid=103474"
+    },
+    {
+      "sak_id": 105585,
+      "sesjon": "2025-2026",
+      "title": "Endringar i statsbudsjettet 2025 under Barne- og familiedepartementet",
+      "short_title": "Endringar i statsbudsjettet 2025 under Barne- og familiedepartementet",
+      "reference": "Prop. 12 S (2025-2026), Innst. 75 S (2025-2026)",
+      "dokumentgruppe": 1,
+      "updated_date": "2025-12-17",
+      "date": null,
+      "match_score": 5,
+      "match_terms": [
+        "barn",
+        "barnevern",
+        "familie"
+      ],
+      "prop_url": "http://www.regjeringen.no/id/PRP202520260012000DDDEPIS",
+      "storting_sak_url": "https://data.stortinget.no/eksport/sak?sakid=105585"
+    },
+    {
+      "sak_id": 104909,
+      "sesjon": "2025-2026",
+      "title": "Statsbudsjettet 2026",
+      "short_title": "Statsbudsjettet 2026 (kapitler fordelt til kommunal- og forvaltningskomiteen)",
+      "reference": "Prop. 1 S (2025-2026), Innst. 16 S (2025-2026)",
+      "dokumentgruppe": 1,
+      "updated_date": "2025-12-08",
+      "date": null,
+      "match_score": 4,
+      "match_terms": [
+        "barn",
+        "barnevern"
+      ],
+      "prop_url": "http://www.regjeringen.no/id/PRP202520260001KDDDDDEPIS",
+      "storting_sak_url": "https://data.stortinget.no/eksport/sak?sakid=104909"
+    },
+    {
+      "sak_id": 104907,
+      "sesjon": "2025-2026",
+      "title": "Statsbudsjettet 2026",
+      "short_title": "Statsbudsjettet 2026 (kapitler fordelt til familie- og kulturkomiteen)",
+      "reference": "Prop. 1 S (2025-2026), Innst. 14 S (2025-2026)",
+      "dokumentgruppe": 1,
+      "updated_date": "2025-12-07",
+      "date": null,
+      "match_score": 5,
+      "match_terms": [
+        "barn",
+        "barnevern",
+        "familie"
+      ],
+      "prop_url": "http://www.regjeringen.no/id/PRP202520260001BFDDDDEPIS",
+      "storting_sak_url": "https://data.stortinget.no/eksport/sak?sakid=104907"
+    },
+    {
+      "sak_id": 104904,
+      "sesjon": "2025-2026",
+      "title": "Statsbudsjettet 2026",
+      "short_title": "Statsbudsjettet 2026 (kapitler fordelt til helse- og omsorgskomiteen)",
+      "reference": "Prop. 1 S (2025-2026), Innst. 11 S (2025-2026)",
+      "dokumentgruppe": 1,
+      "updated_date": "2025-12-07",
+      "date": null,
+      "match_score": 5,
+      "match_terms": [
+        "barn",
+        "barnevern",
+        "institusjon"
+      ],
+      "prop_url": "http://www.regjeringen.no/id/PRP202520260001HODDDDEPIS",
+      "storting_sak_url": "https://data.stortinget.no/eksport/sak?sakid=104904"
+    },
+    {
+      "sak_id": 103992,
+      "sesjon": "2025-2026",
+      "title": "Endringer i barnevernsloven, straffeloven, passloven og ID-kortloven (utreiseforbud ved fare for skadelig utenlandsopphold mv.)",
+      "short_title": "Endringer i barnevernsloven, straffeloven, passloven og ID-kortloven (utreiseforbud ved fare for skadelig utenlandsopphold mv.)",
+      "reference": "Prop. 159 L (2024-2025), Innst. 42 L (2025-2026), Lovvedtak 4 (2025-2026)",
+      "dokumentgruppe": 1,
+      "updated_date": "2025-12-01",
+      "date": null,
+      "match_score": 4,
+      "match_terms": [
+        "barn",
+        "barnevern"
+      ],
+      "prop_url": "http://www.regjeringen.no/id/PRP202420250159000DDDEPIS",
+      "storting_sak_url": "https://data.stortinget.no/eksport/sak?sakid=103992"
+    },
+    {
+      "sak_id": 102936,
+      "sesjon": "2024-2025",
+      "title": "Endringer i barnevernsloven mv. (kvalitetsløftet i barnevernet)",
+      "short_title": "Endringer i barnevernsloven mv. (kvalitetsløftet i barnevernet)",
+      "reference": "Prop. 83 L (2024-2025), Innst. 524 L (2024-2025), Lovvedtak 125 (2024-2025)",
+      "dokumentgruppe": 1,
+      "updated_date": "2025-06-03",
+      "date": null,
+      "match_score": 5,
+      "match_terms": [
+        "barn",
+        "barnevern",
+        "familie"
+      ],
+      "prop_url": "http://www.regjeringen.no/id/PRP202420250083000DDDEPIS",
+      "storting_sak_url": "https://data.stortinget.no/eksport/sak?sakid=102936"
+    },
+    {
+      "sak_id": 100186,
+      "sesjon": "2024-2025",
+      "title": "Statsbudsjettet 2025",
+      "short_title": "Statsbudsjettet  2025 (kapitler fordelt til kommunal- og forvaltningskomiteen)",
+      "reference": "Prop. 1 S (2024-2025), Innst. 16 S (2024-2025)",
+      "dokumentgruppe": 1,
+      "updated_date": "2024-12-10",
+      "date": null,
+      "match_score": 4,
+      "match_terms": [
+        "barn",
+        "barnevern"
+      ],
+      "prop_url": "http://www.regjeringen.no/id/PRP202420250001KDDDDDEPIS",
+      "storting_sak_url": "https://data.stortinget.no/eksport/sak?sakid=100186"
+    },
+    {
+      "sak_id": 100892,
+      "sesjon": "2024-2025",
+      "title": "Endringar i statsbudsjettet 2024 under Helse- og omsorgsdepartementet",
+      "short_title": "Endringar i statsbudsjettet 2024 under Helse- og omsorgsdepartementet",
+      "reference": "Prop. 23 S (2024-2025), Innst. 94 S (2024-2025)",
+      "dokumentgruppe": 1,
+      "updated_date": "2024-12-09",
+      "date": null,
+      "match_score": 5,
+      "match_terms": [
+        "barn",
+        "barnevern",
+        "institusjon"
+      ],
+      "prop_url": "http://www.regjeringen.no/id/PRP202420250023000DDDEPIS",
+      "storting_sak_url": "https://data.stortinget.no/eksport/sak?sakid=100892"
+    }
+  ]
+}

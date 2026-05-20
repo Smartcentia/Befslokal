@@ -1,0 +1,7 @@
+SheetJS Community Edition (sheetjs.com)
+Versjon inkludert i denne pakken: 0.20.3 (xlsx.full.min.js)
+
+Lisens og vilkår: https://github.com/SheetJS/sheetjs/blob/master/LICENSE
+(Apache-2.0 for community build brukt her.)
+
+Kilde for nedlastet fil: https://cdn.sheetjs.com/xlsx-0.20.3/package/dist/xlsx.full.min.js

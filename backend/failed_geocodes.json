@@ -1,0 +1,217 @@
+[
+    {
+        "name": "Strandvn 6",
+        "address": "Strandvn 6",
+        "city": "ALTA"
+    },
+    {
+        "name": "Bjørndalsvegen 178",
+        "address": "Bjørndalsvegen 178",
+        "city": "AURSKOG"
+    },
+    {
+        "name": "Liaveien 2",
+        "address": "Liaveien 2",
+        "city": "AURSKOG"
+    },
+    {
+        "name": "Rønvikvn 9A,C",
+        "address": "Rønvikvn 9A,C",
+        "city": "BODØ"
+    },
+    {
+        "name": "Heimlyvn 5",
+        "address": "Heimlyvn 5",
+        "city": "BORKENES"
+    },
+    {
+        "name": "Wildhagensvei 17",
+        "address": "Wildhagensvei 17",
+        "city": "DRAMMEN"
+    },
+    {
+        "name": "Ljåmovein 10",
+        "address": "Ljåmovein 10",
+        "city": "FANNREM"
+    },
+    {
+        "name": "Glemmengaten 55",
+        "address": "Glemmengaten 55",
+        "city": "FREDRIKSTAD"
+    },
+    {
+        "name": "Marmorveien 23",
+        "address": "Marmorveien 23",
+        "city": "GJØVIK"
+    },
+    {
+        "name": "Øverbyveien 104",
+        "address": "Øverbyveien 104",
+        "city": "GJØVIK"
+    },
+    {
+        "name": "Uglevn 1",
+        "address": "Uglevn 1",
+        "city": "GRÅLUM"
+    },
+    {
+        "name": "Kompani Lingesvei 23",
+        "address": "Kompani Lingesvei 23",
+        "city": "HAFRSFJORD"
+    },
+    {
+        "name": "Alfheimvn 6",
+        "address": "Alfheimvn 6",
+        "city": "HALDEN"
+    },
+    {
+        "name": "Ullsvei 16",
+        "address": "Ullsvei 16",
+        "city": "HALDEN"
+    },
+    {
+        "name": "Sørøygt 10",
+        "address": "Sørøygt 10",
+        "city": "HAMMERFEST"
+    },
+    {
+        "name": "Håkonsgt 4",
+        "address": "Håkonsgt 4",
+        "city": "HARSTAD"
+    },
+    {
+        "name": "Storgaten 62-64",
+        "address": "Storgaten 62-64",
+        "city": "HOKKSUND"
+    },
+    {
+        "name": "Egge gård",
+        "address": "Egge gård",
+        "city": "HØNEFOSS"
+    },
+    {
+        "name": "Storgaten 11",
+        "address": "Storgaten 11",
+        "city": "HØNEFOSS"
+    },
+    {
+        "name": "Energiveien 14",
+        "address": "Energiveien 14",
+        "city": "JESSHEIM"
+    },
+    {
+        "name": "Gartneriveien 8",
+        "address": "Gartneriveien 8",
+        "city": "KIRKENÆR"
+    },
+    {
+        "name": "Jernbaneveien 70",
+        "address": "Jernbaneveien 70",
+        "city": "KIRKENÆR"
+    },
+    {
+        "name": "Fridtjof Nansensvei 12",
+        "address": "Fridtjof Nansensvei 12",
+        "city": "MANDAL"
+    },
+    {
+        "name": "Bastian Withs gt 11",
+        "address": "Bastian Withs gt 11",
+        "city": "MOLDE"
+    },
+    {
+        "name": "Frænaveien 16",
+        "address": "Frænaveien 16",
+        "city": "MOLDE"
+    },
+    {
+        "name": "Oscarsgate 20",
+        "address": "Oscarsgate 20",
+        "city": "OSLO"
+    },
+    {
+        "name": "Peder Myhres vei 16",
+        "address": "Peder Myhres vei 16",
+        "city": "RANHEIM"
+    },
+    {
+        "name": "Torolv Kveldulvsonsgt 39",
+        "address": "Torolv Kveldulvsonsgt 39",
+        "city": "SANDNESSJØEN"
+    },
+    {
+        "name": "Emma Hjortsvei 60",
+        "address": "Emma Hjortsvei 60",
+        "city": "SANDVIKA"
+    },
+    {
+        "name": "Vestrevei 1",
+        "address": "Vestrevei 1",
+        "city": "SARPSBORG"
+    },
+    {
+        "name": "Schweigaardsgt 11",
+        "address": "Schweigaardsgt 11",
+        "city": "SKIEN"
+    },
+    {
+        "name": "Ulefossveien 53",
+        "address": "Ulefossveien 53",
+        "city": "SKIEN"
+    },
+    {
+        "name": "Idrettsvn 5",
+        "address": "Idrettsvn 5",
+        "city": "SORTLAND"
+    },
+    {
+        "name": "Dr. Thorshaugsveg 8",
+        "address": "Dr. Thorshaugsveg 8",
+        "city": "STANGE"
+    },
+    {
+        "name": "Lindøy 9 - ikke oppmålt",
+        "address": "Lindøy 9 - ikke oppmålt",
+        "city": "STAVANGER"
+    },
+    {
+        "name": "Bomveien 3",
+        "address": "Bomveien 3",
+        "city": "STEINKJER"
+    },
+    {
+        "name": "Kirkeveien 33",
+        "address": "Kirkeveien 33",
+        "city": "STJØRDAL"
+    },
+    {
+        "name": "Markedsgt 20",
+        "address": "Markedsgt 20",
+        "city": "STOKMARKNES"
+    },
+    {
+        "name": "Åsvangveien 2A",
+        "address": "Åsvangveien 2A",
+        "city": "TRONDHEIM"
+    },
+    {
+        "name": "Østmarkveien 26 D/E",
+        "address": "Østmarkveien 26 D/E",
+        "city": "TRONDHEIM"
+    },
+    {
+        "name": "Anton Jensens gt. 5",
+        "address": "Anton Jensens gt. 5",
+        "city": "TØNSBERG"
+    },
+    {
+        "name": "Nygardsvegen 2 og 4",
+        "address": "Nygardsvegen 2 og 4",
+        "city": "VOLDA"
+    },
+    {
+        "name": "Langelandsveien 17",
+        "address": "Langelandsveien 17",
+        "city": "ÅLESUND"
+    }
+]

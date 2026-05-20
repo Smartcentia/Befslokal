@@ -1,0 +1,1435 @@
+<!DOCTYPE html>
+<html lang="no">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Prediksjon Excel — lokal drill-down</title>
+  <script src="https://cdn.sheetjs.com/xlsx-0.20.3/package/dist/xlsx.full.min.js"></script>
+  <style>
+    :root { font-family: system-ui, sans-serif; color: #0f172a; background: #f8fafc; }
+    body { margin: 0; padding: 1rem 1.25rem 2rem; max-width: 1200px; margin-inline: auto; }
+    h1 { font-size: 1.25rem; margin: 0 0 0.5rem; }
+    p.meta { color: #64748b; font-size: 0.875rem; margin: 0 0 1rem; }
+    .row { display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center; margin-bottom: 1rem; }
+    label { font-size: 0.8rem; font-weight: 600; color: #334155; }
+    select, input[type="file"] { font-size: 0.875rem; }
+    select, input[type="search"] { min-width: 280px; padding: 0.35rem 0.5rem; border-radius: 6px; border: 1px solid #cbd5e1; background: #fff; font-size: 0.875rem; }
+    select { min-width: 280px; }
+    input[type="search"] { min-width: 200px; }
+    input[type="search"]::placeholder { color: #94a3b8; }
+    table { width: 100%; border-collapse: collapse; font-size: 0.8rem; background: #fff; border-radius: 0; overflow: hidden; box-shadow: none; }
+    th, td { text-align: left; padding: 0.45rem 0.6rem; border-bottom: 1px solid #e2e8f0; }
+    th { background: #0f766e; color: #fff; font-weight: 600; }
+    tr:hover td { background: #f1f5f9; }
+    tbody tr:nth-child(even) td { background: #fafafa; }
+    tbody tr:nth-child(even):hover td { background: #f1f5f9; }
+    .table-scroll { max-height: min(420px, 55vh); overflow: auto; border-radius: 8px; border: 1px solid #e2e8f0; box-shadow: 0 1px 3px rgb(0 0 0 / 0.08); background: #fff; }
+    .table-scroll thead th { position: sticky; top: 0; z-index: 2; box-shadow: 0 1px 0 #0a5c56; }
+    .num { text-align: right; font-variant-numeric: tabular-nums; }
+    .panel { margin-bottom: 1.5rem; }
+    .panel h2 { font-size: 1rem; margin: 0 0 0.5rem; color: #0f766e; }
+    .err { color: #b91c1c; font-size: 0.875rem; }
+    .muted { color: #94a3b8; font-size: 0.75rem; }
+    .context-bar { margin: 0.5rem 0 1rem; padding: 0.85rem 1rem; background: #fff; border: 1px solid #e2e8f0; border-radius: 8px; box-shadow: 0 1px 2px rgb(0 0 0 / 0.05); }
+    .context-title { margin: 0 0 0.65rem; font-size: 1rem; font-weight: 700; color: #0f172a; line-height: 1.35; }
+    .summary-strip { display: flex; flex-wrap: wrap; gap: 0.75rem; }
+    .summary-card { background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; padding: 0.5rem 0.75rem; min-width: 130px; flex: 1 1 auto; max-width: 220px; }
+    .summary-card .lbl { font-size: 0.65rem; color: #64748b; text-transform: uppercase; letter-spacing: 0.04em; margin-bottom: 0.2rem; }
+    .summary-card .val { font-size: 1.05rem; font-weight: 700; color: #0f172a; font-variant-numeric: tabular-nums; }
+    .to-top { position: fixed; bottom: 1.25rem; right: 1.25rem; width: 2.6rem; height: 2.6rem; border-radius: 50%; border: 1px solid #cbd5e1; background: #fff; box-shadow: 0 2px 10px rgb(0 0 0 / 0.12); cursor: pointer; font-size: 1.15rem; color: #0f766e; z-index: 100; }
+    .to-top:hover { background: #f0fdfa; }
+    .to-top[hidden] { display: none !important; }
+    .panel-head { display: flex; flex-wrap: wrap; align-items: flex-end; justify-content: space-between; gap: 0.5rem; margin-bottom: 0.5rem; }
+    .panel-head h2 { margin: 0 !important; }
+    .csv-btn { font-size: 0.8rem; padding: 0.35rem 0.65rem; border-radius: 6px; border: 1px solid #0f766e; background: #fff; color: #0f766e; cursor: pointer; font-weight: 600; white-space: nowrap; }
+    .csv-btn:hover { background: #f0fdfa; }
+    th.sortable { cursor: pointer; user-select: none; }
+    th.sortable:hover { filter: brightness(1.08); }
+    .report-uttrekk { margin-top: 1.25rem; padding: 1rem 1.1rem; background: #fff; border: 1px solid #cbd5e1; border-radius: 10px; box-shadow: 0 1px 3px rgb(0 0 0 / 0.06); }
+    .report-uttrekk[hidden] { display: none !important; }
+    .report-uttrekk .report-title { font-size: 1.15rem; font-weight: 800; color: #0f172a; margin: 0 0 0.35rem; }
+    .report-uttrekk .report-meta { font-size: 0.8rem; color: #475569; margin: 0 0 1rem; line-height: 1.45; }
+    .report-uttrekk .report-section { margin-bottom: 1.25rem; }
+    .report-uttrekk .report-section h3 { font-size: 0.95rem; color: #0f766e; margin: 0 0 0.5rem; }
+    .report-uttrekk .report-note { font-size: 0.75rem; color: #64748b; margin: 0.35rem 0 0; }
+    .report-uttrekk .table-scroll { max-height: none; }
+    @media print {
+      body { background: #fff; padding: 0.4rem; max-width: none; }
+      .no-print { display: none !important; }
+      .table-scroll { max-height: none !important; overflow: visible !important; border: none !important; box-shadow: none !important; }
+      .panel { break-inside: avoid; page-break-inside: avoid; margin-bottom: 1rem; }
+      th { print-color-adjust: exact; -webkit-print-color-adjust: exact; }
+      a[href]:after { content: none !important; }
+      body.print-report-only .drill-layout { display: none !important; }
+      body.print-report-only .report-uttrekk { border: none; box-shadow: none; padding: 0; }
+      body.print-report-only > h1.app-title,
+      body.print-report-only > p.meta,
+      body.print-report-only > p.err { display: none !important; }
+    }
+  </style>
+</head>
+<body>
+  <h1 class="app-title">Prediksjon 2027 — lokal visning</h1>
+  <p class="meta">
+    Velg en nedlastet <strong>prediksjon_2027.xlsx</strong> eller <strong>prediksjon_2027_export.xlsx</strong> fra BEFS.
+    Alt behandles lokalt i nettleseren (ingen opplasting til internett). Krever nett første gang for SheetJS fra CDN.
+  </p>
+
+  <div class="row no-print">
+    <div>
+      <label for="file">Excel-fil</label><br />
+      <input id="file" type="file" accept=".xlsx,.xlsm" />
+    </div>
+  </div>
+  <p id="err" class="err" hidden></p>
+
+  <div class="drill-layout">
+  <div class="panel" id="step0" hidden>
+    <h2>1. Velg region (Bufetat-region / Bufdir)</h2>
+    <div class="row no-print">
+      <select id="selRegion" aria-label="Velg region"></select>
+    </div>
+    <p class="muted">Listen hentes fra kolonnen <code>region</code> i eksporten (samme som i BEFS). «Bufdir» vises som egen verdi når eiendommen er registrert slik.</p>
+  </div>
+
+  <div class="panel" id="step1" hidden>
+    <h2>2. Velg eiendom</h2>
+    <div class="row no-print">
+      <select id="selProp" aria-label="Velg eiendom"></select>
+    </div>
+    <p class="muted" id="propHint"></p>
+    <div id="contextBar" class="context-bar" hidden>
+      <p id="contextTitle" class="context-title"></p>
+      <div class="summary-strip" id="summaryStrip"></div>
+    </div>
+    <div class="panel no-print" id="reportControls" hidden>
+      <h2>Rapport — ett eiendomsuttrekk</h2>
+      <p class="muted">
+        Når du har valgt <strong>én eiendom</strong>, kan du bygge en samlet rapport (for utskrift, PDF eller deling).
+        Drill-down fanene over viser detaljer per kategori og bilag; rapporten oppsummerer kontodata og historikk der arket finnes i Excel-filen.
+      </p>
+      <div class="row" style="margin-bottom: 0;">
+        <button type="button" class="csv-btn" id="btnBuildReport">Bygg rapport</button>
+        <button type="button" class="csv-btn" id="btnPrintReport" disabled>Skriv ut rapport</button>
+        <button type="button" class="csv-btn" id="btnSaveReportHtml" disabled>Last ned rapport (.html)</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="panel" id="step2" hidden>
+    <div class="panel-head">
+      <h2>3. Kostnader etter kategori (Eiendom_kategori)</h2>
+      <button type="button" class="csv-btn no-print" id="btnCsvKat" title="Eksporter synlig tabell">Last ned CSV</button>
+    </div>
+    <div id="tblKat"></div>
+  </div>
+
+  <div class="panel" id="panelLease" hidden>
+    <div class="panel-head">
+      <h2>Husleie utskilt (GL 2025)</h2>
+      <button type="button" class="csv-btn no-print" id="btnCsvLease" title="Eksporter synlig tabell">Last ned CSV</button>
+    </div>
+    <p class="muted">
+      Utdrag fra ark <strong>GL_konto</strong> med samme regel som BEFS <code>is_lease_account</code>: kjente leiekontonavn og kontonavn som starter med «Leie&nbsp;».
+      2027-prediksjon er fortsatt samlet under <strong>Drift</strong> i tabellen over (ingen egen post i eksporten).
+    </p>
+    <p class="muted" id="leaseSummary"></p>
+    <div id="tblLease"></div>
+  </div>
+
+  <div class="panel" id="step3" hidden>
+    <div class="panel-head">
+      <h2>4. Velg kategori → konto (GL_konto)</h2>
+      <button type="button" class="csv-btn no-print" id="btnCsvKonto" title="Eksporter synlig tabell (respekterer søk)">Last ned CSV</button>
+    </div>
+    <div class="row no-print">
+      <select id="selKat" aria-label="Velg SRS-kategori"></select>
+      <div>
+        <label for="kontoFilter">Søk konto</label><br />
+        <input id="kontoFilter" type="search" placeholder="Kontonr. eller navn…" aria-label="Filtrer kontoliste" autocomplete="off" />
+      </div>
+    </div>
+    <div id="tblKonto"></div>
+  </div>
+
+  <div class="panel" id="step4" hidden>
+    <div class="panel-head">
+      <h2>5. Velg konto → bilagslinjer (GL_bilag)</h2>
+      <button type="button" class="csv-btn no-print" id="btnCsvBilag" title="Eksporter synlig tabell (respekterer søk)">Last ned CSV</button>
+    </div>
+    <div class="row no-print">
+      <select id="selKonto" aria-label="Velg konto"></select>
+      <div>
+        <label for="bilagFilter">Søk bilag</label><br />
+        <input id="bilagFilter" type="search" placeholder="Bilagsnr. eller tekst…" aria-label="Filtrer bilagslinjer" autocomplete="off" />
+      </div>
+    </div>
+    <div id="tblBilag"></div>
+  </div>
+  </div>
+
+  <div id="propertyReport" class="report-uttrekk" hidden></div>
+
+  <button type="button" id="toTop" class="to-top no-print" title="Til toppen" hidden aria-label="Til toppen">↑</button>
+
+  <script>
+    (function () {
+      var $ = function (id) { return document.getElementById(id); };
+      var errEl = $("err");
+      var wb = null;
+      var ekRows = [];
+      var kontoRows = [];
+      var bilagRows = [];
+      var histRows = [];
+      var basisRows = [];
+      var lastFileName = "";
+      var lastReportHtml = "";
+      var ALL_KATS = "__ALL__";
+      var ALL_REGIONS = "__ALL_REG__";
+      var ALL_PROPS = "__ALL_PROPS__";
+      var KAT_KSEP = "\t";
+      var sortState = { kat: { col: -1, dir: 1 }, lease: { col: -1, dir: 1 }, konto: { col: -1, dir: 1 }, bilag: { col: -1, dir: 1 } };
+      var lastTableData = { kat: null, lease: null, konto: null, bilag: null };
+
+      function kontoPairVal(kat, konto) {
+        return String(kat || "").trim() + KAT_KSEP + String(konto || "").trim();
+      }
+
+      function parseKontoPairVal(val, fallbackKat) {
+        var s = String(val || "");
+        var i = s.indexOf(KAT_KSEP);
+        if (i < 0) {
+          return { kat: String(fallbackKat || "").trim(), konto: s.trim() };
+        }
+        return { kat: s.slice(0, i).trim(), konto: s.slice(i + KAT_KSEP.length).trim() };
+      }
+
+      function showErr(msg) {
+        errEl.hidden = !msg;
+        errEl.textContent = msg || "";
+      }
+
+      function invalidateReport() {
+        $("propertyReport").hidden = true;
+        $("propertyReport").textContent = "";
+        $("btnPrintReport").disabled = true;
+        $("btnSaveReportHtml").disabled = true;
+        lastReportHtml = "";
+      }
+
+      function fillStaticTable(container, rows, columns) {
+        container.textContent = "";
+        if (!rows.length) {
+          var empty = document.createElement("p");
+          empty.className = "muted";
+          empty.textContent = "Ingen rader.";
+          container.appendChild(empty);
+          return;
+        }
+        var table = document.createElement("table");
+        var thead = document.createElement("thead");
+        var trh = document.createElement("tr");
+        for (var c = 0; c < columns.length; c++) {
+          var th = document.createElement("th");
+          th.textContent = columns[c].label;
+          trh.appendChild(th);
+        }
+        thead.appendChild(trh);
+        table.appendChild(thead);
+        var tbody = document.createElement("tbody");
+        for (var r = 0; r < rows.length; r++) {
+          var tr = document.createElement("tr");
+          var row = rows[r];
+          for (var c2 = 0; c2 < columns.length; c2++) {
+            var td = document.createElement("td");
+            var col = columns[c2];
+            var v = row[col.key];
+            if (col.num) {
+              td.className = "num";
+              td.textContent = fmtNum(v);
+            } else {
+              td.textContent = v == null ? "" : String(v);
+            }
+            tr.appendChild(td);
+          }
+          tbody.appendChild(tr);
+        }
+        table.appendChild(tbody);
+        var wrap = document.createElement("div");
+        wrap.className = "table-scroll";
+        wrap.appendChild(table);
+        container.appendChild(wrap);
+      }
+
+      function belopKey(row) {
+        if (row && Object.prototype.hasOwnProperty.call(row, "beløp")) return row["beløp"];
+        if (row && Object.prototype.hasOwnProperty.call(row, "belop")) return row.belop;
+        return "";
+      }
+
+      function reportMetaEl(pid, reg, fileLabel) {
+        var meta = document.createElement("p");
+        meta.className = "report-meta";
+        var s1 = document.createElement("strong");
+        s1.textContent = "Property ID:";
+        meta.appendChild(s1);
+        meta.appendChild(document.createTextNode(" " + pid));
+        if (reg) {
+          meta.appendChild(document.createTextNode(" · "));
+          var s2 = document.createElement("strong");
+          s2.textContent = "Region:";
+          meta.appendChild(s2);
+          meta.appendChild(document.createTextNode(" " + reg));
+        }
+        meta.appendChild(document.createElement("br"));
+        var s3 = document.createElement("strong");
+        s3.textContent = "Kildefil:";
+        meta.appendChild(s3);
+        meta.appendChild(document.createTextNode(" " + (fileLabel || "—")));
+        meta.appendChild(document.createElement("br"));
+        var s4 = document.createElement("strong");
+        s4.textContent = "Generert:";
+        meta.appendChild(s4);
+        meta.appendChild(document.createTextNode(" " + new Date().toLocaleString("nb-NO")));
+        return meta;
+      }
+
+      function reportMetaElMulti(regLabel, nProps, fileLabel) {
+        var meta = document.createElement("p");
+        meta.className = "report-meta";
+        var s1 = document.createElement("strong");
+        s1.textContent = "Omfang:";
+        meta.appendChild(s1);
+        meta.appendChild(document.createTextNode(" Alle eiendommer i valgt filter (" + nProps + " stk.)"));
+        meta.appendChild(document.createTextNode(" · "));
+        var s2 = document.createElement("strong");
+        s2.textContent = "Regionfilter:";
+        meta.appendChild(s2);
+        meta.appendChild(document.createTextNode(" " + regLabel));
+        meta.appendChild(document.createElement("br"));
+        var s3 = document.createElement("strong");
+        s3.textContent = "Kildefil:";
+        meta.appendChild(s3);
+        meta.appendChild(document.createTextNode(" " + (fileLabel || "—")));
+        meta.appendChild(document.createElement("br"));
+        var s4 = document.createElement("strong");
+        s4.textContent = "Generert:";
+        meta.appendChild(s4);
+        meta.appendChild(document.createTextNode(" " + new Date().toLocaleString("nb-NO")));
+        return meta;
+      }
+
+      function isAllPropertiesSelected() {
+        return $("selProp").value === ALL_PROPS;
+      }
+
+      function propertyIdsInCurrentFilter() {
+        var reg = $("selRegion").value;
+        var allReg = reg === ALL_REGIONS;
+        var ids = {};
+        for (var i = 0; i < ekRows.length; i++) {
+          var r = ekRows[i];
+          var id = String(r.property_id || "").trim();
+          if (!id || ids[id]) continue;
+          var rgn = String(r.region || "Ukjent").trim();
+          if (!allReg && rgn !== reg) continue;
+          ids[id] = 1;
+        }
+        return Object.keys(ids);
+      }
+
+      function propertyIdSetInFilter() {
+        var ids = propertyIdsInCurrentFilter();
+        var set = {};
+        for (var i = 0; i < ids.length; i++) set[ids[i]] = 1;
+        return set;
+      }
+
+      function matchesSelectedProperty(rowPid) {
+        if (isAllPropertiesSelected()) {
+          var s = propertyIdSetInFilter();
+          return !!s[String(rowPid)];
+        }
+        return String(rowPid) === String($("selProp").value);
+      }
+
+      function filterEkRowsForCurrentScope() {
+        var s = propertyIdSetInFilter();
+        return ekRows.filter(function (r) {
+          return s[String(r.property_id)];
+        });
+      }
+
+      function aggregateEkByCategory(rows) {
+        var map = {};
+        for (var i = 0; i < rows.length; i++) {
+          var r = rows[i];
+          var k = String(r.srs_kategori || "").trim() || "Ukjent";
+          if (!map[k]) {
+            map[k] = { srs_kategori: k, gl_2025: 0, pred_2027_xgb70: 0, pred_2027_xgb50: 0 };
+          }
+          map[k].gl_2025 += parseBelop(r.gl_2025);
+          map[k].pred_2027_xgb70 += parseBelop(r.pred_2027_xgb70);
+          map[k].pred_2027_xgb50 += parseBelop(r.pred_2027_xgb50);
+        }
+        var out = [];
+        for (var key in map) {
+          if (!Object.prototype.hasOwnProperty.call(map, key)) continue;
+          var o = map[key];
+          var gl = o.gl_2025;
+          var p70 = o.pred_2027_xgb70;
+          o.endring_pct_70_vs_gl = gl > 0 ? ((p70 - gl) / gl) * 100 : "";
+          out.push(o);
+        }
+        out.sort(function (a, b) {
+          return String(a.srs_kategori).localeCompare(String(b.srs_kategori), "nb");
+        });
+        return out;
+      }
+
+      function aggregateKontoLikeRows(rows) {
+        var map = {};
+        for (var i = 0; i < rows.length; i++) {
+          var r = rows[i];
+          var kat = String(r.srs_kategori || "").trim();
+          var ko = String(r.konto || "").trim();
+          var kn = String(r.konto_navn || "").trim();
+          var key = kat + "\0" + ko;
+          if (!map[key]) {
+            map[key] = {
+              srs_kategori: kat,
+              konto: ko,
+              konto_navn: kn,
+              belop: 0,
+              antall_transaksjoner: 0,
+            };
+          }
+          map[key].belop += parseBelop(r.belop);
+          map[key].antall_transaksjoner += parseBelop(r.antall_transaksjoner);
+        }
+        var out = [];
+        for (var k in map) {
+          if (Object.prototype.hasOwnProperty.call(map, k)) out.push(map[k]);
+        }
+        out.sort(function (a, b) {
+          var c = String(a.srs_kategori || "").localeCompare(String(b.srs_kategori || ""), "nb");
+          if (c !== 0) return c;
+          return String(a.konto || "").localeCompare(String(b.konto || ""), "nb", { numeric: true });
+        });
+        return out;
+      }
+
+      function aggregateHistByCategory(rows) {
+        if (!rows.length) return [];
+        var yearKeys = [];
+        var keys0 = Object.keys(rows[0]);
+        for (var ki = 0; ki < keys0.length; ki++) {
+          if (/^20\d\d$/.test(keys0[ki])) yearKeys.push(keys0[ki]);
+        }
+        yearKeys.sort();
+        var map = {};
+        for (var i = 0; i < rows.length; i++) {
+          var r = rows[i];
+          var k = String(r.srs_kategori || "").trim() || "Ukjent";
+          if (!map[k]) {
+            var o = { srs_kategori: k, property_id: "", eiendom: "(samlet)", region: "(samlet)" };
+            for (var y = 0; y < yearKeys.length; y++) o[yearKeys[y]] = 0;
+            o.sum_grunnlag = 0;
+            o.snitt_per_ar = 0;
+            map[k] = o;
+          }
+          var m = map[k];
+          for (var y2 = 0; y2 < yearKeys.length; y2++) {
+            var yr = yearKeys[y2];
+            m[yr] += parseBelop(r[yr]);
+          }
+        }
+        var out = [];
+        for (var key in map) {
+          if (!Object.prototype.hasOwnProperty.call(map, key)) continue;
+          var row = map[key];
+          var total = 0;
+          for (var y3 = 0; y3 < yearKeys.length; y3++) total += row[yearKeys[y3]];
+          row.sum_grunnlag = total;
+          row.snitt_per_ar = yearKeys.length ? total / yearKeys.length : 0;
+          out.push(row);
+        }
+        out.sort(function (a, b) {
+          return String(a.srs_kategori).localeCompare(String(b.srs_kategori), "nb");
+        });
+        return out;
+      }
+
+      function exportScopeSlug() {
+        if (isAllPropertiesSelected()) {
+          var r =
+            $("selRegion").value === ALL_REGIONS
+              ? "alle_regioner"
+              : csvSlugPart($("selRegion").value);
+          return "alle_eiendommer_" + r;
+        }
+        return csvSlugPart($("selProp").value);
+      }
+
+      function buildPropertyReport() {
+        var pid = $("selProp").value;
+        if (!pid) {
+          window.alert("Velg en eiendom først.");
+          return;
+        }
+        var root = $("propertyReport");
+        root.textContent = "";
+        root.hidden = false;
+
+        var allP = isAllPropertiesSelected();
+        var katRows;
+        if (allP) {
+          katRows = aggregateEkByCategory(filterEkRowsForCurrentScope());
+        } else {
+          katRows = ekRows.filter(function (r) {
+            return String(r.property_id) === pid;
+          });
+        }
+        var name = "";
+        var reg = "";
+        if (!allP && katRows.length) {
+          name = String(katRows[0].eiendom || "").trim();
+          reg = String(katRows[0].region || "").trim();
+        }
+        if (!name && !allP) {
+          var ox = $("selProp").options[$("selProp").selectedIndex];
+          if (ox && ox.textContent) name = ox.textContent.split(" (")[0].trim();
+        }
+
+        var title = document.createElement("h2");
+        title.className = "report-title";
+        title.textContent = allP
+          ? "Prediksjon 2027 — Alle eiendommer (samlet)"
+          : "Prediksjon 2027 — " + (name || "Eiendom");
+        root.appendChild(title);
+        if (allP) {
+          var regL = $("selRegion").value === ALL_REGIONS ? "Alle regioner" : String($("selRegion").value);
+          root.appendChild(
+            reportMetaElMulti(regL, propertyIdsInCurrentFilter().length, lastFileName)
+          );
+        } else {
+          root.appendChild(reportMetaEl(pid, reg, lastFileName));
+        }
+
+        var sgl = 0;
+        var s70 = 0;
+        var s50 = 0;
+        for (var si = 0; si < katRows.length; si++) {
+          sgl += parseBelop(katRows[si].gl_2025);
+          s70 += parseBelop(katRows[si].pred_2027_xgb70);
+          s50 += parseBelop(katRows[si].pred_2027_xgb50);
+        }
+        var strip = document.createElement("div");
+        strip.className = "summary-strip";
+        strip.style.marginBottom = "1rem";
+        function addSumCard(lbl, val) {
+          var d = document.createElement("div");
+          d.className = "summary-card";
+          var l = document.createElement("div");
+          l.className = "lbl";
+          l.textContent = lbl;
+          var v = document.createElement("div");
+          v.className = "val";
+          v.textContent = fmtNum(val);
+          d.appendChild(l);
+          d.appendChild(v);
+          strip.appendChild(d);
+        }
+        addSumCard("GL 2025 (sum)", sgl);
+        addSumCard("Pred. 2027 · 70 %", s70);
+        addSumCard("Pred. 2027 · 50 %", s50);
+        root.appendChild(strip);
+
+        var secKat = document.createElement("div");
+        secKat.className = "report-section";
+        var hKat = document.createElement("h3");
+        hKat.textContent = "Kostnader og prediksjon etter SRS-kategori";
+        secKat.appendChild(hKat);
+        var katCols = [
+          { key: "srs_kategori", label: "Kategori", num: false },
+          { key: "gl_2025", label: "GL 2025", num: true },
+          { key: "pred_2027_xgb70", label: "Pred 2027 (70%)", num: true },
+          { key: "pred_2027_xgb50", label: "Pred 2027 (50%)", num: true },
+          { key: "endring_pct_70_vs_gl", label: "Endr % (70 vs GL)", num: true },
+        ];
+        fillStaticTable(secKat, katRows, katCols);
+        root.appendChild(secKat);
+
+        var leaseRows = kontoRows.filter(function (r) {
+          return matchesSelectedProperty(r.property_id) && isLeaseKontoNavn(r.konto_navn);
+        });
+        if (allP) leaseRows = aggregateKontoLikeRows(leaseRows);
+        else {
+          leaseRows = leaseRows.slice().sort(function (a, b) {
+            var ca = String(a.srs_kategori || "");
+            var cb = String(b.srs_kategori || "");
+            var cmp = ca.localeCompare(cb, "nb");
+            if (cmp !== 0) return cmp;
+            return String(a.konto || "").localeCompare(String(b.konto || ""), "nb", { numeric: true });
+          });
+        }
+        var secLease = document.createElement("div");
+        secLease.className = "report-section";
+        var hLe = document.createElement("h3");
+        hLe.textContent = "Husleie utskilt (GL 2025)";
+        secLease.appendChild(hLe);
+        var leaseCols = [
+          { key: "srs_kategori", label: "SRS", num: false },
+          { key: "konto", label: "Konto", num: false },
+          { key: "konto_navn", label: "Kontonavn", num: false },
+          { key: "belop", label: "Beløp", num: true },
+          { key: "antall_transaksjoner", label: "Ant. trans", num: true },
+        ];
+        fillStaticTable(secLease, leaseRows, leaseCols);
+        root.appendChild(secLease);
+
+        var kontoAll = kontoRows.filter(function (r) {
+          return matchesSelectedProperty(r.property_id);
+        });
+        if (allP) kontoAll = aggregateKontoLikeRows(kontoAll);
+        else {
+          kontoAll = kontoAll.slice().sort(function (a, b) {
+            var ca = String(a.srs_kategori || "");
+            var cb = String(b.srs_kategori || "");
+            var cmp = ca.localeCompare(cb, "nb");
+            if (cmp !== 0) return cmp;
+            return String(a.konto || "").localeCompare(String(b.konto || ""), "nb", { numeric: true });
+          });
+        }
+        var secKo = document.createElement("div");
+        secKo.className = "report-section";
+        var hKo = document.createElement("h3");
+        hKo.textContent = "Alle kontoposter (GL 2025, aggregert)";
+        secKo.appendChild(hKo);
+        var kontoCols = [
+          { key: "srs_kategori", label: "Kategori", num: false },
+          { key: "konto", label: "Konto", num: false },
+          { key: "konto_navn", label: "Kontonavn", num: false },
+          { key: "belop", label: "Beløp", num: true },
+          { key: "antall_transaksjoner", label: "Ant. trans", num: true },
+        ];
+        fillStaticTable(secKo, kontoAll, kontoCols);
+        root.appendChild(secKo);
+
+        if (histRows.length) {
+          var hf = histRows.filter(function (r) {
+            return matchesSelectedProperty(r.property_id);
+          });
+          if (allP) hf = aggregateHistByCategory(hf);
+          var secH = document.createElement("div");
+          secH.className = "report-section";
+          var hH = document.createElement("h3");
+          hH.textContent = allP
+            ? "Historikkgrunnlag (2021–2025) per kategori — samlet"
+            : "Historikkgrunnlag (2021–2025) per kategori";
+          secH.appendChild(hH);
+          var histCols = [];
+          if (hf.length) {
+            var skip = { til_detaljer: 1 };
+            var keyOrder = Object.keys(hf[0]);
+            for (var ki = 0; ki < keyOrder.length; ki++) {
+              var key = keyOrder[ki];
+              if (skip[key]) continue;
+              var isNum =
+                key === "sum_grunnlag" ||
+                key === "snitt_per_ar" ||
+                /^20\d\d$/.test(key);
+              histCols.push({ key: key, label: key, num: isNum });
+            }
+          }
+          fillStaticTable(secH, hf, histCols);
+          root.appendChild(secH);
+        }
+
+        var BASIS_CAP = 1500;
+        if (basisRows.length) {
+          var bf = basisRows
+            .filter(function (r) {
+              return matchesSelectedProperty(r.property_id);
+            })
+            .slice()
+            .sort(function (a, b) {
+              return parseBelop(belopKey(b)) - parseBelop(belopKey(a));
+            });
+          var capped = bf.length > BASIS_CAP;
+          var bfShow = capped ? bf.slice(0, BASIS_CAP) : bf;
+          var secB = document.createElement("div");
+          secB.className = "report-section";
+          var hB = document.createElement("h3");
+          hB.textContent = "Kostnadsgrunnlag (detaljerte transaksjoner)";
+          secB.appendChild(hB);
+          if (capped) {
+            var capNote = document.createElement("p");
+            capNote.className = "report-note";
+            capNote.textContent =
+              "Viser de " +
+              BASIS_CAP +
+              " største transaksjonene (etter beløp) av " +
+              bf.length +
+              " totalt i valgt omfang. Full liste i Excel-arket «Kostnadsgrunnlag_GL».";
+            secB.appendChild(capNote);
+          }
+          var basisCols = [];
+          if (bfShow.length) {
+            var keysB = Object.keys(bfShow[0]);
+            for (var bi = 0; bi < keysB.length; bi++) {
+              var bk = keysB[bi];
+              if (bk === "transaksjon_id") continue;
+              var lk = String(bk).toLowerCase();
+              var numB = bk === "år" || lk === "belop" || bk === "beløp";
+              basisCols.push({ key: bk, label: bk, num: numB });
+            }
+          }
+          fillStaticTable(secB, bfShow, basisCols);
+          root.appendChild(secB);
+        }
+
+        var foot = document.createElement("p");
+        foot.className = "report-note";
+        foot.textContent =
+          "Prediksjonstall er estimater til planlegging — ikke vedtatte budsjetter. Enkeltbilag for 2025 finner du i drill-down (GL_bilag).";
+        root.appendChild(foot);
+
+        $("btnPrintReport").disabled = false;
+        $("btnSaveReportHtml").disabled = false;
+
+        lastReportHtml =
+          "<!DOCTYPE html><html lang=\"no\"><head><meta charset=\"UTF-8\"/><title>Rapport prediksjon 2027</title><style>" +
+          "body{font-family:system-ui,sans-serif;color:#0f172a;margin:1.2rem;max-width:1200px;margin-inline:auto}" +
+          "table{width:100%;border-collapse:collapse;font-size:0.8rem}" +
+          "th,td{text-align:left;padding:0.4rem 0.5rem;border-bottom:1px solid #e2e8f0}" +
+          "th{background:#0f766e;color:#fff}" +
+          ".num{text-align:right;font-variant-numeric:tabular-nums}" +
+          ".report-title{font-size:1.15rem;font-weight:800}" +
+          ".report-meta{font-size:0.8rem;color:#475569;line-height:1.45}" +
+          ".report-section{margin-bottom:1.25rem}" +
+          ".report-section h3{font-size:0.95rem;color:#0f766e}" +
+          ".report-note{font-size:0.75rem;color:#64748b}" +
+          ".summary-strip{display:flex;flex-wrap:wrap;gap:0.75rem;margin-bottom:1rem}" +
+          ".summary-card{background:#f8fafc;border:1px solid #e2e8f0;border-radius:8px;padding:0.5rem 0.75rem;min-width:120px}" +
+          ".summary-card .lbl{font-size:0.65rem;color:#64748b;text-transform:uppercase}" +
+          ".summary-card .val{font-size:1rem;font-weight:700}" +
+          "</style></head><body>" +
+          root.outerHTML +
+          "</body></html>";
+
+        root.scrollIntoView({ behavior: "smooth", block: "start" });
+      }
+
+      function sheetRows(sheetName) {
+        var sh = wb.Sheets[sheetName];
+        if (!sh) return null;
+        return XLSX.utils.sheet_to_json(sh, { defval: "", raw: true });
+      }
+
+      function sheetRowsAfterHeader(sheetName, matchFn) {
+        var sh = wb.Sheets[sheetName];
+        if (!sh) return [];
+        var aoa = XLSX.utils.sheet_to_json(sh, { header: 1, defval: "", raw: true });
+        var hdrIdx = -1;
+        for (var i = 0; i < aoa.length && i < 30; i++) {
+          var r = aoa[i];
+          if (r && matchFn(r)) {
+            hdrIdx = i;
+            break;
+          }
+        }
+        if (hdrIdx < 0) return [];
+        var hdr = aoa[hdrIdx].map(function (h) { return String(h || "").trim(); });
+        var out = [];
+        for (var j = hdrIdx + 1; j < aoa.length; j++) {
+          var row = aoa[j];
+          var o = {};
+          for (var k = 0; k < hdr.length; k++) o[hdr[k]] = row[k];
+          out.push(o);
+        }
+        return out;
+      }
+
+      function sheetRowsKostnadsgrunnlag() {
+        return sheetRowsAfterHeader("Kostnadsgrunnlag_GL", function (r) {
+          return r && String(r[1]).toLowerCase() === "property_id";
+        });
+      }
+
+      function sheetRowsBilag() {
+        var sh = wb.Sheets["GL_bilag"];
+        if (!sh) return [];
+        var aoa = XLSX.utils.sheet_to_json(sh, { header: 1, defval: "", raw: false });
+        if (aoa.length < 2) return [];
+        var hdrIdx = -1;
+        for (var i = 0; i < aoa.length; i++) {
+          var r = aoa[i];
+          if (r && String(r[0]).toLowerCase() === "property_id") { hdrIdx = i; break; }
+        }
+        if (hdrIdx < 0) return [];
+        var hdr = aoa[hdrIdx].map(function (h) { return String(h || "").trim(); });
+        var out = [];
+        for (var j = hdrIdx + 1; j < aoa.length; j++) {
+          var row = aoa[j];
+          var o = {};
+          for (var k = 0; k < hdr.length; k++) o[hdr[k]] = row[k];
+          out.push(o);
+        }
+        return out;
+      }
+
+      function fmtNum(v) {
+        if (v === "" || v == null) return "—";
+        if (typeof v === "number" && Number.isFinite(v)) {
+          return v.toLocaleString("nb-NO", { maximumFractionDigits: 0 });
+        }
+        var n = parseBelop(v);
+        if (Number.isFinite(n) && n !== 0) return n.toLocaleString("nb-NO", { maximumFractionDigits: 0 });
+        return String(v);
+      }
+
+      var LEASE_EXACT_NAMES = {
+        "Leie lokaler fra Statsbygg": 1,
+        "Leie lokaler andre utleiere": 1,
+        "Leie parkeringsplass": 1,
+        "Leie av lager/naust/garsjer og lignende": 1,
+        "Husleie": 1,
+      };
+
+      function isLeaseKontoNavn(navn) {
+        var s = String(navn || "").trim();
+        if (!s) return false;
+        if (LEASE_EXACT_NAMES[s]) return true;
+        var low = s.toLowerCase();
+        if (low === "husleie") return true;
+        if (low.indexOf("leie ") === 0) return true;
+        return false;
+      }
+
+      function parseBelop(v) {
+        if (v === "" || v == null) return 0;
+        if (typeof v === "number" && Number.isFinite(v)) return v;
+        var s = String(v).trim().replace(/\u00a0/g, " ").replace(/\s/g, "");
+        if (!s) return 0;
+        if (/^-?\d{1,3}(,\d{3})+(\.\d+)?$/.test(s)) {
+          return Number(s.replace(/,/g, "")) || 0;
+        }
+        if (/^-?\d{1,3}(\.\d{3})+(,\d+)?$/.test(s)) {
+          return Number(s.replace(/\./g, "").replace(",", ".")) || 0;
+        }
+        if (/^-?\d+,\d+$/.test(s)) {
+          return Number(s.replace(/\./g, "").replace(",", ".")) || 0;
+        }
+        var n = Number(s.replace(/,/g, "."));
+        return Number.isFinite(n) ? n : 0;
+      }
+
+      function compareCell(a, b, coldef) {
+        var va = a[coldef.key];
+        var vb = b[coldef.key];
+        if (coldef.num) {
+          var na = parseBelop(va);
+          var nb = parseBelop(vb);
+          if (na < nb) return -1;
+          if (na > nb) return 1;
+          return 0;
+        }
+        return String(va || "").localeCompare(String(vb || ""), "nb", { numeric: true });
+      }
+
+      function csvEscape(s) {
+        s = String(s == null ? "" : s);
+        if (/[",;\n\r]/.test(s)) return '"' + s.replace(/"/g, '""') + '"';
+        return s;
+      }
+
+      function downloadCsv(lines, filename) {
+        var bom = "\ufeff";
+        var blob = new Blob([bom + lines.join("\n")], { type: "text/csv;charset=utf-8;" });
+        var a = document.createElement("a");
+        a.href = URL.createObjectURL(blob);
+        a.download = filename;
+        document.body.appendChild(a);
+        a.click();
+        a.remove();
+        URL.revokeObjectURL(a.href);
+      }
+
+      function exportDataRows(rows, columns, filename) {
+        if (!rows || !rows.length) {
+          window.alert("Ingen data å eksportere.");
+          return;
+        }
+        var sep = ";";
+        var header = columns.map(function (c) { return csvEscape(c.label); }).join(sep);
+        var lines = [header];
+        for (var i = 0; i < rows.length; i++) {
+          var r = rows[i];
+          lines.push(
+            columns
+              .map(function (c) {
+                var v = r[c.key];
+                if (c.num && v !== "" && v != null) return csvEscape(String(v).replace(/\s/g, "").replace(",", "."));
+                return csvEscape(v);
+              })
+              .join(sep)
+          );
+        }
+        downloadCsv(lines, filename);
+      }
+
+      function csvSlugPart(s) {
+        return String(s || "data")
+          .replace(/[^a-zA-Z0-9_\u00C0-\u024F\-]+/g, "_")
+          .slice(0, 40);
+      }
+
+      function exportTableKey(key) {
+        var pack = lastTableData[key];
+        if (!pack || !pack.rows || !pack.rows.length) {
+          window.alert("Ingen data å eksportere.");
+          return;
+        }
+        var base =
+          "prediksjon_" + key + "_" + exportScopeSlug() + "_" + new Date().toISOString().slice(0, 10) + ".csv";
+        exportDataRows(pack.rows, pack.columns, base);
+      }
+
+      function renderLeaseCard() {
+        if (!kontoRows.length || $("panelLease").hidden) return;
+        var rows = kontoRows.filter(function (r) {
+          return matchesSelectedProperty(r.property_id) && isLeaseKontoNavn(r.konto_navn);
+        });
+        if (isAllPropertiesSelected()) {
+          rows = aggregateKontoLikeRows(rows);
+        } else {
+          rows = rows.slice().sort(function (a, b) {
+            var ca = String(a.srs_kategori || "");
+            var cb = String(b.srs_kategori || "");
+            var cmp = ca.localeCompare(cb, "nb");
+            if (cmp !== 0) return cmp;
+            return String(a.konto || "").localeCompare(String(b.konto || ""), "nb", { numeric: true });
+          });
+        }
+        var total = 0;
+        for (var i = 0; i < rows.length; i++) total += parseBelop(rows[i].belop);
+        var sumEl = $("leaseSummary");
+        if (!rows.length) {
+          sumEl.textContent = "Ingen rader som matcher husleie-regelen for valgt omfang.";
+        } else {
+          sumEl.textContent =
+            (isAllPropertiesSelected() ? "Sum husleie (samlet, GL_konto): " : "Sum husleie (aggregert fra GL_konto): ") +
+            fmtNum(total) +
+            " NOK · " +
+            rows.length +
+            " konto-rad" +
+            (rows.length === 1 ? "" : "er");
+        }
+        var leaseCols = [
+          { key: "srs_kategori", label: "SRS", num: false },
+          { key: "konto", label: "Konto", num: false },
+          { key: "konto_navn", label: "Kontonavn", num: false },
+          { key: "belop", label: "Beløp", num: true },
+          { key: "antall_transaksjoner", label: "Ant. trans", num: true },
+        ];
+        lastTableData.lease = { rows: rows, columns: leaseCols };
+        fillTable($("tblLease"), rows, leaseCols, "lease");
+      }
+
+      function fillTable(container, rows, columns, tableKey) {
+        container.textContent = "";
+        if (!rows.length) {
+          var empty = document.createElement("p");
+          empty.className = "muted";
+          empty.textContent = "Ingen rader.";
+          container.appendChild(empty);
+          return;
+        }
+        var sorted = rows.slice();
+        if (tableKey && sortState[tableKey] && sortState[tableKey].col >= 0) {
+          var ci = sortState[tableKey].col;
+          var dir = sortState[tableKey].dir;
+          var coldef = columns[ci];
+          sorted.sort(function (a, b) {
+            return compareCell(a, b, coldef) * dir;
+          });
+        }
+        var table = document.createElement("table");
+        var thead = document.createElement("thead");
+        var trh = document.createElement("tr");
+        for (var c = 0; c < columns.length; c++) {
+          var th = document.createElement("th");
+          var lbl = columns[c].label;
+          if (tableKey) {
+            th.className = "sortable";
+            var st = sortState[tableKey];
+            if (st.col === c) lbl += st.dir === 1 ? " ↑" : " ↓";
+            th.textContent = lbl;
+            th.setAttribute("aria-sort", st.col === c ? (st.dir === 1 ? "ascending" : "descending") : "none");
+            (function (colIdx, tk) {
+              th.addEventListener("click", function () {
+                if (sortState[tk].col !== colIdx) {
+                  sortState[tk].col = colIdx;
+                  sortState[tk].dir = 1;
+                } else {
+                  sortState[tk].dir = -sortState[tk].dir;
+                }
+                if (tk === "kat") renderKat();
+                else if (tk === "lease") renderLeaseCard();
+                else if (tk === "konto") renderKonto();
+                else if (tk === "bilag") renderBilag();
+              });
+            })(c, tableKey);
+          } else {
+            th.textContent = lbl;
+          }
+          trh.appendChild(th);
+        }
+        thead.appendChild(trh);
+        table.appendChild(thead);
+        var tbody = document.createElement("tbody");
+        for (var r = 0; r < sorted.length; r++) {
+          var tr = document.createElement("tr");
+          var row = sorted[r];
+          for (var c2 = 0; c2 < columns.length; c2++) {
+            var td = document.createElement("td");
+            var col = columns[c2];
+            var v = row[col.key];
+            if (col.num) {
+              td.className = "num";
+              td.textContent = fmtNum(v);
+            } else {
+              td.textContent = v == null ? "" : String(v);
+            }
+            tr.appendChild(td);
+          }
+          tbody.appendChild(tr);
+        }
+        table.appendChild(tbody);
+        var wrap = document.createElement("div");
+        wrap.className = "table-scroll";
+        wrap.appendChild(table);
+        container.appendChild(wrap);
+      }
+
+      function updateContextBar(katRows, pid) {
+        var bar = $("contextBar");
+        bar.hidden = false;
+        if (pid === ALL_PROPS) {
+          var regF = $("selRegion").value;
+          var regLabel = regF === ALL_REGIONS ? "Alle regioner" : regF;
+          var nProp = propertyIdsInCurrentFilter().length;
+          $("contextTitle").textContent =
+            "Alle eiendommer · " + regLabel + " · " + nProp + " eiendommer (samlet visning)";
+        } else {
+          var name = "";
+          var reg = "";
+          if (katRows.length) {
+            name = String(katRows[0].eiendom || "").trim();
+            reg = String(katRows[0].region || "").trim();
+          }
+          if (!name) {
+            var sp = $("selProp");
+            var ox = sp.options[sp.selectedIndex];
+            if (ox && ox.textContent) {
+              var parts = ox.textContent.split(" (");
+              name = parts[0].trim();
+            }
+          }
+          var idShort = pid ? String(pid).slice(0, 8) + "…" : "";
+          $("contextTitle").textContent =
+            (name || "Eiendom") + (reg ? " · " + reg : "") + (idShort ? " · " + idShort : "");
+        }
+
+        var sgl = 0;
+        var s70 = 0;
+        var s50 = 0;
+        for (var si = 0; si < katRows.length; si++) {
+          sgl += parseBelop(katRows[si].gl_2025);
+          s70 += parseBelop(katRows[si].pred_2027_xgb70);
+          s50 += parseBelop(katRows[si].pred_2027_xgb50);
+        }
+        var strip = $("summaryStrip");
+        strip.textContent = "";
+        function addCard(lbl, val) {
+          var d = document.createElement("div");
+          d.className = "summary-card";
+          var l = document.createElement("div");
+          l.className = "lbl";
+          l.textContent = lbl;
+          var v = document.createElement("div");
+          v.className = "val";
+          v.textContent = fmtNum(val);
+          d.appendChild(l);
+          d.appendChild(v);
+          strip.appendChild(d);
+        }
+        addCard("GL 2025 (sum)", sgl);
+        addCard("Pred. 2027 · 70 %", s70);
+        addCard("Pred. 2027 · 50 %", s50);
+      }
+
+      function uniqRegionsFromEk() {
+        var s = {};
+        var out = [];
+        for (var i = 0; i < ekRows.length; i++) {
+          var reg = String(ekRows[i].region || "Ukjent").trim();
+          if (!s[reg]) {
+            s[reg] = 1;
+            out.push(reg);
+          }
+        }
+        out.sort(function (a, b) { return a.localeCompare(b, "nb"); });
+        return out;
+      }
+
+      function updatePropHint() {
+        var regs = uniqRegionsFromEk();
+        var nSeen = {};
+        var totalProps = 0;
+        for (var t = 0; t < ekRows.length; t++) {
+          var pid = String(ekRows[t].property_id || "").trim();
+          if (pid && !nSeen[pid]) {
+            nSeen[pid] = 1;
+            totalProps++;
+          }
+        }
+        var nFilter = propertyIdsInCurrentFilter().length;
+        $("propHint").textContent =
+          regs.length +
+          " regioner · " +
+          totalProps +
+          " eiendommer totalt · " +
+          nFilter +
+          " eiendommer i valgt filter · " +
+          kontoRows.length +
+          " konto-rader · " +
+          bilagRows.length +
+          " bilagslinjer";
+      }
+
+      function refillPropsSelect() {
+        var reg = $("selRegion").value;
+        var allReg = reg === ALL_REGIONS;
+        var entries = [];
+        var seen = {};
+        for (var i = 0; i < ekRows.length; i++) {
+          var r = ekRows[i];
+          var id = String(r.property_id || "").trim();
+          if (!id || seen[id]) continue;
+          seen[id] = 1;
+          var rgn = String(r.region || "Ukjent").trim();
+          if (!allReg && rgn !== reg) continue;
+          var name = String(r.eiendom || id).trim();
+          entries.push([id, name]);
+        }
+        entries.sort(function (a, b) { return a[1].localeCompare(b[1], "nb"); });
+        var sp = $("selProp");
+        var prev = sp.value;
+        sp.textContent = "";
+        var oAll = document.createElement("option");
+        oAll.value = ALL_PROPS;
+        oAll.textContent = "Alle eiendommer i valgt filter (" + entries.length + ")";
+        sp.appendChild(oAll);
+        for (var j = 0; j < entries.length; j++) {
+          var opt = document.createElement("option");
+          opt.value = entries[j][0];
+          opt.textContent = entries[j][1] + " (" + entries[j][0].slice(0, 8) + "…)";
+          sp.appendChild(opt);
+        }
+        var ok = false;
+        for (var k = 0; k < sp.options.length; k++) {
+          if (sp.options[k].value === prev) {
+            sp.value = prev;
+            ok = true;
+            break;
+          }
+        }
+        if (!ok && sp.options.length) {
+          sp.selectedIndex = entries.length ? 1 : 0;
+        }
+        updatePropHint();
+        renderKat();
+      }
+
+      function refillRegionAndProps() {
+        var regs = uniqRegionsFromEk();
+        var sr = $("selRegion");
+        var prevR = sr.value;
+        sr.textContent = "";
+        var o0 = document.createElement("option");
+        o0.value = ALL_REGIONS;
+        o0.textContent = "Alle regioner (Bufetat + Bufdir)";
+        sr.appendChild(o0);
+        for (var i = 0; i < regs.length; i++) {
+          var o = document.createElement("option");
+          o.value = regs[i];
+          o.textContent = regs[i];
+          sr.appendChild(o);
+        }
+        if (prevR === ALL_REGIONS || regs.indexOf(prevR) >= 0) {
+          sr.value = prevR || ALL_REGIONS;
+        } else {
+          sr.selectedIndex = 0;
+        }
+        refillPropsSelect();
+      }
+
+      function renderKat() {
+        invalidateReport();
+        var pid = $("selProp").value;
+        var rows;
+        if (pid === ALL_PROPS) {
+          rows = aggregateEkByCategory(filterEkRowsForCurrentScope());
+        } else {
+          rows = ekRows.filter(function (r) {
+            return String(r.property_id) === pid;
+          });
+        }
+        updateContextBar(rows, pid);
+        var katCols = [
+          { key: "srs_kategori", label: "Kategori", num: false },
+          { key: "gl_2025", label: "GL 2025", num: true },
+          { key: "pred_2027_xgb70", label: "Pred 2027 (70%)", num: true },
+          { key: "pred_2027_xgb50", label: "Pred 2027 (50%)", num: true },
+          { key: "endring_pct_70_vs_gl", label: "Endr % (70 vs GL)", num: true },
+        ];
+        lastTableData.kat = { rows: rows, columns: katCols };
+        fillTable($("tblKat"), rows, katCols, "kat");
+        var kats = [];
+        var seen = {};
+        for (var i = 0; i < rows.length; i++) {
+          var k = String(rows[i].srs_kategori || "").trim();
+          if (k && !seen[k]) { seen[k] =1; kats.push(k); }
+        }
+        kats.sort();
+        var sk = $("selKat");
+        var prevKat = sk.value;
+        sk.textContent = "";
+        var optAll = document.createElement("option");
+        optAll.value = ALL_KATS;
+        optAll.textContent = "Alle kategorier";
+        sk.appendChild(optAll);
+        for (var j = 0; j < kats.length; j++) {
+          var opt = document.createElement("option");
+          opt.value = kats[j];
+          opt.textContent = kats[j];
+          sk.appendChild(opt);
+        }
+        if (prevKat === ALL_KATS || kats.indexOf(prevKat) >= 0) {
+          sk.value = prevKat || ALL_KATS;
+        } else if (kats.length) {
+          sk.selectedIndex = 1;
+        } else {
+          sk.value = ALL_KATS;
+        }
+        renderLeaseCard();
+        renderKonto();
+      }
+
+      function renderKonto() {
+        var kat = $("selKat").value;
+        var allKats = kat === ALL_KATS;
+        var rows = kontoRows.filter(function (r) {
+          if (!matchesSelectedProperty(r.property_id)) return false;
+          if (allKats) return true;
+          return String(r.srs_kategori || "") === kat;
+        });
+        if (isAllPropertiesSelected()) {
+          rows = aggregateKontoLikeRows(rows);
+        } else {
+          rows = rows.slice().sort(function (a, b) {
+            var ca = String(a.srs_kategori || "");
+            var cb = String(b.srs_kategori || "");
+            var cmp = ca.localeCompare(cb, "nb");
+            if (cmp !== 0) return cmp;
+            return String(a.konto || "").localeCompare(String(b.konto || ""), "nb", { numeric: true });
+          });
+        }
+        var q = String($("kontoFilter").value || "").trim().toLowerCase();
+        var rowsVisible = rows;
+        if (q) {
+          rowsVisible = rows.filter(function (r) {
+            var kn = String(r.konto_navn || "").toLowerCase();
+            var ko = String(r.konto || "").toLowerCase();
+            return kn.indexOf(q) >= 0 || ko.indexOf(q) >= 0;
+          });
+        }
+        var cols = [
+          { key: "konto", label: "Konto", num: false },
+          { key: "konto_navn", label: "Kontonavn", num: false },
+          { key: "belop", label: "Beløp", num: true },
+          { key: "antall_transaksjoner", label: "Ant. trans", num: true },
+        ];
+        if (allKats) {
+          cols.unshift({ key: "srs_kategori", label: "Kategori", num: false });
+        }
+        lastTableData.konto = { rows: rowsVisible, columns: cols };
+        fillTable($("tblKonto"), rowsVisible, cols, "konto");
+        var entries = [];
+        var seenPair = {};
+        for (var i = 0; i < rowsVisible.length; i++) {
+          var rk = String(rowsVisible[i].srs_kategori || "").trim();
+          var kk = String(rowsVisible[i].konto || "").trim();
+          if (!kk) continue;
+          var pk = rk + "\0" + kk;
+          if (seenPair[pk]) continue;
+          seenPair[pk] = 1;
+          entries.push({ kat: rk, konto: kk, navn: String(rowsVisible[i].konto_navn || "") });
+        }
+        entries.sort(function (a, b) {
+          var c = a.kat.localeCompare(b.kat, "nb");
+          if (c !== 0) return c;
+          return String(a.konto).localeCompare(String(b.konto), "nb", { numeric: true });
+        });
+        var ko = $("selKonto");
+        var prevKo = ko.value;
+        ko.textContent = "";
+        for (var j = 0; j < entries.length; j++) {
+          var e = entries[j];
+          var opt = document.createElement("option");
+          opt.value = kontoPairVal(e.kat, e.konto);
+          var label = e.konto + " — " + e.navn.slice(0, 40);
+          if (allKats) label = e.kat + " · " + label;
+          opt.textContent = label;
+          ko.appendChild(opt);
+        }
+        if (entries.length && prevKo) {
+          for (var oi = 0; oi < ko.options.length; oi++) {
+            if (ko.options[oi].value === prevKo) {
+              ko.value = prevKo;
+              break;
+            }
+          }
+        }
+        renderBilag();
+      }
+
+      function renderBilag() {
+        if (!bilagRows.length) {
+          $("step4").hidden = true;
+          return;
+        }
+        $("step4").hidden = false;
+        var box = $("tblBilag");
+        if (isAllPropertiesSelected()) {
+          box.textContent = "";
+          var info = document.createElement("p");
+          info.className = "muted";
+          info.textContent =
+            "Samlet visning: velg én eiendom for å se bilagslinjer (GL_bilag). Konto- og kategoridata over er summert over alle eiendommer i filteret.";
+          box.appendChild(info);
+          var bilagCols0 = [
+            { key: "bilagsnr", label: "Bilag", num: false },
+            { key: "bilagsdato", label: "Dato", num: false },
+            { key: "tekst", label: "Tekst", num: false },
+            { key: "belop", label: "Beløp", num: true },
+          ];
+          lastTableData.bilag = { rows: [], columns: bilagCols0 };
+          return;
+        }
+        var katSel = $("selKat").value;
+        var kk = parseKontoPairVal($("selKonto").value, katSel === ALL_KATS ? "" : katSel);
+        var rows = bilagRows.filter(function (r) {
+          return (
+            matchesSelectedProperty(r.property_id) &&
+            String(r.srs_kategori || "").trim() === kk.kat &&
+            String(r.konto || "").trim() === kk.konto
+          );
+        });
+        var bq = String($("bilagFilter").value || "").trim().toLowerCase();
+        if (bq) {
+          rows = rows.filter(function (r) {
+            var t = String(r.tekst || "").toLowerCase();
+            var bn = String(r.bilagsnr || "").toLowerCase();
+            return t.indexOf(bq) >= 0 || bn.indexOf(bq) >= 0;
+          });
+        }
+        var bilagCols = [
+          { key: "bilagsnr", label: "Bilag", num: false },
+          { key: "bilagsdato", label: "Dato", num: false },
+          { key: "tekst", label: "Tekst", num: false },
+          { key: "belop", label: "Beløp", num: true },
+        ];
+        lastTableData.bilag = { rows: rows, columns: bilagCols };
+        fillTable($("tblBilag"), rows, bilagCols, "bilag");
+      }
+
+      $("file").addEventListener("change", function (e) {
+        showErr("");
+        var f = e.target.files && e.target.files[0];
+        if (!f) return;
+        var reader = new FileReader();
+        reader.onload = function (ev) {
+          try {
+            if (typeof XLSX === "undefined") {
+              showErr("Excel-bibliotek mangler. Sjekk nettverk (CDN), eller bruk ZIP-pakken med lokal vendor/.");
+              return;
+            }
+            wb = XLSX.read(ev.target.result, { type: "array" });
+            lastFileName = f.name || "";
+            ekRows = sheetRows("Eiendom_kategori") || [];
+            kontoRows = sheetRows("GL_konto") || [];
+            bilagRows = sheetRowsBilag();
+            histRows = sheetRows("Historikk_grunnlag") || [];
+            basisRows = sheetRowsKostnadsgrunnlag();
+            if (!ekRows.length) {
+              showErr("Fant ikke arket «Eiendom_kategori». Bruk nyeste eksport fra BEFS (med drill-ark).");
+              return;
+            }
+            $("step0").hidden = false;
+            $("step1").hidden = false;
+            $("step2").hidden = false;
+            $("panelLease").hidden = kontoRows.length === 0;
+            $("step3").hidden = false;
+            $("step4").hidden = bilagRows.length === 0;
+            $("toTop").hidden = false;
+            $("reportControls").hidden = false;
+            $("kontoFilter").value = "";
+            $("bilagFilter").value = "";
+            refillRegionAndProps();
+          } catch (x) {
+            showErr("Kunne ikke lese fil.");
+          }
+        };
+        reader.readAsArrayBuffer(f);
+      });
+
+      $("selRegion").addEventListener("change", refillPropsSelect);
+      $("selProp").addEventListener("change", renderKat);
+      $("selKat").addEventListener("change", renderKonto);
+      $("selKonto").addEventListener("change", renderBilag);
+      $("kontoFilter").addEventListener("input", renderKonto);
+      $("bilagFilter").addEventListener("input", renderBilag);
+      $("toTop").addEventListener("click", function () {
+        window.scrollTo({ top: 0, behavior: "smooth" });
+      });
+      $("btnCsvKat").addEventListener("click", function () { exportTableKey("kat"); });
+      $("btnCsvLease").addEventListener("click", function () { exportTableKey("lease"); });
+      $("btnCsvKonto").addEventListener("click", function () { exportTableKey("konto"); });
+      $("btnCsvBilag").addEventListener("click", function () { exportTableKey("bilag"); });
+      $("btnBuildReport").addEventListener("click", buildPropertyReport);
+      $("btnPrintReport").addEventListener("click", function () {
+        document.body.classList.add("print-report-only");
+        window.print();
+        setTimeout(function () {
+          document.body.classList.remove("print-report-only");
+        }, 400);
+      });
+      $("btnSaveReportHtml").addEventListener("click", function () {
+        if (!lastReportHtml) return;
+        var blob = new Blob([lastReportHtml], { type: "text/html;charset=utf-8" });
+        var a = document.createElement("a");
+        a.href = URL.createObjectURL(blob);
+        a.download =
+          "prediksjon_rapport_" + exportScopeSlug() + "_" + new Date().toISOString().slice(0, 10) + ".html";
+        document.body.appendChild(a);
+        a.click();
+        a.remove();
+        URL.revokeObjectURL(a.href);
+      });
+    })();
+  </script>
+</body>
+</html>

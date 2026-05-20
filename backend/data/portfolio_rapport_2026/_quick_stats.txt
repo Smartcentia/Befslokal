@@ -1,0 +1,11 @@
+============================================================
+Quick Statistics
+============================================================
+
+Total properties: 636
+Properties with financial_history: 0 (0.0%)
+Properties with GL transactions: 190 (29.9%)
+Total GL transactions: 136,055
+Expected transactions (if all complete): 91,584
+Current coverage: 148.6%
+============================================================

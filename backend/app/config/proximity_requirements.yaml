@@ -1,0 +1,188 @@
+# Proximity Requirements for Child Welfare Institutions
+# Basert på: "Krav til barnevernsinstitusjoner.txt" og regulatoriske krav
+#
+# Disse kravene definerer hva som MÅ finnes i nærheten av en barnevernsinstitusjon
+# for å kunne oppfylle forsvarlighetskravet i barnevernsloven § 1-7
+
+# === KRITISKE TJENESTER (MUST-HAVE) ===
+# Disse MÅ finnes innen maksimal avstand
+
+critical_services:
+  hospital:
+    max_distance_meters: 15000  # 15 km - for akutte situasjoner
+    max_travel_time_minutes: 30  # Sykehus/poliklinikk maks 30 min med bil
+    priority: 1
+    reason: "Akuttmedisinsk beredskap ved skade, selvskading, overdose"
+    description: "Sykehus med akuttmottak"
+
+  pharmacy:
+    max_distance_meters: 5000   # 5 km
+    priority: 2
+    reason: "Daglig behov for medisiner, mange beboere har legemiddelbehov"
+    description: "Apotek for medisinforsyning"
+
+  school:
+    max_distance_meters: 3000   # 3 km - opplæringsplikten
+    priority: 3
+    reason: "Opplæringsplikten, normalisering, sosial inkludering"
+    description: "Ungdomsskole eller videregående skole"
+
+  police:
+    max_distance_meters: 20000  # 20 km
+    max_travel_time_minutes: 15  # Blålys (politi) maks 15 min med bil
+    priority: 4
+    reason: "Sikkerhet ved rømning, vold, trusler"
+    description: "Politistasjon for sikkerhetshendelser"
+
+  fire_station:
+    max_distance_meters: 15000
+    max_travel_time_minutes: 15  # Blålys (brann) maks 15 min med bil
+    priority: 5
+    reason: "Brannvern og akutt hjelp"
+    description: "Brannstasjon"
+
+  supermarket:
+    max_distance_meters: 2000   # 2 km
+    priority: 6
+    reason: "Dagligvarer, selvstendighets-trening for eldre beboere"
+    description: "Matbutikk for daglige innkjøp"
+
+# === VIKTIGE TJENESTER (SHOULD-HAVE) ===
+# Disse bør finnes, men mangel gir ikke kritisk risiko
+
+important_services:
+  doctor:
+    recommended_max_distance: 5000  # 5 km
+    priority: 7
+    reason: "Fastlege, rutineundersøkelser, oppfølging"
+    description: "Legekontor/fastlege"
+
+  transit_station:
+    recommended_max_distance: 1000  # 1 km
+    priority: 8
+    reason: "Selvstendighet, jobb, fritid, besøk av familie"
+    description: "Kollektivtransport (buss/tog/trikk)"
+
+  bup:
+    recommended_max_distance: 30000  # 30 km
+    max_travel_time_minutes: 30  # BUP maks 30 min med bil (bekreftert av Bufetat)
+    priority: 9
+    reason: "Spesialisert psykisk helsehjelp for ungdom"
+    description: "Barne- og ungdomspsykiatrisk poliklinikk"
+
+# === STØTTENDE TJENESTER (NICE-TO-HAVE) ===
+# Disse forbedrer livskvalitet og normalisering
+
+supportive_services:
+  park:
+    recommended_max_distance: 1000  # 1 km
+    priority: 9
+    reason: "Fysisk aktivitet, restitusjon, normaliseringsarena"
+    description: "Park eller naturområde"
+    
+  gym:
+    recommended_max_distance: 3000  # 3 km
+    priority: 10
+    reason: "Fysisk aktivitet, stressmestring, fritidstilbud"
+    description: "Treningssenter"
+    
+  library:
+    recommended_max_distance: 5000  # 5 km
+    priority: 11
+    reason: "Opplæring, fritid, stille studiested"
+    description: "Folkebibliotek"
+    
+  movie_theater:
+    recommended_max_distance: 10000  # 10 km
+    priority: 12
+    reason: "Fritidstilbud, normalisering, sosial trening"
+    description: "Kino for fritidsaktiviteter"
+
+# === VALIDERINGS-REGLER ===
+
+validation_rules:
+  minimum_critical_services: 3  # Minimum 3 av 5 kritiske tjenester må være innen max distance
+  
+  scoring:
+    # Hvordan beregne accessibility score (0-100)
+    critical_weight: 0.6    # 60% av score fra kritiske tjenester
+    important_weight: 0.3   # 30% av score fra viktige tjenester
+    supportive_weight: 0.1  # 10% av score fra støttende tjenester
+    
+  risk_thresholds:
+    high_risk: 40      # Score < 40: Høy risiko (ikke forsvarlig)
+    medium_risk: 60    # Score < 60: Middels risiko (bør forbedres)
+    low_risk: 80       # Score >= 80: Lav risiko (god tilgjengelighet)
+
+# === ALDERSGRUPPE-SPESIFIKKE KRAV ===
+
+age_groups:
+  # 13-15 år: Ungdomsskole
+  age_13_15:
+    critical_services:
+      school:
+        max_distance_meters: 2000  # Må være nærmere for yngre
+        school_level: "ungdomsskole"
+      transit_station:
+        max_distance_meters: 800   # Viktigere for yngre (mindre selvstendige)
+        
+  # 16-18 år: Videregående
+  age_16_18:
+    critical_services:
+      school:
+        max_distance_meters: 5000  # Kan være lenger unna (mer selvstendige)
+        school_level: "videregående"
+      gym:
+        max_distance_meters: 2000  # Viktigere for denne aldersgruppen
+        
+  # 18-20 år: Ettervern/selvstendighets-trening
+  age_18_20:
+    important_services:
+      transit_station:
+        max_distance_meters: 500   # Kritisk for jobb/studier
+      supermarket:
+        max_distance_meters: 1000  # Selvstendighets-trening
+      gym:
+        max_distance_meters: 2000
+
+# === INSTITUSJON-TYPE SPESIFIKKE KRAV ===
+
+institution_types:
+  # Atferd (høy risiko for utagering, rømning)
+  atferd:
+    critical_services:
+      police:
+        max_distance_meters: 10000  # Må være nærmere
+      hospital:
+        max_distance_meters: 10000  # Høyere risiko for skade
+        
+  # Omsorg (lavere risiko, mer fokus på normalisering)
+  omsorg:
+    important_services:
+      park:
+        max_distance_meters: 500
+      library:
+        max_distance_meters: 2000
+        
+  # Akutt (korttidsplassering)
+  akutt:
+    critical_services:
+      hospital:
+        max_distance_meters: 8000   # Høyere medisinsk risiko
+      bup:
+        max_distance_meters: 15000  # Rask utredning nødvendig
+
+# === METADATA ===
+metadata:
+  version: "1.0"
+  last_updated: "2025-01-22"
+  source: "Krav til barnevernsinstitusjoner.txt, Barnevernsloven § 1-7, Kvalitetsforskriften"
+  notes: |
+    Disse kravene er utledet fra:
+    - Forsvarlighetskravet i barnevernsloven § 1-7
+    - Kvalitetsforskriften (materielt i stand til å oppfylle formål)
+    - Statsbyggs Arealveileder for barnevernsinstitusjoner
+    - Praktisk erfaring fra Bufetat og tilsynsmyndigheter
+    
+    Avstandene er veiledende og må tilpasses lokale forhold, men representerer
+    best practice for å sikre forsvarlig drift av barnevernsinstitusjoner.

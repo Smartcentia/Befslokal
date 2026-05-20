@@ -1,0 +1,24 @@
+Loading DB Report...
+Loading Input Data...
+Input empty. Falling back to /Users/frank/BEFS3/KNOWME/backend/data/csv_portfolio_data.csv...
+Loaded DB: 231 rows
+Loaded Input: 149 rows
+Matching...
+Report generated at /Users/frank/BEFS3/KNOWME/matched_results.md
+# Data Correlation Report
+
+Total Matches Found: 40
+
+| DB Eiendom | DB Adresse | Input Adresse | Score | Input Details |
+| --- | --- | --- | --- | --- |
+| Kjørbekksvingen 38 | Kjørbekksvingen 38 | Kjørbekksvingen 38, Skien | 0.86 | {'#': 36, 'Region': 'Sør', 'Filnavn (Kilde)': 'KNR 11511 Reforhandlet...', 'Kontraktnr': '11511', 'K... |
+| Haugane 15 | Haugane 15 | Haugane 15, Os | 0.87 | {'#': 5, 'Region': 'Vest', 'Filnavn (Kilde)': '05-3593-21 8324 Haugane 15...', 'Kontraktnr': '-', 'K... |
+| Skinflorbakkane 12 | Skinflorbakkane 12 | Skinflorbakkane 12, Bergen | 0.84 | {'#': 11, 'Region': 'Vest', 'Filnavn (Kilde)': '16-51823-51 10871 Skinflorbakkane 12...', 'Kontraktn... |
+| Solheimsgaten 11 | Solheimsgaten 11 | Solheimsgaten 11, Bergen | 0.82 | {'#': 13, 'Region': 'Vest', 'Filnavn (Kilde)': '21-57953-1 Solheimsgaten 11...', 'Kontraktnr': '1178... |
+| Hans Karolius vei 6 | Hans Karolius vei 6 | Hans Karolius vei 6, Finnsnes | 0.81 | {'#': 102, 'Region': 'Nord', 'Filnavn (Kilde)': 'Leiekontrakt Hans Karolius...', 'Kontraktnr': '-', ... |
+| Glynitveien 30 | Glynitveien 30 | Glynitveien 30, Ski | 0.88 | {'#': 53, 'Region': 'Øst', 'Filnavn (Kilde)': 'Leieavtale - Glynitveien 30...', 'Kontraktnr': '-', '... |
+| Vangsvegen 121 | Vangsvegen 121 | Vangsvegen 121, Hamar | 0.82 | {'#': 74, 'Region': 'Øst', 'Filnavn (Kilde)': 'Leieavtale - Vangveien 121...', 'Kontraktnr': '-', 'K... |
+| Bastian Withs gt 11 | Bastian Withs gt 11 | Bastian Withs gt 11, Molde | 0.86 | {'#': 107, 'Region': 'Midt', 'Filnavn (Kilde)': 'Leiekontrakt statsbygg - Barn...', 'Kontraktnr': '1... |
+| Klatrevegen 2 | Klatrevegen 2 | Klatrevegen 2, Volda | 0.81 | {'#': 83, 'Region': 'Midt', 'Filnavn (Kilde)': 'Leieavtale Klatrevegen 2...', 'Kontraktnr': '-', 'Ka... |
+| Just Brochs gate 13 | Just Brochs gate 13 | Just Brochs gate 13 | 1.00 | {'#': 146, 'Region': 'Øst', 'Filnavn (Kilde)': 'Ny Leieavtale...', 'Kontraktnr': '-', 'Kategori': 'F... |
+| Peder Myhres vei 16 | Peder Myhres vei 16 | Peder Myhres vei 16

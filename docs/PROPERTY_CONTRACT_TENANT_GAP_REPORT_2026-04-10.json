@@ -1,0 +1,484 @@
+{
+  "date": "2026-04-10",
+  "source_files": [
+    "bufetat_eiendommer.csv",
+    "contracts.csv"
+  ],
+  "totals": {
+    "properties": 48,
+    "contracts": 159,
+    "properties_with_contract_match": 9,
+    "properties_without_contract_match": 39
+  },
+  "tenant_data_assessment": {
+    "tenant_related_columns_found": [],
+    "tenant_data_present": false,
+    "note": "Kontraktsfilen inneholder ikke dedikert leietakerfelt; derfor kan leietaker-mangel ikke verifiseres per eiendom fra disse to filene alene."
+  },
+  "missing_properties": [
+    {
+      "id": "1",
+      "adresse": "Postboks 829, Sentrum",
+      "kommune": "Stavanger",
+      "region": "Vest",
+      "kilde": "09-56652-65 Lagårdsveien 44 (Bufetathus Stavanger) 2 parkeringsplasser.pdf",
+      "grunn": "Ingen kontrakt-adresse med høy nok treffscore",
+      "best_score": 0.455,
+      "best_match": "Kjørbekksvingen 38, Skien"
+    },
+    {
+      "id": "2",
+      "adresse": "",
+      "kommune": "",
+      "region": "Sør",
+      "kilde": "Kontrakt Thorøya.pdf",
+      "grunn": "Mangler adressefelt i eiendomsdata",
+      "best_score": 0.0,
+      "best_match": ""
+    },
+    {
+      "id": "3",
+      "adresse": "",
+      "kommune": "",
+      "region": "",
+      "kilde": "23-72672-4 Haraldsgaten 94 (Bufetathus Haugesund) 010119 (tillegg).pdf",
+      "grunn": "Mangler adressefelt i eiendomsdata",
+      "best_score": 0.0,
+      "best_match": ""
+    },
+    {
+      "id": "4",
+      "adresse": "Laberg Postadresse:",
+      "kommune": "Sjøvegan",
+      "region": "Nord",
+      "kilde": "Tilleggskontrakt 80-tallshuset, signert juli_agust 2023- Sladdet.pdf",
+      "grunn": "Ingen kontrakt-adresse med høy nok treffscore",
+      "best_score": 0.545,
+      "best_match": "Laberg, Sjøvegan"
+    },
+    {
+      "id": "5",
+      "adresse": "Laberg Postadresse:",
+      "kommune": "Sjøvegan",
+      "region": "Nord",
+      "kilde": "Tilleggskontrakt 80-tallshuset, signert juli_agust 2023.pdf",
+      "grunn": "Ingen kontrakt-adresse med høy nok treffscore",
+      "best_score": 0.545,
+      "best_match": "Laberg, Sjøvegan"
+    },
+    {
+      "id": "6",
+      "adresse": "",
+      "kommune": "",
+      "region": "",
+      "kilde": "23-72753-10 11488 Sjukehusvegen 5 (SFU Meltunet) tillegg.pdf",
+      "grunn": "Mangler adressefelt i eiendomsdata",
+      "best_score": 0.0,
+      "best_match": ""
+    },
+    {
+      "id": "7",
+      "adresse": "",
+      "kommune": "Bodø",
+      "region": "",
+      "kilde": "Privat, Bodø behandlinssenter Stein Johannesen AS (hovedkontrakt) - sladdet.pdf",
+      "grunn": "Mangler adressefelt i eiendomsdata",
+      "best_score": 0.0,
+      "best_match": ""
+    },
+    {
+      "id": "8",
+      "adresse": "Postboks 829, Sentrum",
+      "kommune": "Stavanger",
+      "region": "Vest",
+      "kilde": "09-56652-16 Lagårdsveien 44 (Bufetathus Stavanger) 10 parkeringsplasser.pdf",
+      "grunn": "Ingen kontrakt-adresse med høy nok treffscore",
+      "best_score": 0.455,
+      "best_match": "Kjørbekksvingen 38, Skien"
+    },
+    {
+      "id": "9",
+      "adresse": "",
+      "kommune": "",
+      "region": "",
+      "kilde": "Kontrakt Bufetathus Arendal 2022.pdf",
+      "grunn": "Mangler adressefelt i eiendomsdata",
+      "best_score": 0.0,
+      "best_match": ""
+    },
+    {
+      "id": "11",
+      "adresse": "Humla",
+      "kommune": "ÅLESUND",
+      "region": "Midt-norge",
+      "kilde": "Signert leiekontrakt- Humla akutt.pdf",
+      "grunn": "Ingen kontrakt-adresse med høy nok treffscore",
+      "best_score": 0.435,
+      "best_match": "Humla, 6020 Ålesund"
+    },
+    {
+      "id": "12",
+      "adresse": "",
+      "kommune": "Stavanger",
+      "region": "Vest",
+      "kilde": "09-56652-15 Lagårdsveien 44 (Bufetathus Stavanger).pdf",
+      "grunn": "Mangler adressefelt i eiendomsdata",
+      "best_score": 0.0,
+      "best_match": ""
+    },
+    {
+      "id": "13",
+      "adresse": "",
+      "kommune": "",
+      "region": "",
+      "kilde": "Leieavtale - Aumliveien 4C, 2500 Tynset.pdf",
+      "grunn": "Mangler adressefelt i eiendomsdata",
+      "best_score": 0.0,
+      "best_match": ""
+    },
+    {
+      "id": "14",
+      "adresse": "Tertneshøyden 33 B Gårdsnummer: 186 Bruksnummer: 187 i Bergen kommune, kommunenr:",
+      "kommune": "Leieforholdet",
+      "region": "Vest",
+      "kilde": "04-12010-35 8902 Tertneshøyden 33b (KASA Tertnes).pdf",
+      "grunn": "Ingen kontrakt-adresse med høy nok treffscore",
+      "best_score": 0.33,
+      "best_match": "Bønesskogen 333, Bergen"
+    },
+    {
+      "id": "15",
+      "adresse": "Biskop Gunnerus' gate 6 (Byporten)",
+      "kommune": "Oslo",
+      "region": "Nord",
+      "kilde": "Tilleggskontrakt 50-tallshuset, signert mai 2023- Sladdet.pdf",
+      "grunn": "Ingen kontrakt-adresse med høy nok treffscore",
+      "best_score": 0.468,
+      "best_match": "Bønesstølen 13, Bergen"
+    },
+    {
+      "id": "16",
+      "adresse": "",
+      "kommune": "",
+      "region": "Sør",
+      "kilde": "Kontrakt Thorøya.pdf",
+      "grunn": "Mangler adressefelt i eiendomsdata",
+      "best_score": 0.0,
+      "best_match": ""
+    },
+    {
+      "id": "18",
+      "adresse": "Grimestadveien 69",
+      "kommune": "Stokke",
+      "region": "Sør",
+      "kilde": "KNR 11510 Reforhandlet leiekontrakt ENR 13869 Grimestadveien 69 Stokke (Holtanløkka) - signert.pdf",
+      "grunn": "Ingen kontrakt-adresse med høy nok treffscore",
+      "best_score": 0.562,
+      "best_match": "Bredalsveien 18"
+    },
+    {
+      "id": "21",
+      "adresse": "",
+      "kommune": "",
+      "region": "",
+      "kilde": "Vedl. C - Skisse parkeringplasser.pdf",
+      "grunn": "Mangler adressefelt i eiendomsdata",
+      "best_score": 0.0,
+      "best_match": ""
+    },
+    {
+      "id": "22",
+      "adresse": "",
+      "kommune": "Stavanger",
+      "region": "Vest",
+      "kilde": "09-56652-15 Lagårdsveien 44 (Bufetathus Stavanger).pdf",
+      "grunn": "Mangler adressefelt i eiendomsdata",
+      "best_score": 0.0,
+      "best_match": ""
+    },
+    {
+      "id": "24",
+      "adresse": "Tertneshøyden 33 B Gårdsnummer: 186 Bruksnummer: 187 i Bergen kommune, kommunenr:",
+      "kommune": "Leieforholdet",
+      "region": "Vest",
+      "kilde": "04-12010-35 8902 Tertneshøyden 33b (KASA Tertnes).pdf",
+      "grunn": "Ingen kontrakt-adresse med høy nok treffscore",
+      "best_score": 0.33,
+      "best_match": "Bønesskogen 333, Bergen"
+    },
+    {
+      "id": "26",
+      "adresse": "",
+      "kommune": "",
+      "region": "",
+      "kilde": "Leieavtale Torolv Kveldulvsonsgt. 39 Sandnessjøen, signert nov 2015 (13_70444-8).pdf",
+      "grunn": "Mangler adressefelt i eiendomsdata",
+      "best_score": 0.0,
+      "best_match": ""
+    },
+    {
+      "id": "27",
+      "adresse": "",
+      "kommune": "Sandefjord",
+      "region": "",
+      "kilde": "Kontrakt Thorøya 2005.pdf",
+      "grunn": "Mangler adressefelt i eiendomsdata",
+      "best_score": 0.0,
+      "best_match": ""
+    },
+    {
+      "id": "30",
+      "adresse": "",
+      "kommune": "",
+      "region": "",
+      "kilde": "Bufetathus Skien.pdf",
+      "grunn": "Mangler adressefelt i eiendomsdata",
+      "best_score": 0.0,
+      "best_match": ""
+    },
+    {
+      "id": "31",
+      "adresse": "",
+      "kommune": "",
+      "region": "",
+      "kilde": "Husleiekontrak statsbygg Clausenenga - Kvalvågveien 113 Kristiansund.pdf",
+      "grunn": "Mangler adressefelt i eiendomsdata",
+      "best_score": 0.0,
+      "best_match": ""
+    },
+    {
+      "id": "32",
+      "adresse": "",
+      "kommune": "",
+      "region": "",
+      "kilde": "23-72753-10 11488 Sjukehusvegen 5 (SFU Meltunet) tillegg.pdf",
+      "grunn": "Mangler adressefelt i eiendomsdata",
+      "best_score": 0.0,
+      "best_match": ""
+    },
+    {
+      "id": "33",
+      "adresse": "",
+      "kommune": "Bodø",
+      "region": "",
+      "kilde": "Privat, Bodø behandlinssenter Stein Johannesen AS (hovedkontrakt).pdf",
+      "grunn": "Mangler adressefelt i eiendomsdata",
+      "best_score": 0.0,
+      "best_match": ""
+    },
+    {
+      "id": "34",
+      "adresse": "",
+      "kommune": "",
+      "region": "",
+      "kilde": "Leieavtale - Aumliveien 4C, 2500 Tynset.pdf",
+      "grunn": "Mangler adressefelt i eiendomsdata",
+      "best_score": 0.0,
+      "best_match": ""
+    },
+    {
+      "id": "35",
+      "adresse": "",
+      "kommune": "Ringerike",
+      "region": "",
+      "kilde": "Leieavtale - Bekkegata 2a, 3513 Hønefoss.pdf",
+      "grunn": "Mangler adressefelt i eiendomsdata",
+      "best_score": 0.0,
+      "best_match": ""
+    },
+    {
+      "id": "36",
+      "adresse": "Biskop Gunnerus' gate 6 (Byporten)",
+      "kommune": "Oslo",
+      "region": "Nord",
+      "kilde": "Tilleggskontrakt 50-tallshuset, signert mai 2023.pdf",
+      "grunn": "Ingen kontrakt-adresse med høy nok treffscore",
+      "best_score": 0.468,
+      "best_match": "Bønesstølen 13, Bergen"
+    },
+    {
+      "id": "37",
+      "adresse": "",
+      "kommune": "Sandefjord",
+      "region": "",
+      "kilde": "Kontrakt Thorøya 2005.pdf",
+      "grunn": "Mangler adressefelt i eiendomsdata",
+      "best_score": 0.0,
+      "best_match": ""
+    },
+    {
+      "id": "38",
+      "adresse": "",
+      "kommune": "",
+      "region": "",
+      "kilde": "23-72672-4 Haraldsgaten 94 (Bufetathus Haugesund) 010119 (tillegg).pdf",
+      "grunn": "Mangler adressefelt i eiendomsdata",
+      "best_score": 0.0,
+      "best_match": ""
+    },
+    {
+      "id": "40",
+      "adresse": "",
+      "kommune": "",
+      "region": "",
+      "kilde": "Kontrakt Bufetathus Arendal 2022.pdf",
+      "grunn": "Mangler adressefelt i eiendomsdata",
+      "best_score": 0.0,
+      "best_match": ""
+    },
+    {
+      "id": "41",
+      "adresse": "",
+      "kommune": "",
+      "region": "",
+      "kilde": "KNR 11513 Reforhandlet leiekontrakt ENR 13855 Austenå 370 Dølemo (Tovdal) - signert.pdf",
+      "grunn": "Mangler adressefelt i eiendomsdata",
+      "best_score": 0.0,
+      "best_match": ""
+    },
+    {
+      "id": "42",
+      "adresse": "",
+      "kommune": "",
+      "region": "Sør",
+      "kilde": "Kantum.pdf",
+      "grunn": "Mangler adressefelt i eiendomsdata",
+      "best_score": 0.0,
+      "best_match": ""
+    },
+    {
+      "id": "43",
+      "adresse": "",
+      "kommune": "",
+      "region": "",
+      "kilde": "Leieavtale - Storgata 10, 2260 Gjøvik.pdf",
+      "grunn": "Mangler adressefelt i eiendomsdata",
+      "best_score": 0.0,
+      "best_match": ""
+    },
+    {
+      "id": "44",
+      "adresse": "",
+      "kommune": "",
+      "region": "Øst",
+      "kilde": "Leieavtale - Sundløkkaveien 73 1659 Torp  Sarpsborg.pdf",
+      "grunn": "Mangler adressefelt i eiendomsdata",
+      "best_score": 0.0,
+      "best_match": ""
+    },
+    {
+      "id": "45",
+      "adresse": "",
+      "kommune": "",
+      "region": "",
+      "kilde": "Bufetathus Skien.pdf",
+      "grunn": "Mangler adressefelt i eiendomsdata",
+      "best_score": 0.0,
+      "best_match": ""
+    },
+    {
+      "id": "46",
+      "adresse": "",
+      "kommune": "",
+      "region": "",
+      "kilde": "Leieavtale - Storgata 10, 2260 Gjævik.pdf",
+      "grunn": "Mangler adressefelt i eiendomsdata",
+      "best_score": 0.0,
+      "best_match": ""
+    },
+    {
+      "id": "47",
+      "adresse": "Solheiveien 25",
+      "kommune": "Lyngdal",
+      "region": "Sør",
+      "kilde": "KNR 11512 Reforhandlet leiekontrakt ENR 13863 Solheiveien 25 Lyngdal (Skomrak) - signert.pdf",
+      "grunn": "Ingen kontrakt-adresse med høy nok treffscore",
+      "best_score": 0.727,
+      "best_match": "Trondheimsveien 205"
+    },
+    {
+      "id": "48",
+      "adresse": "Brattskottveien 77",
+      "kommune": "Halden",
+      "region": "Øst",
+      "kilde": "Leieavtale - Rokkeveien 502, 1763 Halden - Tilleggsavtale.pdf",
+      "grunn": "Ingen kontrakt-adresse med høy nok treffscore",
+      "best_score": 0.606,
+      "best_match": "Bredalsveien 18"
+    }
+  ],
+  "matched_sample": [
+    {
+      "property_id": "10",
+      "property_address": "Nesverkveien 188 og 190",
+      "contract_nr": "11509",
+      "contract_address": "Nesverkveien 188, Nes Verk",
+      "score": 0.756,
+      "contract_status": "🟢 Aktiv"
+    },
+    {
+      "property_id": "17",
+      "property_address": "Emma Hjorts vei 60",
+      "contract_nr": "13916",
+      "contract_address": "Emma Hjorts vei 60, Sandvika",
+      "score": 0.757,
+      "contract_status": "🟢 Aktiv"
+    },
+    {
+      "property_id": "19",
+      "property_address": "Korpåsen 172",
+      "contract_nr": "-",
+      "contract_address": "Korpåsen 172, Asker",
+      "score": 0.8,
+      "contract_status": "🟢 Aktiv"
+    },
+    {
+      "property_id": "20",
+      "property_address": "Kroerveien 9",
+      "contract_nr": "11470",
+      "contract_address": "Kroerveien 9, Vestby",
+      "score": 0.774,
+      "contract_status": "⚫ Opphørt"
+    },
+    {
+      "property_id": "23",
+      "property_address": "Emma Hjorts vei 60",
+      "contract_nr": "13916",
+      "contract_address": "Emma Hjorts vei 60, Sandvika",
+      "score": 0.757,
+      "contract_status": "🟢 Aktiv"
+    },
+    {
+      "property_id": "25",
+      "property_address": "Haugetuft 18",
+      "contract_nr": "11561",
+      "contract_address": "Haugetuft 18, Vinje",
+      "score": 0.8,
+      "contract_status": "🟢 Aktiv"
+    },
+    {
+      "property_id": "28",
+      "property_address": "Kjørbekksvingen 38",
+      "contract_nr": "11511",
+      "contract_address": "Kjørbekksvingen 38, Skien",
+      "score": 0.857,
+      "contract_status": "🟢 Aktiv"
+    },
+    {
+      "property_id": "29",
+      "property_address": "Emma Hjorts vei 60",
+      "contract_nr": "13916",
+      "contract_address": "Emma Hjorts vei 60, Sandvika",
+      "score": 0.757,
+      "contract_status": "🟢 Aktiv"
+    },
+    {
+      "property_id": "39",
+      "property_address": "Emma Hjorts vei 60",
+      "contract_nr": "13916",
+      "contract_address": "Emma Hjorts vei 60, Sandvika",
+      "score": 0.757,
+      "contract_status": "🟢 Aktiv"
+    }
+  ]
+}

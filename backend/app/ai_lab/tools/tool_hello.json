@@ -1,0 +1,26 @@
+{
+    "id": "tool_hello_world_v1",
+    "name": "say_hello",
+    "description": "Returns a friendly greeting to the user. Use this when the user says hello or hi.",
+    "vector_embedding": [],
+    "code": {
+        "language": "python",
+        "dependencies": [],
+        "script": "def say_hello(name: str = 'World'):\n    return f'Hello, {name}! Welcome to the Semantic Kernel Lab.'"
+    },
+    "parameters": {
+        "type": "object",
+        "properties": {
+            "name": {
+                "type": "string",
+                "description": "The name of the person to greet."
+            }
+        },
+        "required": []
+    },
+    "metadata": {
+        "created_by": "system",
+        "usage_count": 0,
+        "success_rate": 1.0
+    }
+}

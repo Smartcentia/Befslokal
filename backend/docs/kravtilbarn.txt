@@ -1,0 +1,169 @@
+Krav til barnevernsinstitusjoner: En uttømmende analyse av regulatoriske, bygningsmessige og operative rammevilkår for statlige og private aktører
+Sammendrag
+Denne rapporten presenterer en dyptgående analyse av det samlede kravregimet for barnevernsinstitusjoner i Norge per 2025. I en tid preget av omfattende reformer, herunder implementeringen av ny barnevernslov, innføringen av "Kvalitetsløftet" (Prop. 83 L 2024–2025), og lanseringen av Statsbyggs nye arealveileder høsten 2024, står sektoren overfor et paradigmeskifte. Rapporten dokumenterer hvordan institusjonene beveger seg fra å være generiske omsorgsbaser til å bli høyspesialiserte behandlingsenheter som må balansere motstridende hensyn: De skal utgjøre et normalisert hjem for sårbare barn, samtidig som de fungerer som avanserte sikkerhetsbygg og krevende arbeidsplasser.
+Gjennom en detaljert gjennomgang av lovverk, byggtekniske forskrifter, brannsikkerhetskrav og tilsynspraksis, avdekker rapporten et komplekst samspill der fysisk infrastruktur griper direkte inn i pedagogikk og rettssikkerhet. Analysen viser at kravene til differensiering, lydisolering og risikohåndtering (Risikoklasse 6) driver kostnader og kompleksitet opp, samtidig som forventningene til hjemlig atmosfære og normalisering aldri har vært tydeligere. Rapporten er ment som et referanseverk for eiendomsforvaltere, institusjonsledere, arkitekter og tilsynsmyndigheter som navigerer i dette landskapet.
+1. Innledning: Det institusjonelle landskapet i transformasjon
+1.1 Bakgrunn og samfunnsoppdrag
+Barnevernsinstitusjoner utgjør samfunnets siste sikkerhetsnett for barn og unge som ikke kan bo hjemme, og som har behov for rammer et fosterhjem ikke kan tilby. Dette er barn som ofte bærer på tunge omsorgsvikter, komplekse traumer, alvorlige atferdsvansker eller rusproblematikk. Institusjonenes mandat er dobbelt: De skal gi omsorg og trygghet (miljøterapi), og de skal i visse tilfeller utøve samfunnsvern gjennom tvangsplasseringer.
+Historisk har kravene til disse institusjonene vært preget av skiftende ideologier – fra de store barnehjemmene på 1950-tallet, via 70-tallets kollektivmodeller, til dagens krav om små, spesialiserte enheter. I 2025 står vi midt i en ny reformbølge. "Kvalitetsløftet i barnevernet", formalisert gjennom lovproposisjoner og nye forskrifter, søker å harmonisere tilbudet på tvers av statlige og private aktører.1 Det er ikke lenger tilstrekkelig at en institusjon har "varme hender"; den må ha en fysisk og organisatorisk struktur som tåler granskning opp mot menneskerettigheter, arbeidsmiljølov og strenge sikkerhetsforskrifter.
+1.2 Den demografiske og strukturelle utfordringen
+En sentral driver for de nye kravene er endringen i hvem som bor på institusjon. Vi ser en dreining mot eldre ungdommer med mer sammensatte utfordringer. Barnevernsloven gir mulighet for ettervern inntil fylte 25 år, noe som betyr at institusjonene må kunne romme unge voksne som juridisk sett er myndige, men som trenger støtte til overgangen til voksenlivet.3
+Dette skaper en betydelig utfordring for utformingen av bygg og regler. Et bygg designet for en 13-åring med behov for tett omsorg og overvåkning, har ikke nødvendigvis de kvalitetene som kreves for en 20-åring som skal trenes i selvstendighet, ha kjærestebesøk, og forberede seg på hybellivet. Regelverket krever derfor nå en høy grad av fleksibilitet og differensiering. Institusjonene må kunne tilby både skjermede enheter for akuttplasseringer av mindreårige, og treningshybler med egen inngang for ettervernsungdom. Denne "arkitektoniske spagaten" krever at byggene må fremme autonomi og privatliv, samtidig som de oppfyller strenge krav til kontroll, oversikt og sikkerhet.3
+Videre er det en økende erkjennelse av at institusjonsbygget i seg selv er en terapeutisk faktor. Omgivelser som signaliserer verdighet, ro og orden kan dempe konfliktnivået, mens slitte, institusjonspregede lokaler kan trigge utagering og følelse av avmakt. Dette perspektivet, ofte omtalt som "helende arkitektur", er nå nedfelt i normative krav fra Bufdir og Statsbygg.
+
+
+
+
+
+
+
+
+
+1.3 Rapportens struktur og avgrensning
+Denne rapporten dekker hele spekteret av krav som gjelder for både statlige (Bufetat) og private (ideelle og kommersielle) institusjoner. Selv om eierskapet varierer, er kvalitetskravene i utgangspunktet universelle gjennom godkjenningsordningen. Rapporten er strukturert som følger:
+	•	Kapittel 2: Det juridiske rammeverket, inkludert ny barnevernslov og menneskerettigheter.
+	•	Kapittel 3: Bygningsmessige krav, med fokus på Statsbyggs nye arealveileder av 2024.
+	•	Kapittel 4: Brannsikkerhet og tekniske installasjoner (Risikoklasse 6).
+	•	Kapittel 5: Operative krav til drift, HMS og internkontroll.
+	•	Kapittel 6: Kompetanse- og bemanningskrav i lys av ny lovgivning.
+	•	Kapittel 7: Tilsynspraksis og avvikshåndtering.
+Analysen bygger på en gjennomgang av lovtekster, forskrifter, styringsdokumenter fra Bufdir, tekniske veiledere fra Statsbygg, samt rapporter fra Helsetilsynet og Sivilombudet.
+2. Det juridiske fundamentet: Fra lov til forskrift
+2.1 Ny barnevernslov av 2023 og "Kvalitetsløftet" (2025)
+Fundamentet for all institusjonsdrift er Lov om barnevern (barnevernsloven). Den nye loven som trådte i kraft 1. januar 2023, representerte en betydelig modernisering og rettsliggjøring av feltet.4 Loven har et forsterket fokus på barnets rettigheter, saksbehandlingsregler og krav til begrunnelser.
+I perioden 2024–2025 rulles «Kvalitetsløftet i barnevernet» ut, konkretisert gjennom Prop. 83 L (2024–2025).1 Dette lovarbeidet har direkte implikasjoner for kravene til institusjonene:
+	1	Styrket rettssikkerhet for barnet: En av de viktigste endringene er innføringen av klageadgang for alle barn, også de under 15 år, i saker om flytting og tvang.5 Dette stiller nye, skjerpede krav til institusjonenes internkontrollsystemer. Institusjonen må ha rutiner som sikrer at barnas klager fanges opp, dokumenteres og formidles til Statsforvalteren uten opphold. Fysisk må dette understøttes av tilgang til telefon og internett på skjermede rom, slik at klageretten er reell.
+	2	Spesialisering fremfor generalisering: Loven og de tilhørende styringsdokumentene signaliserer en bevegelse bort fra generelle institusjonsplasser mot mer spesialiserte enheter tilpasset spesifikke målgrupper (f.eks. "atferd høy", "omsorg", "rus"). Dette krever at byggene er utformet spesifikt for målgruppen, snarere enn "universalbygg".7
+	3	Begrensning av bistandsplikten: Det foreslås justeringer i bistandsplikten for å sikre en bedre match mellom barnets behov og tiltaket. I praksis betyr dette at Bufetat i større grad skal styre inntaket basert på faglig egnethet ved institusjonen, noe som setter krav til at institusjonen tydelig definerer (og bygningsmessig tilrettelegger for) sin målgruppe.8
+2.2 Kvalitetsforskriften og Godkjenningsordningen
+Mens loven setter rammene, er det Forskrift om krav til kvalitet og internkontroll i barneverninstitusjoner (kvalitetsforskriften) som styrer den daglige driften og de fysiske kravene. Ingen institusjon – verken statlig eller privat – kan drives uten godkjenning fra Bufetat.3
+Et sentralt prinsipp i godkjenningsordningen er kravet om at institusjonen må være "materielt i stand til" å oppfylle sitt formål. Dette er en rettslig standard som er dynamisk; det som ble godkjent i 2010 er ikke nødvendigvis godkjent i 2025. Kravet knytter bygningens tilstand direkte til forsvarligheten i omsorgen:
+	•	Dersom bygningsmassen er uoversiktlig slik at personalet ikke kan ivareta sikkerheten uten overdreven fotfølging, er ikke bygget materielt egnet.
+	•	Dersom lydisoleringen er så dårlig at sensitiv informasjon kan overhøres mellom rom, er ikke kravet til konfidensialitet oppfylt.
+For private aktører er godkjenningsprosessen spesielt rigorøs. De må dokumentere ikke bare faglig innhold, men også at bygget oppfyller alle krav i plan- og bygningsloven (TEK17), brannforskrifter og arbeidsmiljøloven før godkjenning kan gis. En godkjenning er knyttet til det spesifikke bygget og den spesifikke målgruppen; ved flytting eller endring av målgruppe kreves ny godkjenning.9
+2.3 Menneskerettigheter i mur og betong
+Norge er forpliktet av FNs barnekonvensjon og Den europeiske menneskerettsdomstolen (EMK). Etter flere dommer mot Norge i EMD (bl.a. Strand Lobben-saken), har oppmerksomheten rundt menneskerettigheter i barnevernet økt kraftig. Dette får konkrete utslag i bygningskravene 3:
+	•	Retten til privatliv (EMK art. 8 / BK art. 16): Beboere har rett til et privatliv, også når de bor på institusjon. Dette innebærer krav om enerom som standard. Det er ikke lenger akseptabelt med delte rom med mindre det foreligger en særskilt faglig begrunnelse (f.eks. søskenplassering). Lydkrav mellom beboerrom og fellesareal skal normalt tilsvare lydklasse C eller B i NS 8175 for å hindre at samtaler kan avlyttes.
+	•	Retten til familieliv: Institusjonen må legge til rette for besøk fra familie og nettverk. Dette krever egne besøksrom eller leiligheter som er skjermet fra resten av beboergruppen, slik at besøk kan gjennomføres uforstyrret og uten at andre beboeres privatliv krenkes.3
+	•	Forbud mot umenneskelig behandling (EMK art. 3): Selv om terskelen er høy, kan ekstremt dårlige boforhold rammes her. Barneombudet og Sivilombudet har kritisert institusjoner som fremstår som fengselslignende ("totalinstitusjoner"). Fysiske sikkerhetstiltak som gitter foran vinduer, piggtråd eller sterile isolatceller er i utgangspunktet uforenlig med barnekonvensjonens krav om at barnet skal behandles med verdighet. Sikkerhet må bygges inn ("integrated security") på en måte som ikke kriminaliserer barnet.
+2.4 Private vs. Statlige krav
+Juridisk sett gjelder de samme kvalitetskravene for private og statlige institusjoner. Kvalitetsforskriften skiller ikke på eierform. Imidlertid viser praksis at kontraktsvilkårene i anbudskonkurranser (for private) ofte operasjonaliserer kravene ytterligere. I standardavtaler for kjøp av institusjonsplasser stiller Bufetat detaljerte krav til bygningsmasse, vedlikehold og HMS som den private leverandøren må oppfylle for å kunne levere tilbudet. "Kvalitetsløftet" (Prop. 83 L) forsterker dette ved å signalisere at private aktører må innrette seg etter en ny faglig og organisatorisk struktur for å kunne inngå langsiktige avtaler med staten.10
+3. Bygningsmessige krav: Arkitektur som pedagogisk verktøy
+3.1 Statsbyggs nye arealveileder (Oktober 2024)
+Høsten 2024 markerte et vannskille for fysisk utforming av barnevernsinstitusjoner med lanseringen av Statsbyggs nye Arealveileder for barnevernsinstitusjoner, utarbeidet i samarbeid med Bufdir og Bufetat.11 Denne veilederen, godkjent 28. oktober 2024, er nå det normative dokumentet som styrer alle nye byggeprosjekter og totalrehabiliteringer i statlig regi. For private aktører vil denne veilederen fungere som en "best practice"-standard som det forventes at man strekker seg mot, og som vil bli brukt som referanse i anbudskonkurranser.
+Veilederen bygger på prinsippet om "nedskalering" og "normalisering". Målet er å unngå store, institusjonspregede anlegg. Byggene skal ha en "menneskelig skala" og ligne vanlige boliger så langt det lar seg gjøre innenfor rammene av sikkerhet og arbeidsmiljø. Dette er et bevisst grep for å motvirke institusjonalisering og fremme tilhørighet.
+3.2 Soneinndeling: Gradert offentlighet
+En av de viktigste nyvinningene i veilederen er den eksplisitte soneinndelingen. Bygget skal struktureres i fem hovedsoner for å håndtere den krevende balansen mellom åpenhet og kontroll.11 Denne inndelingen er avgjørende for å kunne ivareta taushetsplikt, sikkerhet og beboernes privatliv samtidig.
+	1	Ansattsone (Skjermet): Dette er personalets base. Her foregår administrativt arbeid, rapportering, vaktskifter og oppbevaring av sensitiv informasjon (journaler, medisiner). Sonen skal være fysisk skjermet fra beboerarealene og ha adgangskontroll. Det er viktig at denne sonen ikke fremstår som et "vakttårn" som overvåker beboerne, men heller som et tilbaketrukkent arbeidsområde.
+	2	Samarbeidssone (Buffer): En strategisk plassert sone ved hovedinngangen for møter med eksterne aktører (barnevernstjeneste, skole, helse, foreldre). Hensikten er at eksterne gjester skal kunne tas imot uten at de må slippes inn i beboernes private sfære (stue/kjøkken) eller inn i den sensitive ansatssonen. Dette beskytter beboernes hjemmefølelse mot "inntrengere".
+	3	Beboersone - Felles (Hjemmet): Stue, kjøkken, spisestue og aktivitetsrom. Denne sonen skal ha høy kvalitet på materialer og møbler for å signalisere at "her bor det noen". Det skal legges vekt på atmosfære, belysning og akustikk som fremmer ro. Sonen skal ligge i tilknytning til personalbasen for oversikt, men uten at personalet dominerer rommet.
+	4	Beboersone - Privat (Hulen): Beboerens eget rom med tilhørende bad. Dette er den mest skjermede sonen. Her gjelder de strengeste kravene til lydisolering for å sikre privatliv.
+	5	Driftssone (Backstage): Tekniske rom, ventilasjon, renholdssentral og varemottak. Denne sonen skal ha egen inngang (bi-inngang) slik at vaktmestere, håndverkere og vareleveranser kan håndteres uten å krysse beboernes fellesarealer. Dette reduserer stress og uro i beboergruppen.
+
+
+
+
+
+
+
+
+
+3.3 Universell utforming (UU) og tilgjengelighet
+Barnevernsinstitusjoner defineres som publikumsbygg i TEK17, noe som utløser krav om universell utforming. Dette er ikke valgfritt, men et diskrimineringsrettslig krav.
+	•	Fellesarealer: Alle fellesarealer, møterom og besøkssoner skal være trinnfrie og dimensjonert for rullestol (snuarealer).
+	•	Boenheter: Selv om ikke alle rom må være HC-tilpasset, kreves det at minst én boenhet ("HC-rommet") er fullt tilrettelagt, eller at bygget er forberedt slik at tilpasning kan skje umiddelbart ved behov.
+	•	Statsbyggs ambisjon: Statsbygg har et uttalt mål om universell utforming av sine bygg innen 2025, og dette gjelder også barnevernsporteføljen.12 For eksisterende bygg (f.eks. eldre villaer) kan dette være teknisk utfordrende, og her åpner veilederen for "pragmatiske løsninger" så lenge hovedfunksjonene er tilgjengelige.11
+3.4 Materialitet og "Institusjonell Robusthet"
+Valg av materialer og overflater er kritisk i institusjonsbygg. Byggene utsettes for en slitasje som langt overgår normale boliger – dører smelles, vegger kan bli sparket i, og møbler kan kastes i affekt. Utfordringen er å bygge robust uten at det ser ut som en festning.
+	•	Vegger: Det benyttes ofte forsterkede gipsplater (f.eks. Habito eller fibergips) eller heltreplater bak gipsen for å hindre hull i veggene ved slag/spark.
+	•	Vinduer: Vinduer er et sikkerhetskritisk punkt. I andre etasje og høyere (over 3,3m) er det krav om barnesikring/sperre for å hindre fall. I tillegg kreves det ofte laminert sikkerhetsglass på innsiden for å hindre personskade ved knusing (kuttskader) og for å gjøre det vanskeligere å knuse ruten for rømning eller som våpen.3
+	•	Akustikk: Støy er en stressfaktor. Det stilles strenge krav til etterklangstid i fellesrom (klasse B/C) gjennom bruk av akustikkhimlinger og absorbenter. Disse må være festet slik at de ikke kan rives ned.
+3.5 Spesialrom: Skjerming og isolasjon
+For institusjoner som er godkjent for tvangsplasseringer (§ 6-1, § 6-2), stilles det krav om tilgang til skjermingsenhet. Dette er rom som kan benyttes i akutte faresituasjoner for å skjerme ungdommen fra andre eller seg selv.
+	•	Utforming: Rommet skal være "egnet". Dette innebærer i praksis at det er fritt for løse gjenstander som kan kastes eller brukes til selvskading. Stikkontakter bør være sikret, og inventar bør være fastboltet.
+	•	Verdighet: Samtidig skal rommet ikke være en glattcelle. Det skal være dagslys, ventilasjon, og en viss grad av komfort (f.eks. en fastmontert seng/benk med myk overflate). Det skal være mulighet for observasjon fra personalet, men uten at beboeren føler seg utstilt. Helsetilsynet fører strengt tilsyn med disse rommene for å sikre at de ikke brukes som straff.14
+4. Brannsikkerhet og Tekniske Installasjoner: Risikoklasse 6
+4.1 "Særskilt brannobjekt" og Risikoklasse 6
+Klassifiseringen av barnevernsinstitusjoner er et av de områdene der regelverket skiller seg skarpest fra vanlige boliger. Nesten alle døgnbemannede barnevernsinstitusjoner defineres i dag som Risikoklasse 6 (RKL 6) i henhold til byggteknisk forskrift (TEK17).3
+RKL 6 benyttes for byggverk der beboerne kan ha "manglende evne til å bringe seg selv i sikkerhet". Selv om en 17-åring fysisk sett er før, legger brannvesenet til grunn at den psykososiale tilstanden (rus, traumer, irrasjonell adferd under stress, ønske om å gjemme seg) gjør at de ikke kan forventes å evakuere rasjonelt ved alarm. Videre er institusjoner statistisk sett overrepresentert på branntilløp og påsatte branner.
+4.2 Tekniske konsekvenser av RKL 6
+Denne klassifiseringen utløser de strengeste kravene i brannregelverket, noe som er en betydelig kostnadsdriver ved etablering:
+	1	Automatisk slokkeanlegg (Helsprinkling): Det er i praksis et absolutt krav om heldekkende automatisk slokkeanlegg. For eksisterende bygg som skal godkjennes, er dette ofte den største barrieren. Vanntåkeanlegg benyttes ofte for å begrense vannskader ved utløsning (både reell og ved hærverk).
+	2	Brannalarmanlegg: Det kreves adresserbart anlegg (som viser nøyaktig hvilket rom som har alarm) med direktevarsling til brannvesenets 110-sentral. Det skal ikke være forsinkelse eller krav om at personalet ringer; brannbilene skal rykke ut umiddelbart.3
+	3	Brannceller og seksjonering: Hvert beboerrom defineres som en egen branncelle (EI 30 eller EI 60). Dører til beboerrom må være selvlukkende og røyktette, noe som kan være en utfordring i daglig bruk (tunge dører).
+	4	Låsesystemer og rømning: En kritisk utfordring er konflikten mellom sikkerhet (låste dører for å hindre rømning eller uønsket besøk) og rømning (åpne dører ved brann).
+	◦	Fail-safe: Alle dører som er låst av hensyn til drift (skallsikring eller tvang), skal ha en funksjon som gjør at de automatisk låses opp ved utløst brannalarm eller strømbrudd.
+	◦	Testregime: Det er leietakers (institusjonens) ansvar å teste denne funksjonen fysisk og jevnlig. Det er ikke nok å stole på at det virker; personalet må verifisere at døren faktisk åpner seg når klokkene ringer.3
+
+
+
+
+
+
+
+
+
+4.3 Organisatorisk brannvern
+Teknikk alene redder ikke liv. Institusjonen defineres ofte som "Særskilt brannobjekt" etter brannvernlovens § 13.3 Dette medfører krav om hyppigere tilsyn fra brannvesenet og strengere krav til dokumentasjon:
+	•	Brannvernleder: Institusjonen må ha en navngitt brannvernleder med nødvendig kompetanse.
+	•	Øvelser: Det skal gjennomføres jevnlige øvelser. Disse må være realistiske og ta høyde for "worst case"-scenarioer, for eksempel nattevakt alene med utagerende ungdommer som nekter å evakuere.
+	•	ROS-analyse: Institusjonen må gjennomføre en Risiko- og sårbarhetsanalyse (ROS) som spesifikt vurderer bemanningsbehovet ved evakuering. Dersom beboergruppen er tung (f.eks. medisinert eller ruset), kan ROS-analysen konkludere med at bemanningen må økes utover det pedagogiske behovet, kun for å ivareta brannsikkerheten.3
+5. Operative krav: Drift, HMS og Internkontroll
+5.1 Internkontrollforskriften og Leietakeransvaret
+De fleste barnevernsinstitusjoner, både statlige og private, drives i leide lokaler. Dette skaper et kritisk ansvarsgrensesnitt mellom huseier (som har ansvar for bygget) og leietaker (institusjonen som har ansvar for bruken).
+Veilederen "Leietakers internkontroll" 3 er tydelig på at institusjonen har et selvstendig ansvar som ikke kan delegeres bort. Institusjonsleder kan ikke skylde på huseier dersom brannalarmen ikke virker.
+	•	Påse-plikt: Leietaker har plikt til å påse at huseier utfører sine servicer (ventilasjon, brann).
+	•	Meldeplikt: Leietaker må ha et system for å melde avvik (f.eks. knust vindu, tett sluk) og følge opp at disse lukkes.
+	•	Egenkontroll: Institusjonen må selv utføre enkle kontroller: Sjekke at rømningsveier ikke er blokkert av sykler eller sko, sjekke at brannslukkere henger på plass, og teste nødåpnere.
+5.2 Miljørettet helsevern: Inneklima og hygiene
+Barnevernsinstitusjoner er underlagt Forskrift om miljørettet helsevern. Kommuneoverlegen er tilsynsmyndighet og har makt til å stenge institusjonen dersom forholdene er helseskadelige.
+	•	Inneklima: Dårlig inneklima (høy CO2, temperaturavvik) påvirker konsentrasjon og atferd. Det er krav til tilfredsstillende ventilasjon i alle oppholdsrom.
+	•	Hygiene og renhold: Institusjoner er smitteutsatte steder. Overflater må være lette å rengjøre. Teppegulv unngås normalt i fellesarealer. Vedlikeholdsetterslep (f.eks. muggsopp på bad) tolereres ikke, da det utgjør en helserisiko for sårbare barn.3
+	•	Psykososialt miljø: Miljørettet helsevern omfatter også "trivsel". Et bygg som er sterkt nedslitt, mørkt eller støyende, kan vurderes som en negativ helsefaktor som bryter med forskriften.
+5.3 Sikkerhet ved innleie av eksternt personell
+En operativ utfordring er bruk av håndverkere, vaktmestere og renholdere. Institusjonen er et hjem, og barna har krav på vern.
+	•	Politiattest: Barnevernsloven § 12-11 krever politiattest for alle som skal "utføre oppgaver for barneverntjenesten". Dette gjelder alle ansatte og vikarer. For sporadiske håndverkere (f.eks. en elektriker som kommer én dag) gjelder normalt ikke kravet om politiattest, da de ikke har et ansettelsesforhold knyttet til omsorgen.3
+	•	Ledsagerprinsippet: For å ivareta sikkerheten når håndverkere uten politiattest er i bygget, skal institusjonen praktisere ledsagerprinsippet: Eksterne skal aldri være alene med barna. En ansatt må følge dem eller være i umiddelbar nærhet.
+	•	Taushetsplikt: Alle eksterne må signere taushetserklæring før de slipper inn. De skal ikke få vite navn eller bakgrunn på barna.
+6. Kompetanse- og bemanningskrav (2025)
+6.1 Nye kompetansekrav i Prop. 83 L
+Med "Kvalitetsløftet" (Prop. 83 L 2024–2025) justeres kravene til hvem som kan jobbe i barnevernet. Mens det kommunale barnevernet får lettelser i masterkravet (kun for ledere), opprettholdes og skjerpes kravene for institusjoner.1
+	•	Faglig ledelse: Det er et absolutt krav at institusjonen har en faglig leder med relevant utdanning på minimum bachelornivå (barnevernspedagog, sosionom, vernepleier) og nødvendig tilleggskompetanse/erfaring.
+	•	Ansatte: Det forventes at miljøterapeuter har relevant høyskoleutdanning. Prop 83 L understreker at institusjoner som skal håndtere barn med store omsorgs- og atferdsbehov, må ha en personalsammensetning som sikrer forsvarlighet døgnet rundt. Det er ikke nok med ufaglærte assistenter på natt; kompetansen må være tilstede også da situasjoner oppstår.1
+6.2 Bemanning og turnus
+Forsvarlighetskravet i barnevernsloven § 1-7 styrer bemanningen. Det finnes ingen lovfestet "bemanningsnorm" med et tall, men tilsynspraksis har etablert klare forventninger:
+	•	Grunnbemanning: Skal være tilstrekkelig til å ivareta daglig omsorg, skoleoppfølging og fritidsaktiviteter for alle beboere.
+	•	Sikkerhetsbemanning: Skal være dimensjonert for å håndtere utagering, rømning og brann uten å måtte tilkalle politi unødig. For institusjoner med målgruppe "atferd", betyr dette ofte krav om "to på jobb" i umiddelbar nærhet til enhver tid.
+	•	Bakvakt: Det skal være en kvalifisert bakvakt tilgjengelig (f.eks. leder) som kan rykke ut eller bistå ved kriser.
+7. Private aktører: Marked og Krav
+7.1 "Avkommersialisering" og langsiktighet
+Den politiske vinden har snudd fra konkurranseutsetting til "avkommersialisering". Regjeringens strategi, slik den fremkommer i Prop 83 L og tildelingsbrev til Bufdir, er å redusere bruken av kommersielle aktører på sikt, og prioritere ideelle organisasjoner.10
+For de private aktørene som blir igjen, endres spillereglene:
+	•	Langsiktige avtaler: Staten ønsker å inngå langsiktige rammeavtaler fremfor ad-hoc enkeltkjøp. Dette gir forutsigbarhet, men stiller også krav om at den private aktøren kan levere et stabilt, høykvalitets tilbud over tid.
+	•	Harmonisering: Det understrekes at kravene til kvalitet, kompetanse og bygningsmasse skal være identiske for private og statlige institusjoner. Private aktører må i sine anbud dokumentere at deres bygg oppfyller Statsbyggs arealveileder (som norm), selv om de ikke eies av staten.
+	•	Økonomisk transparens: Det stilles strengere krav til rapportering på hvordan offentlige midler brukes, for å sikre at pengene går til barnas beste og ikke urimelig utbytte.
+7.2 Anbudskrav til bygg
+I konkurransegrunnlagene fra Bufetat stilles det nå svært detaljerte krav til bygningsmassen ("kravspesifikasjon bygg"). Private leverandører må ofte dokumentere:
+	•	Antall kvadratmeter per beboerrom (ofte min. 12-15 kvm).
+	•	Tilstand på bad og kjøkken.
+	•	Dokumentasjon på brannsikkerhet (ferdigattest, kontrollrapporter).
+	•	Vedlikeholdsplaner.Manglende oppfyllelse av disse "bør"-kravene i veilederen kan føre til at tilbudet avvises eller taper i konkurransen på kvalitetspoeng.
+8. Tilsyn, avvik og konsekvenser
+8.1 Statsforvalterens rolle
+Statsforvalteren er tilsynsmyndighet og skal føre tilsyn med alle barnevernsinstitusjoner minst to ganger i året (fire ganger for tvangsinstitusjoner).8 Tilsynene inkluderer både systemrevisjon (papirsjekk) og stedlig tilsyn (inspeksjon og samtaler med barn).
+8.2 Typiske avvik i 2024/2025
+Rapporter fra 2024 viser at det fortsatt avdekkes lovbrudd i en betydelig andel av tilsynene. Gjentakende temaer er:
+	•	Tvangsbruk: Manglende dokumentasjon av tvang, eller bruk av ulovlige tvangsmidler (f.eks. rutinemessig innelåsing eller kroppsvisitasjon uten vedtak).
+	•	Rettigheter: Barn som ikke får medvirke i egen hverdag, eller som opplever husordensreglene som urimelig strenge.
+	•	Bygningsmessige mangler: Slitte lokaler, manglende vedlikehold, eller sikkerhetstiltak som oppleves som krenkende.
+	•	Bistandsplikt: Bufetat får kritikk for ikke å finne riktig institusjonsplass raskt nok, noe som fører til at barn blir boende på midlertidige akuttplasser eller på glattceller hos politiet, noe som er et alvorlig brudd på menneskerettighetene.8
+8.3 Konsekvenser
+Ved alvorlige eller vedvarende avvik kan Bufetat trekke tilbake godkjenningen, noe som betyr kroken på døra for institusjonen. Mindre alvorlige avvik følges opp med pålegg om retting innen en frist. Tilsynsrapporter er offentlige, og gjentatte avvik skader institusjonens omdømme og mulighet til å vinne anbud.
+9. Konklusjon: Fremtidens institusjon
+Å drive barnevernsinstitusjon i 2025 krever en profesjonalisering i alle ledd. Tiden for den "koselige villaen" drevet på dugnadsånd er forbi, med mindre den villaen er totalrenovert til RKL 6, universelt utformet, og bemannet med høyskoleutdannede terapeuter som kan dokumentere hvert minutt av driften.
+Kravene trekker i retning av en institusjon som er:
+	1	Høyt spesialisert: Bygget og driften er skreddersydd for en spesifikk målgruppe (ikke "blandet drops").
+	2	Arkitektonisk bevisst: Bygget brukes aktivt som et verktøy for å fremme ro, verdighet og tilhørighet (nedskalering).
+	3	Sikkerhetsmessig robust: Brannvern og sikkerhet er integrert i designet, ikke lagt på som en ettertanke.
+	4	Juridisk stringen: Rettssikkerheten til barna er i høysetet, sikret gjennom internkontroll og dokumentasjon.
+For aktører i feltet betyr dette at investeringsviljen i både murstein og kompetanse må være høy. Kvalitet koster, men i lys av samfunnsoppdraget – å gi omsorg til de mest sårbare blant oss – er det en kostnad lovgiver og samfunnet nå stiller absolutte krav om at tas.

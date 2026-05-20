@@ -1,0 +1,185 @@
+1 Bufdir 101107 Enhet for inntak Bufetat region øst, avdeling Innlandet Inntak Renhold lokaler ISS Facility Services AS 10231
+1 Bufdir 101107 Enhet for inntak Bufetat region øst, avdeling Innlandet Inntak Renhold lokaler ISS Facility Services AS 3208,81
+1 Bufdir 101108 Enhet for inntak Bufetat region øst, avdeling Innlandet 20450 Bilpool Innlandet Inntak Leie parkeringsplass Fredvang Eiendom AS 3131,28
+1 Bufdir 101307 Fosterhjemstjenesten Bufetat region øst, avdeling Østfold Fosterhjemstjenesten Renhold lokaler ISS Facility Services AS 18492,02
+1 Bufdir 101701 Fosterhjemstjenesten Bufetat region øst, avdeling Østfold Fosterhjemstjenesten Renhold lokaler Elis Norge AS 1019,3
+1 Bufdir 101701 Fosterhjemstjenesten Bufetat region øst, avdeling Østfold Fosterhjemstjenesten Vaktmestertjenester Mesta AS 2848,46
+1 Bufdir 101003 Fosterhjemstjenesten Bufetat region øst, avd Innlandet Fosterhjemstjenesten Renhold lokaler ISS Facility Services AS 5162
+1 Bufdir 101103 Fosterhjemstjenesten Bufetat region øst, avd Innlandet Fosterhjemstjenesten Renhold lokaler Toma Facility Norge AS 2319,76
+1 Bufdir 101106 Fosterhjemstjenesten Bufetat region øst, avd Innlandet 20450 Bilpool Innlandet Fosterhjemstjenesten Leie parkeringsplass Fredvang Eiendom AS 6503,49
+1 Bufdir 101106 Familievernkontoret Asker og Bærum Familieverntjeneste Strøm og oppvarming Sharp Business Systems Norge AS 2340
+1 Bufdir 101106 Familievernkontoret Asker og Bærum Familieverntjeneste Renhold lokaler MASKE AS 503,27
+1 Bufdir 101106 Familievernkontoret Asker og Bærum 2050102 Elias Smiths vei 22-24, 1337 Sandvika Familieverntjeneste Renhold lokaler ISS Facility Services AS 18822,06
+1 Bufdir 101106 Familievernkontoret Homansbyen Familieverntjeneste Renhold lokaler ISS Facility Services AS 24368,3
+1 Bufdir 101106 Familievernkontoret Homansbyen Familieverntjeneste Reparasjon og vedlikehold leide lokaler MALERENTREPRENØREN AS 12500
+1 Bufdir 101106 Familievernkontoret Enerhaugen Familieverntjeneste Renhold lokaler ISS Facility Services AS 32805,61
+1 Bufdir 101106 Familievernkontoret Østfold Familieverntjeneste Renhold lokaler Elis Norge AS 1482
+1 Bufdir 101106 Familievernkontoret Østfold Familieverntjeneste Renhold lokaler Toma Facility Norge AS 15256,34
+1 Bufdir 101106 Familievernkontoret Østfold 2050114 Rådhusgata 16, 1830 Askim Familieverntjeneste Renhold lokaler Elis Norge AS 748
+1 Bufdir 101107 Familievernkontoret Østfold 2050114 Rådhusgata 16, 1830 Askim Familieverntjeneste Renhold lokaler Toma Facility Norge AS 6770,25
+1 Bufdir 101107 Familievernkontoret Oslo Nord Familieverntjeneste Renhold lokaler Trygg Renhold AS Stor-Oslo 11100
+1 Bufdir 101107 Familievernkontoret Oslo Nord Familieverntjeneste Fellesutgifter andre utleiere ISS Facility Services AS 211,73
+1 Bufdir 101107 Familievernkontoret Oslo Nord Familieverntjeneste Fellesutgifter andre utleiere ISS Facility Services AS 4757,36
+1 Bufdir 101108 Familievernkontoret Nedre Romerike Familieverntjeneste Renhold lokaler HJEM+ AS 13223
+1 Bufdir 101202 Familievernkontoret Nedre Romerike Familieverntjeneste Vakthold lokaler Lillestrøm Torv AS 2208
+1 Bufdir 101203 Familievernkontoret Øvre Romerike Glåmdal Familieverntjeneste Renhold lokaler MASKE AS 2462,44
+1 Bufdir 101203 Familievernkontoret Øvre Romerike Glåmdal Familieverntjeneste Renhold lokaler Maid 4 You AS 21393
+1 Bufdir 101204 Familievernkontoret Øvre Romerike Glåmdal 2050115 Energiveien 14, 2069 Jessheim Familieverntjeneste Renhold lokaler Maid 4 You AS 18735
+1 Bufdir 101204 Familievernkontoret Innlandet Vest Familieverntjeneste Renhold lokaler Toma Facility Norge AS 7160,24
+1 Bufdir 101206 Familievernkontoret Innlandet Vest Familieverntjeneste Annen kostnad lokaler FÅBERGGATA MAT AS 834,5
+1 Bufdir 101206 Familievernkontoret Innlandet Vest Familieverntjeneste Annen kostnad lokaler ØMF HAMAR AS 33188
+1 Bufdir 101306 Familievernkontoret Innlandet Vest Familieverntjeneste Annen kostnad lokaler ØMF HAMAR AS -33188
+1 Bufdir 101306 Familievernkontoret Innlandet Vest 2050106 Storgata 35-37, 2750 Gran Familieverntjeneste Renhold lokaler Kristina - Rent Karwan 4875
+1 Bufdir 101307 Familievernkontoret Innlandet Vest 2050107 Jernbanevegen 20, 2900 Fagernes Familieverntjeneste Renhold lokaler Valdres Renholdservice ZMR Rafal Krystian Brylowski 1143,75
+1 Bufdir 101404 Familievernkontoret Innlandet Øst Familieverntjeneste Renhold lokaler -11275
+1 Bufdir 101404 Familievernkontoret Innlandet Øst Familieverntjeneste Renhold lokaler ISS Facility Services AS 11275,05
+1 Bufdir 101404 Familievernkontoret Innlandet Øst Familieverntjeneste Renhold lokaler Elis Norge AS 2822
+1 Bufdir 101404 Familievernkontoret Innlandet Øst 2050108 Vangsvegen 121, 2318 Hamar Familieverntjeneste Renhold lokaler 11275
+1 Bufdir 101404 Lierfoss ungdoms- og familiesenter - omsorg Administrasjon Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Mr. Pukk Gjenvinning AS 615
+1 Bufdir 101405 Lierfoss ungdoms- og familiesenter - omsorg Administrasjon Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Mr. Pukk Gjenvinning AS 783,75
+1 Bufdir 101407 Lierfoss ungdoms- og familiesenter - omsorg Administrasjon Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler AURSKOG-HØLAND KOMMUNE 23921
+1 Bufdir 101502 Lierfoss ungdoms- og familiesenter - omsorg Berglia ungdomshjem 2050166 Liaveien 2, 4 og 6, 1930 Aurskog Barnevernsinstitusjoner Renhold lokaler Aurskog Bygg & Renhold AS 17375
+1 Bufdir 101503 Østfold ungdoms - og familiesenter - omsorg Administrasjon Barnevernsinstitusjoner Renhold lokaler ISS Facility Services AS 3807,18
+1 Bufdir 101503 Østfold ungdoms - og familiesenter - omsorg Administrasjon Barnevernsinstitusjoner Renhold lokaler Elis Norge AS 209,86
+1 Bufdir 101503 Østfold ungdoms - og familiesenter - omsorg Administrasjon Barnevernsinstitusjoner Vaktmestertjenester Mesta AS 586,45
+1 Bufdir 101504 Østfold ungdoms- og familiesenter - omsorg, avdeling Alfheim ungdomshjem Barnevernsinstitusjoner Annen kostnad lokaler Jysk AS 358,75
+1 Bufdir 101504 Østfold ungdoms- og familiesenter - omsorg, avdeling Alfheim ungdomshjem Barnevernsinstitusjoner Fellesutgifter andre utleiere PROSERVE AS 9050
+1 Bufdir 101504 Østfold ungdoms- og familiesenter - omsorg, avdeling Alfheim ungdomshjem Barnevernsinstitusjoner Fellesutgifter andre utleiere PROSERVE AS -9050
+1 Bufdir 101505 Østfold ungdoms- og familiesenter - omsorg, avdeling Tune ungdomshjem Barnevernsinstitusjoner Renhold lokaler Elis Norge AS 2167,72
+1 Bufdir 101505 Østfold ungdoms- og familiesenter - omsorg, avdeling Tune ungdomshjem Barnevernsinstitusjoner Renhold lokaler Ren Service AS 9230,2
+1 Bufdir 101505 Kirkenær barnevern- og omsorgssenter Administrasjon Omsorgssentre for mindreårige asylsøkere Leie lokaler andre utleiere Grue næringsselskap AS 4794,38
+1 Bufdir 101505 Kirkenær barnevern- og omsorgssenter Administrasjon Omsorgssentre for mindreårige asylsøkere Renovasjon, vann, avløp o.l. Solør Renovasjon Iks 188,25
+1 Bufdir 101505 Kirkenær barnevern- og omsorgssenter Administrasjon Omsorgssentre for mindreårige asylsøkere Fellesutgifter andre utleiere Tor Arne Skadsberg 100742,96
+1 Bufdir 101701 Kirkenær barnevern- og omsorgssenter Administrasjon Barnevernsinstitusjoner Leie lokaler andre utleiere -4794,37
+1 Bufdir 101701 Kirkenær barnevern- og omsorgssenter Administrasjon Barnevernsinstitusjoner Leie lokaler andre utleiere Grue næringsselskap AS 4794,37
+1 Bufdir 101701 Kirkenær barnevern- og omsorgssenter Administrasjon Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Solør Renovasjon Iks 188,25
+1 Bufdir 101701 Kirkenær barnevern- og omsorgssenter Avdeling Furubo Omsorgssentre for mindreårige asylsøkere Renhold lokaler Grue Kommune 1432,66
+1 Bufdir 101106 Kirkenær barnevern- og omsorgssenter Avdeling Kirkenærtunet Omsorgssentre for mindreårige asylsøkere Renhold lokaler Grue Kommune 6765,46
+1 Bufdir 101106 Kirkenær barnevern- og omsorgssenter Snorre ungdomshjem Barnevernsinstitusjoner Renhold lokaler Grue Kommune 3918,33
+1 Bufdir 101106 Kirkenær barnevern- og omsorgssenter Snorre ungdomshjem Barnevernsinstitusjoner Annen kostnad lokaler NORGESGRUPPEN FINANS AS 139
+1 Bufdir 101106 Kirkenær barnevern- og omsorgssenter Edda ungdomshjem Barnevernsinstitusjoner Leie lokaler andre utleiere -6398
+1 Bufdir 101106 Kirkenær barnevern- og omsorgssenter Edda ungdomshjem Barnevernsinstitusjoner Leie lokaler andre utleiere -9500
+1 Bufdir 101106 Kirkenær barnevern- og omsorgssenter Edda ungdomshjem Barnevernsinstitusjoner Leie lokaler andre utleiere -9500
+1 Bufdir 101106 Kirkenær barnevern- og omsorgssenter Edda ungdomshjem Barnevernsinstitusjoner Leie lokaler andre utleiere Vestlandske Boligstiftelse AS 6398
+1 Bufdir 101106 Kirkenær barnevern- og omsorgssenter Edda ungdomshjem Barnevernsinstitusjoner Leie lokaler andre utleiere Finn Halvor Karlstad 9500
+1 Bufdir 101106 Kirkenær barnevern- og omsorgssenter Edda ungdomshjem Barnevernsinstitusjoner Leie lokaler andre utleiere Finn Halvor Karlstad 9500
+1 Bufdir 101107 Kirkenær barnevern- og omsorgssenter Edda ungdomshjem Barnevernsinstitusjoner Strøm og oppvarming Fjordkraft AS 2096,14
+1 Bufdir 101107 Kirkenær barnevern- og omsorgssenter Edda ungdomshjem Barnevernsinstitusjoner Renhold lokaler Grue Kommune 18940,55
+1 Bufdir 101108 Kirkenær barnevern- og omsorgssenter avdeling for spesialiserte fosterhjem Fosterhjem Renhold lokaler ISS Facility Services AS 1953,19
+1 Bufdir 101203 Kirkenær barnevern- og omsorgssenter avdeling for spesialiserte fosterhjem 20450 Bilpool Innlandet Fosterhjem Leie parkeringsplass Fredvang Eiendom AS 1441,31
+1 Bufdir 101307 Kirkenær barnevern- og omsorgssenter Avdeling Balder Barnevernsinstitusjoner Annen kostnad lokaler Felleskjøpet Agri SA 1199
+1 Bufdir 101106 Kirkenær barnevern- og omsorgssenter Avdeling Balder Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Glassbua Kirkenær A.S. 8198,99
+1 Bufdir 101106 Kirkenær barnevern- og omsorgssenter Avdeling Namnå Omsorgssentre for mindreårige asylsøkere Renhold lokaler Grue Kommune 14800
+1 Bufdir 101106 Ringerike omsorgssenter Administrasjon Omsorgssentre for mindreårige asylsøkere Renhold lokaler CARES AS 5934
+1 Bufdir 101106 Ringerike omsorgssenter Avdeling Bredal Omsorgssentre for mindreårige asylsøkere Leie lokaler andre utleiere OK MINILAGER AS 1690
+1 Bufdir 101106 Ringerike omsorgssenter Avdeling Bredal Omsorgssentre for mindreårige asylsøkere Strøm og oppvarming HOLTHS BYGG OG EIENDOM AS 5351
+1 Bufdir 101106 Ringerike omsorgssenter Avdeling Egge Omsorgssentre for mindreårige asylsøkere Renhold lokaler SIGRIDS RENHOLD AS 10012,5
+1 Bufdir 101106 Ringerike omsorgssenter Avdeling Egge Omsorgssentre for mindreårige asylsøkere Reparasjon og vedlikehold leide lokaler Brødrene Helgensen Eftf. AS 15049,75
+1 Bufdir 101106 Ringerike omsorgssenter Avdeling Egge Omsorgssentre for mindreårige asylsøkere Reparasjon og vedlikehold leide lokaler Brødrene Helgensen Eftf. AS 12366,86
+1 Bufdir 101106 Ringerike omsorgssenter Avdeling Egge Omsorgssentre for mindreårige asylsøkere Reparasjon og vedlikehold leide lokaler Hønefoss Rørleggerbedrift AS -42520
+1 Bufdir 101106 Ringerike omsorgssenter Avdeling Egge 20270 Investeringer - særskilt tildeling Omsorgssentre for mindreårige asylsøkere Reparasjon og vedlikehold leide lokaler Jernia Bomiljø, Bomiljø Ringerike AS 478
+1 Bufdir 101106 Ringerike omsorgssenter Avdeling Egge 20270 Investeringer - særskilt tildeling Omsorgssentre for mindreårige asylsøkere Reparasjon og vedlikehold leide lokaler Hønefoss Rørleggerbedrift AS 42520
+1 Bufdir 101106 Ringerike omsorgssenter Avdeling Egge 20270 Investeringer - særskilt tildeling Omsorgssentre for mindreårige asylsøkere Reparasjon og vedlikehold leide lokaler Hønefoss Rørleggerbedrift AS 26256
+1 Bufdir 101106 Ringerike omsorgssenter Avdeling Snyta Omsorgssentre for mindreårige asylsøkere Renovasjon, vann, avløp o.l. Hadeland og Ringerike Avfallsselskap AS 276,01
+1 Bufdir 101108 Ringerike omsorgssenter Avdeling Snyta Omsorgssentre for mindreårige asylsøkere Renovasjon, vann, avløp o.l. Eurocard Norway 519
+1 Bufdir 101307 Ringerike omsorgssenter Avdeling Snyta Omsorgssentre for mindreårige asylsøkere Reparasjon og vedlikehold leide lokaler Brødrene Helgensen Eftf. AS 11573,65
+1 Bufdir 101106 Ringerike omsorgssenter Avdeling Ramsrud Omsorgssentre for mindreårige asylsøkere Leie lokaler andre utleiere OK MINILAGER AS 1489
+1 Bufdir 101106 Ringerike omsorgssenter Avdeling Ramsrud Omsorgssentre for mindreårige asylsøkere Leie lokaler andre utleiere OK MINILAGER AS 1090
+1 Bufdir 101106 Ringerike omsorgssenter Avdeling Ramsrud Omsorgssentre for mindreårige asylsøkere Renovasjon, vann, avløp o.l. Eurocard Norway 250
+1 Bufdir 101106 Bufetat Øst Innlandet Barnevernsenter Barnevernsinstitusjoner Renhold lokaler ISS Facility Services AS 20816,95
+1 Bufdir 101106 Bufetat Øst Innlandet Barnevernsenter Barnevernsinstitusjoner Renhold lokaler NG SECURE AS (15060314648) 4549,3
+1 Bufdir 101106 Bufetat Øst Innlandet Barnevernsenter Barnevernsinstitusjoner Vaktmestertjenester Sotera AS 1017,5
+1 Bufdir 101106 Bufetat Øst Innlandet Barnevernsenter Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Caverion Norge AS -1241,66
+1 Bufdir 101107 Bufetat Øst Innlandet Barnevernsenter Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Caverion Norge AS 20903,42
+1 Bufdir 101108 Bufetat Øst Innlandet Barnevernsenter Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Mjøsdata AS (64010635053) 809,38
+1 Bufdir 101307 Bufetat Øst Innlandet Barnevernsenter Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Mjøsdata AS (64010635053) 1097,5
+1 Bufdir 101003 Bufetat Øst Innlandet Barnevernsenter Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler CERTEGO AS, Bergen 1375,94
+1 Bufdir 101103 Sarpsborg ungdoms og familiesenter - behandling Avdeling Østlund Barnevernsinstitusjoner Annen kostnad lokaler Jysk AS -216,2
+1 Bufdir 101106 Multisystemisk terapi-team Sarpsborg Hjelpetiltak i hjemmet Renhold lokaler ISS Facility Services AS 5042,11
+1 Bufdir 101106 Multisystemisk terapi-team Sarpsborg Hjelpetiltak i hjemmet Renhold lokaler Elis Norge AS 277,93
+1 Bufdir 101106 Multisystemisk terapi-team Sarpsborg Hjelpetiltak i hjemmet Vaktmestertjenester Mesta AS 776,67
+1 Bufdir 101106 Multisystemisk terapi-team Hamar 2050186 Strandsagvegen 2 D, 2383 Brumunddal Hjelpetiltak i hjemmet Renhold lokaler ISS Facility Services AS 2371,73
+1 Bufdir 101106 Multisystemisk terapi-team Gjøvik Hjelpetiltak i hjemmet Renhold lokaler ISS Facility Services AS 4233
+1 Bufdir 101106 MST Nedre Romerike Hjelpetiltak i hjemmet Renhold lokaler HJEM+ AS 1889
+1 Bufdir 101106 Multisystemisk terapi-team Sandvika Hjelpetiltak i hjemmet Renhold lokaler ISS Facility Services AS 2689
+1 Bufdir 101106 Innlandet barnevernsenter avdeling Kauffeldt 20418 Tiltak Kaufeldt Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Mjøsdata AS (64010635053) 22271,88
+1 Bufdir 101106 TFCO Lillestrøm Barnevernsinstitusjoner Renhold lokaler HJEM+ AS 1889
+1 Bufdir 101106 Bufetats behandlingssenter Akershus/Østfold - Administrasjon Barnevernsinstitusjoner Renhold lokaler Toma gruppen//Østlandske Miljørenhold AS 3112,93
+1 Bufdir 101106 Bufetats behandlingssenter Akershus/Østfold, Avdeling Ressursteam Barnevernsinstitusjoner Renhold lokaler Toma gruppen//Østlandske Miljørenhold AS 10374,12
+1 Bufdir 101106 Bufetats behandlingssenter Akershus/Østfold, Avdeling spesialiserte fosterhjem 20164 Spesialiserte fosterhjem Fosterhjem Vaktmestertjenester Mesta AS 397,21
+1 Bufdir 101108 Bufetats behandlingssenter Akershus/Østfold, Avdeling spesialiserte fosterhjem 2050155 Glynitveien 30, 3020 Nordre Follo Fosterhjem Renhold lokaler ISS Facility Services AS 2580,14
+1 Bufdir 101202 Bufetats behandlingssenter Akershus/Østfold, Avdeling spesialiserte fosterhjem 2050155 Glynitveien 30, 3020 Nordre Follo Hjelpetiltak i hjemmet Renhold lokaler ISS Facility Services AS 3612,2
+1 Bufdir 101203 Bufetats behandlingssenter Akershus/Østfold, Avdeling spesialiserte fosterhjem 2050173 Sundløkkaveien 73m, 1659 Torp Fosterhjem Renhold lokaler ISS Facility Services AS 2578,64
+1 Bufdir 101203 Bufetats behandlingssenter Akershus/Østfold, Avdeling spesialiserte fosterhjem 2050173 Sundløkkaveien 73m, 1659 Torp Fosterhjem Renhold lokaler Elis Norge AS 142,14
+1 Bufdir 101204 Bufetats behandlingssenter Akershus/Østfold, Avdeling Østlund Barnevernsinstitusjoner Leie parkeringsplass Skjeberg Sportsklubb 5000
+1 Bufdir 101204 Bufetats behandlingssenter Akershus/Østfold, Avdeling Østheim Barnevernsinstitusjoner Annen kostnad lokaler Europris Butikkdrift AS 937
+1 Bufdir 101206 Bufetats behandlingssenter Akershus/Østfold, Avdeling Østheim Barnevernsinstitusjoner Annen kostnad lokaler Biltema Norge AS 305
+1 Bufdir 101206 Bufetats behandlingssenter Akershus/Østfold, Avdeling Østheim Barnevernsinstitusjoner Annen kostnad lokaler Biltema Norge AS 213,9
+1 Bufdir 101306 Bufetats behandlingssenter Akershus/Østfold, Avdeling Østheim Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler IKANO BANK AB (PUBL), Coop 1817
+1 Bufdir 101306 Bufetats behandlingssenter Akershus/Østfold, Avdeling Østheim Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler IKANO BANK AB (PUBL), Coop 1052
+1 Bufdir 101306 Bufetats behandlingssenter Akershus/Østfold, Avdeling Østheim 2050171 Østheimveien 14, 1630 Gamle Fredrikstad Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Slevik Elektriske AS 7844
+1 Bufdir 101307 Bufetats behandlingssenter Akershus/Østfold, Avdeling Østheim 2050171 Østheimveien 14, 1630 Gamle Fredrikstad Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Slevik Elektriske AS 3654
+1 Bufdir 101404 Bufetats behandlingssenter Akershus/Østfold, Avdeling Ås Barnevernsinstitusjoner Renhold lokaler Toma gruppen//Østlandske Miljørenhold AS 21785,65
+1 Bufdir 101404 Bufetats behandlingssenter Akershus/Østfold, Avdeling Ås Barnevernsinstitusjoner Reparasjon og vedlikehold av anlegg, også serviceavtaler CERTEGO AS, Bergen 18092,29
+1 Bufdir 101404 Bufetats behandlingssenter Akershus/Østfold, Avdeling Kroerveien Institusjon Barnevernsinstitusjoner Renhold lokaler Østlandske Rengjøring AS 9877,48
+1 Bufdir 101404 Bufetats behandlingssenter Akershus/Østfold, Avdeling Kroerveien Institusjon Barnevernsinstitusjoner Reparasjon og vedlikehold av anlegg, også serviceavtaler Låssenteret AS 17470
+1 Bufdir 101404 ServiceTeamet Regionale fellesfunksjoner Annen kostnad lokaler Nordea Finance Equipment AS 2255
+1 Bufdir 101404 ServiceTeamet 20144 Bilpool i Portalen Regionale fellesfunksjoner Leie parkeringsplass Aimo Park Norway AS 222,5
+1 Bufdir 101407 ServiceTeamet 20526 Service og leie av planter Portalen Regionale fellesfunksjoner Annen kostnad lokaler Rentokil Initial Norge AS 12937,5
+1 Bufdir 101503 ServiceTeamet 20526 Service og leie av planter Portalen Regionale fellesfunksjoner Annen kostnad lokaler Rentokil Initial Norge AS 12937,5
+1 Bufdir 101503 ServiceTeamet 20526 Service og leie av planter Portalen Regionale fellesfunksjoner Annen kostnad lokaler Rentokil Initial Norge AS 12937,5
+1 Bufdir 101503 Bufetats enhet for godkjenning av barneverninstitusjoner 20144 Bilpool i Portalen Regionale fellesfunksjoner Leie parkeringsplass Aimo Park Norway AS 356
+1 Bufdir 101503 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 20270 Investeringer - særskilt tildeling Barnevernsinstitusjoner Fast bygningsinventar over kr 50 000 Statsbyggs hovedkontor 135661,31
+1 Bufdir 101504 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 20270 Investeringer - særskilt tildeling Barnevernsinstitusjoner Oppgradering og påkostning leide lokaler - under kr 50 000 Statsbyggs hovedkontor 13278,45
+1 Bufdir 101504 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 20271 Ladestasjoner Barnevernsinstitusjoner Annen kostnad lokaler Statsbyggs hovedkontor 18402,04
+1 Bufdir 101505 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 20410 BSA-del av utgifter i Portalen Regionale fellesfunksjoner Leie lokaler andre utleiere Portalen Kontor AS 20338,8
+1 Bufdir 101505 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 20410 BSA-del av utgifter i Portalen Regionale fellesfunksjoner Leie lokaler andre utleiere Portalen Forretning AS 120
+1 Bufdir 101505 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 20410 BSA-del av utgifter i Portalen Regionale fellesfunksjoner Strøm og oppvarming Ishavskraft AS 8913,65
+1 Bufdir 101505 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 20410 BSA-del av utgifter i Portalen Regionale fellesfunksjoner Strøm og oppvarming Ishavskraft AS 89,37
+1 Bufdir 101106 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050101 Tærudgata 16, 2004 Lillestrøm Regionale fellesfunksjoner Leie lokaler andre utleiere Portalen Kontor AS 2711,84
+1 Bufdir 101106 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050101 Tærudgata 16, 2004 Lillestrøm Regionale fellesfunksjoner Leie lokaler andre utleiere Portalen Kontor AS 36609,84
+1 Bufdir 101106 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050101 Tærudgata 16, 2004 Lillestrøm Regionale fellesfunksjoner Leie lokaler andre utleiere Portalen Kontor AS 6779,6
+1 Bufdir 101106 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050101 Tærudgata 16, 2004 Lillestrøm Regionale fellesfunksjoner Leie lokaler andre utleiere Portalen Forretning AS 16
+1 Bufdir 101106 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050101 Tærudgata 16, 2004 Lillestrøm Regionale fellesfunksjoner Leie lokaler andre utleiere Portalen Forretning AS 216
+1 Bufdir 101106 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050101 Tærudgata 16, 2004 Lillestrøm Regionale fellesfunksjoner Leie lokaler andre utleiere Portalen Forretning AS 40
+1 Bufdir 101108 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050101 Tærudgata 16, 2004 Lillestrøm Regionale fellesfunksjoner Strøm og oppvarming Ishavskraft AS 1371,34
+1 Bufdir 101307 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050101 Tærudgata 16, 2004 Lillestrøm Regionale fellesfunksjoner Strøm og oppvarming Ishavskraft AS 15770,34
+1 Bufdir 101106 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050101 Tærudgata 16, 2004 Lillestrøm Regionale fellesfunksjoner Strøm og oppvarming Ishavskraft AS 2742,67
+1 Bufdir 101106 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050101 Tærudgata 16, 2004 Lillestrøm Regionale fellesfunksjoner Strøm og oppvarming Ishavskraft AS 13,75
+1 Bufdir 101106 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050101 Tærudgata 16, 2004 Lillestrøm Regionale fellesfunksjoner Strøm og oppvarming Ishavskraft AS 158,12
+1 Bufdir 101106 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050101 Tærudgata 16, 2004 Lillestrøm Regionale fellesfunksjoner Strøm og oppvarming Ishavskraft AS 27,5
+1 Bufdir 101106 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050101 Tærudgata 16, 2004 Lillestrøm Omsorgssentre for mindreårige asylsøkere Leie lokaler andre utleiere Portalen Kontor AS 1355,92
+1 Bufdir 101106 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050101 Tærudgata 16, 2004 Lillestrøm Omsorgssentre for mindreårige asylsøkere Leie lokaler andre utleiere Portalen Forretning AS 8
+1 Bufdir 101106 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050101 Tærudgata 16, 2004 Lillestrøm Omsorgssentre for mindreårige asylsøkere Strøm og oppvarming Ishavskraft AS 685,67
+1 Bufdir 101106 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050101 Tærudgata 16, 2004 Lillestrøm Omsorgssentre for mindreårige asylsøkere Strøm og oppvarming Ishavskraft AS 6,88
+1 Bufdir 101106 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050101 Tærudgata 16, 2004 Lillestrøm Barnevernsinstitusjoner Leie lokaler andre utleiere Portalen Kontor AS 5423,68
+1 Bufdir 101106 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050101 Tærudgata 16, 2004 Lillestrøm Barnevernsinstitusjoner Leie lokaler andre utleiere Portalen Forretning AS 32
+1 Bufdir 101106 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050101 Tærudgata 16, 2004 Lillestrøm Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 8913,69
+1 Bufdir 101106 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050101 Tærudgata 16, 2004 Lillestrøm Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 89,37
+1 Bufdir 101108 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050101 Tærudgata 16, 2004 Lillestrøm Inntak Leie lokaler andre utleiere Portalen Kontor AS 23050,64
+1 Bufdir 101106 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050101 Tærudgata 16, 2004 Lillestrøm Inntak Leie lokaler andre utleiere Portalen Forretning AS 136
+1 Bufdir 101106 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050101 Tærudgata 16, 2004 Lillestrøm Inntak Strøm og oppvarming Ishavskraft AS 12342
+1 Bufdir 101106 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050101 Tærudgata 16, 2004 Lillestrøm Inntak Strøm og oppvarming Ishavskraft AS 123,74
+1 Bufdir 101106 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050101 Tærudgata 16, 2004 Lillestrøm Fosterhjemstjenesten Leie lokaler andre utleiere Portalen Kontor AS 20338,8
+1 Bufdir 101106 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050101 Tærudgata 16, 2004 Lillestrøm Fosterhjemstjenesten Leie lokaler andre utleiere Portalen Forretning AS 120
+1 Bufdir 101106 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050101 Tærudgata 16, 2004 Lillestrøm Fosterhjemstjenesten Strøm og oppvarming Ishavskraft AS 9599,32
+1 Bufdir 101106 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050101 Tærudgata 16, 2004 Lillestrøm Fosterhjemstjenesten Strøm og oppvarming Ishavskraft AS 96,24
+1 Bufdir 101106 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050101 Tærudgata 16, 2004 Lillestrøm Adopsjon Leie lokaler andre utleiere Portalen Kontor AS 18982,88
+1 Bufdir 101106 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050101 Tærudgata 16, 2004 Lillestrøm Adopsjon Leie lokaler andre utleiere Portalen Forretning AS 112
+1 Bufdir 101106 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050101 Tærudgata 16, 2004 Lillestrøm Adopsjon Strøm og oppvarming Ishavskraft AS 8227,98
+1 Bufdir 101106 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050101 Tærudgata 16, 2004 Lillestrøm Adopsjon Strøm og oppvarming Ishavskraft AS 82,5
+1 Bufdir 101106 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050102 Elias Smiths vei 22-24, 1337 Sandvika Familieverntjeneste Strøm og oppvarming Ishavskraft AS 15943,76
+1 Bufdir 101106 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050102 Elias Smiths vei 22-24, 1337 Sandvika Hjelpetiltak i hjemmet Strøm og oppvarming Ishavskraft AS 2277,68
+1 Bufdir 101106 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050102 Elias Smiths vei 22-24, 1337 Sandvika Inntak Strøm og oppvarming Ishavskraft AS 4555,36
+1 Bufdir 101106 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050103 Smedsgata 49, 0651 Oslo Familieverntjeneste Leie lokaler andre utleiere Smedgata 45 og 49 AS 215204
+1 Bufdir 101106 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050103 Smedsgata 49, 0651 Oslo Familieverntjeneste Strøm og oppvarming Ishavskraft AS 24022,62
+1 Bufdir 101106 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050103 Smedsgata 49, 0651 Oslo Familieverntjeneste Strøm og oppvarming Ishavskraft AS 63585,33
+1 Bufdir 101106 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050105 Nymosvingen 6, 2609 Lillehammer Familieverntjeneste Strøm og oppvarming Ishavskraft AS 24955,4
+1 Bufdir 101108 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050105 Nymosvingen 6, 2609 Lillehammer Familieverntjeneste Strøm og oppvarming Ishavskraft AS 7834,16
+1 Bufdir 101307 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050105 Nymosvingen 6, 2609 Lillehammer Familieverntjeneste Strøm og oppvarming Ishavskraft AS 1088,93
+1 Bufdir 101307 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050106 Storgata 35-37, 2750 Gran Familieverntjeneste Leie lokaler andre utleiere Hidemgårdene AS 35700
+1 Bufdir 101003 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050106 Storgata 35-37, 2750 Gran Familieverntjeneste Fellesutgifter andre utleiere Hidemgårdene AS 3868
+1 Bufdir 101103 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050110 Torget 6, 2000 Lillestrøm Familieverntjeneste Strøm og oppvarming Istad Kraft AS 10693,03
+1 Bufdir 101106 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050110 Torget 6, 2000 Lillestrøm Familieverntjeneste Strøm og oppvarming Istad Kraft AS 666,25
+1 Bufdir 101106 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050110 Torget 6, 2000 Lillestrøm Familieverntjeneste Strøm og oppvarming Istad Kraft AS 4236,35
+1 Bufdir 101106 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050110 Torget 6, 2000 Lillestrøm Familieverntjeneste Fellesutgifter andre utleiere Lillestrøm Torv AS 12435,79

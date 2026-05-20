@@ -1,0 +1,1871 @@
+[
+  {
+    "property_id": "90045755-c297-4ded-b8b4-18f3dc4a9009",
+    "name": "Lofoten og Vesterålen familievernkontor",
+    "address": "Lofoten og Vesterålen familievernkontor",
+    "city": "Ukjent Sted",
+    "region": null
+  },
+  {
+    "property_id": "078b3f1a-b191-4e63-9dad-496474deecc3",
+    "name": "F1 akutt - Kompani Linges vei 23",
+    "address": "Kompani Lingesvei 23",
+    "city": "Hafrsfjord",
+    "region": "03 - Vest"
+  },
+  {
+    "property_id": "3d447f40-9910-44d3-995f-7f4deac25811",
+    "name": "Test gate 1",
+    "address": "Test gate 1",
+    "city": "Oslo",
+    "region": null
+  },
+  {
+    "property_id": "92eedff2-331f-4a9b-9f14-d1b3e0dfa183",
+    "name": "Test Institution RKL6",
+    "address": "Testveien 1",
+    "city": "Oslo",
+    "region": null
+  },
+  {
+    "property_id": "006f04d8-be41-406a-9959-cbd41a1a32dd",
+    "name": "F2 familie - Torget 10",
+    "address": "Torget 10",
+    "city": "Stord",
+    "region": "03 - Vest"
+  },
+  {
+    "property_id": "0ef047e7-d585-470f-9c7d-701f374e2505",
+    "name": "Karienborg ungdomsheim",
+    "address": "Okkenhaugveien 13B",
+    "city": "Levanger",
+    "region": "02 - Midt-Norge"
+  },
+  {
+    "property_id": "a3bc81f8-3a6b-4e81-8943-8e77a81f9adb",
+    "name": "FHT RN - adm",
+    "address": "FHT RN - adm",
+    "city": "Ukjent Sted",
+    "region": null
+  },
+  {
+    "property_id": "0cf23f2c-f113-404e-b9bb-bb52b53dbaff",
+    "name": "Bufetathus Arendal 3 etg og del 2 etg",
+    "address": "Langsæveien 6",
+    "city": "Arendal",
+    "region": "04 - Sør"
+  },
+  {
+    "property_id": "1654c3d3-e6a3-44b8-8c5b-7d557c34c9dd",
+    "name": "Lierfoss ungdoms- og familiesenter, avdeling Skogtun (Bunes)",
+    "address": "Storveien 1404",
+    "city": "Rømskog",
+    "region": "05 - Øst"
+  },
+  {
+    "property_id": "19e119ac-cdaf-4250-b6e4-8547487f7b5e",
+    "name": "Bufetat - Rennesøygata 16",
+    "address": "Rennesøygata 16",
+    "city": "Haugesund",
+    "region": "03 - Vest"
+  },
+  {
+    "property_id": "09fb5c2b-c408-4817-ad2c-0d67ac963630",
+    "name": "Hedmark ungdoms- og familiesenter, avdeling Stange",
+    "address": "Dr. Thorshaugsveg 8",
+    "city": "Stange",
+    "region": "05 - Øst"
+  },
+  {
+    "property_id": "084bb4ab-ca72-4d41-b877-a00f1fe12042",
+    "name": "Sollia barne- og ungdomssenter + fosterhjemstjenesten",
+    "address": "Idrettsvn 5",
+    "city": "Sortland",
+    "region": "01 - Nord"
+  },
+  {
+    "property_id": "1c352862-ebd4-419f-ad27-8a9dcfe3ba1d",
+    "name": "FVK/NASAK, Indre Finnmark",
+    "address": "Fitnodatgeaidnu 41-43",
+    "city": "Karasjok",
+    "region": "01 - Nord"
+  },
+  {
+    "property_id": "e232457a-4036-43ee-8be6-d5f5ea0ce893",
+    "name": "Solbakken barne- og familiesenter",
+    "address": "Solbakken 12",
+    "city": "Tromsø",
+    "region": "01 - Nord"
+  },
+  {
+    "property_id": "294718b9-e221-4efd-9e48-acabbf4db7d2",
+    "name": "Spillumheimen ungdomsheim",
+    "address": "Spillumheimen ungdomsheim",
+    "city": "Ukjent Sted",
+    "region": null
+  },
+  {
+    "property_id": "21c7059d-6178-470f-9a5a-8ef55aa187d5",
+    "name": "Test gate 1",
+    "address": "Test gate 1",
+    "city": "Oslo",
+    "region": null
+  },
+  {
+    "property_id": "81cc4eb0-42ef-4cc5-820b-276090cfc805",
+    "name": "Test gate 1",
+    "address": "Test gate 1",
+    "city": "Oslo",
+    "region": null
+  },
+  {
+    "property_id": "010615ef-b428-4d42-9bda-7fde26c3baa2",
+    "name": "FVK, MST, FHK, RK Tromsø",
+    "address": "Kaigata 4",
+    "city": "Tromsø",
+    "region": "01 - Nord"
+  },
+  {
+    "property_id": "0a1154ca-aed5-4f83-a979-19cb62d64e2e",
+    "name": "Nes ungdomshjem",
+    "address": "Nesverkveien 190",
+    "city": "Nes Verk",
+    "region": "04 - Sør"
+  },
+  {
+    "property_id": "1ec2aa0e-4c06-4d71-87eb-3ecdc92601c7",
+    "name": "F4 ungdom - Bønesstølen 13",
+    "address": "Bønesstølen 13",
+    "city": "Bønes",
+    "region": "03 - Vest"
+  },
+  {
+    "property_id": "18a79e87-0bca-47b6-8316-363a04a157d7",
+    "name": "Hedmark ungdoms- og familiesenter, Vien 1 og 2",
+    "address": "Klukevegen 30",
+    "city": "Hamar",
+    "region": "05 - Øst"
+  },
+  {
+    "property_id": "23cdc6d9-f7cb-41af-8c01-9a537575b97c",
+    "name": "Bekkegata 2a",
+    "address": "Bekkegata 2a",
+    "city": "Hønefoss",
+    "region": "05 - Øst"
+  },
+  {
+    "property_id": "29a4a794-f1c4-4952-bf77-49a3066f105e",
+    "name": "Akershus ungdoms- og familiesenter, avdeling Tjernlia",
+    "address": "Trondheimsvegen - Jessheim 205",
+    "city": "Jessheim",
+    "region": "05 - Øst"
+  },
+  {
+    "property_id": "00720098-edd8-4a99-bd1c-b9c54cd87cb7",
+    "name": "Furene 8, 6105 Volda",
+    "address": "Furene 8, 6105 Volda",
+    "city": "Volda",
+    "region": "VEST"
+  },
+  {
+    "property_id": "20732c83-67fe-4f99-9b34-6f0014ee332c",
+    "name": "Kirkenær barnevern og omsorgssenter - Snorre",
+    "address": "Gartneriveien 8",
+    "city": "Kirkenær",
+    "region": "05 - Øst"
+  },
+  {
+    "property_id": "22e14eed-35af-4689-9e31-01844cc09544",
+    "name": "Kjørbekk",
+    "address": "Kjørbekksvingen 38",
+    "city": "Skien",
+    "region": "04 - Sør"
+  },
+  {
+    "property_id": "df1b3c27-c9ed-47b7-a904-19c1a455be11",
+    "name": "Kvammen akuttsenter, avdeling Melhus",
+    "address": "Kvammen akuttsenter, avdeling Melhus",
+    "city": "Ukjent Sted",
+    "region": null
+  },
+  {
+    "property_id": "10c48fe3-8c60-4241-8aab-1e6ef30338a6",
+    "name": "Lågen",
+    "address": "Frogsvei 21-25",
+    "city": "Kongsberg",
+    "region": "04 - Sør"
+  },
+  {
+    "property_id": "25133419-f725-4d0b-9007-47a0bf8a5431",
+    "name": "Bufetathus Telemark",
+    "address": "Schweigaardsgt 11",
+    "city": "Skien",
+    "region": "04 - Sør"
+  },
+  {
+    "property_id": "254237fb-da81-4630-aeb8-3d2f9c195024",
+    "name": "FHT, ESF, MST, inntak Bodø",
+    "address": "Nordstrandveien 41",
+    "city": "Bodø",
+    "region": "01 - Nord"
+  },
+  {
+    "property_id": "5940c069-0603-4945-a521-1ccaa4008992",
+    "name": "Avdelingsdirektør inntak og fosterhjemsrekruttering",
+    "address": "Avdelingsdirektør inntak og fosterhjemsrekruttering",
+    "city": "Ukjent Sted",
+    "region": null
+  },
+  {
+    "property_id": "5ebbcde5-cc7b-4d3d-b66d-d6c36fbedbf6",
+    "name": "Enhet for inntak Bufetat region nord",
+    "address": "Enhet for inntak Bufetat region nord",
+    "city": "Ukjent Sted",
+    "region": null
+  },
+  {
+    "property_id": "2efdd58b-99f3-4e1e-bff0-1203a9c32a1d",
+    "name": "Østfold  ungdoms- og familiesenter - Hybel",
+    "address": "Ullsvei 16",
+    "city": "Halden",
+    "region": "05 - Øst"
+  },
+  {
+    "property_id": "280f8df3-f05d-4999-a21c-b6a85df63560",
+    "name": "Buvika ungdomssenter",
+    "address": "Hanskleiva 25",
+    "city": "Buvika",
+    "region": "02 - Midt-Norge"
+  },
+  {
+    "property_id": "299b72c2-38f4-4c3e-8389-cdb3d39ca2cb",
+    "name": "Østfold ungdoms- og familisenter - Hybel",
+    "address": "Vestrevei 1",
+    "city": "Sarpsborg",
+    "region": "05 - Øst"
+  },
+  {
+    "property_id": "2b67a2b4-6a55-49d4-a859-07108d85ea52",
+    "name": "F3 barn - Vestlundveien 22a",
+    "address": "Vestlundveien 22a",
+    "city": "Fyllingsdalen",
+    "region": "03 - Vest"
+  },
+  {
+    "property_id": "145a0efd-dc6e-4f60-ab98-f528a8c0fde9",
+    "name": "Kvalvågveien 113, 6521 Frei",
+    "address": "Kvalvågveien 113, 6521 Frei",
+    "city": "Kristiansund",
+    "region": "VEST"
+  },
+  {
+    "property_id": "229b1abb-a8db-48ef-b1f1-271e4c84e921",
+    "name": "Tovdal",
+    "address": "Austenå 370",
+    "city": "Dølemo",
+    "region": "04 - Sør"
+  },
+  {
+    "property_id": "2b69b1e2-c10a-4e66-8805-8d4f963dae50",
+    "name": "Kantum",
+    "address": "Baneveien  19",
+    "city": "Hokksund",
+    "region": "04 - Sør"
+  },
+  {
+    "property_id": "2b996736-7c4f-403b-92dd-c2e5f9e96bea",
+    "name": "F3 ungdom - Tertneshøyden 33b",
+    "address": "Tertneshøyden 33b",
+    "city": "Tertnes",
+    "region": "03 - Vest"
+  },
+  {
+    "property_id": "2bf6b306-d113-401f-b599-db089d90dcf1",
+    "name": "Gulset",
+    "address": "Gulsetringen 313",
+    "city": "Skien",
+    "region": "04 - Sør"
+  },
+  {
+    "property_id": "42238684-8d1a-40fa-8605-874cab191c00",
+    "name": "Myrakollen 2, 6390 Vestnes, Norway",
+    "address": "Myrakollen 2, 6390 Vestnes, Norway",
+    "city": "6390 Vestnes",
+    "region": "VEST"
+  },
+  {
+    "property_id": "034c26c2-d33e-4c08-b609-e85bed2412f1",
+    "name": "FVK, utekontor LOVE",
+    "address": "Fiskergata 22",
+    "city": "Svolvær",
+    "region": "01 - Nord"
+  },
+  {
+    "property_id": "6b83f038-646e-42f5-b52c-4d1c70577ff7",
+    "name": "MST Bodø",
+    "address": "MST Bodø",
+    "city": "Ukjent Sted",
+    "region": null
+  },
+  {
+    "property_id": "2f4d104b-2fd3-48c2-9a74-0f44284c4713",
+    "name": "F3 ungdom - Mindeveien 8+8a",
+    "address": "Mindeveien 8",
+    "city": "Sandnes",
+    "region": "03 - Vest"
+  },
+  {
+    "property_id": "4d236acb-3331-4498-8f19-e956fd449eea",
+    "name": "Baneveien 16, 3405 Lier, Norway",
+    "address": "Baneveien 16, 3405 Lier, Norway",
+    "city": "3405 Lier",
+    "region": "SØR"
+  },
+  {
+    "property_id": "374994ad-b023-40d3-a8ac-84b5ae07f54f",
+    "name": "Drift - Nedre Nøttveit 58 - løpende avtale",
+    "address": "Nedre Nøttveit 58",
+    "city": "Rådal",
+    "region": "03 - Vest"
+  },
+  {
+    "property_id": "3b588419-0868-4d66-a951-5bf4839f803f",
+    "name": "Kirkenær barnevern og omsorgssenter, Garasje / lager",
+    "address": "Bruvegen 6",
+    "city": "Kirkenær",
+    "region": "05 - Øst"
+  },
+  {
+    "property_id": "3c9c89dc-0d26-49a5-b943-356eeee1ca01",
+    "name": "F2 familie - Solheimsgaten 13",
+    "address": "Solheimsgaten 13",
+    "city": "Bergen",
+    "region": "03 - Vest"
+  },
+  {
+    "property_id": "3cf4d78d-3fd3-438e-9245-f22b5dc1de45",
+    "name": "Lunde behandlingssenter",
+    "address": "Lundeveien 171",
+    "city": "Søgne",
+    "region": "04 - Sør"
+  },
+  {
+    "property_id": "92752947-9150-40e5-bbe0-e7da7e0b3aa7",
+    "name": "Avdelingsdirektør omsorg for ungdom og behandling av ungdom",
+    "address": "Avdelingsdirektør omsorg for ungdom og behandling av ungdom",
+    "city": "Ukjent Sted",
+    "region": null
+  },
+  {
+    "property_id": "38f73ec1-f193-4f3b-bb40-f18c732be658",
+    "name": "Seljelia barne- og familiesenter",
+    "address": "Marmorveien 23",
+    "city": "Gjøvik",
+    "region": "05 - Øst"
+  },
+  {
+    "property_id": "04d48347-22ea-4852-9d72-2ef1407f0ef7",
+    "name": "KUS SKM Kirkenes",
+    "address": "Wiulls gate 3",
+    "city": "Kirkenes",
+    "region": "01 - Nord"
+  },
+  {
+    "property_id": "3ddcd6bb-e412-4fa7-9167-0214cde05e0a",
+    "name": "Senter for familie og barn, Molde",
+    "address": "Bastian Withs gt 11",
+    "city": "Molde",
+    "region": "02 - Midt-Norge"
+  },
+  {
+    "property_id": "3df10c78-fdc1-4b8e-b6da-d0f36de2a2b0",
+    "name": "Yttrabekken ungdomssenter",
+    "address": "Brennstadmoen 23",
+    "city": "Mo I Rana",
+    "region": "01 - Nord"
+  },
+  {
+    "property_id": "ca009605-3d7b-4608-ba95-620cb9cf482f",
+    "name": "Test Institution RKL6",
+    "address": "Testveien 1",
+    "city": "Oslo",
+    "region": null
+  },
+  {
+    "property_id": "c271cf99-c6e4-4abc-868d-acc8429f313a",
+    "name": "Lamo ungdomssenter Tunet 61006 Hærverk",
+    "address": "Lamo ungdomssenter Tunet 61006 Hærverk",
+    "city": "Ukjent Sted",
+    "region": null
+  },
+  {
+    "property_id": "4db367c3-934b-4822-9206-61b72bda015d",
+    "name": "Familievernkontoret Øvre Romerike Glåmdal, avdeling Kongsvinger",
+    "address": "Gågata 5",
+    "city": "Kongsvinger",
+    "region": "05 - Øst"
+  },
+  {
+    "property_id": "41011db0-b9f8-4fb1-bfc6-b9ac0208560f",
+    "name": "F3 ungdom - Sophus Lie-vegen 5 - erstatningsbygg - løpende avtale",
+    "address": "Sophus Lie-vegen 5",
+    "city": "Nordfjordeid",
+    "region": "03 - Vest"
+  },
+  {
+    "property_id": "4259568e-5bd6-4e0e-b0b9-ce61d227b1e3",
+    "name": "F3 ungdom - Sjukehusvegen 5 - tillegg (kontor)",
+    "address": "Sjukehusvegen  5",
+    "city": "Nordfjordeid",
+    "region": "03 - Vest"
+  },
+  {
+    "property_id": "439ad8da-bef0-4b7b-8d80-c04b1f4583db",
+    "name": "Familievern-kontoret i Kristiansund",
+    "address": "Vågeveien 10",
+    "city": "Kristiansund N",
+    "region": "02 - Midt-Norge"
+  },
+  {
+    "property_id": "43dbddf7-3afa-48ce-9477-ca8e556e1233",
+    "name": "Østfold  ungdoms- og familiesenter, avdeling Tune",
+    "address": "Uglevn 1",
+    "city": "Grålum",
+    "region": "05 - Øst"
+  },
+  {
+    "property_id": "601a3a6f-5d32-4080-a6ec-f22226a8f039",
+    "name": "Indre finnmark FV",
+    "address": "Indre finnmark FV",
+    "city": "Ukjent Sted",
+    "region": null
+  },
+  {
+    "property_id": "0560544c-3a23-4cd0-98fc-c4870c3ccfc8",
+    "name": "F3 ungdom - Rogalandsgata 18",
+    "address": "Rogalandsgata 18",
+    "city": "Stavanger",
+    "region": "03 - Vest"
+  },
+  {
+    "property_id": "d2d6fd78-443e-40d1-a3a8-75724f31df91",
+    "name": "FIT-team Hammerfest",
+    "address": "FIT-team Hammerfest",
+    "city": "Ukjent Sted",
+    "region": null
+  },
+  {
+    "property_id": "049e489f-005b-412f-bdd2-5fa989aa13e9",
+    "name": "Akershus ungdoms- og familiesenter, avdeling Jibbe",
+    "address": "Kantarellveien 4",
+    "city": "Sarpsborg",
+    "region": "05 - Øst"
+  },
+  {
+    "property_id": "41bd0311-5384-49b7-857d-22624b7d673f",
+    "name": "Stokke barnesenter",
+    "address": "Grimestadveien 69",
+    "city": "Stokke",
+    "region": "04 - Sør"
+  },
+  {
+    "property_id": "941925d0-fed0-4738-9c41-b7d3cc451e5d",
+    "name": "Seljelia barne- og familiesenter Avdeling for beredskapshjem 1 20450 Bilpool Innlandet",
+    "address": "Seljelia barne- og familiesenter Avdeling for beredskapshjem 1 20450 Bilpool Innlandet",
+    "city": "Ukjent Sted",
+    "region": null
+  },
+  {
+    "property_id": "47dd7346-f223-4fa3-84f4-d62f581ebadb",
+    "name": "Bufetat - Storehagen 1b",
+    "address": "Storehagen 1b",
+    "city": "Førde",
+    "region": "03 - Vest"
+  },
+  {
+    "property_id": "48fbc794-7ae1-43d9-afa5-67a486b62487",
+    "name": "F1 akutt - Skinflorbakkane 12",
+    "address": "Skinflorbakkane 12",
+    "city": "Mjølkeråen",
+    "region": "03 - Vest"
+  },
+  {
+    "property_id": "abe87908-72ad-46da-9893-d23d758330b6",
+    "name": "Familievernkontoret Øvre Romerike Glåmdal, avdeling Jessheim",
+    "address": "Energiveien 14",
+    "city": "Jessheim",
+    "region": "05 - Øst"
+  },
+  {
+    "property_id": "44336258-d1a3-4c75-aa0a-0e821cd5a525",
+    "name": "Ranheim Vestre",
+    "address": "Peder Myhres vei 16",
+    "city": "Ranheim",
+    "region": "02 - Midt-Norge"
+  },
+  {
+    "property_id": "46a40e9a-0d4b-4b25-84fa-1e59d4c040ca",
+    "name": "Senter for foreldre og barn, Adm.lokaler",
+    "address": "Frænaveien 16",
+    "city": "Molde",
+    "region": "02 - Midt-Norge"
+  },
+  {
+    "property_id": "5b60650a-79ea-406a-87e7-c65490313651",
+    "name": "Bufetat - Solheimsgaten 11",
+    "address": "Solheimsgaten 11",
+    "city": "Bergen",
+    "region": "03 - Vest"
+  },
+  {
+    "property_id": "5cf9e2c5-683d-407c-bcb3-d28ef147178f",
+    "name": "Akershus ungdoms- og familiesenter, avdeling Sole",
+    "address": "Njords vei 11",
+    "city": "Vestby",
+    "region": "05 - Øst"
+  },
+  {
+    "property_id": "07214d6b-a2c4-4dc4-9464-7bdde144965c",
+    "name": "Bufetat - Lagårdsveien 44",
+    "address": "Lagårdsveien 44",
+    "city": "Stavanger",
+    "region": "03 - Vest"
+  },
+  {
+    "property_id": "23f0c475-2cb8-4470-859a-6e820bc55404",
+    "name": "Kirkenær barnevern og omsorgssenter - Kirkenærtunet",
+    "address": "Kirkenærtunet 27",
+    "city": "Kirkenær",
+    "region": "05 - Øst"
+  },
+  {
+    "property_id": "727a23b9-fbf1-4f9a-9132-34a3c7121650",
+    "name": "Familievernkontoret Romsdal",
+    "address": "Familievernkontoret Romsdal",
+    "city": "Ukjent Sted",
+    "region": null
+  },
+  {
+    "property_id": "ac40da46-429b-4231-a587-d3581562e70e",
+    "name": "Gullhella barne- og familiesenter Foreldre- og barn avdeling 2050182 Korpåsen 172, 1386 Asker",
+    "address": "Gullhella barne- og familiesenter Foreldre- og barn avdeling 2050182 Korpåsen 172, 1386 Asker",
+    "city": "Ukjent Sted",
+    "region": null
+  },
+  {
+    "property_id": "1ad0b505-5ecc-464f-97f8-f5dfa98c3b6b",
+    "name": "Senter for foreldre og barn Molde",
+    "address": "Senter for foreldre og barn Molde",
+    "city": "Ukjent Sted",
+    "region": null
+  },
+  {
+    "property_id": "2997b0cb-b5da-4db3-b325-03e9d7790c49",
+    "name": "Borg barne- og familiesenter, avdeling Moringen",
+    "address": "Storveien 121",
+    "city": "Gressvik",
+    "region": "05 - Øst"
+  },
+  {
+    "property_id": "ed86b9c4-037d-4914-8628-032b0d4ad6fa",
+    "name": "Ranheim Vestre 53900 Større anskaffelser",
+    "address": "Ranheim Vestre 53900 Større anskaffelser",
+    "city": "Ukjent Sted",
+    "region": null
+  },
+  {
+    "property_id": "41ce3403-7a70-43e2-92c0-9805fa822dfe",
+    "name": "Ringerike omsorgssenter, avdeling administrasjon, kontorlokaler",
+    "address": "Storgaten 11",
+    "city": "Hønefoss",
+    "region": "05 - Øst"
+  },
+  {
+    "property_id": "69e731c0-8904-4aae-91ef-f0d88e2c8a3b",
+    "name": "Familievernskontoret Homansbyen",
+    "address": "Oscarsgate 20",
+    "city": "Oslo",
+    "region": "05 - Øst"
+  },
+  {
+    "property_id": "b2ba1c69-dd50-4b53-82a5-77e8a6e6a80c",
+    "name": "Kirkenær barnevern og omsorgssenter - Frigg og Frydenlund",
+    "address": "Snorres veg 2",
+    "city": "Kirkenær",
+    "region": "05 - Øst"
+  },
+  {
+    "property_id": "b6490d6c-ae64-448d-8aa4-e097d1e64726",
+    "name": "Familievernkontoret Enerhaugen 2050103 Smedsgata 49, 0651 Oslo",
+    "address": "Familievernkontoret Enerhaugen 2050103 Smedsgata 49, 0651 Oslo",
+    "city": "Ukjent Sted",
+    "region": null
+  },
+  {
+    "property_id": "ba3dae73-2b99-4baa-9a34-926bdaf39266",
+    "name": "Behandlingssenter Akershus_Østfold, avdeling Østlund",
+    "address": "Stasjonsveien 16B",
+    "city": "Skjeberg",
+    "region": "05 - Øst"
+  },
+  {
+    "property_id": "7e9a90c3-299c-48cd-9c2b-d03d0f7e2921",
+    "name": "Husafjellheimen, familiehjem",
+    "address": "Husafjellheimen, familiehjem",
+    "city": "Ukjent Sted",
+    "region": null
+  },
+  {
+    "property_id": "b20baa66-fd7d-427e-86a0-ab377252971b",
+    "name": "Trøndelag behandlingssenter for ungdom",
+    "address": "Trøndelag behandlingssenter for ungdom",
+    "city": "Ukjent Sted",
+    "region": null
+  },
+  {
+    "property_id": "ba99fda4-1fe8-474e-9f12-50185f106199",
+    "name": "Skatval ungdomssenter 151006 Drift - Styrking og omstilling av statlige institusjoner",
+    "address": "Skatval ungdomssenter 151006 Drift - Styrking og omstilling av statlige institusjoner",
+    "city": "Ukjent Sted",
+    "region": null
+  },
+  {
+    "property_id": "c4fb6d65-3a8c-4ab0-b9bf-628a66d21714",
+    "name": "MST Trøndelag Nord",
+    "address": "MST Trøndelag Nord",
+    "city": "Ukjent Sted",
+    "region": null
+  },
+  {
+    "property_id": "f9aae6e1-6509-426f-b7c4-6d96b08c269a",
+    "name": "Kollen ungdomsbase 53770 Utgifter som flg. av brann ved Kollen ungdomsbase",
+    "address": "Kollen ungdomsbase 53770 Utgifter som flg. av brann ved Kollen ungdomsbase",
+    "city": "Ukjent Sted",
+    "region": null
+  },
+  {
+    "property_id": "eec2c434-21c7-45a8-87d7-13a04f1479ee",
+    "name": "Buvika ungdomssenter",
+    "address": "Buvika ungdomssenter",
+    "city": "Ukjent Sted",
+    "region": null
+  },
+  {
+    "property_id": "0f7eb442-1b77-41df-ab6d-95997889ce85",
+    "name": "Avdelingsdirektør stab",
+    "address": "Avdelingsdirektør stab",
+    "city": "Ukjent Sted",
+    "region": null
+  },
+  {
+    "property_id": "55081092-6937-4c8d-8b04-3a2fd5574888",
+    "name": "Tverrfaglig helsekartlegging NABE 165114 Tverrfaglig helsekartlegging av barn i barnevernet",
+    "address": "Tverrfaglig helsekartlegging NABE 165114 Tverrfaglig helsekartlegging av barn i barnevernet",
+    "city": "Ukjent Sted",
+    "region": null
+  },
+  {
+    "property_id": "d0f2c476-35f7-467c-82a4-dab53cd35ef8",
+    "name": "Faggrupper i Hedmark, kontorlokaler",
+    "address": "Strandsagvegen 2 D",
+    "city": "Brumunddal",
+    "region": "05 - Øst"
+  },
+  {
+    "property_id": "36deb2f2-e506-4a6d-aa00-09d64040f628",
+    "name": "Fosterhjemstjenesten i Bufetat, region Midt-Norge, avd. Molde",
+    "address": "Fosterhjemstjenesten i Bufetat, region Midt-Norge, avd. Molde",
+    "city": "Ukjent Sted",
+    "region": null
+  },
+  {
+    "property_id": "1f37e69d-4ac5-4f99-84ef-8b937a71b980",
+    "name": "MST Sunnmøre",
+    "address": "MST Sunnmøre",
+    "city": "Ukjent Sted",
+    "region": null
+  },
+  {
+    "property_id": "04655bc1-1f12-49cc-ba67-4cd6580e2b26",
+    "name": "Nye Kvæfjord ungdomssenter Storheimen",
+    "address": "Nye Kvæfjord ungdomssenter Storheimen",
+    "city": "Ukjent Sted",
+    "region": null
+  },
+  {
+    "property_id": "1e98ece0-09f7-4706-9df3-62ea19b753db",
+    "name": "KUS SKM Omsorg for ungdom 64132 SKM-omsorg for ungdom",
+    "address": "KUS SKM Omsorg for ungdom 64132 SKM-omsorg for ungdom",
+    "city": "Ukjent Sted",
+    "region": null
+  },
+  {
+    "property_id": "5e6f9406-13aa-4851-acf0-1d65494c46b7",
+    "name": "Behandlingssenter Akershus_Østfold, avdeling Østheim",
+    "address": "Østheimveien 14",
+    "city": "Gamle Fredrikstad",
+    "region": "05 - Øst"
+  },
+  {
+    "property_id": "5f53f15b-75d1-4a58-9ee4-cc8dc9235d1e",
+    "name": "Justøy",
+    "address": "Justøyveien 493",
+    "city": "Brekkestø",
+    "region": "04 - Sør"
+  },
+  {
+    "property_id": "5faf51e4-ee99-4e65-bd0d-cfc5112f65c1",
+    "name": "Storgata 27/29",
+    "address": "Storgata 27/29",
+    "city": "Bodø",
+    "region": "01 - Nord"
+  },
+  {
+    "property_id": "61f7cbe6-8bc7-4f1a-926d-f2918fe5b32a",
+    "name": "Fosterhjemstjeneste Steinkjer, Inntak Steinkjer",
+    "address": "Bomveien 3",
+    "city": "Steinkjer",
+    "region": "02 - Midt-Norge"
+  },
+  {
+    "property_id": "bd8e5986-6b9c-4eb6-84ce-71ab40b28aa8",
+    "name": "Enhet for spesialiserte fosterhjem",
+    "address": "Enhet for spesialiserte fosterhjem",
+    "city": "Ukjent Sted",
+    "region": null
+  },
+  {
+    "property_id": "30e485e4-e6f6-4c96-a3a6-c2ad54dfc6ff",
+    "name": "Markens gate 35, 4612 Kristiansand",
+    "address": "Markens gate 35, 4612 Kristiansand",
+    "city": "Kristiansand",
+    "region": "SØR"
+  },
+  {
+    "property_id": "6244f17a-83ef-47ed-8007-8f13a9acd561",
+    "name": "Abel Meyers gate 10, 7800 Namsos, Norway",
+    "address": "Abel Meyers gate 10, 7800 Namsos, Norway",
+    "city": "7800 Namsos",
+    "region": "ØST"
+  },
+  {
+    "property_id": "6488a649-40d1-48a9-9454-a105d53094cb",
+    "name": "F4 ungdom - Bregnetunet 15",
+    "address": "Bregnetunet 15",
+    "city": "Førde",
+    "region": "03 - Vest"
+  },
+  {
+    "property_id": "1ec62784-735e-4689-bb04-14b21556e331",
+    "name": "Sollia barne- og ungdomssenter miljøavdeling",
+    "address": "Sollia barne- og ungdomssenter miljøavdeling",
+    "city": "Ukjent Sted",
+    "region": null
+  },
+  {
+    "property_id": "62d9cb9e-9145-4767-8c9f-153733d09514",
+    "name": "MST Mo i Rana",
+    "address": "MST Mo i Rana",
+    "city": "Ukjent Sted",
+    "region": null
+  },
+  {
+    "property_id": "669babb9-a9a8-4e25-a79b-dcc9de47233e",
+    "name": "Faggrupper i Ski, kontorlokaler",
+    "address": "Glynitveien 30",
+    "city": "Ski",
+    "region": "05 - Øst"
+  },
+  {
+    "property_id": "0b66c942-72c2-44ad-8f18-ecadf10bfa60",
+    "name": "Yttrabekken ungdomssenter administrasjon",
+    "address": "Yttrabekken ungdomssenter administrasjon",
+    "city": "Ukjent Sted",
+    "region": null
+  },
+  {
+    "property_id": "10f81e1c-a156-4edb-aa69-f562cff0ce82",
+    "name": "NASAK - Nasjonalt Samisk kompetansesenter",
+    "address": "NASAK - Nasjonalt Samisk kompetansesenter",
+    "city": "Ukjent Sted",
+    "region": null
+  },
+  {
+    "property_id": "635f9da4-5221-4d30-917c-5736a794131f",
+    "name": "Furene 8 - FVK Ålesund-Volda (avdelingskontor)",
+    "address": "Furene 8",
+    "city": "Volda",
+    "region": "02 - Midt-Norge"
+  },
+  {
+    "property_id": "68d87aa7-7e85-498c-b179-a5ac9924dbd1",
+    "name": "Katfoss",
+    "address": "Ilaugveien 1",
+    "city": "Geithus",
+    "region": "04 - Sør"
+  },
+  {
+    "property_id": "41e783b9-6ce0-4b9e-af09-db7eb48ba6dd",
+    "name": "Røvika Åsheim",
+    "address": "Røvika Åsheim",
+    "city": "Ukjent Sted",
+    "region": null
+  },
+  {
+    "property_id": "b681c339-42fe-4167-8449-c7cf2056e864",
+    "name": "Torget 7, 3210 Sandefjord. 3. etg. Hvaltorvet kjøpesenter. Velg inngangen til høyre for hovedinngang (Samme som Gokstad akademiet).",
+    "address": "Torget 7, 3210 Sandefjord. 3. etg. Hvaltorvet kjøpesenter. Velg inngangen til høyre for hovedinngang (Samme som Gokstad akademiet).",
+    "city": "Sandefjord",
+    "region": "VEST"
+  },
+  {
+    "property_id": "69cf49d2-8aec-4891-a745-7f5c2aaf03d3",
+    "name": "Regionkontoret, region øst,  lager 1.etg",
+    "address": "Kanalveien 18",
+    "city": "Lillestrøm",
+    "region": "05 - Øst"
+  },
+  {
+    "property_id": "ba0d83c1-d58c-4276-8216-bf71f24098cc",
+    "name": "Erik Børresen",
+    "address": "Wildhagensvei 17",
+    "city": "Drammen",
+    "region": "04 - Sør"
+  },
+  {
+    "property_id": "2404f507-4d3f-47aa-99c4-243854e53417",
+    "name": "Røvika ungdomssenter beredskapshjem 151003 Prosjektering og utvikling av eiendom/bygg",
+    "address": "Røvika ungdomssenter beredskapshjem 151003 Prosjektering og utvikling av eiendom/bygg",
+    "city": "Ukjent Sted",
+    "region": null
+  },
+  {
+    "property_id": "be5f4639-1eb9-4b55-a2d8-dbf48a74afdd",
+    "name": "Idrettsveien 7, 1400 Ski (Inngang via gågaten)",
+    "address": "Idrettsveien 7, 1400 Ski (Inngang via gågaten)",
+    "city": "Ski",
+    "region": "SØR"
+  },
+  {
+    "property_id": "c4beab2f-ee2d-4062-b341-076fa08f9832",
+    "name": "Test gate 1",
+    "address": "Test gate 1",
+    "city": "Oslo",
+    "region": null
+  },
+  {
+    "property_id": "3078ebeb-0fb7-4aed-a0b1-c328faef5bea",
+    "name": "Tromsø ungdomssenter 61900 Ombygging/flytting lokaler",
+    "address": "Tromsø ungdomssenter 61900 Ombygging/flytting lokaler",
+    "city": "Ukjent Sted",
+    "region": null
+  },
+  {
+    "property_id": "c984eedf-750a-4812-bf1d-e95df01b2e86",
+    "name": "Jernbanegata 11/13",
+    "address": "Jernbanegata 11/13",
+    "city": "Levanger",
+    "region": "ØST"
+  },
+  {
+    "property_id": "6a13fcb6-4370-4877-b7ce-9eba893d4703",
+    "name": "Barkåker",
+    "address": "Kantarellveien 25",
+    "city": "Barkåker",
+    "region": "04 - Sør"
+  },
+  {
+    "property_id": "67cd3aa1-374e-4312-9806-94a02a55da30",
+    "name": "Gilantunet ungdomshjem (Løpende avtale)",
+    "address": "Konstadlykkjvegen 55",
+    "city": "Gåsbakken",
+    "region": "02 - Midt-Norge"
+  },
+  {
+    "property_id": "cfefa540-32fb-4ec2-b8ee-b8d1d26c8cc2",
+    "name": "Bomvegen 3, 7725 Steinkjer, Norway",
+    "address": "Bomvegen 3, 7725 Steinkjer, Norway",
+    "city": "7725 Steinkjer",
+    "region": "ØST"
+  },
+  {
+    "property_id": "0df85cfd-f0b5-40ec-9656-2c92301c2c08",
+    "name": "F3 ungdom - Rødstokken 16",
+    "address": "Rødstokken 16",
+    "city": "Sogndal",
+    "region": "03 - Vest"
+  },
+  {
+    "property_id": "7733309b-9727-4a9a-a838-05f0223ee1b7",
+    "name": "Familievernkontoret Innlandet Vest - Gjøvik",
+    "address": "Storgata 10",
+    "city": "Gjøvik",
+    "region": "05 - Øst"
+  },
+  {
+    "property_id": "e7208f78-3968-415a-8dda-812a603c6ea2",
+    "name": "Test Gate 123",
+    "address": "Test Gate 123",
+    "city": "Oslo",
+    "region": null
+  },
+  {
+    "property_id": "0e731fac-20de-4545-a0a8-9088893e0197",
+    "name": "F3 ungdom - Aurdalslia 96",
+    "address": "Aurdalslia 96",
+    "city": "Sandsli",
+    "region": "03 - Vest"
+  },
+  {
+    "property_id": "e2f04201-2fab-4220-affd-7f19541f5ac7",
+    "name": "Tromsø familievernkontor 64525 SKM - Samtale med barn",
+    "address": "Tromsø familievernkontor 64525 SKM - Samtale med barn",
+    "city": "Ukjent Sted",
+    "region": null
+  },
+  {
+    "property_id": "eb6e8ac9-d578-48de-aefc-45fbf3bddc58",
+    "name": "Energiveien 14, 2069 Jessheim; Gågata 5, 2211 Kongsvinger",
+    "address": "Energiveien 14, 2069 Jessheim; Gågata 5, 2211 Kongsvinger",
+    "city": "Eidsvoll",
+    "region": "ØST"
+  },
+  {
+    "property_id": "ee81edd4-cd01-4147-bcfb-fa21a998ea81",
+    "name": "Storgata 12–14, 6413 Molde",
+    "address": "Storgata 12–14, 6413 Molde",
+    "city": "Molde",
+    "region": "VEST"
+  },
+  {
+    "property_id": "f80dfcb7-3b45-4b60-b921-f7435cc6e90f",
+    "name": "Postboks 2233, 3103 Tønsberg",
+    "address": "Postboks 2233, 3103 Tønsberg",
+    "city": "Tønsberg",
+    "region": "SØR"
+  },
+  {
+    "property_id": "fd471fc9-b152-4642-8ca9-9c98894b0366",
+    "name": "Test gate 1",
+    "address": "Test gate 1",
+    "city": "Oslo",
+    "region": null
+  },
+  {
+    "property_id": "316336fd-b5c2-46a1-8a06-dd75c4e3658a",
+    "name": "Gullhella - Team for tverrfaglig helsekartlegging 2050102 Elias Smiths vei 22-24, 1337 Sandvika",
+    "address": "Gullhella - Team for tverrfaglig helsekartlegging 2050102 Elias Smiths vei 22-24, 1337 Sandvika",
+    "city": "Ukjent Sted",
+    "region": null
+  },
+  {
+    "property_id": "84be5dd6-39f4-42f5-870c-0fb060a505b9",
+    "name": "FHT RN - adm 151015 Fag- og tiltaksstøtte til kommunene i oppfølging av fosterhjem",
+    "address": "FHT RN - adm 151015 Fag- og tiltaksstøtte til kommunene i oppfølging av fosterhjem",
+    "city": "Ukjent Sted",
+    "region": null
+  },
+  {
+    "property_id": "f0ad275d-3de4-4265-9697-ac76c3792839",
+    "name": "Bodø behandlingssenter adm 151014 Pilot- ny innreting av institusjonstilbudet",
+    "address": "Bodø behandlingssenter adm 151014 Pilot- ny innreting av institusjonstilbudet",
+    "city": "Ukjent Sted",
+    "region": null
+  },
+  {
+    "property_id": "6dd0e073-2d6e-4e8a-94c1-78c334d9a300",
+    "name": "Hedmark ungdoms- og familiesenter - akutt Avdeling Disen 2050191 Just Brochs gate 13, 2321 Hamar",
+    "address": "Hedmark ungdoms- og familiesenter - akutt Avdeling Disen 2050191 Just Brochs gate 13, 2321 Hamar",
+    "city": "Ukjent Sted",
+    "region": null
+  },
+  {
+    "property_id": "6a1df674-30ef-46f8-beca-2d73f8e52de6",
+    "name": "Familievernkontoret Oslo Nord",
+    "address": "Kabelgata 2",
+    "city": "Oslo",
+    "region": "05 - Øst"
+  },
+  {
+    "property_id": "437d3421-5528-4f02-889a-a63e7b24648d",
+    "name": "F2 foreldre/barn - Svanehaugvegen 3",
+    "address": "Svanehaugvegen 3",
+    "city": "Førde",
+    "region": "03 - Vest"
+  },
+  {
+    "property_id": "73f6bf00-74c3-4fe1-85db-926314a19daf",
+    "name": "Røvika Ungdomssenter",
+    "address": "Røvikveien 21",
+    "city": "Fauske",
+    "region": "01 - Nord"
+  },
+  {
+    "property_id": "6fe1c7f7-6f11-4d46-b8e4-b8ccb72f0a05",
+    "name": "Fosterhjemstjenesten Molde",
+    "address": "Storgata 12 - 14",
+    "city": "Molde",
+    "region": "02 - Midt-Norge"
+  },
+  {
+    "property_id": "73b6df61-584c-4409-9b8c-fb90166e9b18",
+    "name": "FVK, Regionkontoret, Inntak Alta",
+    "address": "Løkkeveien 33",
+    "city": "Alta",
+    "region": "01 - Nord"
+  },
+  {
+    "property_id": "0ecd1f71-6209-44c8-9b72-299ec676d64d",
+    "name": "Jong Ungdomssenter, avdeling Åsen",
+    "address": "Emma Hjortsvei 60",
+    "city": "Sandvika",
+    "region": "05 - Øst"
+  },
+  {
+    "property_id": "7f0b560f-87fa-4005-bc71-2b3a20ed50fd",
+    "name": "Borg barne- og familiesenter Administrasjon 2050173 Sundløkkaveien 73m, 1659 Torp",
+    "address": "Borg barne- og familiesenter Administrasjon 2050173 Sundløkkaveien 73m, 1659 Torp",
+    "city": "Ukjent Sted",
+    "region": null
+  },
+  {
+    "property_id": "13e95b86-75ed-4d2f-a5bb-e8d8be841f10",
+    "name": "Grøterød",
+    "address": "Geiteramsveien 81",
+    "city": "Larvik",
+    "region": "04 - Sør"
+  },
+  {
+    "property_id": "106ba3ae-43a5-41a2-b70a-184258aab3da",
+    "name": "Regionkontoret, region øst, kontorlokaler",
+    "address": "Tærudgata 16",
+    "city": "Lillestrøm",
+    "region": "05 - Øst"
+  },
+  {
+    "property_id": "15ed95a2-d040-4542-9e03-db4b0c08ce07",
+    "name": "Fosterhjemstjeneste avd. Ålesund, familievernkontoret Ålesund",
+    "address": "Langelandsveien 17",
+    "city": "Ålesund",
+    "region": "02 - Midt-Norge"
+  },
+  {
+    "property_id": "8b489d49-6241-4e77-8edf-3520abb85563",
+    "name": "Familievernkontoret Østfold, avdeling Fredrikstad",
+    "address": "Glemmengaten 55",
+    "city": "Fredrikstad",
+    "region": "05 - Øst"
+  },
+  {
+    "property_id": "9d50cecf-66b4-40a0-953a-2723b1080cc1",
+    "name": "Ringerike omsorgssenter, avdeling Solstrand",
+    "address": "Åsaveien 662",
+    "city": "Hønefoss",
+    "region": "05 - Øst"
+  },
+  {
+    "property_id": "1879b302-79e9-456a-9271-676e8c18514f",
+    "name": "F3 ungdom - Nybøvegen 24 - tomt - løpende avtale",
+    "address": "Nybøvegen 24",
+    "city": "Nesttun",
+    "region": "03 - Vest"
+  },
+  {
+    "property_id": "4de1dd3e-11e0-423f-b70a-a030c7fed348",
+    "name": "Toppen",
+    "address": "Kirkegårdsveien 25",
+    "city": "Arendal",
+    "region": "04 - Sør"
+  },
+  {
+    "property_id": "b2b42787-c89a-424c-8fd1-9c98b888d3a3",
+    "name": "Østfold  ungdoms- og familiesenter, avdeling Alfheim",
+    "address": "Alfheimvn 6",
+    "city": "Halden",
+    "region": "05 - Øst"
+  },
+  {
+    "property_id": "b879bb48-715b-4302-8b2c-2a896f75e066",
+    "name": "Behandlingssenter Akershus_Østfold, avdeling Kroerveien",
+    "address": "Kroerveien 9",
+    "city": "Vestby",
+    "region": "05 - Øst"
+  },
+  {
+    "property_id": "510115f9-2d7a-4485-801e-e50774e0c9ac",
+    "name": "Humla Akuttsenter",
+    "address": "Humla Akuttsenter",
+    "city": "Ukjent Sted",
+    "region": null
+  },
+  {
+    "property_id": "015317c0-a78a-4911-bd83-cc5fcd36481a",
+    "name": "Ranheim Vestre",
+    "address": "Ranheim Vestre",
+    "city": "Ukjent Sted",
+    "region": null
+  },
+  {
+    "property_id": "d126bf19-3050-4584-b129-cfcc00d9b729",
+    "name": "Østfold  ungdoms- og familiesenter, avdeling Kurland",
+    "address": "Kurlandveien 12",
+    "city": "Sarpsborg",
+    "region": "05 - Øst"
+  },
+  {
+    "property_id": "d2614545-e50f-4834-a12e-a76f470dfd3e",
+    "name": "Familievernkontoret Lillestrøm",
+    "address": "Torget 6",
+    "city": "Lillestrøm",
+    "region": "05 - Øst"
+  },
+  {
+    "property_id": "e0322a67-d654-4182-b480-d72519610c6b",
+    "name": "Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050110 Torget 6, 2000 Lillestrøm",
+    "address": "Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050110 Torget 6, 2000 Lillestrøm",
+    "city": "Ukjent Sted",
+    "region": null
+  },
+  {
+    "property_id": "eb839aa2-81ad-4369-98cd-4da17c380919",
+    "name": "Familievernkontoret Østfold, avdeling Moss",
+    "address": "Henrik Gerners gate 14",
+    "city": "Moss",
+    "region": "05 - Øst"
+  },
+  {
+    "property_id": "4b05e4a4-4552-4aa7-bef8-00e2bb510578",
+    "name": "Humla Akuttsenter",
+    "address": "Humlevegen 92",
+    "city": "Ålesund",
+    "region": "02 - Midt-Norge"
+  },
+  {
+    "property_id": "61046054-0d05-4883-bac5-60210c3f31f1",
+    "name": "Vikhovlia, beredskapshjem",
+    "address": "Vikhovlia, beredskapshjem",
+    "city": "Ukjent Sted",
+    "region": null
+  },
+  {
+    "property_id": "65ebf603-ecaf-4f0e-a8a9-4934e85fe673",
+    "name": "Vikhovlia akuttsenter",
+    "address": "Vikhovlia 1400",
+    "city": "Vikhammer",
+    "region": "02 - Midt-Norge"
+  },
+  {
+    "property_id": "89cb09cc-6c8d-4ba0-ab6c-128e3ff80d10",
+    "name": "Karienborg, familiehjem 53910 Ekstra innkjøp ut over årets plan",
+    "address": "Karienborg, familiehjem 53910 Ekstra innkjøp ut over årets plan",
+    "city": "Ukjent Sted",
+    "region": null
+  },
+  {
+    "property_id": "9589483b-5cbc-4319-8a69-d36b4b61648d",
+    "name": "Regionkontor felleskostnader",
+    "address": "Regionkontor felleskostnader",
+    "city": "Ukjent Sted",
+    "region": null
+  },
+  {
+    "property_id": "9f5e7377-fd26-431d-aacb-1c598080b490",
+    "name": "Familievern-kontoret i Levanger",
+    "address": "Jernbanegata 11/13",
+    "city": "Levanger",
+    "region": "02 - Midt-Norge"
+  },
+  {
+    "property_id": "d2dc18bd-7375-4900-a814-28fe95a418cd",
+    "name": "Sunnmørsheimen akuttinstitusjon, avd. Klatrevegen",
+    "address": "Sunnmørsheimen akuttinstitusjon, avd. Klatrevegen",
+    "city": "Ukjent Sted",
+    "region": null
+  },
+  {
+    "property_id": "0ea64fa1-e94e-4366-b080-3cd2b5c05575",
+    "name": "F3 ungdom - Sandbrekkevegen 27 - bygg F",
+    "address": "Sandbrekkevegen 27",
+    "city": "Paradis",
+    "region": "03 - Vest"
+  },
+  {
+    "property_id": "2c1ee457-e5c8-4aef-98e5-27afe9038655",
+    "name": "Bufetat - Jåttåvågveien 10",
+    "address": "Jåttåvågveien 10",
+    "city": "Stavanger",
+    "region": "03 - Vest"
+  },
+  {
+    "property_id": "2d09b733-558a-4568-8280-8c9f1d84fe12",
+    "name": "F1 akutt - Marknesringen 48",
+    "address": "Marknesringen 48",
+    "city": "Røyneberg",
+    "region": "03 - Vest"
+  },
+  {
+    "property_id": "3795ea00-f711-4066-aafd-3a4ca98312bd",
+    "name": "Jong Ungdomshjem, hybel i Horniveien",
+    "address": "Horniveien 100",
+    "city": "Vøyenenga",
+    "region": null
+  },
+  {
+    "property_id": "4cd2f350-cfd5-4c56-9923-1827ef3e323c",
+    "name": "Åsvangveien 2A - Trøndelag Behandlingssenter Moholt",
+    "address": "Åsvangveien 2A",
+    "city": "Trondheim",
+    "region": "02 - Midt-Norge"
+  },
+  {
+    "property_id": "75999607-457c-45ef-9aa2-96fd7b9b3733",
+    "name": "FVK, FHT, beredskapshjem, FIT Hammerfest",
+    "address": "Sørøygt 10",
+    "city": "Hammerfest",
+    "region": "01 - Nord"
+  },
+  {
+    "property_id": "76e95bf1-4abd-45cf-bd2a-69f0419f325b",
+    "name": "F3 ungdom - Lindøy 9 - løpende avtale",
+    "address": "Lindøy 9 - ikke oppmålt",
+    "city": "Stavanger",
+    "region": "03 - Vest"
+  },
+  {
+    "property_id": "779c22b7-5036-4a21-9b9c-b27c98b1415c",
+    "name": "Tilleggskontrakt Viktoria",
+    "address": "Østmarkveien 26 D/E",
+    "city": "Trondheim",
+    "region": "02 - Midt-Norge"
+  },
+  {
+    "property_id": "4cf56eeb-af42-4a3c-9097-d10045c25921",
+    "name": "Storehagen 1B, 6800 Førde; Parkvegen 5,6856 Sogndal",
+    "address": "Storehagen 1B, 6800 Førde; Parkvegen 5,6856 Sogndal",
+    "city": "Aurland",
+    "region": "VEST"
+  },
+  {
+    "property_id": "5058b3de-4da0-4ebb-a414-83bab9107a2c",
+    "name": "Alta Ungdomssenter",
+    "address": "Strandvn 6",
+    "city": "Alta",
+    "region": "01 - Nord"
+  },
+  {
+    "property_id": "78c43d14-5d08-4b69-a5ab-cd08ab612a07",
+    "name": "ESF, FHT, RK, beredkapshjem Tromsø",
+    "address": "Storgata 70",
+    "city": "Tromsø",
+    "region": "01 - Nord"
+  },
+  {
+    "property_id": "7adb0a72-abcf-4071-afc7-993d9c7df339",
+    "name": "F3 ungdom - Lokketomarka 24",
+    "address": "Lokketomarka 24",
+    "city": "Mjølkeråen",
+    "region": "03 - Vest"
+  },
+  {
+    "property_id": "7d860aca-7f0c-4769-8962-87d5272568ee",
+    "name": "Lamo Ungdomssenter, tilleggskontrakt ombygging familieleilighet",
+    "address": "Eideveien 168",
+    "city": "Sjøvegan",
+    "region": "01 - Nord"
+  },
+  {
+    "property_id": "7a7883fc-65be-43c3-a7b0-6b44cd5bf297",
+    "name": "Kirkenær barnevern og omsorgssenter",
+    "address": "Energivegen 13",
+    "city": "Kirkenær",
+    "region": "05 - Øst"
+  },
+  {
+    "property_id": "3796a477-8f10-4ae5-8ecb-ae3fe5b135ea",
+    "name": "Storgata 31, 8370 Leknes",
+    "address": "Storgata 31",
+    "city": "Leknes",
+    "region": "01 - Nord"
+  },
+  {
+    "property_id": "506efb35-028d-4786-8622-43e73fa91e33",
+    "name": "Ole Tobias Olsens gate 19",
+    "address": "Ole Tobias Olsens gate 19",
+    "city": "Mo I Rana",
+    "region": "01 - Nord"
+  },
+  {
+    "property_id": "7fe4b0c7-a2c2-4299-b14e-9386f28f101c",
+    "name": "Innlandet barnevernsenter",
+    "address": "Øverbyveien 104",
+    "city": "Gjøvik",
+    "region": "05 - Øst"
+  },
+  {
+    "property_id": "81a8b47d-c65f-41ac-b3b6-a36bc1528f09",
+    "name": "Østfold ungdoms- og familiesenter - enetiltak behandling høy",
+    "address": "Hovdenveien 159",
+    "city": "Sarpsborg",
+    "region": "05 - Øst"
+  },
+  {
+    "property_id": "8788865f-6ff6-4508-bf8f-e3a6c5860b21",
+    "name": "F3 ungdom - Flatøyvegen 45",
+    "address": "Flatøyvegen 45",
+    "city": "Frekhaug",
+    "region": "03 - Vest"
+  },
+  {
+    "property_id": "8a40358b-38db-4c61-863f-0ce8d9fecf4d",
+    "name": "Bufetat Trondheim",
+    "address": "Havnegata 9",
+    "city": "Trondheim",
+    "region": "02 - Midt-Norge"
+  },
+  {
+    "property_id": "861d16cb-5c0d-4776-998f-510d428c4cf3",
+    "name": "Familievernkontoret Innlandet Øst, avdeling Hamar",
+    "address": "Vangsvegen 121",
+    "city": "Hamar",
+    "region": "05 - Øst"
+  },
+  {
+    "property_id": "8c06c21a-98bb-46d5-ab3b-c96fa32e11b3",
+    "name": "F1 akutt - Nedre Nattland 69",
+    "address": "Nedre Nattland 69",
+    "city": "Bergen",
+    "region": "03 - Vest"
+  },
+  {
+    "property_id": "8e345660-edf1-4e6f-95d3-e703d5c66899",
+    "name": "Håkonsgate 4, Harstad",
+    "address": "Håkonsgt 4",
+    "city": "Harstad",
+    "region": "01 - Nord"
+  },
+  {
+    "property_id": "8e533686-f65a-49d5-9970-e54cf02852c8",
+    "name": "Familievernkontoret Asker og Bærum",
+    "address": "Elias Smiths vei 22-24",
+    "city": "Sandvika",
+    "region": "05 - Øst"
+  },
+  {
+    "property_id": "a14ad930-de5c-4e70-b5b5-ca92c284ed8f",
+    "name": "Storgata 12, 14, 6413 Molde, Norway",
+    "address": "Storgata 12, 14, 6413 Molde, Norway",
+    "city": "6413 Molde",
+    "region": "VEST"
+  },
+  {
+    "property_id": "900d0761-85e8-4375-b0cc-971410cde4c9",
+    "name": "F4 ungdom - Bønesskogen 333",
+    "address": "Bønesskogen 333",
+    "city": "Bønes",
+    "region": "03 - Vest"
+  },
+  {
+    "property_id": "90ad3c11-c11e-4e02-b597-013059eeafe6",
+    "name": "F3 barn - Skjoldvegen 51",
+    "address": "Skjoldvegen 51",
+    "city": "Nesttun",
+    "region": "03 - Vest"
+  },
+  {
+    "property_id": "569697c1-7944-4e5a-91b9-4b78f1ec2c24",
+    "name": "Skomrak",
+    "address": "Solheiveien 25",
+    "city": "Lyngdal",
+    "region": "04 - Sør"
+  },
+  {
+    "property_id": "90cb3ce0-b182-4687-bf66-d805c72bf797",
+    "name": "FVK, FHT, mf. Finnsnes",
+    "address": "Hans Karolius vei 6",
+    "city": "Finnsnes",
+    "region": "01 - Nord"
+  },
+  {
+    "property_id": "9524a24b-c585-4e9f-b221-f720386e0e77",
+    "name": "FVK, Lofoten og Vesterålen",
+    "address": "Markedsgt 20",
+    "city": "Stokmarknes",
+    "region": "01 - Nord"
+  },
+  {
+    "property_id": "9709f6a3-f573-415d-90a1-a2b51e093581",
+    "name": "Kindsåsveien 2, 3533 Tyristrand (aktiv fra høst 2025)",
+    "address": "Kindsåsveien 2",
+    "city": "Tyristrand",
+    "region": "05 - Øst"
+  },
+  {
+    "property_id": "962d845e-7ac8-41d3-ac61-6b234ba07176",
+    "name": "Vestfold Inntak, fosterhjem, familiehjem, bfs 3.etg",
+    "address": "Anton Jenssens gate 2",
+    "city": "Tønsberg",
+    "region": "04 - Sør"
+  },
+  {
+    "property_id": "38f32174-66ec-4eaf-8211-d6d4c63b539a",
+    "name": "Lierfoss ungdoms- og familiesenter, avd Riserhagen",
+    "address": "Riserveien 40A/B",
+    "city": "Aurskog",
+    "region": "05 - Øst"
+  },
+  {
+    "property_id": "98783cfb-08f0-42a2-b154-3ebd9003c875",
+    "name": "Faggrupper i Sarpsborg, kontorlokaler",
+    "address": "Sundløkkaveien 73",
+    "city": "Torp",
+    "region": "05 - Øst"
+  },
+  {
+    "property_id": "991f5a5a-9386-4216-b4c0-4ea9a4965257",
+    "name": "Familievernkontoret Enerhaugen (Grønlandsleiret)",
+    "address": "Grønlandsleiret 25",
+    "city": "Oslo",
+    "region": "05 - Øst"
+  },
+  {
+    "property_id": "9ca9c967-2c0e-4a0d-b177-9de7f3090910",
+    "name": "Islandsbotnveien 35 (Silsand ungdomssenter)",
+    "address": "Islandsbotnveien 35",
+    "city": "Silsand",
+    "region": "01 - Nord"
+  },
+  {
+    "property_id": "9d59d991-6e11-4d33-ba29-59227971185b",
+    "name": "Bufetathus Drammen",
+    "address": "Grønland 68",
+    "city": "Drammen",
+    "region": "04 - Sør"
+  },
+  {
+    "property_id": "9eb5c246-434d-4a2a-abb8-71dd14a835f6",
+    "name": "ESF, FHT, RK Vadsø",
+    "address": "Grensen 7",
+    "city": "Vadsø",
+    "region": "01 - Nord"
+  },
+  {
+    "property_id": "5771d426-00ff-4a9b-a5e4-ecdbafb44c74",
+    "name": "F3 ungdom - Sophus Lie-vegen 9 - nytt bygg",
+    "address": "Sophus Lie-vegen 9",
+    "city": "Nordfjordeid",
+    "region": "03 - Vest"
+  },
+  {
+    "property_id": "9fb97856-4469-4895-aece-bd183cad4a18",
+    "name": "Bufdir Helsfyr",
+    "address": "Fredrik Selmers vei 3",
+    "city": "Oslo",
+    "region": "06 - Bufdir"
+  },
+  {
+    "property_id": "a1b6459e-7559-40db-a68d-a42b359a6f53",
+    "name": "Familievernkontoret Innlandet Øst, avdeling Tynset",
+    "address": "Aumliveien 4C",
+    "city": "Tynset",
+    "region": "05 - Øst"
+  },
+  {
+    "property_id": "a37069f0-ee78-465f-b216-01a2c9980350",
+    "name": "F2 foreldre/barn - Feråsvegen 13 - vedlikehold - løpende avtale",
+    "address": "Feråsvegen 13",
+    "city": "Søreidgrend",
+    "region": "03 - Vest"
+  },
+  {
+    "property_id": "a6f09311-43c7-41d8-855e-649bd5d18060",
+    "name": "Husafjellheimen",
+    "address": "Husafjellet 6",
+    "city": "Ålesund",
+    "region": "02 - Midt-Norge"
+  },
+  {
+    "property_id": "a744ecf0-19e9-48fc-bea4-53e72f16de62",
+    "name": "F2 familie - Røldalsvegen 2 - løpende avtale",
+    "address": "Røldalsvegen 2",
+    "city": "Odda",
+    "region": "03 - Vest"
+  },
+  {
+    "property_id": "a7f1b6f0-a7b3-43e4-afa2-0ee8bd4df640",
+    "name": "F2 foreldre/barn - Torleiv Kvalviks gate 9",
+    "address": "Torleiv Kvalviks gate 9",
+    "city": "Stavanger",
+    "region": "03 - Vest"
+  },
+  {
+    "property_id": "a61852c4-cb4e-48e3-bd3b-9ccf6618553e",
+    "name": "Lierfoss ungdoms- og familiesenter, avdeling Autentoppen, Berglia, Furulia",
+    "address": "Liaveien 2",
+    "city": "Aurskog",
+    "region": "05 - Øst"
+  },
+  {
+    "property_id": "ab5b3506-f3d8-4b03-92ff-12c52447a3b5",
+    "name": "FVK, Lofoten og Vesterålen (Aktiv fra 01.05.2026)",
+    "address": "Nordnesveien 3",
+    "city": "Stokmarknes",
+    "region": "01 - Nord"
+  },
+  {
+    "property_id": "aabffb73-973b-432c-b54c-0a3b9d4db41d",
+    "name": "MERGED -> MERGED - Master Property - Horniveien 100",
+    "address": "Horniveien 100",
+    "city": "Vøyenenga",
+    "region": "05 - Øst"
+  },
+  {
+    "property_id": "b21a0faa-b2dc-4e38-a476-b32af6edfd0d",
+    "name": "Tromsø Ungdomssenter",
+    "address": "Håkøyvn 339",
+    "city": "Kvaløysletta",
+    "region": "01 - Nord"
+  },
+  {
+    "property_id": "b1789aa4-1b23-4798-adc3-7e15ccb4f826",
+    "name": "Sundstedtråkka ungdomssenter akutt",
+    "address": "Storgaten 62-64",
+    "city": "Hokksund",
+    "region": "04 - Sør"
+  },
+  {
+    "property_id": "af45d6c9-8361-4e24-b28e-34b1d59013f9",
+    "name": "Gulhella barne- og familiesenter",
+    "address": "Korpåsen 172",
+    "city": "Asker",
+    "region": "05 - Øst"
+  },
+  {
+    "property_id": "b28e3e84-40ab-4b6b-86eb-3885fa78f325",
+    "name": "Bufetathus Kristiansand",
+    "address": "Tordenskjoldsgt. 65",
+    "city": "Kristiansand S",
+    "region": "04 - Sør"
+  },
+  {
+    "property_id": "b318c535-d78f-4c2d-9756-e7c46e199b38",
+    "name": "Østfold ungdoms- og familiesenter, avdeling Fossen",
+    "address": "Skolegata 53",
+    "city": "Sarpsborg",
+    "region": "05 - Øst"
+  },
+  {
+    "property_id": "b38a8cf1-5906-4dd8-be93-e709d30f35bd",
+    "name": "Kirkenær barnevern og omsorgssenter, leilighet",
+    "address": "Veslekila 3A",
+    "city": "Kirkenær",
+    "region": "05 - Øst"
+  },
+  {
+    "property_id": "b75fccec-5a50-4b13-b789-2684d0cf700a",
+    "name": "Lierfoss ungdoms- og familiesenter, hytte Bjørndalen",
+    "address": "Bjørndalsvegen 178",
+    "city": "Aurskog",
+    "region": "05 - Øst"
+  },
+  {
+    "property_id": "b505be3a-f588-4816-ab80-7ff400018b10",
+    "name": "Hedmark ungdoms- og familiesenter, avdeling Disen",
+    "address": "Just Brochs gate 13",
+    "city": "Hamar",
+    "region": "05 - Øst"
+  },
+  {
+    "property_id": "b9b61e0b-0418-4bfb-b515-0f4a4b1e0e3e",
+    "name": "FHT, kontorsted Sandnessjøen (Aktiv fra 01.01.2026)",
+    "address": "Torolv Kveldulvsonsgt 39",
+    "city": "Sandnessjøen",
+    "region": "01 - Nord"
+  },
+  {
+    "property_id": "3a7e5945-5370-4304-a749-8b6db4364a8d",
+    "name": "Familievernkontoret Østfold avdeling Askim",
+    "address": "Rådhusgata 16",
+    "city": "Askim",
+    "region": "05 - Øst"
+  },
+  {
+    "property_id": "bdfd9b9f-0b4c-415a-8ec0-b089ab160e32",
+    "name": "Sunnmørsheimen avd Klatrevegen",
+    "address": "Klatrevegen 2",
+    "city": "Volda",
+    "region": "02 - Midt-Norge"
+  },
+  {
+    "property_id": "bb867dea-a90b-4952-bd80-1b29f094d1ec",
+    "name": "Behandlingssenter Akershus_Østfold, hytter Hærland",
+    "address": "Lundebyveien 363",
+    "city": "Hærland",
+    "region": "05 - Øst"
+  },
+  {
+    "property_id": "6916f84b-3810-413d-b8f0-71909c1c076d",
+    "name": "Thorøyaveien 1",
+    "address": "Thorøyaveien 1",
+    "city": "Sandefjord",
+    "region": "04 - Sør"
+  },
+  {
+    "property_id": "6be94bfd-647d-4f77-9b63-f23dee64db81",
+    "name": "Kirkenær barnevern og omsorgssenter - Balder",
+    "address": "Jernbaneveien 70",
+    "city": "Kirkenær",
+    "region": "05 - Øst"
+  },
+  {
+    "property_id": "7aa3bb39-e50b-4293-afe0-f89ccd2a2ed4",
+    "name": "Kvammen Gård",
+    "address": "Hølondvegen 311",
+    "city": "Melhus",
+    "region": "02 - Midt-Norge"
+  },
+  {
+    "property_id": "8634ef17-d9da-4f01-9624-f7d8e6d003f3",
+    "name": "Furuly",
+    "address": "Fridtjof Nansensvei 12",
+    "city": "Mandal",
+    "region": "04 - Sør"
+  },
+  {
+    "property_id": "8d55531c-8ea7-4188-93c8-f66030a290e1",
+    "name": "Bufetat - Haraldsgata 94",
+    "address": "Haraldsgata 94",
+    "city": "Haugesund",
+    "region": "03 - Vest"
+  },
+  {
+    "property_id": "8f71ea85-a755-4e1c-9aa5-342bb606fd1e",
+    "name": "Ringerike omsorgssenter, avdeling Snyta",
+    "address": "Askveien 132",
+    "city": "Hønefoss",
+    "region": "05 - Øst"
+  },
+  {
+    "property_id": "c85e918b-f11e-4cf6-8676-4019ea468e9a",
+    "name": "Kvæfjord Ungdomssenter",
+    "address": "Heimlyvn 5",
+    "city": "Borkenes",
+    "region": "01 - Nord"
+  },
+  {
+    "property_id": "c50493b0-5174-4a8e-b10e-7438be552e49",
+    "name": "Spillumheimen ungdomsheim (legges ut for salg medio mars 2025)",
+    "address": "Grønlihøgda 24",
+    "city": "Spillum",
+    "region": "02 - Midt-Norge"
+  },
+  {
+    "property_id": "c57eb087-c507-4de6-a58c-7a4f19e1573c",
+    "name": "Fosterhjemstjenesten Innlandet, kontorlokaler",
+    "address": "Storgata 56-58",
+    "city": "Lillehammer",
+    "region": "05 - Øst"
+  },
+  {
+    "property_id": "c7bdfbca-96f7-4e39-9dd7-f24b4fe4e987",
+    "name": "F2 familie - Uttrågata 36",
+    "address": "Uttrågata 36",
+    "city": "Voss",
+    "region": "03 - Vest"
+  },
+  {
+    "property_id": "c5c27704-7da9-498e-b878-1b0a877f4d82",
+    "name": "Jong Ungdomssenter, avdeling Kollen",
+    "address": "Tokerudkollen 31-33",
+    "city": "Sandvika",
+    "region": "05 - Øst"
+  },
+  {
+    "property_id": "c97a8d45-81b8-4ea9-b90c-ebc0a6233d25",
+    "name": "ST Hansgården",
+    "address": "Bispegra 52",
+    "city": "Kristiansand S",
+    "region": "04 - Sør"
+  },
+  {
+    "property_id": "cb98497e-2a0d-4e6d-856e-fa41af5ec7cd",
+    "name": "Bodø Behandlingssenter",
+    "address": "Rønvikvn 9A,C",
+    "city": "Bodø",
+    "region": "01 - Nord"
+  },
+  {
+    "property_id": "cd18f64c-3867-48b5-ac31-8d5fb6b2ae27",
+    "name": "Forbordsfjellvegen 119 - Skatval ungdomssenter",
+    "address": "Forbordsfjellvegen 119",
+    "city": "Skatval",
+    "region": "02 - Midt-Norge"
+  },
+  {
+    "property_id": "cec31434-c367-4394-a775-fd899ad9452c",
+    "name": "Nordsetvegen 227 (Oppstart antatt 01.04.2026)",
+    "address": "Nordsetvegen 227",
+    "city": "Reinsvoll",
+    "region": "05 - Øst"
+  },
+  {
+    "property_id": "cf7c936e-29f7-4c5e-a00a-30bb5a149bbc",
+    "name": "Behandlingssenter Akershus_Østfold, avdeling Ås",
+    "address": "Solfallsveien 27",
+    "city": "Ås",
+    "region": "05 - Øst"
+  },
+  {
+    "property_id": "cf92e0a7-aa57-4efc-bf01-bb615b2ec17b",
+    "name": "Kirkenær barnevern og omsorgssenter - Furubo",
+    "address": "Energivegen 17",
+    "city": "Kirkenær",
+    "region": "05 - Øst"
+  },
+  {
+    "property_id": "d0efd3dd-c040-4303-a4b2-8f490a4bb066",
+    "name": "Klokkerhuset",
+    "address": "Ulefossveien 53",
+    "city": "Skien",
+    "region": "04 - Sør"
+  },
+  {
+    "property_id": "d12db898-1937-4744-830c-9a647a3a19c8",
+    "name": "Solerødveien 50",
+    "address": "Solerødveien 50",
+    "city": "Skoppum",
+    "region": "04 - Sør"
+  },
+  {
+    "property_id": "d0403672-4b77-489e-bf45-11ee38f3b937",
+    "name": "Sunnmørsheimen avd Nygardsvegen",
+    "address": "Nygardsvegen 2 og 4",
+    "city": "Volda",
+    "region": "02 - Midt-Norge"
+  },
+  {
+    "property_id": "e6835592-bd51-48d4-b172-ce753cc5a96c",
+    "name": "Akershus ungdoms- og familiesenter, avdeling Bjørlien",
+    "address": "Bjørlistubben 14",
+    "city": "Vestby",
+    "region": "05 - Øst"
+  },
+  {
+    "property_id": "dae7396c-033d-417e-9aa1-8b9abb72abcf",
+    "name": "Miljøheimen",
+    "address": "Haugetuft 16-18",
+    "city": "Vinje",
+    "region": "04 - Sør"
+  },
+  {
+    "property_id": "e6038036-1c73-4d29-a3a0-1e1c2731a196",
+    "name": "Bodø ungdomssenter",
+    "address": "Skoleveien 9",
+    "city": "Bodø",
+    "region": "01 - Nord"
+  },
+  {
+    "property_id": "e6f3a657-2683-4ff6-afca-392ff52d52df",
+    "name": "Ringerike omsorgssenter, avdeling Ramsrud",
+    "address": "Ramsrudveien 32",
+    "city": "Hønefoss",
+    "region": "05 - Øst"
+  },
+  {
+    "property_id": "e75f3fc5-5e86-40dc-a0c8-eef70a282a65",
+    "name": "Stjørdal ungdomssenter",
+    "address": "Kirkeveien 33",
+    "city": "Stjørdal",
+    "region": "02 - Midt-Norge"
+  },
+  {
+    "property_id": "ec1731d3-7286-4369-8595-1ac42eb7c20b",
+    "name": "FVK, kontorsted Narvik",
+    "address": "Kongens gate 51-55",
+    "city": "Narvik",
+    "region": "01 - Nord"
+  },
+  {
+    "property_id": "ec3e2f14-d771-4341-982d-9519e7803f7f",
+    "name": "Kvammen akuttsenter, avd Fannrem",
+    "address": "Ljåmovein 10",
+    "city": "Fannrem",
+    "region": "02 - Midt-Norge"
+  },
+  {
+    "property_id": "c7324dd7-98b2-4d89-b02c-6e256eb21ba7",
+    "name": "Thorøya",
+    "address": "Thorøyaveien 5",
+    "city": "Sandefjord",
+    "region": "04 - Sør"
+  },
+  {
+    "property_id": "ecb01a19-b12e-4c35-9b25-a814c21a2e8a",
+    "name": "F3 barn - Haugane 15",
+    "address": "Haugane 15",
+    "city": "Søfteland",
+    "region": "03 - Vest"
+  },
+  {
+    "property_id": "ef81208f-5705-478f-9446-732688796a54",
+    "name": "Clausenengen ungdomshjem",
+    "address": "Kvalvågveien 113",
+    "city": "Frei",
+    "region": "02 - Midt-Norge"
+  },
+  {
+    "property_id": "d25db1ab-29fc-492e-a1d5-e8a035001c14",
+    "name": "Østfold  ungdoms- og familiesenter, avdeling Eika og Rokkeveien",
+    "address": "Rokkeveien 502",
+    "city": "Halden",
+    "region": "05 - Øst"
+  },
+  {
+    "property_id": "dcd78849-d2e9-408e-8776-c88f77ef7f27",
+    "name": "Familievern-kontoret i Namsos",
+    "address": "Abel Meyers gate 10",
+    "city": "Namsos",
+    "region": "02 - Midt-Norge"
+  },
+  {
+    "property_id": "e7c6c442-c53f-405e-804d-72571cfdbf1b",
+    "name": "F2 familie - Parkvegen 5",
+    "address": "Parkvegen 5",
+    "city": "Sogndal",
+    "region": "03 - Vest"
+  },
+  {
+    "property_id": "f31c4a58-5850-43cc-b019-b98394a5c5f5",
+    "name": "Kirkenær barnevern- og omsorgssenter - Edda",
+    "address": "Veslekila 1",
+    "city": "Kirkenær",
+    "region": "05 - Øst"
+  },
+  {
+    "property_id": "f89a39a6-6538-4b24-972d-c79a822cd39b",
+    "name": "Skjerven - Leilighetsbygget",
+    "address": "Damtjernveien 598",
+    "city": "Svarstad",
+    "region": "04 - Sør"
+  },
+  {
+    "property_id": "f6b8b4bf-1426-4917-9cda-2ef47611b68e",
+    "name": "Østfold  ungdoms- og familiesenter - Hybel",
+    "address": "Stenliveien 7",
+    "city": "Halden",
+    "region": "05 - Øst"
+  },
+  {
+    "property_id": "fbd69788-c032-4a45-a650-e44310c99908",
+    "name": "Bufdir Tønsberg",
+    "address": "Anton Jensens gt. 5",
+    "city": "Tønsberg",
+    "region": "06 - Bufdir"
+  },
+  {
+    "property_id": "f7b306b4-1617-479c-8c25-32cf566eaadc",
+    "name": "Familievernkontoret Innlandet Vest, avdeling Lillehammer",
+    "address": "Nymosvingen 6",
+    "city": "Lillehammer",
+    "region": "05 - Øst"
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "property_id": "a2d3ee33-f2e4-4525-8d47-925fbfe4d821",
+    "address": "Alfheimvn 6",
+    "city": "HALDEN"
+  },
+  {
+    "property_id": "93ccbcdb-5d45-4604-b702-6f748d669329",
+    "address": "Anton Jensens gt. 5",
+    "city": "TØNSBERG"
+  },
+  {
+    "property_id": "414bdc29-127d-4f77-8a93-e10f4c552e95",
+    "address": "Åsvangveien 2A",
+    "city": "TRONDHEIM"
+  },
+  {
+    "property_id": "4643807b-915b-4b35-bb4a-1ca1eb8ee2f9",
+    "address": "Bastian Withs gt 11",
+    "city": "MOLDE"
+  },
+  {
+    "property_id": "ea0c6516-c284-422c-9b65-e030aa7d1a58",
+    "address": "Dr. Thorshaugsveg 8",
+    "city": "STANGE"
+  },
+  {
+    "property_id": "91a76803-c9a1-40ce-8df0-b5bea1fd936a",
+    "address": "Egge gård",
+    "city": "HØNEFOSS"
+  },
+  {
+    "property_id": "a43ffccb-4d57-4082-b7f9-7433a3531a3c",
+    "address": "Elias Smiths vei 22-24",
+    "city": "SANDVIKA"
+  },
+  {
+    "property_id": "2a5e1655-696e-454e-ae68-fee47101a6ec",
+    "address": "Emma Hjortsvei 60",
+    "city": "SANDVIKA"
+  },
+  {
+    "property_id": "f77b5834-5e5f-4171-a6a4-7a587fbd7ca8",
+    "address": "Fitnodatgeaidnu 41-43",
+    "city": "KARASJOK"
+  },
+  {
+    "property_id": "69b4b796-e253-460b-9a78-7679576f7603",
+    "address": "Frænaveien 16",
+    "city": "MOLDE"
+  },
+  {
+    "property_id": "b723fbd9-d0fd-4f8f-8929-d00f85fcff89",
+    "address": "Fridtjof Nansensvei 12",
+    "city": "MANDAL"
+  },
+  {
+    "property_id": "9ca3a315-11e6-45a9-a3c3-589e6662de9b",
+    "address": "Frogsvei 21-25",
+    "city": "KONGSBERG"
+  },
+  {
+    "property_id": "b5de7cff-100a-400f-8662-844658d28367",
+    "address": "Håkonsgt 4",
+    "city": "HARSTAD"
+  },
+  {
+    "property_id": "e39e55b9-76ba-4165-a7ff-2cd6cb324143",
+    "address": "Håkøyvn 339",
+    "city": "KVALØYSLETTA"
+  },
+  {
+    "property_id": "ce49e57e-bccd-4359-8805-296cb37158bd",
+    "address": "Haugetuft 16-18",
+    "city": "VINJE"
+  },
+  {
+    "property_id": "df67f736-1ccd-4fb1-b689-023f1a177132",
+    "address": "Heimlyvn 5",
+    "city": "BORKENES"
+  },
+  {
+    "property_id": "00081f10-fa89-4d52-af07-f2b7dbe57cf7",
+    "address": "Henrik Gerners gate 14",
+    "city": "MOSS"
+  },
+  {
+    "property_id": "c2e24201-7b61-498e-96b0-225c48c2f8af",
+    "address": "Idrettsvn 5",
+    "city": "SORTLAND"
+  },
+  {
+    "property_id": "d686c38e-22f6-481f-ba9a-0261088b64f8",
+    "address": "Jernbanegata 11/13",
+    "city": "LEVANGER"
+  },
+  {
+    "property_id": "1d6a85cc-827e-417c-9c4a-b0581c901824",
+    "address": "Jernbaneveien 70",
+    "city": "KIRKENÆR"
+  },
+  {
+    "property_id": "35b95d69-6ebe-465b-8598-953d8a917339",
+    "address": "Kompani Lingesvei 23",
+    "city": "HAFRSFJORD"
+  },
+  {
+    "property_id": "f338aff5-a4c8-4239-8c99-f3e9682abc0e",
+    "address": "Kongens gate 51-55",
+    "city": "NARVIK"
+  },
+  {
+    "property_id": "3594d704-7e39-4fa7-9255-51c2654c7494",
+    "address": "Langelandsveien 17",
+    "city": "ÅLESUND"
+  },
+  {
+    "property_id": "6d29e122-7782-4709-9a3d-a0550c71f0d2",
+    "address": "Lindøy 9 - ikke oppmålt",
+    "city": "STAVANGER"
+  },
+  {
+    "property_id": "60571f11-e626-49b5-9fc1-dd852c4a1fdc",
+    "address": "Ljåmovein 10",
+    "city": "FANNREM"
+  },
+  {
+    "property_id": "f9cdf6ff-74e6-45c7-b382-aecd5dea68cd",
+    "address": "Markedsgt 20",
+    "city": "STOKMARKNES"
+  },
+  {
+    "property_id": "f8edb751-c3c8-41f2-a85f-a4921c5a06e0",
+    "address": "Nygardsvegen 2 og 4",
+    "city": "VOLDA"
+  },
+  {
+    "property_id": "b2713a9e-0aef-472a-a921-fa4844d960bb",
+    "address": "Okkenhaugveien 13B",
+    "city": "LEVANGER"
+  },
+  {
+    "property_id": "be083c31-bc5e-479b-9f16-b5688b5f12ba",
+    "address": "Østmarkveien 26 D/E",
+    "city": "TRONDHEIM"
+  },
+  {
+    "property_id": "884377b1-93fb-4734-9d9d-e8ed61bd5f62",
+    "address": "Peder Myhres vei 16",
+    "city": "RANHEIM"
+  },
+  {
+    "property_id": "ec1c9fc5-fda8-49c6-87a9-5064c304af3b",
+    "address": "Riserveien 40A/B",
+    "city": "AURSKOG"
+  },
+  {
+    "property_id": "00658fb2-21fd-48d2-a839-cc525e28afe2",
+    "address": "Rokkeveien 502",
+    "city": "HALDEN"
+  },
+  {
+    "property_id": "022fa3c0-9c3a-431c-a239-6dbf5d8f31c8",
+    "address": "Rønvikvn 9A,C",
+    "city": "BODØ"
+  },
+  {
+    "property_id": "ccac64bf-b0a0-429a-94d8-10b14058e322",
+    "address": "Schweigaardsgt 11",
+    "city": "SKIEN"
+  },
+  {
+    "property_id": "54fb49a0-43dd-40a5-ba7a-5cae4b64e271",
+    "address": "Sørøygt 10",
+    "city": "HAMMERFEST"
+  },
+  {
+    "property_id": "fd0d6ac2-c7ce-4ad6-baed-b74c4cea8482",
+    "address": "Storgaten 62-64",
+    "city": "HOKKSUND"
+  },
+  {
+    "property_id": "42ced846-2ddc-4b9c-b6c5-9fe09a7291fa",
+    "address": "Strandvn 6",
+    "city": "ALTA"
+  },
+  {
+    "property_id": "247566b1-58b0-4a81-9fea-40523ecde657",
+    "address": "Tokerudkollen 31-33",
+    "city": "SANDVIKA"
+  },
+  {
+    "property_id": "e2ac0266-e507-4d50-9931-8f7db554af58",
+    "address": "Tordenskjoldsgt. 65",
+    "city": "KRISTIANSAND S"
+  },
+  {
+    "property_id": "0bc51285-f295-4130-8cde-7ec5f6afa16f",
+    "address": "Torolv Kveldulvsonsgt 39",
+    "city": "SANDNESSJØEN"
+  },
+  {
+    "property_id": "6e0cdda3-3fcc-4113-a9a0-7d4ca7165dc9",
+    "address": "Uglevn 1",
+    "city": "GRÅLUM"
+  },
+  {
+    "property_id": "776defcb-d174-4332-aa14-1f0081d55911",
+    "address": "Ulefossveien 53",
+    "city": "SKIEN"
+  },
+  {
+    "property_id": "1ed4eef6-0577-4ad6-b7e3-3372fb2515eb",
+    "address": "Ullsvei 16",
+    "city": "HALDEN"
+  },
+  {
+    "property_id": "7546345a-1548-4737-be79-9a3632083f35",
+    "address": "Wildhagensvei 17",
+    "city": "DRAMMEN"
+  }
+]

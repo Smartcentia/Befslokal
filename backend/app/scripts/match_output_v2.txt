@@ -1,0 +1,10 @@
+Loading DB Report...
+Loading Input Data...
+Reading /Users/frank/BEFS3/KNOWME/input.md...
+Loaded DB: 231 rows
+Loaded Input: 35818 rows
+Could not identify Address column in input data. Columns: Index(['Regioner', 'Regioner(T)', 'Avdeling', 'Avdeling(T)', 'Dim 2',
+       'Dim 2(T)', 'Formål', 'Formål(T)', 'Konto', 'Konto(T)', 'BA', 'BA(T)',
+       'Resk.nr', 'Resk.nr(T)', 'Bilagsnr', 'Kontantbeløp', 'Kont.periode',
+       'Statskonto'],
+      dtype='object')

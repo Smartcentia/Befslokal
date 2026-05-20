@@ -1,0 +1,16 @@
+Loading DB Report...
+Loading Input Data...
+Reading /Users/frank/BEFS3/KNOWME/input.md...
+Loaded DB: 231 rows
+Loaded Input: 35818 rows
+Matching 231 DB records against 35818 Input records...
+Report generated at /Users/frank/BEFS3/KNOWME/matched_results.md
+# Data Correlation Report
+
+Total Matches Found: 87
+
+| DB Eiendom | DB Adresse | Input Adresse | Score | Input Details |
+| --- | --- | --- | --- | --- |
+| Storgata 10 | Storgata 10 | Storgata 35-37, 2750 Gran | 1.00 | Match on: storgata 35-37, 2750 gran hidemgårdene as regionko... | {'Regioner': '2', 'Regioner(T)': '... |
+| Skinflorbakkane 12 | Skinflorbakkane 12 | nan | 1.00 | Match on: nan skinflorbakkane vel bergen akutts. avd. toppe... | {'Regioner': '4', 'Regioner(T)': 'R... |
+| Storgata 56-

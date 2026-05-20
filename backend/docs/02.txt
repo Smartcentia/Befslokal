@@ -1,0 +1,1503 @@
+6 Region Nord 624500 Lofoten og Vesterålen familievernkontor Familieverntjeneste Renhold lokaler ISS Facility Services AS 1250
+6 Region Nord 624500 Lofoten og Vesterålen familievernkontor Familieverntjeneste Renhold lokaler AKG Rengjøring AS 9713
+6 Region Nord 624500 Lofoten og Vesterålen familievernkontor Familieverntjeneste Fellesutgifter andre utleiere SOH EIENDOM AS 6300
+6 Region Nord 624500 Lofoten og Vesterålen familievernkontor Familieverntjeneste Fellesutgifter andre utleiere FISKERGATA 22 SVOLVÆR AS 4327
+6 Region Nord 624500 Lofoten og Vesterålen familievernkontor Familieverntjeneste Fellesutgifter andre utleiere FISKERGATA 22 SVOLVÆR AS 1903
+6 Region Nord 624500 Harstad og Narvik familievernkontor Familieverntjeneste Leie lokaler andre utleiere Narvik Havn KF 21973
+6 Region Nord 624500 Harstad og Narvik familievernkontor Familieverntjeneste Leie lokaler andre utleiere Håkonsgate 4 AS 113721,2
+6 Region Nord 624500 Harstad og Narvik familievernkontor Familieverntjeneste Strøm og oppvarming Ishavskraft AS 1423,27
+6 Region Nord 624500 Harstad og Narvik familievernkontor Familieverntjeneste Strøm og oppvarming Ishavskraft AS 433,68
+6 Region Nord 624500 Harstad og Narvik familievernkontor Familieverntjeneste Strøm og oppvarming Ishavskraft AS 871,38
+6 Region Nord 631903 Harstad og Narvik familievernkontor Familieverntjeneste Strøm og oppvarming Ishavskraft AS 557,67
+6 Region Nord 631903 Harstad og Narvik familievernkontor Familieverntjeneste Strøm og oppvarming Ishavskraft AS 354,17
+6 Region Nord 631903 Harstad og Narvik familievernkontor Familieverntjeneste Strøm og oppvarming Ishavskraft AS 968,4
+6 Region Nord 632401 Harstad og Narvik familievernkontor Familieverntjeneste Strøm og oppvarming Ishavskraft AS 525,82
+6 Region Nord 632401 Harstad og Narvik familievernkontor Familieverntjeneste Renhold lokaler Narvik Havn KF 7770
+6 Region Nord 632401 Harstad og Narvik familievernkontor Familieverntjeneste Renhold lokaler Toma Facility Norge AS 3151,18
+6 Region Nord 632401 Harstad og Narvik familievernkontor Familieverntjeneste Renhold lokaler Toma Facility Norge AS 228,48
+6 Region Nord 632401 Harstad og Narvik familievernkontor Familieverntjeneste Renhold lokaler Toma Facility Norge AS 219,94
+6 Region Nord 632401 Harstad og Narvik familievernkontor Familieverntjeneste Renhold lokaler Toma Facility Norge AS 3151,17
+6 Region Nord 632501 Harstad og Narvik familievernkontor Familieverntjeneste Annen kostnad lokaler Clas Ohlson AS 150
+6 Region Nord 632501 Harstad og Narvik familievernkontor Familieverntjeneste Fellesutgifter andre utleiere Narvik Havn KF 6221
+6 Region Nord 632501 Harstad og Narvik familievernkontor Familieverntjeneste Fellesutgifter andre utleiere Håkonsgate 4 AS -92,69
+6 Region Nord 632501 Harstad og Narvik familievernkontor Familieverntjeneste Fellesutgifter andre utleiere Håkonsgate 4 AS 16100
+6 Region Nord 632501 Alta og Hammerfest familievernkontor Familieverntjeneste Leie lokaler andre utleiere Isbjørn Eiendom AS 113002,45
+6 Region Nord 633500 Alta og Hammerfest familievernkontor Familieverntjeneste Leie lokaler andre utleiere Løkkeveien 33 AS 133342,51
+6 Region Nord 633500 Alta og Hammerfest familievernkontor Familieverntjeneste Renovasjon, vann, avløp o.l. FINNMARK RESSURSSELSKAP AS 350,98
+6 Region Nord 633500 Alta og Hammerfest familievernkontor Familieverntjeneste Strøm og oppvarming Lucerna AS 2326,77
+6 Region Nord 633500 Alta og Hammerfest familievernkontor Familieverntjeneste Strøm og oppvarming Ishavskraft AS 4563,12
+6 Region Nord 633500 Alta og Hammerfest familievernkontor Familieverntjeneste Strøm og oppvarming Ishavskraft AS 947,29
+6 Region Nord 633500 Alta og Hammerfest familievernkontor Familieverntjeneste Strøm og oppvarming Løkkeveien 33 AS 9058,95
+6 Region Nord 633500 Alta og Hammerfest familievernkontor Familieverntjeneste Renhold lokaler ISS Facility Services AS 1637,84
+6 Region Nord 633501 Alta og Hammerfest familievernkontor Familieverntjeneste Renhold lokaler ISS Facility Services AS 2581,98
+6 Region Nord 633501 Alta og Hammerfest familievernkontor Familieverntjeneste Fellesutgifter andre utleiere Isbjørn Eiendom AS 5577,5
+6 Region Nord 633501 Alta og Hammerfest familievernkontor Familieverntjeneste Fellesutgifter andre utleiere Løkkeveien 33 AS 29843,56
+6 Region Nord 633501 Alta ungdomssenter Utsikten omsorg Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 348611
+6 Region Nord 633501 Alta ungdomssenter Utsikten omsorg Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 7874,84
+6 Region Nord 633501 Alta ungdomssenter Utsikten omsorg Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 1525,78
+6 Region Nord 633501 Alta ungdomssenter Utsikten omsorg Barnevernsinstitusjoner Strøm og oppvarming ALUT AS 2304,51
+6 Region Nord 633502 Alta ungdomssenter Utsikten omsorg Barnevernsinstitusjoner Renhold lokaler ISS Facility Services AS 7711,52
+6 Region Nord 633502 Alta ungdomssenter Utsikten omsorg Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 52406,68
+6 Region Nord 633502 Alta ungdomssenter Utsikten omsorg Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 13170,43
+6 Region Nord 633502 Røvika Åsheim Fosterhjem Leie lokaler fra Statsbygg Statsbyggs hovedkontor 109728,84
+6 Region Nord 633502 Røvika Åsheim Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 384050,93
+6 Region Nord 633502 Røvika Åsheim Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 10872,67
+6 Region Nord 633504 Røvika Åsheim Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 8113,12
+6 Region Nord 633504 Røvika Åsheim Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 4752,71
+6 Region Nord 633504 Røvika Åsheim Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 6180,75
+6 Region Nord 633504 Røvika Åsheim Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 2298,62
+6 Region Nord 634000 Røvika Åsheim Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 1741,89
+6 Region Nord 634000 Røvika Åsheim Barnevernsinstitusjoner Renhold lokaler Busch- Sørensen Rengjøringsbyrå AS, Bodø 4170,97
+6 Region Nord 634000 Røvika Åsheim Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 66109,3
+6 Region Nord 634000 Røvika Åsheim Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor -60437,02
+6 Region Nord 634001 Røvika Åsheim Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 29031,44
+6 Region Nord 634001 Røvika Åsheim Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Kran og Industri Service 1311,55
+6 Region Nord 634001 Røvika Åsheim 61006 Hærverk Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Iris Service AS 912,37
+6 Region Nord 634001 Røvika Åsheim 61006 Hærverk Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Biltema Norge AS 214
+6 Region Nord 634001 Silsand ungdomssenter administrasjon Barnevernsinstitusjoner Leie lokaler andre utleiere Consept Eiendom AS 99879
+6 Region Nord 634001 Silsand ungdomssenter administrasjon Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 2622,91
+6 Region Nord 634001 Silsand ungdomssenter avdeling 1 Barnevernsinstitusjoner Leie lokaler andre utleiere Consept Eiendom AS 808116
+6 Region Nord 634800 Silsand ungdomssenter avdeling 1 Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Senja Avfall AS 3112
+6 Region Nord 634800 Silsand ungdomssenter avdeling 1 Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 27340,09
+6 Region Nord 634800 Silsand ungdomssenter avdeling 1 Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 3037,01
+6 Region Nord 634800 Silsand ungdomssenter avdeling 1 Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 28107
+6 Region Nord 634800 Silsand ungdomssenter avdeling 1 Barnevernsinstitusjoner Renhold lokaler ISS Facility Services AS 12143,44
+6 Region Nord 634800 Silsand ungdomssenter avdeling 1 Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler S Larssen Installasjon AS 1593,75
+6 Region Nord 634800 Nye Kvæfjord ungdomssenter adm Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 163464,6
+6 Region Nord 634800 Nye Kvæfjord ungdomssenter adm Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 2771,83
+6 Region Nord 634801 Nye Kvæfjord ungdomssenter adm Barnevernsinstitusjoner Strøm og oppvarming Polar Kraft AS 496,77
+6 Region Nord 634801 Nye Kvæfjord ungdomssenter adm Barnevernsinstitusjoner Renhold lokaler Breeze Tekstil AS 128,46
+6 Region Nord 634801 Nye Kvæfjord ungdomssenter adm Barnevernsinstitusjoner Renhold lokaler Breeze Tekstil AS 160,58
+6 Region Nord 634801 Nye Kvæfjord ungdomssenter adm Barnevernsinstitusjoner Renhold lokaler Toma Facility Norge AS 1855,27
+6 Region Nord 635700 Nye Kvæfjord ungdomssenter adm Barnevernsinstitusjoner Renhold lokaler Toma Facility Norge AS 1855,27
+6 Region Nord 635700 Nye Kvæfjord ungdomssenter adm Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 27351,48
+6 Region Nord 635700 Nye Kvæfjord ungdomssenter adm Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 20644
+6 Region Nord 635703 Nye Kvæfjord ungdomssenter adm Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 4309,37
+6 Region Nord 635703 Nye Kvæfjord ungdomssenter adm 61006 Hærverk Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler HARSTAD LÅSSERVICE AS 8825
+6 Region Nord 635703 Nye Kvæfjord ungdomssenter Storheimen Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 565839
+6 Region Nord 635703 Nye Kvæfjord ungdomssenter Storheimen Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 9594,78
+6 Region Nord 635703 Nye Kvæfjord ungdomssenter Storheimen Barnevernsinstitusjoner Renhold lokaler Breeze Tekstil AS 444,67
+6 Region Nord 635703 Nye Kvæfjord ungdomssenter Storheimen Barnevernsinstitusjoner Renhold lokaler Breeze Tekstil AS 555,84
+6 Region Nord 635703 Nye Kvæfjord ungdomssenter Storheimen Barnevernsinstitusjoner Renhold lokaler Toma Facility Norge AS 6422,1
+6 Region Nord 635703 Nye Kvæfjord ungdomssenter Storheimen Barnevernsinstitusjoner Renhold lokaler Toma Facility Norge AS 6422,1
+6 Region Nord 635703 Nye Kvæfjord ungdomssenter Storheimen Barnevernsinstitusjoner Annen kostnad lokaler Sotera AS 79,73
+6 Region Nord 635703 Nye Kvæfjord ungdomssenter Storheimen Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 94678,2
+6 Region Nord 635703 Nye Kvæfjord ungdomssenter Storheimen Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 71460
+6 Region Nord 635703 Nye Kvæfjord ungdomssenter Storheimen Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 14917,05
+6 Region Nord 635703 Nye Kvæfjord ungdomssenter Storheimen Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler HARSTAD LÅSSERVICE AS 1319
+6 Region Nord 635703 Nye Kvæfjord ungdomssenter Storheimen 61006 Hærverk Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler XL-BYGG Kvæfjord AS 170
+6 Region Nord 635704 Nye Kvæfjord ungdomssenter Lilleheimen Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 528116,4
+6 Region Nord 635704 Nye Kvæfjord ungdomssenter Lilleheimen Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 8955,13
+6 Region Nord 635704 Nye Kvæfjord ungdomssenter Lilleheimen Barnevernsinstitusjoner Renhold lokaler Breeze Tekstil AS 415,02
+6 Region Nord 635704 Nye Kvæfjord ungdomssenter Lilleheimen Barnevernsinstitusjoner Renhold lokaler Breeze Tekstil AS 518,78
+6 Region Nord 635704 Nye Kvæfjord ungdomssenter Lilleheimen Barnevernsinstitusjoner Renhold lokaler Toma Facility Norge AS 5993,96
+6 Region Nord 635800 Nye Kvæfjord ungdomssenter Lilleheimen Barnevernsinstitusjoner Renhold lokaler Toma Facility Norge AS 5993,96
+6 Region Nord 635800 Nye Kvæfjord ungdomssenter Lilleheimen Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 88366,32
+6 Region Nord 635800 Nye Kvæfjord ungdomssenter Lilleheimen Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 66696
+6 Region Nord 635800 Nye Kvæfjord ungdomssenter Lilleheimen Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 13922,58
+6 Region Nord 635800 Nye Kvæfjord ungdomssenter Lilleheimen Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler HARSTAD LÅSSERVICE AS 1319
+6 Region Nord 635800 KUS SKM Omsorg for ungdom 64132 SKM-omsorg for ungdom Barnevernsinstitusjoner Leie lokaler andre utleiere Håkonsgate 4 AS 177998,4
+6 Region Nord 635800 KUS SKM Omsorg for ungdom 64132 SKM-omsorg for ungdom Barnevernsinstitusjoner Leie lokaler andre utleiere Tivoli North AS 16506
+6 Region Nord 635800 KUS SKM Omsorg for ungdom 64132 SKM-omsorg for ungdom Barnevernsinstitusjoner Leie lokaler andre utleiere LOFOTEIENDOM AS 15402
+6 Region Nord 635800 KUS SKM Omsorg for ungdom 64132 SKM-omsorg for ungdom Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 678,8
+6 Region Nord 635800 KUS SKM Omsorg for ungdom 64132 SKM-omsorg for ungdom Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 1363,9
+6 Region Nord 635801 KUS SKM Omsorg for ungdom 64132 SKM-omsorg for ungdom Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 872,87
+6 Region Nord 635801 KUS SKM Omsorg for ungdom 64132 SKM-omsorg for ungdom Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 554,35
+6 Region Nord 635801 KUS SKM Omsorg for ungdom 64132 SKM-omsorg for ungdom Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 1515,76
+6 Region Nord 635801 KUS SKM Omsorg for ungdom 64132 SKM-omsorg for ungdom Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 826,29
+6 Region Nord 635801 KUS SKM Omsorg for ungdom 64132 SKM-omsorg for ungdom Barnevernsinstitusjoner Renhold lokaler Toma Facility Norge AS 4932,27
+6 Region Nord 635801 KUS SKM Omsorg for ungdom 64132 SKM-omsorg for ungdom Barnevernsinstitusjoner Renhold lokaler Toma Facility Norge AS 357,62
+6 Region Nord 635801 KUS SKM Omsorg for ungdom 64132 SKM-omsorg for ungdom Barnevernsinstitusjoner Renhold lokaler Toma Facility Norge AS 344,25
+6 Region Nord 635801 KUS SKM Omsorg for ungdom 64132 SKM-omsorg for ungdom Barnevernsinstitusjoner Renhold lokaler Toma Facility Norge AS 4932,27
+6 Region Nord 635801 KUS SKM Omsorg for ungdom 64132 SKM-omsorg for ungdom Barnevernsinstitusjoner Leie parkeringsplass Nordic Investment As 4125
+6 Region Nord 641600 KUS SKM Omsorg for ungdom 64132 SKM-omsorg for ungdom Barnevernsinstitusjoner Fellesutgifter andre utleiere Håkonsgate 4 AS -145,08
+6 Region Nord 641600 KUS SKM Omsorg for ungdom 64132 SKM-omsorg for ungdom Barnevernsinstitusjoner Fellesutgifter andre utleiere Håkonsgate 4 AS 25200
+6 Region Nord 641600 Lamo ungdomssenter adm Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 471223
+6 Region Nord 641600 Lamo ungdomssenter adm Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. HRS Miljø AS 781,52
+6 Region Nord 641800 Lamo ungdomssenter adm Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 4878,37
+6 Region Nord 641800 Lamo ungdomssenter adm Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 1151,85
+6 Region Nord 641800 Lamo ungdomssenter adm Barnevernsinstitusjoner Renhold lokaler MASKE AS 2050,2
+6 Region Nord 641900 Lamo ungdomssenter adm Barnevernsinstitusjoner Renhold lokaler AKSJESELSKAP SALANGSVASK 2968,75
+6 Region Nord 641900 Lamo ungdomssenter adm Barnevernsinstitusjoner Vaktmestertjenester Sjøvegan Maskin & Transport AS 8517
+6 Region Nord 643100 Lamo ungdomssenter adm Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor -144674
+6 Region Nord 643101 Lamo ungdomssenter adm Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 37975
+6 Region Nord 643101 Lamo ungdomssenter adm Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 13581,15
+6 Region Nord 643101 Lamo ungdomssenter Tunet Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 46650
+6 Region Nord 643101 Lamo ungdomssenter Tunet Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 471223
+6 Region Nord 643101 Lamo ungdomssenter Tunet Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. HRS Miljø AS 2000
+6 Region Nord 643101 Lamo ungdomssenter Tunet Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. PERPETUUM AS 982,63
+6 Region Nord 643101 Lamo ungdomssenter Tunet Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 394,42
+6 Region Nord 643101 Lamo ungdomssenter Tunet Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 10000
+6 Region Nord 643101 Lamo ungdomssenter Tunet Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 2000
+6 Region Nord 643101 Lamo ungdomssenter Tunet Barnevernsinstitusjoner Renhold lokaler AKSJESELSKAP SALANGSVASK 8000
+6 Region Nord 643101 Lamo ungdomssenter Tunet Barnevernsinstitusjoner Vaktmestertjenester Sjøvegan Maskin & Transport AS 8517
+6 Region Nord 660030 Lamo ungdomssenter Tunet Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 37975,7
+6 Region Nord 660030 Lamo ungdomssenter Tunet Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 13581,15
+6 Region Nord 660030 Lamo ungdomssenter Tunet Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler HARSTAD LÅSSERVICE AS -94479
+6 Region Nord 660030 Lamo ungdomssenter Tunet Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler HARSTAD LÅSSERVICE AS 94479
+6 Region Nord 660030 Lamo ungdomssenter Tunet 61010 Risikoavsetning - Hærverk, enetiltak/skjerming, etc. Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 58671
+6 Region Nord 660030 Lamo ungdomssenter Tunet 61010 Risikoavsetning - Hærverk, enetiltak/skjerming, etc. Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 57623
+6 Region Nord 600300 Lamo ungdomssenter Tunet 61010 Risikoavsetning - Hærverk, enetiltak/skjerming, etc. Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 1676,91
+6 Region Nord 600300 Lamo ungdomssenter Tunet 61010 Risikoavsetning - Hærverk, enetiltak/skjerming, etc. Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 4907
+6 Region Nord 600300 Lamo ungdomssenter Tunet 61010 Risikoavsetning - Hærverk, enetiltak/skjerming, etc. Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 4907
+6 Region Nord 600300 Bodø behandlingssenter adm Barnevernsinstitusjoner Leie lokaler andre utleiere Stein Johannesen AS 524796
+6 Region Nord 600300 Bodø behandlingssenter adm Barnevernsinstitusjoner Leie lokaler andre utleiere Kristin Johannessen 6000
+6 Region Nord 600300 Bodø behandlingssenter adm Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Eurocard Norway 109,25
+6 Region Nord 600300 Bodø behandlingssenter adm Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 6890,14
+6 Region Nord 600300 Bodø behandlingssenter adm Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 1452,11
+6 Region Nord 600300 Bodø behandlingssenter adm Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 411,89
+6 Region Nord 600300 Bodø behandlingssenter adm Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 1303,53
+6 Region Nord 600300 Bodø behandlingssenter adm Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 6370,38
+6 Region Nord 600300 Bodø behandlingssenter adm Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 454,9
+6 Region Nord 600300 Bodø behandlingssenter adm Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 7688,68
+6 Region Nord 600300 Bodø behandlingssenter adm Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 15107,72
+6 Region Nord 600300 Bodø behandlingssenter adm Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 1011,16
+6 Region Nord 600300 Bodø behandlingssenter adm Barnevernsinstitusjoner Renhold lokaler Insider Facility Solutions AS 4744
+6 Region Nord 600300 Bodø behandlingssenter adm Barnevernsinstitusjoner Vaktmestertjenester Insider Facility Solutions AS 21106
+6 Region Nord 600300 Bodø behandlingssenter adm Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Elektro Bodø AS 5766
+6 Region Nord 600300 Bodø behandlingssenter adm Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Remi Helge Olufsen 72334
+6 Region Nord 600300 Bodø behandlingssenter Sandhornet Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 5907,84
+6 Region Nord 600300 Bodø behandlingssenter Sandhornet Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 13007,66
+6 Region Nord 600300 Bodø behandlingssenter Sandhornet Barnevernsinstitusjoner Vakthold lokaler AS Skan-Kontroll 6090
+6 Region Nord 600300 Bodø behandlingssenter Sandhornet Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Julius Jakhelln AS 566
+6 Region Nord 600300 Enhet for spesialiserte fosterhjem adm Fosterhjem Leie lokaler fra Statsbygg Statsbyggs hovedkontor 1092,48
+6 Region Nord 600300 Enhet for spesialiserte fosterhjem adm Fosterhjem Leie lokaler fra Statsbygg Statsbyggs hovedkontor 10900,65
+6 Region Nord 600300 Enhet for spesialiserte fosterhjem adm Fosterhjem Renhold lokaler ISS Facility Services AS 2708,86
+6 Region Nord 600300 Enhet for spesialiserte fosterhjem Fosterhjem Leie lokaler andre utleiere Håkonsgate 4 AS 24722
+6 Region Nord 600300 Enhet for spesialiserte fosterhjem Fosterhjem Leie lokaler andre utleiere Heian AS 36946,64
+6 Region Nord 600300 Enhet for spesialiserte fosterhjem Fosterhjem Leie lokaler andre utleiere HARILA EIENDOM AS 17032
+6 Region Nord 600300 Enhet for spesialiserte fosterhjem Fosterhjem Leie lokaler fra Statsbygg Statsbyggs hovedkontor 1092,48
+6 Region Nord 600300 Enhet for spesialiserte fosterhjem Fosterhjem Leie lokaler fra Statsbygg Statsbyggs hovedkontor 18836,8
+6 Region Nord 600300 Enhet for spesialiserte fosterhjem Fosterhjem Leie lokaler fra Statsbygg Statsbyggs hovedkontor 10900,65
+6 Region Nord 600300 Enhet for spesialiserte fosterhjem Fosterhjem Leie lokaler fra Statsbygg Statsbyggs hovedkontor 18836,8
+6 Region Nord 600300 Enhet for spesialiserte fosterhjem Fosterhjem Renovasjon, vann, avløp o.l. Retura Iris AS 3,1
+6 Region Nord 600300 Enhet for spesialiserte fosterhjem Fosterhjem Renovasjon, vann, avløp o.l. Reno-Vest Husholdning AS 385,59
+6 Region Nord 600300 Enhet for spesialiserte fosterhjem Fosterhjem Strøm og oppvarming VESTFALL AS 277,15
+6 Region Nord 600300 Enhet for spesialiserte fosterhjem Fosterhjem Strøm og oppvarming Statsbyggs hovedkontor 4000
+6 Region Nord 600300 Enhet for spesialiserte fosterhjem Fosterhjem Strøm og oppvarming Statsbyggs hovedkontor 4000
+6 Region Nord 600300 Enhet for spesialiserte fosterhjem Fosterhjem Strøm og oppvarming Ishavskraft AS 94,28
+6 Region Nord 600300 Enhet for spesialiserte fosterhjem Fosterhjem Strøm og oppvarming Ishavskraft AS 189,43
+6 Region Nord 600300 Enhet for spesialiserte fosterhjem Fosterhjem Strøm og oppvarming Ishavskraft AS 121,23
+6 Region Nord 600300 Enhet for spesialiserte fosterhjem Fosterhjem Strøm og oppvarming Ishavskraft AS 460,89
+6 Region Nord 600300 Enhet for spesialiserte fosterhjem Fosterhjem Strøm og oppvarming Ishavskraft AS 426,78
+6 Region Nord 600300 Enhet for spesialiserte fosterhjem Fosterhjem Strøm og oppvarming Ishavskraft AS 76,99
+6 Region Nord 600300 Enhet for spesialiserte fosterhjem Fosterhjem Strøm og oppvarming Ishavskraft AS 210,52
+6 Region Nord 600300 Enhet for spesialiserte fosterhjem Fosterhjem Strøm og oppvarming Ishavskraft AS 200,31
+6 Region Nord 600300 Enhet for spesialiserte fosterhjem Fosterhjem Strøm og oppvarming Heian AS 6487,92
+6 Region Nord 600300 Enhet for spesialiserte fosterhjem Fosterhjem Strøm og oppvarming HARILA EIENDOM AS 2793,5
+6 Region Nord 600300 Enhet for spesialiserte fosterhjem Fosterhjem Renhold lokaler ISS Facility Services AS 386,25
+6 Region Nord 600300 Enhet for spesialiserte fosterhjem Fosterhjem Renhold lokaler ISS Facility Services AS 947,02
+6 Region Nord 600300 Enhet for spesialiserte fosterhjem Fosterhjem Renhold lokaler ISS Facility Services AS 947,02
+6 Region Nord 600400 Enhet for spesialiserte fosterhjem Fosterhjem Renhold lokaler Toma Facility Norge AS 685,04
+6 Region Nord 600400 Enhet for spesialiserte fosterhjem Fosterhjem Renhold lokaler Toma Facility Norge AS 49,67
+6 Region Nord 600400 Enhet for spesialiserte fosterhjem Fosterhjem Renhold lokaler Toma Facility Norge AS 680,06
+6 Region Nord 600400 Enhet for spesialiserte fosterhjem Fosterhjem Renhold lokaler Toma Facility Norge AS 47,81
+6 Region Nord 600400 Enhet for spesialiserte fosterhjem Fosterhjem Renhold lokaler Toma Facility Norge AS 685,04
+6 Region Nord 600400 Enhet for spesialiserte fosterhjem Fosterhjem Renhold lokaler Toma Facility Norge AS 657,06
+6 Region Nord 600400 Enhet for spesialiserte fosterhjem Fosterhjem Vaktmestertjenester GP-Invest AS 341,25
+6 Region Nord 600400 Enhet for spesialiserte fosterhjem Fosterhjem Leie parkeringsplass HARILA EIENDOM AS 3153
+6 Region Nord 600501 Enhet for spesialiserte fosterhjem Fosterhjem Fellesutgifter andre utleiere Håkonsgate 4 AS -20,15
+6 Region Nord 600501 Enhet for spesialiserte fosterhjem Fosterhjem Fellesutgifter andre utleiere Håkonsgate 4 AS 3500
+6 Region Nord 600501 Enhet for spesialiserte fosterhjem Fosterhjem Fellesutgifter andre utleiere Heian AS 2868,64
+6 Region Nord 600501 Enhet for spesialiserte fosterhjem Fosterhjem Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 3000
+6 Region Nord 600501 Enhet for spesialiserte fosterhjem Fosterhjem Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 710,31
+6 Region Nord 600501 Enhet for spesialiserte fosterhjem Fosterhjem Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 3000
+6 Region Nord 600501 Enhet for spesialiserte fosterhjem Fosterhjem Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 1055,6
+6 Region Nord 600501 Enhet for spesialiserte fosterhjem Fosterhjem Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 1179,21
+6 Region Nord 600700 Enhet for spesialiserte fosterhjem Fosterhjem Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 1056,2
+6 Region Nord 600700 Enhet for spesialiserte fosterhjem Fosterhjem Reparasjon og vedlikehold leide lokaler Rørlegger Tom Eilertsen AS -49,86
+6 Region Nord 600700 Enhet for spesialiserte fosterhjem 151003 Prosjektering og utvikling av eiendom/bygg Fosterhjem Reparasjon og vedlikehold leide lokaler Rørlegger Tom Eilertsen AS 42,07
+6 Region Nord 600700 FIT-team Hammerfest Hjelpetiltak i hjemmet Leie lokaler andre utleiere Isbjørn Eiendom AS 113002,45
+6 Region Nord 600700 FIT-team Hammerfest Hjelpetiltak i hjemmet Renovasjon, vann, avløp o.l. FINNMARK RESSURSSELSKAP AS 350,98
+6 Region Nord 600700 FIT-team Hammerfest Hjelpetiltak i hjemmet Strøm og oppvarming Lucerna AS 2326,77
+6 Region Nord 600700 FIT-team Hammerfest Hjelpetiltak i hjemmet Strøm og oppvarming Ishavskraft AS 4563,12
+6 Region Nord 600700 FIT-team Hammerfest Hjelpetiltak i hjemmet Strøm og oppvarming Ishavskraft AS 947,29
+6 Region Nord 600700 FIT-team Hammerfest Hjelpetiltak i hjemmet Renhold lokaler ISS Facility Services AS 7312,67
+6 Region Nord 600700 FIT-team Hammerfest Hjelpetiltak i hjemmet Fellesutgifter andre utleiere Isbjørn Eiendom AS 5577,5
+6 Region Nord 600700 Sollia barne- og ungdomssenter adm Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 5098,24
+6 Region Nord 600700 Sollia barne- og ungdomssenter adm Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 50870,74
+6 Region Nord 600700 Sollia barne- og ungdomssenter adm Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Reno-Vest Bedrift AS 120
+6 Region Nord 600700 Sollia barne- og ungdomssenter adm Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Reno-Vest Husholdning AS 899,71
+6 Region Nord 600700 Sollia barne- og ungdomssenter adm Barnevernsinstitusjoner Strøm og oppvarming VESTFALL AS 618,99
+6 Region Nord 600700 Sollia barne- og ungdomssenter adm Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 1075,44
+6 Region Nord 611900 Sollia barne- og ungdomssenter adm Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 312,96
+6 Region Nord 611900 Sollia barne- og ungdomssenter adm Barnevernsinstitusjoner Renhold lokaler ISS Facility Services AS 901,25
+6 Region Nord 611900 Sollia barne- og ungdomssenter adm Barnevernsinstitusjoner Vaktmestertjenester GP-Invest AS 796,25
+6 Region Nord 611900 Sollia barne- og ungdomssenter adm Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 1657,39
+6 Region Nord 611900 Sollia barne- og ungdomssenter adm Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 2751,49
+6 Region Nord 611900 Sollia barne- og ungdomssenter adm Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Rørlegger Tom Eilertsen AS -116,34
+6 Region Nord 611900 Sollia barne- og ungdomssenter adm 151003 Prosjektering og utvikling av eiendom/bygg Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Rørlegger Tom Eilertsen AS 98,19
+6 Region Nord 611900 Sollia barne- og ungdomssenter miljøavdeling Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 53167,36
+6 Region Nord 611901 Sollia barne- og ungdomssenter miljøavdeling Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 530498,3
+6 Region Nord 611901 Sollia barne- og ungdomssenter miljøavdeling Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Reno-Vest Husholdning AS 9382,69
+6 Region Nord 611901 Sollia barne- og ungdomssenter miljøavdeling Barnevernsinstitusjoner Strøm og oppvarming VESTFALL AS 6771,74
+6 Region Nord 611901 Sollia barne- og ungdomssenter miljøavdeling Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 11215,12
+6 Region Nord 611901 Sollia barne- og ungdomssenter miljøavdeling Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 2816,72
+6 Region Nord 611901 Sollia barne- og ungdomssenter miljøavdeling Barnevernsinstitusjoner Renhold lokaler ISS Facility Services AS 9398,75
+6 Region Nord 611901 Sollia barne- og ungdomssenter miljøavdeling Barnevernsinstitusjoner Vaktmestertjenester GP-Invest AS 8303,75
+6 Region Nord 612400 Sollia barne- og ungdomssenter miljøavdeling Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 17284,21
+6 Region Nord 612400 Sollia barne- og ungdomssenter miljøavdeling Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 28694,11
+6 Region Nord 612400 Sollia barne- og ungdomssenter miljøavdeling Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Rørlegger Tom Eilertsen AS -6609,46
+6 Region Nord 612400 Sollia barne- og ungdomssenter miljøavdeling 151003 Prosjektering og utvikling av eiendom/bygg Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Rørlegger Tom Eilertsen AS 1023,78
+6 Region Nord 612400 Sollia barne- og ungdomssenter miljøavdeling 61006 Hærverk Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Optimera AS 2117
+6 Region Nord 612400 MST Bodø Hjelpetiltak i hjemmet Leie lokaler andre utleiere Heian AS 92366,6
+6 Region Nord 612400 MST Bodø Hjelpetiltak i hjemmet Renovasjon, vann, avløp o.l. Retura Iris AS 7,75
+6 Region Nord 612400 MST Bodø Hjelpetiltak i hjemmet Strøm og oppvarming Heian AS 16219,8
+6 Region Nord 612400 MST Bodø Hjelpetiltak i hjemmet Renhold lokaler Toma Facility Norge AS 1700,15
+6 Region Nord 612400 MST Bodø Hjelpetiltak i hjemmet Renhold lokaler Toma Facility Norge AS 1642,65
+6 Region Nord 612400 MST Bodø Hjelpetiltak i hjemmet Fellesutgifter andre utleiere Heian AS 7171,6
+6 Region Nord 612400 MST Tromsø Hjelpetiltak i hjemmet Leie lokaler andre utleiere Brennbygget AS 142004,7
+6 Region Nord 612402 MST Tromsø Hjelpetiltak i hjemmet Strøm og oppvarming Ishavskraft AS 1899,34
+6 Region Nord 612402 MST Tromsø Hjelpetiltak i hjemmet Strøm og oppvarming Ishavskraft AS 249
+6 Region Nord 612402 MST Tromsø Hjelpetiltak i hjemmet Strøm og oppvarming Ishavskraft AS 2039
+6 Region Nord 612402 MST Tromsø Hjelpetiltak i hjemmet Renhold lokaler Toma Facility Norge AS 2826,3
+6 Region Nord 612402 MST Tromsø Hjelpetiltak i hjemmet Renhold lokaler Toma Facility Norge AS 2826,3
+6 Region Nord 612402 MST Tromsø Hjelpetiltak i hjemmet Leie parkeringsplass Brennbygget AS 21120
+6 Region Nord 612402 MST Mo i Rana Hjelpetiltak i hjemmet Leie lokaler andre utleiere BANE NOR EIENDOM AS 49226,25
+6 Region Nord 612402 MST Mo i Rana Hjelpetiltak i hjemmet Renovasjon, vann, avløp o.l. Østbø AS 186,25
+6 Region Nord 612402 MST Mo i Rana Hjelpetiltak i hjemmet Strøm og oppvarming BANE NOR EIENDOM AS 13062,5
+6 Region Nord 612402 MST Mo i Rana Hjelpetiltak i hjemmet Renhold lokaler ISS Facility Services AS 3125
+6 Region Nord 612402 MST Mo i Rana Hjelpetiltak i hjemmet Leie parkeringsplass BANE NOR EIENDOM AS 6967
+6 Region Nord 612402 MST Mo i Rana Hjelpetiltak i hjemmet Fellesutgifter andre utleiere BANE NOR EIENDOM AS 14000
+6 Region Nord 612402 Yttrabekken ungdomssenter administrasjon Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 2084,3
+6 Region Nord 612402 Yttrabekken ungdomssenter avdeling 1 Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Retura HAF AS 430
+6 Region Nord 612402 Yttrabekken ungdomssenter avdeling 1 Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 10515,36
+6 Region Nord 612403 Yttrabekken ungdomssenter avdeling 1 Barnevernsinstitusjoner Renhold lokaler Søstrene Renhold AS 3375
+6 Region Nord 612403 Yttrabekken ungdomssenter avdeling 1 Barnevernsinstitusjoner Annen kostnad lokaler Clas Ohlson AS 350
+6 Region Nord 612403 Yttrabekken ungdomssenter avdeling 1 Barnevernsinstitusjoner Annen kostnad lokaler BYPORTEN ELEKTROMARKED AS 1119
+6 Region Nord 612403 Yttrabekken ungdomssenter avdeling 1 Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Caverion Norge AS 1775,02
+6 Region Nord 612403 Yttrabekken ungdomssenter avdeling 1 Barnevernsinstitusjoner Oppgradering og påkostning leide lokaler - under kr 50 000 Caverion Norge AS 13921,99
+6 Region Nord 612403 Yttrabekken ungdomssenter avdeling 1 64140 Leie av lager/naust/garsjer og lignende Barnevernsinstitusjoner Leie lokaler andre utleiere MELLOMVIKA 1 AS 5500
+6 Region Nord 612403 NASAK - Nasjonalt Samisk kompetansesenter Regionale fellesfunksjoner Leie lokaler andre utleiere Tana Utleiebygg A/S 1900,3
+6 Region Nord 612403 NASAK - Nasjonalt Samisk kompetansesenter Regionale fellesfunksjoner Leie lokaler andre utleiere Tana Utleiebygg A/S 4750,75
+6 Region Nord 612403 NASAK - Nasjonalt Samisk kompetansesenter Regionale fellesfunksjoner Leie lokaler andre utleiere Tana Utleiebygg A/S 2850,45
+6 Region Nord 612403 NASAK - Nasjonalt Samisk kompetansesenter Regionale fellesfunksjoner Renhold lokaler -309,49
+6 Region Nord 612403 NASAK - Nasjonalt Samisk kompetansesenter Regionale fellesfunksjoner Renhold lokaler -206,32
+6 Region Nord 612403 NASAK - Nasjonalt Samisk kompetansesenter Regionale fellesfunksjoner Renhold lokaler ISS Facility Services AS 1547,43
+6 Region Nord 612403 NASAK - Nasjonalt Samisk kompetansesenter Regionale fellesfunksjoner Renhold lokaler ISS Facility Services AS 2579,04
+6 Region Nord 612403 NASAK - Nasjonalt Samisk kompetansesenter Regionale fellesfunksjoner Renhold lokaler ISS Facility Services AS 1031,62
+6 Region Nord 612403 Avdelingsdirektør stab Regionale fellesfunksjoner Renovasjon, vann, avløp o.l. Remiks Næring AS 60
+6 Region Nord 612403 Avdelingsdirektør stab Regionale fellesfunksjoner Strøm og oppvarming Ishavskraft AS 141,23
+6 Region Nord 612403 Avdelingsdirektør stab Regionale fellesfunksjoner Strøm og oppvarming Ishavskraft AS 340,93
+6 Region Nord 612403 Avdelingsdirektør stab Regionale fellesfunksjoner Strøm og oppvarming Ishavskraft AS 217,61
+6 Region Nord 612403 Avdelingsdirektør stab Regionale fellesfunksjoner Strøm og oppvarming Ishavskraft AS 369,1
+6 Region Nord 612403 Avdelingsdirektør stab Regionale fellesfunksjoner Strøm og oppvarming Ishavskraft AS 357,5
+6 Region Nord 612403 Avdelingsdirektør stab Regionale fellesfunksjoner Renhold lokaler ISS Facility Services AS 10080,33
+6 Region Nord 612403 Avdelingsdirektør stab Regionale fellesfunksjoner Renhold lokaler ISS Facility Services AS 947,02
+6 Region Nord 612403 Avdelingsdirektør stab Regionale fellesfunksjoner Renhold lokaler ISS Facility Services AS 1196,67
+6 Region Nord 612403 Avdelingsdirektør stab Regionale fellesfunksjoner Renhold lokaler Toma Facility Norge AS 1233,07
+6 Region Nord 612403 Avdelingsdirektør stab Regionale fellesfunksjoner Renhold lokaler Toma Facility Norge AS 614,5
+6 Region Nord 612403 Avdelingsdirektør stab Regionale fellesfunksjoner Annen kostnad lokaler NB Engros AS 1130,35
+6 Region Nord 612403 Avdelingsdirektør stab Regionale fellesfunksjoner Annen kostnad lokaler Markedshuset AS 4781,25
+6 Region Nord 612403 Avdelingsdirektør stab Regionale fellesfunksjoner Annen kostnad lokaler Løkkeveien 33 AS 1031
+6 Region Nord 612403 Avdelingsdirektør stab Regionale fellesfunksjoner Annen kostnad lokaler Løkkeveien 33 AS 1344
+6 Region Nord 612403 Avdelingsdirektør stab 151012 Implementeringsstøtte PMTO Regionale fellesfunksjoner Renovasjon, vann, avløp o.l. Retura Iris AS 54,29
+6 Region Nord 612403 Avdelingsdirektør stab 151012 Implementeringsstøtte PMTO Regionale fellesfunksjoner Strøm og oppvarming Heian AS 2422,74
+6 Region Nord 612403 Avdelingsdirektør stab 151012 Implementeringsstøtte PMTO Regionale fellesfunksjoner Renhold lokaler ISS Facility Services AS 884,24
+6 Region Nord 612403 Avdelingsdirektør stab 151012 Implementeringsstøtte PMTO Regionale fellesfunksjoner Renhold lokaler Toma Facility Norge AS 510,04
+6 Region Nord 612403 Avdelingsdirektør stab 151012 Implementeringsstøtte PMTO Regionale fellesfunksjoner Annen kostnad lokaler Elkjøp Norge AS 12,35
+6 Region Nord 612403 Avdelingsdirektør stab 151012 Implementeringsstøtte PMTO Regionale fellesfunksjoner Fellesutgifter andre utleiere Heian AS -5603,16
+6 Region Nord 612403 Avdelingsdirektør stab 151012 Implementeringsstøtte PMTO Regionale fellesfunksjoner Reparasjon og vedlikehold leide lokaler 16336,53
+6 Region Nord 612403 Avdelingsdirektør stab 61900 Ombygging/flytting lokaler Regionale fellesfunksjoner Oppgradering og påkostning leide lokaler - under kr 50 000 STORGATA 70 TROMSØ AS 2846,8
+6 Region Nord 612403 Avdelingsdirektør stab 64001 BSA region nord Regionale fellesfunksjoner Renhold lokaler ISS Facility Services AS 2122,18
+6 Region Nord 612403 Regionkontoret frikjøpte (tillitsvalgt osv) Regionale fellesfunksjoner Renhold lokaler ISS Facility Services AS 1354,45
+6 Region Nord 612403 Tverrfaglig helsekartlegging region nord 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Strøm og oppvarming Ishavskraft AS 2716,66
+6 Region Nord 612403 Tverrfaglig helsekartlegging region nord 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Renhold lokaler Toma Facility Norge AS 4446,76
+6 Region Nord 612403 Tverrfaglig helsekartlegging region nord 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Annen kostnad lokaler Markedshuset AS -4886,35
+6 Region Nord 612403 Tverrfaglig helsekartlegging region nord 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Annen kostnad lokaler Markedshuset AS -20805,11
+6 Region Nord 612403 Tverrfaglig helsekartlegging region nord 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Annen kostnad lokaler Markedshuset AS -8127,29
+6 Region Nord 612403 Avdelingsdirektør omsorg for ungdom og behandling av ungdom Regionale fellesfunksjoner Strøm og oppvarming Ishavskraft AS 282,46
+6 Region Nord 612403 Avdelingsdirektør omsorg for ungdom og behandling av ungdom Regionale fellesfunksjoner Strøm og oppvarming Ishavskraft AS 681,85
+6 Region Nord 612403 Avdelingsdirektør omsorg for ungdom og behandling av ungdom Regionale fellesfunksjoner Strøm og oppvarming Ishavskraft AS 435,23
+6 Region Nord 614600 Avdelingsdirektør omsorg for ungdom og behandling av ungdom Regionale fellesfunksjoner Renhold lokaler Toma Facility Norge AS 2466,14
+6 Region Nord 614600 Avdelingsdirektør omsorg for ungdom og behandling av ungdom Regionale fellesfunksjoner Annen kostnad lokaler NB Engros AS 2260,69
+6 Region Nord 614600 Alta Ungdomssenter administrasjon Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 14921,2
+6 Region Nord 614600 Alta Ungdomssenter administrasjon Barnevernsinstitusjoner Renhold lokaler ISS Facility Services AS 1499,07
+6 Region Nord 614600 Alta Ungdomssenter sjøtun Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 75058,42
+6 Region Nord 614600 Alta Ungdomssenter sjøtun Barnevernsinstitusjoner Renhold lokaler ISS Facility Services AS 13359,32
+6 Region Nord 614600 Alta Ungdomssenter sjøtun Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Coop Finnmark SA 528,5
+6 Region Nord 614600 Røvika ungdomssenter Administrasjon Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 10398,93
+6 Region Nord 614600 Røvika ungdomssenter Administrasjon Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 13942,4
+6 Region Nord 614600 Røvika ungdomssenter Administrasjon Barnevernsinstitusjoner Renhold lokaler Busch- Sørensen Rengjøringsbyrå AS, Bodø 893,77
+6 Region Nord 614600 Røvika ungdomssenter Skogly Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 76258,88
+6 Region Nord 614600 Røvika ungdomssenter Skogly Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 102244,27
+6 Region Nord 614600 Røvika ungdomssenter Skogly Barnevernsinstitusjoner Renhold lokaler Busch- Sørensen Rengjøringsbyrå AS, Bodø 6554,38
+6 Region Nord 614600 Røvika ungdomssenter Skogly 61006 Hærverk Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Iris Service AS 1084,39
+6 Region Nord 614600 Røvika ungdomssenter Skogly 61006 Hærverk Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Iris Service AS 378
+6 Region Nord 614600 Røvika ungdomssenter Skogly 61006 Hærverk Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Iris Service AS 330,75
+6 Region Nord 614600 Røvika ungdomssenter Skogly 61006 Hærverk Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Rørleggern Fauske AS 497,32
+6 Region Nord 614600 Røvika ungdomssenter Skogly 61006 Hærverk Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Fauske Glass AS 4547
+6 Region Nord 614600 Røvika ungdomssenter Skogly 61006 Hærverk Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Fauske Glass AS 11625
+6 Region Nord 614602 Røvika ungdomssenter Skogly 61006 Hærverk Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Fauske Glass AS 18173,5
+6 Region Nord 614700 Røvika ungdomssenter Skogly 61006 Hærverk Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Fauske Glass AS 27906
+6 Region Nord 614700 Røvika ungdomssenter Skogly 61006 Hærverk Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Fauske Glass AS 8025
+6 Region Nord 614700 Røvika ungdomssenter Skogly 61006 Hærverk Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Fauske Glass AS 21413,5
+6 Region Nord 614700 Røvika ungdomssenter beredskapshjem Fosterhjem Renovasjon, vann, avløp o.l. FINNMARK RESSURSSELSKAP AS 236,53
+6 Region Nord 614700 Røvika ungdomssenter beredskapshjem Fosterhjem Renovasjon, vann, avløp o.l. Remiks Næring AS 84
+6 Region Nord 614700 Røvika ungdomssenter beredskapshjem Fosterhjem Strøm og oppvarming Lucerna AS 1382,27
+6 Region Nord 614700 Røvika ungdomssenter beredskapshjem Fosterhjem Strøm og oppvarming Ishavskraft AS 3592,75
+6 Region Nord 614700 Røvika ungdomssenter beredskapshjem Fosterhjem Strøm og oppvarming Ishavskraft AS 2887,52
+6 Region Nord 614700 Røvika ungdomssenter beredskapshjem Fosterhjem Strøm og oppvarming Ishavskraft AS 500,5
+6 Region Nord 614700 Røvika ungdomssenter beredskapshjem Fosterhjem Strøm og oppvarming KINECT ENERGY SPOT AS 5576,74
+6 Region Nord 614700 Røvika ungdomssenter beredskapshjem Fosterhjem Strøm og oppvarming KINECT ENERGY SPOT AS 17331,56
+6 Region Nord 614700 Røvika ungdomssenter beredskapshjem Fosterhjem Strøm og oppvarming KINECT ENERGY SPOT AS 23237,33
+6 Region Nord 614710 Røvika ungdomssenter beredskapshjem Fosterhjem Renhold lokaler ISS Facility Services AS 643,75
+6 Region Nord 614710 Røvika ungdomssenter beredskapshjem Fosterhjem Renhold lokaler ISS Facility Services AS 1091,89
+6 Region Nord 614710 Røvika ungdomssenter beredskapshjem Fosterhjem Renhold lokaler ISS Facility Services AS 2123,25
+6 Region Nord 614710 Røvika ungdomssenter beredskapshjem Fosterhjem Renhold lokaler ISS Facility Services AS 1675,33
+6 Region Nord 614710 Røvika ungdomssenter beredskapshjem Fosterhjem Renhold lokaler MASKE AS 13,65
+6 Region Nord 614710 Røvika ungdomssenter beredskapshjem Fosterhjem Renhold lokaler Busch- Sørensen Rengjøringsbyrå AS, Bodø 1489,63
+6 Region Nord 614710 Røvika ungdomssenter beredskapshjem Fosterhjem Vaktmestertjenester GP-Invest AS 218,75
+6 Region Nord 614710 Røvika ungdomssenter beredskapshjem 61900 Ombygging/flytting lokaler Fosterhjem Oppgradering og påkostning leide lokaler - under kr 50 000 STORGATA 70 TROMSØ AS 3985,52
+6 Region Nord 614710 Enhet for inntak Bufetat region nord Inntak Renovasjon, vann, avløp o.l. Remiks Næring AS 228
+6 Region Nord 614710 Enhet for inntak Bufetat region nord Inntak Strøm og oppvarming Ishavskraft AS 1358,5
+6 Region Nord 614720 Enhet for inntak Bufetat region nord Inntak Strøm og oppvarming Heian AS 11709,91
+6 Region Nord 614720 Enhet for inntak Bufetat region nord Inntak Renhold lokaler ISS Facility Services AS 2122,18
+6 Region Nord 614720 Enhet for inntak Bufetat region nord Inntak Renhold lokaler ISS Facility Services AS 4547,33
+6 Region Nord 614720 Enhet for inntak Bufetat region nord Inntak Renhold lokaler Toma Facility Norge AS 2465,21
+6 Region Nord 614720 Enhet for inntak Bufetat region nord Inntak Annen kostnad lokaler Avskjerming as 3090
+6 Region Nord 614720 Enhet for inntak Bufetat region nord Inntak Annen kostnad lokaler Elkjøp Norge AS 59,7
+6 Region Nord 614720 Enhet for inntak Bufetat region nord Inntak Fellesutgifter andre utleiere Heian AS -27081,94
+6 Region Nord 614720 Enhet for inntak Bufetat region nord Fosterhjemstjenesten Renovasjon, vann, avløp o.l. Retura Iris AS 262,42
+6 Region Nord 614720 Enhet for inntak Bufetat region nord 61900 Ombygging/flytting lokaler Inntak Reparasjon og vedlikehold leide lokaler 76285,29
+6 Region Nord 614720 Enhet for inntak Bufetat region nord 61900 Ombygging/flytting lokaler Inntak Oppgradering og påkostning leide lokaler - under kr 50 000 Bravida Norge AS 13092,49
+6 Region Nord 614720 Enhet for inntak Bufetat region nord 61900 Ombygging/flytting lokaler Inntak Oppgradering og påkostning leide lokaler - under kr 50 000 STORGATA 70 TROMSØ AS 10817,84
+6 Region Nord 615900 Tromsø ungdomssenter Barnevernsinstitusjoner Leie lokaler fra Statsbygg 77688,38
+6 Region Nord 615900 Tromsø ungdomssenter Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. 323,49
+6 Region Nord 615900 Tromsø ungdomssenter Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Remiks Næring AS 118,03
+6 Region Nord 615900 Tromsø ungdomssenter Barnevernsinstitusjoner Strøm og oppvarming 5634,23
+6 Region Nord 615900 Tromsø ungdomssenter Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 1830,45
+6 Region Nord 615900 Tromsø ungdomssenter Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 11154,55
+6 Region Nord 615900 Tromsø ungdomssenter Barnevernsinstitusjoner Renhold lokaler 2141,76
+6 Region Nord 615900 Tromsø ungdomssenter Barnevernsinstitusjoner Renhold lokaler PROFFRENT AS 2141,76
+6 Region Nord 615900 Tromsø ungdomssenter Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg 9490,25
+6 Region Nord 615900 Tromsø ungdomssenter Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 17410,86
+6 Region Nord 615900 Tromsø ungdomssenter Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold 2820,36
+6 Region Nord 615900 Tromsø ungdomssenter Barnevernsinstitusjoner Reparasjon og vedlikehold av anlegg, også serviceavtaler 0
+6 Region Nord 615900 Tromsø ungdomssenter 151002 Brannverntiltak Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. 0
+6 Region Nord 615900 Tromsø ungdomssenter Flo Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Remiks Næring AS 707,41
+6 Region Nord 615900 Tromsø ungdomssenter Flo Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 10970,87
+6 Region Nord 615900 Tromsø ungdomssenter Flo Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 66854,91
+6 Region Nord 615900 Tromsø ungdomssenter Flo Barnevernsinstitusjoner Renhold lokaler PROFFRENT AS 12836,62
+6 Region Nord 615900 Tromsø ungdomssenter Flo Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 104352,07
+6 Region Nord 615900 Tromsø ungdomssenter Fjære Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Remiks Næring AS 707,41
+6 Region Nord 615900 Tromsø ungdomssenter Fjære Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 10970,87
+6 Region Nord 615900 Tromsø ungdomssenter Fjære Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 66854,91
+6 Region Nord 615900 Tromsø ungdomssenter Fjære Barnevernsinstitusjoner Renhold lokaler PROFFRENT AS 12836,62
+6 Region Nord 615900 Tromsø ungdomssenter Fjære Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 104352,07
+6 Region Nord 615900 FHT RN - adm Fosterhjemstjenesten Renovasjon, vann, avløp o.l. Retura Iris AS 334,81
+6 Region Nord 615900 FHT RN - adm Fosterhjemstjenesten Renovasjon, vann, avløp o.l. FINNMARK RESSURSSELSKAP AS 587,52
+6 Region Nord 615900 FHT RN - adm Fosterhjemstjenesten Renovasjon, vann, avløp o.l. Remiks Næring AS 228
+6 Region Nord 615900 FHT RN - adm Fosterhjemstjenesten Strøm og oppvarming Lucerna AS 3433,38
+6 Region Nord 615900 FHT RN - adm Fosterhjemstjenesten Strøm og oppvarming Ishavskraft AS 8923,92
+6 Region Nord 615900 FHT RN - adm Fosterhjemstjenesten Strøm og oppvarming Ishavskraft AS 141,23
+6 Region Nord 615900 FHT RN - adm Fosterhjemstjenesten Strøm og oppvarming Ishavskraft AS 340,93
+6 Region Nord 615900 FHT RN - adm Fosterhjemstjenesten Strøm og oppvarming Ishavskraft AS 217,61
+6 Region Nord 615900 FHT RN - adm Fosterhjemstjenesten Strøm og oppvarming Ishavskraft AS 7172,23
+6 Region Nord 615900 FHT RN - adm Fosterhjemstjenesten Strøm og oppvarming Ishavskraft AS 1358,5
+6 Region Nord 615900 FHT RN - adm Fosterhjemstjenesten Strøm og oppvarming Heian AS 14940,23
+6 Region Nord 615900 FHT RN - adm Fosterhjemstjenesten Strøm og oppvarming KINECT ENERGY SPOT AS 13384,18
+6 Region Nord 615900 FHT RN - adm Fosterhjemstjenesten Renhold lokaler ISS Facility Services AS 2708,87
+6 Region Nord 615900 FHT RN - adm Fosterhjemstjenesten Renhold lokaler ISS Facility Services AS 1545
+6 Region Nord 615900 FHT RN - adm Fosterhjemstjenesten Renhold lokaler ISS Facility Services AS 4735,12
+6 Region Nord 615900 FHT RN - adm Fosterhjemstjenesten Renhold lokaler ISS Facility Services AS 2123,25
+6 Region Nord 615900 FHT RN - adm Fosterhjemstjenesten Renhold lokaler ISS Facility Services AS 4547,33
+6 Region Nord 615900 FHT RN - adm Fosterhjemstjenesten Renhold lokaler MASKE AS 32,75
+6 Region Nord 615900 FHT RN - adm Fosterhjemstjenesten Renhold lokaler Toma Facility Norge AS 1233,07
+6 Region Nord 615900 FHT RN - adm Fosterhjemstjenesten Renhold lokaler Toma Facility Norge AS 3145,27
+6 Region Nord 615900 FHT RN - adm Fosterhjemstjenesten Vaktmestertjenester GP-Invest AS 525
+6 Region Nord 615900 FHT RN - adm Fosterhjemstjenesten Annen kostnad lokaler NB Engros AS 1130,35
+6 Region Nord 615900 FHT RN - adm Fosterhjemstjenesten Annen kostnad lokaler Elkjøp Norge AS 76,17
+6 Region Nord 615900 FHT RN - adm Fosterhjemstjenesten Fellesutgifter andre utleiere Heian AS -34552,82
+6 Region Nord 615900 FHT RN - adm 61900 Ombygging/flytting lokaler Fosterhjemstjenesten Renovasjon, vann, avløp o.l. Reno-Vest Bedrift AS 395
+6 Region Nord 615900 FHT RN - adm 61900 Ombygging/flytting lokaler Fosterhjemstjenesten Reparasjon og vedlikehold leide lokaler 44108,98
+6 Region Nord 615900 FHT RN - adm 61900 Ombygging/flytting lokaler Fosterhjemstjenesten Oppgradering og påkostning leide lokaler - under kr 50 000 STORGATA 70 TROMSØ AS 10817,84
+6 Region Nord 615900 Solbakken barne- og familiesenter avd. 1 foreldre og barn Sentre for foreldre og barn Strøm og oppvarming KINECT ENERGY SPOT AS 101706,55
+6 Region Nord 615900 Solbakken barne- og familiesenter avd. 1 foreldre og barn Sentre for foreldre og barn Renhold lokaler PROFFRENT AS 9852,5
+6 Region Nord 615900 Bodø Familievernkontor Familieverntjeneste Strøm og oppvarming Ishavskraft AS 8948,61
+6 Region Nord 615900 Bodø Familievernkontor Familieverntjeneste Renhold lokaler ISS Facility Services AS 7521,68
+6 Region Nord 615900 Bodø Familievernkontor Familieverntjeneste Fellesutgifter andre utleiere Saltens Damp Eiendom AS -17875
+6 Region Nord 615900 Finnsnes familievernkontor Familieverntjeneste Renhold lokaler ISS Facility Services AS 6629,18
+6 Region Nord 615900 Indre finnmark FV Familieverntjeneste Leie lokaler andre utleiere Fitnodatgeaidnu 41 AS 69970,5
+6 Region Nord 615900 Indre finnmark FV Familieverntjeneste Renhold lokaler ISS Facility Services AS 5158,09
+6 Region Nord 615900 Indre finnmark FV Familieverntjeneste Renhold lokaler MASKE AS 2258,36
+6 Region Nord 615900 Indre finnmark FV Familieverntjeneste Fellesutgifter andre utleiere Fitnodatgeaidnu 41 AS 9000
+6 Region Nord 615900 Tromsø familievernkontor Familieverntjeneste Strøm og oppvarming Ishavskraft AS 3986,47
+6 Region Nord 615900 Tromsø familievernkontor Familieverntjeneste Renhold lokaler Toma Facility Norge AS 6635,75
+6 Region Nord 615900 Tromsø familievernkontor 64525 SKM - Samtale med barn Familieverntjeneste Strøm og oppvarming Ishavskraft AS 1328,8
+6 Region Nord 615900 Tromsø familievernkontor 64525 SKM - Samtale med barn Familieverntjeneste Renhold lokaler Toma Facility Norge AS 2212
+6 Region Nord 615900 Lofoten og Vesterålen familievernkontor Familieverntjeneste Leie lokaler andre utleiere SOH EIENDOM AS 8245,28
+6 Region Nord 615900 Lofoten og Vesterålen familievernkontor Familieverntjeneste Leie lokaler andre utleiere FISKERGATA 22 SVOLVÆR AS 14530
+6 Region Nord 615900 Lofoten og Vesterålen familievernkontor Familieverntjeneste Strøm og oppvarming Ishavskraft AS 5262,35
+6 Region Nord 615900 Lofoten og Vesterålen familievernkontor Familieverntjeneste Renhold lokaler ISS Facility Services AS 1250
+6 Region Nord 622602 Lofoten og Vesterålen familievernkontor Familieverntjeneste Renhold lokaler AKG Rengjøring AS 9713
+6 Region Nord 622602 Lofoten og Vesterålen familievernkontor Familieverntjeneste Fellesutgifter andre utleiere SOH EIENDOM AS 589,54
+6 Region Nord 622602 Lofoten og Vesterålen familievernkontor Familieverntjeneste Fellesutgifter andre utleiere FISKERGATA 22 SVOLVÆR AS 4327
+6 Region Nord 622602 Harstad og Narvik familievernkontor Familieverntjeneste Leie lokaler andre utleiere Narvik Havn KF 21973
+6 Region Nord 622602 Harstad og Narvik familievernkontor Familieverntjeneste Strøm og oppvarming Ishavskraft AS 3250,83
+6 Region Nord 622602 Harstad og Narvik familievernkontor Familieverntjeneste Strøm og oppvarming Ishavskraft AS 360,93
+6 Region Nord 622602 Harstad og Narvik familievernkontor Familieverntjeneste Strøm og oppvarming Ishavskraft AS 871,25
+6 Region Nord 622602 Harstad og Narvik familievernkontor Familieverntjeneste Strøm og oppvarming Ishavskraft AS 556,12
+6 Region Nord 622602 Harstad og Narvik familievernkontor Familieverntjeneste Strøm og oppvarming Ishavskraft AS 4530,17
+6 Region Nord 622602 Harstad og Narvik familievernkontor Familieverntjeneste Renhold lokaler Narvik Havn KF 7770
+6 Region Nord 623300 Harstad og Narvik familievernkontor Familieverntjeneste Renhold lokaler Toma Facility Norge AS 3151,18
+6 Region Nord 623300 Harstad og Narvik familievernkontor Familieverntjeneste Annen kostnad lokaler NB Engros AS 2888,66
+6 Region Nord 623300 Harstad og Narvik familievernkontor Familieverntjeneste Fellesutgifter andre utleiere Narvik Havn KF 6221
+6 Region Nord 623300 Alta og Hammerfest familievernkontor Familieverntjeneste Renovasjon, vann, avløp o.l. FINNMARK RESSURSSELSKAP AS 350,98
+6 Region Nord 623300 Alta og Hammerfest familievernkontor Familieverntjeneste Strøm og oppvarming Lucerna AS 2051,11
+6 Region Nord 623300 Alta og Hammerfest familievernkontor Familieverntjeneste Strøm og oppvarming Ishavskraft AS 5331,17
+6 Region Nord 623300 Alta og Hammerfest familievernkontor Familieverntjeneste Strøm og oppvarming Ishavskraft AS 4284,71
+6 Region Nord 623300 Alta og Hammerfest familievernkontor Familieverntjeneste Renhold lokaler ISS Facility Services AS 2475,87
+6 Region Nord 623300 Alta og Hammerfest familievernkontor Familieverntjeneste Renhold lokaler ISS Facility Services AS 1637,85
+6 Region Nord 623300 Alta ungdomssenter Utsikten omsorg Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 43591,62
+6 Region Nord 623500 Alta ungdomssenter Utsikten omsorg Barnevernsinstitusjoner Renhold lokaler ISS Facility Services AS 7711,52
+6 Region Nord 623500 Røvika Åsheim Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 48528,38
+6 Region Nord 623500 Røvika Åsheim Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 65064,54
+6 Region Nord 623500 Røvika Åsheim Barnevernsinstitusjoner Renhold lokaler Busch- Sørensen Rengjøringsbyrå AS, Bodø 4170,97
+6 Region Nord 623500 Røvika Åsheim 61006 Hærverk Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Iris Service AS 1084,39
+6 Region Nord 623800 Røvika Åsheim 61006 Hærverk Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Iris Service AS 378
+6 Region Nord 624200 Røvika Åsheim 61006 Hærverk Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Iris Service AS 330,75
+6 Region Nord 624200 Røvika Åsheim 61006 Hærverk Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Rørleggern Fauske AS 497,31
+6 Region Nord 624200 Røvika Åsheim 61006 Hærverk Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Fauske Glass AS 11625
+6 Region Nord 624200 Røvika Åsheim 61006 Hærverk Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Fauske Glass AS 18173,5
+6 Region Nord 624200 Røvika Åsheim 61006 Hærverk Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Fauske Glass AS 67006
+6 Region Nord 624200 Røvika Åsheim 61006 Hærverk Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Fauske Glass AS 15883,5
+6 Region Nord 624200 Silsand ungdomssenter avdeling 1 Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Senja Avfall AS 3477
+6 Region Nord 624200 Silsand ungdomssenter avdeling 1 Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Senja Avfall Miljø AS, Finnsnes 464
+6 Region Nord 624200 Silsand ungdomssenter avdeling 1 Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 23538,12
+6 Region Nord 624200 Silsand ungdomssenter avdeling 1 Barnevernsinstitusjoner Renhold lokaler ISS Facility Services AS 12143,44
+6 Region Nord 624200 Silsand ungdomssenter avdeling 1 Barnevernsinstitusjoner Vaktmestertjenester Moland Total AS, Finnsnes 35000
+6 Region Nord 624200 Silsand ungdomssenter avdeling 1 Barnevernsinstitusjoner Vaktmestertjenester Moland Total AS, Finnsnes 3750
+6 Region Nord 624200 Silsand ungdomssenter avdeling 1 Barnevernsinstitusjoner Annen kostnad lokaler Europris Finnsnes Lavpris AS 772,75
+6 Region Nord 624200 Nye Kvæfjord ungdomssenter adm Barnevernsinstitusjoner Strøm og oppvarming Polar Kraft AS 485,84
+6 Region Nord 624200 Nye Kvæfjord ungdomssenter adm Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 17771,06
+6 Region Nord 624200 Nye Kvæfjord ungdomssenter adm Barnevernsinstitusjoner Renhold lokaler Breeze Tekstil AS 128,46
+6 Region Nord 624300 Nye Kvæfjord ungdomssenter adm Barnevernsinstitusjoner Renhold lokaler Toma Facility Norge AS 1855,27
+6 Region Nord 624300 Nye Kvæfjord ungdomssenter adm 61006 Hærverk Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler HARSTAD LÅSSERVICE AS 2638
+6 Region Nord 624300 Nye Kvæfjord ungdomssenter Storheimen Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 61515,22
+6 Region Nord 624300 Nye Kvæfjord ungdomssenter Storheimen Barnevernsinstitusjoner Renhold lokaler Breeze Tekstil AS 444,67
+6 Region Nord 624300 Nye Kvæfjord ungdomssenter Storheimen Barnevernsinstitusjoner Renhold lokaler Toma Facility Norge AS 6422,1
+6 Region Nord 624300 Nye Kvæfjord ungdomssenter Storheimen Barnevernsinstitusjoner Oppgradering og påkostning leide lokaler - under kr 50 000 XL-BYGG Kvæfjord AS 477,5
+6 Region Nord 624300 Nye Kvæfjord ungdomssenter Storheimen 61006 Hærverk Barnevernsinstitusjoner Annen kostnad lokaler CERTEGO AS, Bergen 3032,64
+6 Region Nord 624300 Nye Kvæfjord ungdomssenter Lilleheimen Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 57414,21
+6 Region Nord 624300 Nye Kvæfjord ungdomssenter Lilleheimen Barnevernsinstitusjoner Renhold lokaler Breeze Tekstil AS 415,02
+6 Region Nord 624300 Nye Kvæfjord ungdomssenter Lilleheimen Barnevernsinstitusjoner Renhold lokaler Toma Facility Norge AS 5993,96
+6 Region Nord 624400 Nye Kvæfjord ungdomssenter Lilleheimen Barnevernsinstitusjoner Oppgradering og påkostning leide lokaler - under kr 50 000 XL-BYGG Kvæfjord AS 477,5
+6 Region Nord 624400 KUS SKM Omsorg for ungdom 64132 SKM-omsorg for ungdom Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 564,93
+6 Region Nord 624400 KUS SKM Omsorg for ungdom 64132 SKM-omsorg for ungdom Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 1363,7
+6 Region Nord 624400 KUS SKM Omsorg for ungdom 64132 SKM-omsorg for ungdom Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 870,46
+6 Region Nord 624400 KUS SKM Omsorg for ungdom 64132 SKM-omsorg for ungdom Barnevernsinstitusjoner Renhold lokaler Toma Facility Norge AS 4932,27
+6 Region Nord 624400 KUS SKM Omsorg for ungdom 64132 SKM-omsorg for ungdom Barnevernsinstitusjoner Annen kostnad lokaler NB Engros AS 4521,38
+6 Region Nord 624400 Lamo ungdomssenter adm Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 33519,75
+6 Region Nord 624400 Lamo ungdomssenter adm Barnevernsinstitusjoner Vaktmestertjenester Sjøvegan Maskin & Transport AS 8517
+6 Region Nord 624400 Lamo ungdomssenter Tunet Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. PERPETUUM AS 567,91
+6 Region Nord 624400 Lamo ungdomssenter Tunet Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 60000
+6 Region Nord 624400 Lamo ungdomssenter Tunet Barnevernsinstitusjoner Renhold lokaler MASKE AS 2322,03
+6 Region Nord 624400 Lamo ungdomssenter Tunet Barnevernsinstitusjoner Vaktmestertjenester Sjøvegan Maskin & Transport AS 8517
+6 Region Nord 624400 Lamo ungdomssenter Tunet Barnevernsinstitusjoner Annen kostnad lokaler MAXI MILJØ AS 385,78
+6 Region Nord 624400 Lamo ungdomssenter Tunet 61010 Risikoavsetning - Hærverk, enetiltak/skjerming, etc. Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 2456,75
+6 Region Nord 624400 Lamo ungdomssenter Tunet 61010 Risikoavsetning - Hærverk, enetiltak/skjerming, etc. Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 12140,43
+6 Region Nord 624400 Tromsø ungdomssenter Barnevernsinstitusjoner Leie lokaler fra Statsbygg -77688,38
+6 Region Nord 624400 Tromsø ungdomssenter Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. -323,49
+6 Region Nord 624400 Tromsø ungdomssenter Barnevernsinstitusjoner Strøm og oppvarming -5634,23
+6 Region Nord 624500 Tromsø ungdomssenter Barnevernsinstitusjoner Renhold lokaler -2141,76
+6 Region Nord 624500 Tromsø ungdomssenter Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg -9490,25
+6 Region Nord 624500 Tromsø ungdomssenter Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold -2820,36
+6 Region Nord 624500 Tromsø ungdomssenter Barnevernsinstitusjoner Reparasjon og vedlikehold av anlegg, også serviceavtaler 0
+6 Region Nord 624500 Tromsø ungdomssenter 151002 Brannverntiltak Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. 0
+6 Region Nord 624500 Bodø behandlingssenter adm Barnevernsinstitusjoner Leie lokaler andre utleiere Kristin Johannessen 6000
+6 Region Nord 624500 Bodø behandlingssenter adm Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Eurocard Norway 756,75
+6 Region Nord 624500 Bodø behandlingssenter adm Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 12113,47
+6 Region Nord 624500 Bodø behandlingssenter adm Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 956,7
+6 Region Nord 624500 Bodø behandlingssenter adm Barnevernsinstitusjoner Renhold lokaler Insider Facility Solutions AS 4744
+6 Region Nord 624500 Bodø behandlingssenter adm Barnevernsinstitusjoner Vaktmestertjenester Insider Facility Solutions AS 13306
+6 Region Nord 631903 Bodø behandlingssenter adm Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Eurocard Norway 969
+6 Region Nord 631903 Bodø behandlingssenter Sandhornet Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 10900,85
+6 Region Nord 631903 Enhet for spesialiserte fosterhjem adm Fosterhjem Renhold lokaler ISS Facility Services AS 2708,87
+6 Region Nord 631903 Enhet for spesialiserte fosterhjem Fosterhjem Renovasjon, vann, avløp o.l. Retura Iris AS 72,39
+6 Region Nord 631903 Enhet for spesialiserte fosterhjem Fosterhjem Strøm og oppvarming Ishavskraft AS 78,46
+6 Region Nord 631903 Enhet for spesialiserte fosterhjem Fosterhjem Strøm og oppvarming Ishavskraft AS 189,4
+6 Region Nord 631903 Enhet for spesialiserte fosterhjem Fosterhjem Strøm og oppvarming Ishavskraft AS 120,9
+6 Region Nord 632401 Enhet for spesialiserte fosterhjem Fosterhjem Strøm og oppvarming Heian AS 3230,32
+6 Region Nord 632401 Enhet for spesialiserte fosterhjem Fosterhjem Strøm og oppvarming KINECT ENERGY SPOT AS 3346,04
+6 Region Nord 632401 Enhet for spesialiserte fosterhjem Fosterhjem Renhold lokaler ISS Facility Services AS 386,25
+6 Region Nord 632401 Enhet for spesialiserte fosterhjem Fosterhjem Renhold lokaler ISS Facility Services AS 947,02
+6 Region Nord 632401 Enhet for spesialiserte fosterhjem Fosterhjem Renhold lokaler MASKE AS 8,19
+6 Region Nord 632401 Enhet for spesialiserte fosterhjem Fosterhjem Renhold lokaler Toma Facility Norge AS 685,04
+6 Region Nord 632401 Enhet for spesialiserte fosterhjem Fosterhjem Renhold lokaler Toma Facility Norge AS 680,06
+6 Region Nord 632401 Enhet for spesialiserte fosterhjem Fosterhjem Vaktmestertjenester GP-Invest AS 131,25
+6 Region Nord 632401 Enhet for spesialiserte fosterhjem Fosterhjem Annen kostnad lokaler NB Engros AS 627,97
+6 Region Nord 632401 Enhet for spesialiserte fosterhjem Fosterhjem Annen kostnad lokaler Elkjøp Norge AS 16,47
+6 Region Nord 632401 Enhet for spesialiserte fosterhjem Fosterhjem Fellesutgifter andre utleiere Heian AS -7470,88
+6 Region Nord 632401 Enhet for spesialiserte fosterhjem 61900 Ombygging/flytting lokaler Fosterhjem Reparasjon og vedlikehold leide lokaler 3606,2
+6 Region Nord 632401 FIT-team Hammerfest Hjelpetiltak i hjemmet Renovasjon, vann, avløp o.l. FINNMARK RESSURSSELSKAP AS 350,98
+6 Region Nord 632401 FIT-team Hammerfest Hjelpetiltak i hjemmet Strøm og oppvarming Lucerna AS 2051,11
+6 Region Nord 632401 FIT-team Hammerfest Hjelpetiltak i hjemmet Strøm og oppvarming Ishavskraft AS 5331,17
+6 Region Nord 632500 FIT-team Hammerfest Hjelpetiltak i hjemmet Strøm og oppvarming Ishavskraft AS 4284,71
+6 Region Nord 632500 Sollia barne- og ungdomssenter adm Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Reno-Vest Bedrift AS 120
+6 Region Nord 632501 Sollia barne- og ungdomssenter adm Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 7807,46
+6 Region Nord 632501 Sollia barne- og ungdomssenter adm Barnevernsinstitusjoner Renhold lokaler ISS Facility Services AS 901,25
+6 Region Nord 632501 Sollia barne- og ungdomssenter adm Barnevernsinstitusjoner Renhold lokaler MASKE AS 19,11
+6 Region Nord 632501 Sollia barne- og ungdomssenter adm Barnevernsinstitusjoner Vaktmestertjenester GP-Invest AS 306,25
+6 Region Nord 632501 Sollia barne- og ungdomssenter miljøavdeling Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 81420,45
+6 Region Nord 632501 Sollia barne- og ungdomssenter miljøavdeling Barnevernsinstitusjoner Renhold lokaler ISS Facility Services AS 9398,75
+6 Region Nord 632501 Sollia barne- og ungdomssenter miljøavdeling Barnevernsinstitusjoner Renhold lokaler MASKE AS 1070,63
+6 Region Nord 633500 Sollia barne- og ungdomssenter miljøavdeling Barnevernsinstitusjoner Renhold lokaler MASKE AS 199,26
+6 Region Nord 633500 Sollia barne- og ungdomssenter miljøavdeling Barnevernsinstitusjoner Vaktmestertjenester GP-Invest AS 3193,75
+6 Region Nord 633500 Sollia barne- og ungdomssenter miljøavdeling Barnevernsinstitusjoner Annen kostnad lokaler Clas Ohlson AS 90
+6 Region Nord 633500 Sollia barne- og ungdomssenter miljøavdeling Barnevernsinstitusjoner Annen kostnad lokaler Clas Ohlson AS 90
+6 Region Nord 633500 MST Bodø Hjelpetiltak i hjemmet Renovasjon, vann, avløp o.l. Retura Iris AS 180,98
+6 Region Nord 633500 MST Bodø Hjelpetiltak i hjemmet Strøm og oppvarming Heian AS 8075,8
+6 Region Nord 633500 MST Bodø Hjelpetiltak i hjemmet Renhold lokaler Toma Facility Norge AS 1700,15
+6 Region Nord 633500 MST Bodø Hjelpetiltak i hjemmet Annen kostnad lokaler Elkjøp Norge AS 41,17
+6 Region Nord 633500 MST Bodø Hjelpetiltak i hjemmet Fellesutgifter andre utleiere Heian AS -18677,2
+6 Region Nord 633500 MST Bodø 61900 Ombygging/flytting lokaler Hjelpetiltak i hjemmet Reparasjon og vedlikehold leide lokaler 13278
+6 Region Nord 633500 MST Tromsø Hjelpetiltak i hjemmet Strøm og oppvarming Ishavskraft AS 1697,9
+6 Region Nord 633501 MST Tromsø Hjelpetiltak i hjemmet Renhold lokaler Toma Facility Norge AS 2826
+6 Region Nord 633501 MST Mo i Rana Hjelpetiltak i hjemmet Renovasjon, vann, avløp o.l. Østbø AS 181,25
+6 Region Nord 633501 MST Mo i Rana Hjelpetiltak i hjemmet Renhold lokaler ISS Facility Services AS 3125
+6 Region Nord 633501 Yttrabekken ungdomssenter administrasjon Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 16498,1
+6 Region Nord 633501 Yttrabekken ungdomssenter avdeling 1 Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 710000
+6 Region Nord 633501 Yttrabekken ungdomssenter avdeling 1 Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Østbø AS 459,25
+6 Region Nord 633501 Yttrabekken ungdomssenter avdeling 1 Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Retura HAF AS 430
+6 Region Nord 633501 Yttrabekken ungdomssenter avdeling 1 Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 89917,34
+6 Region Nord 633501 Yttrabekken ungdomssenter avdeling 1 Barnevernsinstitusjoner Renhold lokaler Coop Midt-Norge SA 37,9
+6 Region Nord 633501 Yttrabekken ungdomssenter avdeling 1 Barnevernsinstitusjoner Renhold lokaler Søstrene Renhold AS 4500
+6 Region Nord 633501 Yttrabekken ungdomssenter avdeling 1 Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 96000
+6 Region Nord 633501 Yttrabekken ungdomssenter avdeling 1 Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 36500
+6 Region Nord 633502 Yttrabekken ungdomssenter avdeling 1 64140 Leie av lager/naust/garsjer og lignende Barnevernsinstitusjoner Leie lokaler andre utleiere MELLOMVIKA 1 AS 5500
+6 Region Nord 633502 NASAK - Nasjonalt Samisk kompetansesenter Regionale fellesfunksjoner Leie lokaler andre utleiere 0
+6 Region Nord 633502 NASAK - Nasjonalt Samisk kompetansesenter Regionale fellesfunksjoner Leie lokaler andre utleiere 0
+6 Region Nord 633502 NASAK - Nasjonalt Samisk kompetansesenter Regionale fellesfunksjoner Leie lokaler andre utleiere Fitnodatgeaidnu 41 AS 13994,1
+6 Region Nord 633502 NASAK - Nasjonalt Samisk kompetansesenter Regionale fellesfunksjoner Leie lokaler andre utleiere Fitnodatgeaidnu 41 AS 34984,9
+6 Region Nord 633502 NASAK - Nasjonalt Samisk kompetansesenter Regionale fellesfunksjoner Leie lokaler andre utleiere Fitnodatgeaidnu 41 AS 20991,5
+6 Region Nord 633502 NASAK - Nasjonalt Samisk kompetansesenter Regionale fellesfunksjoner Renhold lokaler ISS Facility Services AS 825,3
+6 Region Nord 633502 NASAK - Nasjonalt Samisk kompetansesenter Regionale fellesfunksjoner Renhold lokaler ISS Facility Services AS 2579,05
+6 Region Nord 633502 NASAK - Nasjonalt Samisk kompetansesenter Regionale fellesfunksjoner Renhold lokaler ISS Facility Services AS 1237,94
+6 Region Nord 633502 NASAK - Nasjonalt Samisk kompetansesenter Regionale fellesfunksjoner Fellesutgifter andre utleiere 0
+6 Region Nord 633504 NASAK - Nasjonalt Samisk kompetansesenter Regionale fellesfunksjoner Fellesutgifter andre utleiere 0
+6 Region Nord 633504 NASAK - Nasjonalt Samisk kompetansesenter Regionale fellesfunksjoner Fellesutgifter andre utleiere Fitnodatgeaidnu 41 AS 1800
+6 Region Nord 633504 NASAK - Nasjonalt Samisk kompetansesenter Regionale fellesfunksjoner Fellesutgifter andre utleiere Fitnodatgeaidnu 41 AS 4500
+6 Region Nord 633504 NASAK - Nasjonalt Samisk kompetansesenter Regionale fellesfunksjoner Fellesutgifter andre utleiere Fitnodatgeaidnu 41 AS 2700
+6 Region Nord 633504 NASAK - Nasjonalt Samisk kompetansesenter Regionale fellesfunksjoner Fellesutgifter andre utleiere Tana Utleiebygg A/S 2311,65
+6 Region Nord 633504 NASAK - Nasjonalt Samisk kompetansesenter Regionale fellesfunksjoner Oppgradering og påkostning leide lokaler - under kr 50 000 Fitnodatgeaidnu 41 AS 4760,4
+6 Region Nord 633504 NASAK - Nasjonalt Samisk kompetansesenter Regionale fellesfunksjoner Oppgradering og påkostning leide lokaler - under kr 50 000 Fitnodatgeaidnu 41 AS 11901
+6 Region Nord 633504 NASAK - Nasjonalt Samisk kompetansesenter Regionale fellesfunksjoner Oppgradering og påkostning leide lokaler - under kr 50 000 Fitnodatgeaidnu 41 AS 7140,6
+6 Region Nord 633504 Avdelingsdirektør stab Regionale fellesfunksjoner Renovasjon, vann, avløp o.l. Remiks Næring AS 87
+6 Region Nord 633504 Avdelingsdirektør stab Regionale fellesfunksjoner Strøm og oppvarming Ishavskraft AS 139,43
+6 Region Nord 633504 Avdelingsdirektør stab Regionale fellesfunksjoner Strøm og oppvarming Ishavskraft AS 95,22
+6 Region Nord 633504 Avdelingsdirektør stab Regionale fellesfunksjoner Strøm og oppvarming Ishavskraft AS 204,96
+6 Region Nord 633504 Avdelingsdirektør stab Regionale fellesfunksjoner Strøm og oppvarming Ishavskraft AS 217,43
+6 Region Nord 633504 Avdelingsdirektør stab Regionale fellesfunksjoner Strøm og oppvarming Ishavskraft AS 232,36
+6 Region Nord 633504 Avdelingsdirektør stab Regionale fellesfunksjoner Renhold lokaler ISS Facility Services AS 15332,5
+6 Region Nord 633504 Avdelingsdirektør stab Regionale fellesfunksjoner Renhold lokaler Toma Facility Norge AS 1233,07
+6 Region Nord 634000 Avdelingsdirektør stab Regionale fellesfunksjoner Renhold lokaler Toma Facility Norge AS 614,41
+6 Region Nord 634000 Avdelingsdirektør stab Regionale fellesfunksjoner Leie parkeringsplass TRIKO HOLDING AS 5686,33
+6 Region Nord 634000 Avdelingsdirektør stab Regionale fellesfunksjoner Fellesutgifter andre utleiere TSI Drift AS 21958,4
+6 Region Nord 634000 Avdelingsdirektør stab 151012 Implementeringsstøtte PMTO Regionale fellesfunksjoner Renovasjon, vann, avløp o.l. Retura Iris AS 2,33
+6 Region Nord 634000 Avdelingsdirektør stab 151012 Implementeringsstøtte PMTO Regionale fellesfunksjoner Strøm og oppvarming Heian AS 555,12
+6 Region Nord 634000 Avdelingsdirektør stab 151012 Implementeringsstøtte PMTO Regionale fellesfunksjoner Renhold lokaler Toma Facility Norge AS 510,04
+6 Region Nord 634000 Avdelingsdirektør stab 64001 BSA region nord Regionale fellesfunksjoner Renhold lokaler ISS Facility Services AS 2832,5
+6 Region Nord 634000 Tverrfaglig helsekartlegging region nord 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Strøm og oppvarming Ishavskraft AS 1454,36
+6 Region Nord 634000 Tverrfaglig helsekartlegging region nord 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Renhold lokaler Toma Facility Norge AS 4446,76
+6 Region Nord 634000 Avdelingsdirektør omsorg for ungdom og behandling av ungdom Regionale fellesfunksjoner Strøm og oppvarming Ishavskraft AS 278,87
+6 Region Nord 634001 Avdelingsdirektør omsorg for ungdom og behandling av ungdom Regionale fellesfunksjoner Strøm og oppvarming Ishavskraft AS 190,43
+6 Region Nord 634001 Avdelingsdirektør omsorg for ungdom og behandling av ungdom Regionale fellesfunksjoner Strøm og oppvarming Ishavskraft AS 409,91
+6 Region Nord 634001 Avdelingsdirektør omsorg for ungdom og behandling av ungdom Regionale fellesfunksjoner Renhold lokaler Toma Facility Norge AS 2466,14
+6 Region Nord 634001 Alta Ungdomssenter sjøtun Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Nordlys Elektroservice AS 1159,38
+6 Region Nord 634001 Røvika ungdomssenter Administrasjon Barnevernsinstitusjoner Renhold lokaler MASKE AS 154,54
+6 Region Nord 634001 Røvika ungdomssenter Administrasjon Barnevernsinstitusjoner Renhold lokaler MASKE AS 209,46
+6 Region Nord 634001 Røvika ungdomssenter Administrasjon Barnevernsinstitusjoner Renhold lokaler Busch- Sørensen Rengjøringsbyrå AS, Bodø 947,22
+6 Region Nord 634001 Røvika ungdomssenter Skogly Barnevernsinstitusjoner Renhold lokaler MASKE AS 1133
+6 Region Nord 634001 Røvika ungdomssenter Skogly Barnevernsinstitusjoner Renhold lokaler MASKE AS 1535,71
+6 Region Nord 634001 Røvika ungdomssenter Skogly Barnevernsinstitusjoner Renhold lokaler Busch- Sørensen Rengjøringsbyrå AS, Bodø 6946,25
+6 Region Nord 634001 Røvika ungdomssenter Skogly 61006 Hærverk Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Nilsson AS 6581,5
+6 Region Nord 634001 Røvika ungdomssenter beredskapshjem Fosterhjem Renovasjon, vann, avløp o.l. FINNMARK RESSURSSELSKAP AS 236,53
+6 Region Nord 634001 Røvika ungdomssenter beredskapshjem Fosterhjem Renovasjon, vann, avløp o.l. Remiks Næring AS 130
+6 Region Nord 634001 Røvika ungdomssenter beredskapshjem Fosterhjem Strøm og oppvarming Lucerna AS 995,72
+6 Region Nord 634001 Røvika ungdomssenter beredskapshjem Fosterhjem Strøm og oppvarming Ishavskraft AS 325,3
+6 Region Nord 634001 Røvika ungdomssenter beredskapshjem Fosterhjem Renhold lokaler MASKE AS 257,41
+6 Region Nord 634001 Røvika ungdomssenter beredskapshjem Fosterhjem Renhold lokaler MASKE AS 348,91
+6 Region Nord 634001 Røvika ungdomssenter beredskapshjem Fosterhjem Renhold lokaler Busch- Sørensen Rengjøringsbyrå AS, Bodø 1578,69
+6 Region Nord 634800 Røvika ungdomssenter beredskapshjem Fosterhjem Fellesutgifter andre utleiere TSI Drift AS 30741,76
+6 Region Nord 634800 Enhet for inntak Bufetat region nord Inntak Renovasjon, vann, avløp o.l. Remiks Næring AS 348
+6 Region Nord 634800 Enhet for inntak Bufetat region nord Inntak Strøm og oppvarming Ishavskraft AS 882,97
+6 Region Nord 634800 Enhet for inntak Bufetat region nord Inntak Strøm og oppvarming Heian AS 2683,08
+6 Region Nord 634800 Enhet for inntak Bufetat region nord Inntak Renhold lokaler Toma Facility Norge AS 2465,21
+6 Region Nord 634800 Enhet for inntak Bufetat region nord Inntak Fellesutgifter andre utleiere TSI Drift AS 83441,92
+6 Region Nord 634800 Enhet for inntak Bufetat region nord Fosterhjemstjenesten Renovasjon, vann, avløp o.l. Retura Iris AS 11,24
+6 Region Nord 634800 Enhet for inntak avd. fosterhjem Inntak Renhold lokaler ISS Facility Services AS 2832,5
+6 Region Nord 634800 Tromsø ungdomssenter Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Remiks Næring AS 115,84
+6 Region Nord 634800 Tromsø ungdomssenter Barnevernsinstitusjoner Vakthold lokaler Tromsø Brann og Redning KF 12000
+6 Region Nord 634800 Tromsø ungdomssenter 61900 Ombygging/flytting lokaler Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Remiks Næring AS 21313,75
+6 Region Nord 634800 Tromsø ungdomssenter Flo Barnevernsinstitusjoner Leie lokaler fra Statsbygg -465625,81
+6 Region Nord 634800 Tromsø ungdomssenter Flo Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. -1938,85
+6 Region Nord 634800 Tromsø ungdomssenter Flo Barnevernsinstitusjoner Strøm og oppvarming -33768,77
+6 Region Nord 634800 Tromsø ungdomssenter Flo Barnevernsinstitusjoner Renhold lokaler -12836,62
+6 Region Nord 634800 Tromsø ungdomssenter Flo Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg -56879,88
+6 Region Nord 634801 Tromsø ungdomssenter Flo Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold -16903,82
+6 Region Nord 634801 Tromsø ungdomssenter Fjære Barnevernsinstitusjoner Leie lokaler fra Statsbygg -465625,81
+6 Region Nord 634801 Tromsø ungdomssenter Fjære Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. -1938,85
+6 Region Nord 634801 Tromsø ungdomssenter Fjære Barnevernsinstitusjoner Strøm og oppvarming -33768,77
+6 Region Nord 635700 Tromsø ungdomssenter Fjære Barnevernsinstitusjoner Renhold lokaler -12836,62
+6 Region Nord 635700 Tromsø ungdomssenter Fjære Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg -56879,87
+6 Region Nord 635700 Tromsø ungdomssenter Fjære Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold -16903,82
+6 Region Nord 635703 Tromsø ungdomssenter Flo Barnevernsinstitusjoner Leie lokaler fra Statsbygg 465625,81
+6 Region Nord 635703 Tromsø ungdomssenter Flo Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. 1938,85
+6 Region Nord 635703 Tromsø ungdomssenter Flo Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Remiks Næring AS 694,23
+6 Region Nord 635703 Tromsø ungdomssenter Flo Barnevernsinstitusjoner Strøm og oppvarming 33768,77
+6 Region Nord 635703 Tromsø ungdomssenter Flo Barnevernsinstitusjoner Renhold lokaler 12836,62
+6 Region Nord 635703 Tromsø ungdomssenter Flo Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg 56879,88
+6 Region Nord 635703 Tromsø ungdomssenter Flo Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold 16903,82
+6 Region Nord 635703 Tromsø ungdomssenter Fjære Barnevernsinstitusjoner Leie lokaler fra Statsbygg 465625,81
+6 Region Nord 635703 Tromsø ungdomssenter Fjære Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. 1938,85
+6 Region Nord 635703 Tromsø ungdomssenter Fjære Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Remiks Næring AS 694,23
+6 Region Nord 635703 Tromsø ungdomssenter Fjære Barnevernsinstitusjoner Strøm og oppvarming 33768,77
+6 Region Nord 635703 Tromsø ungdomssenter Fjære Barnevernsinstitusjoner Renhold lokaler 12836,62
+6 Region Nord 635703 Tromsø ungdomssenter Fjære Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg 56879,87
+6 Region Nord 635703 Tromsø ungdomssenter Fjære Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold 16903,82
+6 Region Nord 635703 FHT RN - adm Fosterhjemstjenesten Renovasjon, vann, avløp o.l. Retura Iris AS 14,34
+6 Region Nord 635703 FHT RN - adm Fosterhjemstjenesten Renovasjon, vann, avløp o.l. FINNMARK RESSURSSELSKAP AS 587,52
+6 Region Nord 635703 FHT RN - adm Fosterhjemstjenesten Renovasjon, vann, avløp o.l. Remiks Næring AS 435
+6 Region Nord 635703 FHT RN - adm Fosterhjemstjenesten Strøm og oppvarming Lucerna AS 2473,23
+6 Region Nord 635703 FHT RN - adm Fosterhjemstjenesten Strøm og oppvarming Ishavskraft AS 139,43
+6 Region Nord 635703 FHT RN - adm Fosterhjemstjenesten Strøm og oppvarming Ishavskraft AS 95,22
+6 Region Nord 635703 FHT RN - adm Fosterhjemstjenesten Strøm og oppvarming Ishavskraft AS 204,96
+6 Region Nord 635703 FHT RN - adm Fosterhjemstjenesten Strøm og oppvarming Ishavskraft AS 882,97
+6 Region Nord 635703 FHT RN - adm Fosterhjemstjenesten Strøm og oppvarming Heian AS 3423,24
+6 Region Nord 635703 FHT RN - adm Fosterhjemstjenesten Renhold lokaler Toma Facility Norge AS 1233,07
+6 Region Nord 635703 FHT RN - adm Fosterhjemstjenesten Renhold lokaler Toma Facility Norge AS 3145,27
+6 Region Nord 635703 FHT RN - adm Fosterhjemstjenesten Leie parkeringsplass Ulrix eiendom as 12600
+6 Region Nord 635703 FHT RN - adm Fosterhjemstjenesten Leie parkeringsplass Ulrix eiendom as 4200
+6 Region Nord 635703 FHT RN - adm Fosterhjemstjenesten Fellesutgifter andre utleiere TSI Drift AS 83441,92
+6 Region Nord 635703 Solbakken barne- og familiesenter Sentre for foreldre og barn Renhold lokaler MASKE AS 1548,78
+6 Region Nord 635703 Bodø Familievernkontor Familieverntjeneste Strøm og oppvarming Ishavskraft AS 4156,08
+6 Region Nord 635703 Bodø Familievernkontor Familieverntjeneste Reparasjon og vedlikehold leide lokaler Haaland Nord AS 6396,6
+6 Region Nord 635703 Tromsø familievernkontor Familieverntjeneste Strøm og oppvarming Ishavskraft AS 2348,3
+6 Region Nord 635703 Tromsø familievernkontor Familieverntjeneste Renhold lokaler Toma Facility Norge AS 6635,65
+6 Region Nord 635703 Tromsø familievernkontor 64525 SKM - Samtale med barn Familieverntjeneste Strøm og oppvarming Ishavskraft AS 782,76
+6 Region Nord 635703 Tromsø familievernkontor 64525 SKM - Samtale med barn Familieverntjeneste Renhold lokaler Toma Facility Norge AS 2211,89
+6 Region Nord 635703 Lofoten og Vesterålen familievernkontor Familieverntjeneste Leie lokaler andre utleiere FISKERGATA 22 SVOLVÆR AS 14530
+6 Region Nord 635703 Lofoten og Vesterålen familievernkontor Familieverntjeneste Strøm og oppvarming Ishavskraft AS 2803,5
+6 Region Nord 635703 Lofoten og Vesterålen familievernkontor Familieverntjeneste Renhold lokaler AKG Rengjøring AS 9713
+6 Region Nord 635703 Lofoten og Vesterålen familievernkontor Familieverntjeneste Fellesutgifter andre utleiere FISKERGATA 22 SVOLVÆR AS 4327
+6 Region Nord 635703 Harstad og Narvik familievernkontor Familieverntjeneste Leie lokaler andre utleiere Narvik Havn KF 21973
+6 Region Nord 635703 Harstad og Narvik familievernkontor Familieverntjeneste Strøm og oppvarming Ishavskraft AS 1753,59
+6 Region Nord 635703 Harstad og Narvik familievernkontor Familieverntjeneste Strøm og oppvarming Ishavskraft AS 356,33
+6 Region Nord 635703 Harstad og Narvik familievernkontor Familieverntjeneste Strøm og oppvarming Ishavskraft AS 243,33
+6 Region Nord 635703 Harstad og Narvik familievernkontor Familieverntjeneste Strøm og oppvarming Ishavskraft AS 523,77
+6 Region Nord 635704 Harstad og Narvik familievernkontor Familieverntjeneste Renhold lokaler Narvik Havn KF 7770
+6 Region Nord 635704 Harstad og Narvik familievernkontor Familieverntjeneste Renhold lokaler Toma Facility Norge AS 3151,17
+6 Region Nord 635704 Harstad og Narvik familievernkontor Familieverntjeneste Fellesutgifter andre utleiere Narvik Havn KF 6221
+6 Region Nord 635704 Alta og Hammerfest familievernkontor Familieverntjeneste Renovasjon, vann, avløp o.l. FINNMARK RESSURSSELSKAP AS 350,98
+6 Region Nord 635704 Alta og Hammerfest familievernkontor Familieverntjeneste Strøm og oppvarming Lucerna AS 1477,51
+6 Region Nord 635704 Alta og Hammerfest familievernkontor Familieverntjeneste Renhold lokaler ISS Facility Services AS 2832,5
+6 Region Nord 635704 Røvika Åsheim Barnevernsinstitusjoner Renhold lokaler MASKE AS 721,04
+6 Region Nord 635800 Røvika Åsheim Barnevernsinstitusjoner Renhold lokaler MASKE AS 977,31
+6 Region Nord 635800 Røvika Åsheim Barnevernsinstitusjoner Renhold lokaler Busch- Sørensen Rengjøringsbyrå AS, Bodø 4420,34
+6 Region Nord 635800 Silsand ungdomssenter administrasjon Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 1528
+6 Region Nord 635800 Silsand ungdomssenter avdeling 1 Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Senja Avfall AS 3666
+6 Region Nord 635800 Silsand ungdomssenter avdeling 1 Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Senja Avfall Miljø AS, Finnsnes 348
+6 Region Nord 635800 Silsand ungdomssenter avdeling 1 Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 11205,66
+6 Region Nord 635800 Silsand ungdomssenter avdeling 1 Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Clas Ohlson AS 150
+6 Region Nord 635800 Silsand ungdomssenter avdeling 1 151003 Prosjektering og utvikling av eiendom/bygg Barnevernsinstitusjoner Vaktmestertjenester Mitra AS 750
+6 Region Nord 635800 Nye Kvæfjord ungdomssenter adm Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. HRS Miljø AS 1219,66
+6 Region Nord 635800 Nye Kvæfjord ungdomssenter adm Barnevernsinstitusjoner Strøm og oppvarming Polar Kraft AS 427,71
+6 Region Nord 635800 Nye Kvæfjord ungdomssenter adm Barnevernsinstitusjoner Renhold lokaler Toma Facility Norge AS 1855,27
+6 Region Nord 635800 Nye Kvæfjord ungdomssenter Storheimen Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. HRS Miljø AS 4221,91
+6 Region Nord 635800 Nye Kvæfjord ungdomssenter Storheimen Barnevernsinstitusjoner Renhold lokaler Toma Facility Norge AS 6422,1
+6 Region Nord 635801 Nye Kvæfjord ungdomssenter Storheimen 61006 Hærverk Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler HARSTAD LÅSSERVICE AS 7411,5
+6 Region Nord 635801 Nye Kvæfjord ungdomssenter Storheimen 63010 Pilotering - utvidet målgruppe Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler HARSTAD LÅSSERVICE AS 565
+6 Region Nord 635801 Nye Kvæfjord ungdomssenter Storheimen 63010 Pilotering - utvidet målgruppe Barnevernsinstitusjoner Oppgradering og påkostning leide lokaler - under kr 50 000 HARSTAD LÅSSERVICE AS 7759
+6 Region Nord 635801 Nye Kvæfjord ungdomssenter Lilleheimen Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. HRS Miljø AS 3940,45
+6 Region Nord 635801 Nye Kvæfjord ungdomssenter Lilleheimen Barnevernsinstitusjoner Renhold lokaler Toma Facility Norge AS 5993,96
+6 Region Nord 635801 Nye Kvæfjord ungdomssenter Lilleheimen 61006 Hærverk Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler HARSTAD LÅSSERVICE AS 7411,5
+6 Region Nord 635801 Nye Kvæfjord ungdomssenter Lilleheimen 63010 Pilotering - utvidet målgruppe Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler HARSTAD LÅSSERVICE AS 565
+6 Region Nord 635801 Nye Kvæfjord ungdomssenter Lilleheimen 63010 Pilotering - utvidet målgruppe Barnevernsinstitusjoner Oppgradering og påkostning leide lokaler - under kr 50 000 HARSTAD LÅSSERVICE AS 7759
+6 Region Nord 635801 KUS SKM Omsorg for ungdom 64132 SKM-omsorg for ungdom Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 557,74
+6 Region Nord 635801 KUS SKM Omsorg for ungdom 64132 SKM-omsorg for ungdom Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 380,86
+6 Region Nord 635801 KUS SKM Omsorg for ungdom 64132 SKM-omsorg for ungdom Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 819,82
+6 Region Nord 635801 KUS SKM Omsorg for ungdom 64132 SKM-omsorg for ungdom Barnevernsinstitusjoner Renhold lokaler Toma Facility Norge AS 4932,27
+6 Region Nord 635801 Lamo ungdomssenter adm Barnevernsinstitusjoner Renhold lokaler AKSJESELSKAP SALANGSVASK 7401,25
+6 Region Nord 641600 Lamo ungdomssenter Tunet Barnevernsinstitusjoner Renhold lokaler AKSJESELSKAP SALANGSVASK 12000
+6 Region Nord 641600 Bodø behandlingssenter adm Barnevernsinstitusjoner Leie lokaler andre utleiere Kristin Johannessen 6000
+6 Region Nord 641600 Bodø behandlingssenter adm Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 6269,77
+6 Region Nord 641600 Bodø behandlingssenter adm Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 660,63
+6 Region Nord 641600 Bodø behandlingssenter adm Barnevernsinstitusjoner Renhold lokaler Insider Facility Solutions AS 4744
+6 Region Nord 641600 Bodø behandlingssenter adm Barnevernsinstitusjoner Vakthold lokaler Addsecure AS 9720
+6 Region Nord 641800 Bodø behandlingssenter adm Barnevernsinstitusjoner Vaktmestertjenester Insider Facility Solutions AS 1981
+6 Region Nord 641800 Bodø behandlingssenter adm Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Elektro Bodø AS 20417
+6 Region Nord 641800 Bodø behandlingssenter adm Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Coop Nordland SA 937
+6 Region Nord 641800 Bodø behandlingssenter adm Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler BODØ RØRTEKNIKK AS 3537,5
+6 Region Nord 641800 Bodø behandlingssenter Sandhornet Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 5492,65
+6 Region Nord 641800 Bodø behandlingssenter Sandhornet Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Julius Jakhelln AS 571
+6 Region Nord 641800 Enhet for spesialiserte fosterhjem Fosterhjem Renovasjon, vann, avløp o.l. Retura Iris AS 3,1
+6 Region Nord 641900 Enhet for spesialiserte fosterhjem Fosterhjem Strøm og oppvarming Ishavskraft AS 77,46
+6 Region Nord 641900 Enhet for spesialiserte fosterhjem Fosterhjem Strøm og oppvarming Ishavskraft AS 52,9
+6 Region Nord 641900 Enhet for spesialiserte fosterhjem Fosterhjem Strøm og oppvarming Ishavskraft AS 113,86
+6 Region Nord 641900 Enhet for spesialiserte fosterhjem Fosterhjem Strøm og oppvarming Heian AS 740,16
+6 Region Nord 641900 Enhet for spesialiserte fosterhjem Fosterhjem Renhold lokaler Toma Facility Norge AS 685,04
+6 Region Nord 641900 Enhet for spesialiserte fosterhjem Fosterhjem Renhold lokaler Toma Facility Norge AS 680,06
+6 Region Nord 643100 FIT-team Hammerfest Hjelpetiltak i hjemmet Renovasjon, vann, avløp o.l. FINNMARK RESSURSSELSKAP AS 350,98
+6 Region Nord 643101 FIT-team Hammerfest Hjelpetiltak i hjemmet Strøm og oppvarming Lucerna AS 1477,51
+6 Region Nord 643101 Sollia barne- og ungdomssenter adm Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Reno-Vest Bedrift AS 150
+6 Region Nord 643101 Sollia barne- og ungdomssenter miljøavdeling 61006 Hærverk Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler VELO LÅS & BESLAG AS 2743,75
+6 Region Nord 643101 MST Bodø Hjelpetiltak i hjemmet Renovasjon, vann, avløp o.l. Retura Iris AS 7,75
+6 Region Nord 643101 MST Bodø Hjelpetiltak i hjemmet Strøm og oppvarming Heian AS 1850,4
+6 Region Nord 643101 MST Bodø Hjelpetiltak i hjemmet Renhold lokaler Toma Facility Norge AS 1700,15
+6 Region Nord 643101 MST Tromsø Hjelpetiltak i hjemmet Strøm og oppvarming Ishavskraft AS 1000,2
+6 Region Nord 643101 MST Tromsø Hjelpetiltak i hjemmet Renhold lokaler Toma Facility Norge AS 2826,3
+6 Region Nord 660030 MST Mo i Rana Hjelpetiltak i hjemmet Renovasjon, vann, avløp o.l. Østbø AS 186,25
+6 Region Nord 660030 Yttrabekken ungdomssenter avdeling 1 Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Østbø AS 1656,75
+6 Region Nord 660030 Yttrabekken ungdomssenter avdeling 1 Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Retura HAF AS 430
+6 Region Nord 660030 Yttrabekken ungdomssenter avdeling 1 Barnevernsinstitusjoner Renhold lokaler Søstrene Renhold AS 4500
+6 Region Nord 660030 Yttrabekken ungdomssenter avdeling 1 Barnevernsinstitusjoner Annen kostnad lokaler Biltema Norge AS 204
+6 Region Nord 660030 Yttrabekken ungdomssenter avdeling 1 Barnevernsinstitusjoner Annen kostnad lokaler Biltema Norge AS 234
+6 Region Nord 660030 Yttrabekken ungdomssenter avdeling 1 Barnevernsinstitusjoner Annen kostnad lokaler Biltema Norge AS 1000,7
+6 Region Nord 660030 Yttrabekken ungdomssenter avdeling 1 Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler 1388
+6 Region Nord 600300 Avdelingsdirektør stab Regionale fellesfunksjoner Leie lokaler andre utleiere Håkonsgate 4 AS 44499,6
+6 Region Nord 600300 Avdelingsdirektør stab Regionale fellesfunksjoner Leie lokaler andre utleiere HARILA EIENDOM AS 17032,27
+6 Region Nord 600300 Avdelingsdirektør stab Regionale fellesfunksjoner Leie lokaler andre utleiere Løkkeveien 33 AS 520583,85
+6 Region Nord 600300 Avdelingsdirektør stab Regionale fellesfunksjoner Leie lokaler andre utleiere STORGATA 70 TROMSØ AS 48992,81
+6 Region Nord 600300 Avdelingsdirektør stab Regionale fellesfunksjoner Leie lokaler andre utleiere Brennbygget AS 95304,9
+6 Region Nord 600300 Avdelingsdirektør stab Regionale fellesfunksjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 9418,4
+6 Region Nord 600300 Avdelingsdirektør stab Regionale fellesfunksjoner Renovasjon, vann, avløp o.l. Remiks Næring AS 60
+6 Region Nord 600300 Avdelingsdirektør stab Regionale fellesfunksjoner Renovasjon, vann, avløp o.l. Remiks Næring AS 258,5
+6 Region Nord 600300 Avdelingsdirektør stab Regionale fellesfunksjoner Strøm og oppvarming Statsbyggs hovedkontor 2000
+6 Region Nord 600300 Avdelingsdirektør stab Regionale fellesfunksjoner Strøm og oppvarming Ishavskraft AS 105,65
+6 Region Nord 600300 Avdelingsdirektør stab Regionale fellesfunksjoner Strøm og oppvarming Ishavskraft AS 90,16
+6 Region Nord 600300 Avdelingsdirektør stab Regionale fellesfunksjoner Strøm og oppvarming Ishavskraft AS 179,01
+6 Region Nord 600300 Avdelingsdirektør stab Regionale fellesfunksjoner Strøm og oppvarming Ishavskraft AS 181
+6 Region Nord 600300 Avdelingsdirektør stab Regionale fellesfunksjoner Strøm og oppvarming Ishavskraft AS 155,79
+6 Region Nord 600300 Avdelingsdirektør stab Regionale fellesfunksjoner Strøm og oppvarming HARILA EIENDOM AS 2793,54
+6 Region Nord 600300 Avdelingsdirektør stab Regionale fellesfunksjoner Strøm og oppvarming Løkkeveien 33 AS 34424,01
+6 Region Nord 600300 Avdelingsdirektør stab Regionale fellesfunksjoner Strøm og oppvarming POLARIS EIENDOMSDRIFT AS 3750
+6 Region Nord 600300 Avdelingsdirektør stab Regionale fellesfunksjoner Renhold lokaler ISS Facility Services AS 1262,67
+6 Region Nord 600300 Avdelingsdirektør stab Regionale fellesfunksjoner Renhold lokaler ISS Facility Services AS 1595,52
+6 Region Nord 600300 Avdelingsdirektør stab Regionale fellesfunksjoner Renhold lokaler ISS Facility Services AS 13440,15
+6 Region Nord 600300 Avdelingsdirektør stab Regionale fellesfunksjoner Renhold lokaler ISS Facility Services AS 1805,65
+6 Region Nord 600300 Avdelingsdirektør stab Regionale fellesfunksjoner Renhold lokaler ISS Facility Services AS 1052,24
+6 Region Nord 600300 Avdelingsdirektør stab Regionale fellesfunksjoner Renhold lokaler ISS Facility Services AS 1504,93
+6 Region Nord 600300 Avdelingsdirektør stab Regionale fellesfunksjoner Renhold lokaler ISS Facility Services AS 11200,26
+6 Region Nord 600400 Avdelingsdirektør stab Regionale fellesfunksjoner Renhold lokaler ISS Facility Services AS 1329,62
+6 Region Nord 600501 Avdelingsdirektør stab Regionale fellesfunksjoner Renhold lokaler Toma Facility Norge AS 1233,07
+6 Region Nord 600501 Avdelingsdirektør stab Regionale fellesfunksjoner Renhold lokaler Toma Facility Norge AS 614,41
+6 Region Nord 600501 Avdelingsdirektør stab Regionale fellesfunksjoner Renhold lokaler Toma Facility Norge AS 266,35
+6 Region Nord 600501 Avdelingsdirektør stab Regionale fellesfunksjoner Fellesutgifter andre utleiere Håkonsgate 4 AS 6300
+6 Region Nord 600501 Avdelingsdirektør stab Regionale fellesfunksjoner Fellesutgifter andre utleiere HARILA EIENDOM AS -4945,5
+6 Region Nord 600700 Avdelingsdirektør stab Regionale fellesfunksjoner Fellesutgifter andre utleiere HARILA EIENDOM AS 3153,3
+6 Region Nord 600700 Avdelingsdirektør stab Regionale fellesfunksjoner Fellesutgifter andre utleiere Brennbygget AS 36944,8
+6 Region Nord 600700 Avdelingsdirektør stab Regionale fellesfunksjoner Fellesutgifter andre utleiere Løkkeveien 33 AS 116512,56
+6 Region Nord 600700 Avdelingsdirektør stab Regionale fellesfunksjoner Fellesutgifter andre utleiere POLARIS EIENDOMSDRIFT AS 5722,63
+6 Region Nord 600700 Avdelingsdirektør stab Regionale fellesfunksjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 1500
+6 Region Nord 611900 Avdelingsdirektør stab Regionale fellesfunksjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 527,8
+6 Region Nord 611900 Avdelingsdirektør stab 151012 Implementeringsstøtte PMTO Regionale fellesfunksjoner Leie lokaler andre utleiere Heian AS 27709,98
+6 Region Nord 611901 Avdelingsdirektør stab 151012 Implementeringsstøtte PMTO Regionale fellesfunksjoner Leie lokaler andre utleiere Løkkeveien 33 AS 45665,25
+6 Region Nord 611901 Avdelingsdirektør stab 151012 Implementeringsstøtte PMTO Regionale fellesfunksjoner Renovasjon, vann, avløp o.l. Retura Iris AS 2,25
+6 Region Nord 611901 Avdelingsdirektør stab 151012 Implementeringsstøtte PMTO Regionale fellesfunksjoner Strøm og oppvarming Løkkeveien 33 AS 3019,65
+6 Region Nord 612400 Avdelingsdirektør stab 151012 Implementeringsstøtte PMTO Regionale fellesfunksjoner Renhold lokaler ISS Facility Services AS 1178,95
+6 Region Nord 612400 Avdelingsdirektør stab 151012 Implementeringsstøtte PMTO Regionale fellesfunksjoner Renhold lokaler ISS Facility Services AS 982,49
+6 Region Nord 612400 Avdelingsdirektør stab 151012 Implementeringsstøtte PMTO Regionale fellesfunksjoner Renhold lokaler Toma Facility Norge AS 510,04
+6 Region Nord 612402 Avdelingsdirektør stab 151012 Implementeringsstøtte PMTO Regionale fellesfunksjoner Vaktmestertjenester Newsec Basale AS 49,88
+6 Region Nord 612402 Avdelingsdirektør stab 151012 Implementeringsstøtte PMTO Regionale fellesfunksjoner Fellesutgifter andre utleiere Heian AS 2151,48
+6 Region Nord 612402 Avdelingsdirektør stab 151012 Implementeringsstøtte PMTO Regionale fellesfunksjoner Fellesutgifter andre utleiere Løkkeveien 33 AS 10220,4
+6 Region Nord 612402 Avdelingsdirektør stab 64001 BSA region nord Regionale fellesfunksjoner Leie lokaler andre utleiere Løkkeveien 33 AS 109596,6
+6 Region Nord 612402 Avdelingsdirektør stab 64001 BSA region nord Regionale fellesfunksjoner Strøm og oppvarming Løkkeveien 33 AS 7247,16
+6 Region Nord 612402 Avdelingsdirektør stab 64001 BSA region nord Regionale fellesfunksjoner Renhold lokaler ISS Facility Services AS 2829,49
+6 Region Nord 612402 Avdelingsdirektør stab 64001 BSA region nord Regionale fellesfunksjoner Renhold lokaler ISS Facility Services AS 2357,95
+6 Region Nord 612402 Avdelingsdirektør stab 64001 BSA region nord Regionale fellesfunksjoner Fellesutgifter andre utleiere Løkkeveien 33 AS 24528,96
+6 Region Nord 612402 Avdelingsdirektør inntak og fosterhjemsrekruttering Inntak Leie lokaler andre utleiere Brennbygget AS 247792,74
+6 Region Nord 612402 Avdelingsdirektør inntak og fosterhjemsrekruttering Inntak Strøm og oppvarming Ishavskraft AS 832,85
+6 Region Nord 612402 Tverrfaglig helsekartlegging region nord 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Strøm og oppvarming Ishavskraft AS 1078,32
+6 Region Nord 612402 Tverrfaglig helsekartlegging region nord 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Renhold lokaler Toma Facility Norge AS 4446,76
+6 Region Nord 612402 Tverrfaglig helsekartlegging region nord 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Fellesutgifter andre utleiere Brennbygget AS 96056,48
+6 Region Nord 612403 Avdelingsdirektør omsorg for ungdom og behandling av ungdom Regionale fellesfunksjoner Leie lokaler andre utleiere Håkonsgate 4 AS 88999,2
+6 Region Nord 612403 Avdelingsdirektør omsorg for ungdom og behandling av ungdom Regionale fellesfunksjoner Strøm og oppvarming Ishavskraft AS 211,3
+6 Region Nord 612403 Avdelingsdirektør omsorg for ungdom og behandling av ungdom Regionale fellesfunksjoner Strøm og oppvarming Ishavskraft AS 180,32
+6 Region Nord 612403 Avdelingsdirektør omsorg for ungdom og behandling av ungdom Regionale fellesfunksjoner Strøm og oppvarming Ishavskraft AS 358,02
+6 Region Nord 612403 Avdelingsdirektør omsorg for ungdom og behandling av ungdom Regionale fellesfunksjoner Renhold lokaler Toma Facility Norge AS 2466,14
+6 Region Nord 612403 Avdelingsdirektør omsorg for ungdom og behandling av ungdom Regionale fellesfunksjoner Renhold lokaler Toma Facility Norge AS 532,69
+6 Region Nord 612403 Avdelingsdirektør omsorg for ungdom og behandling av ungdom Regionale fellesfunksjoner Leie parkeringsplass Byparkering AS 5280
+6 Region Nord 612403 Avdelingsdirektør omsorg for ungdom og behandling av ungdom Regionale fellesfunksjoner Leie parkeringsplass Fjordgata 11 Harstad AS 3720
+6 Region Nord 612403 Avdelingsdirektør omsorg for ungdom og behandling av ungdom Regionale fellesfunksjoner Leie parkeringsplass Nordic Investment As 8580
+6 Region Nord 612403 Avdelingsdirektør omsorg for ungdom og behandling av ungdom Regionale fellesfunksjoner Fellesutgifter andre utleiere Håkonsgate 4 AS 12600
+6 Region Nord 612403 Alta Ungdomssenter administrasjon Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 95642,62
+6 Region Nord 612403 Alta Ungdomssenter administrasjon Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Vefas Retur AS 1187
+6 Region Nord 612403 Alta Ungdomssenter administrasjon Barnevernsinstitusjoner Renhold lokaler ISS Facility Services AS 1998,71
+6 Region Nord 612403 Alta Ungdomssenter administrasjon Barnevernsinstitusjoner Renhold lokaler ISS Facility Services AS 1665,62
+6 Region Nord 612403 Alta Ungdomssenter administrasjon Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 4390,14
+6 Region Nord 612403 Alta Ungdomssenter sjøtun Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 476840,1
+6 Region Nord 612403 Alta Ungdomssenter sjøtun Barnevernsinstitusjoner Renhold lokaler ISS Facility Services AS 17812
+6 Region Nord 614600 Alta Ungdomssenter sjøtun Barnevernsinstitusjoner Renhold lokaler ISS Facility Services AS 14843,54
+6 Region Nord 614600 Alta Ungdomssenter sjøtun Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 80943,32
+6 Region Nord 614600 Alta Ungdomssenter sjøtun Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 15577,33
+6 Region Nord 614600 Alta Ungdomssenter sjøtun Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Coop Finnmark SA 1633
+6 Region Nord 614600 Alta Ungdomssenter sjøtun 61006 Hærverk Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 300566
+6 Region Nord 614600 Røvika ungdomssenter Administrasjon Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 82296,63
+6 Region Nord 614600 Røvika ungdomssenter Administrasjon Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Iris Service AS 32,22
+6 Region Nord 614600 Røvika ungdomssenter Administrasjon Barnevernsinstitusjoner Renhold lokaler Busch- Sørensen Rengjøringsbyrå AS, Bodø 947,22
+6 Region Nord 614600 Røvika ungdomssenter Administrasjon Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 14166,28
+6 Region Nord 614600 Røvika ungdomssenter Administrasjon Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 6221,02
+6 Region Nord 614600 Røvika ungdomssenter Skogly Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 603508,6
+6 Region Nord 614600 Røvika ungdomssenter Skogly Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Iris Service AS 236,25
+6 Region Nord 614600 Røvika ungdomssenter Skogly Barnevernsinstitusjoner Renhold lokaler Busch- Sørensen Rengjøringsbyrå AS, Bodø 6946,25
+6 Region Nord 614700 Røvika ungdomssenter Skogly Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 103886,05
+6 Region Nord 614700 Røvika ungdomssenter Skogly Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 45620,84
+6 Region Nord 614700 Røvika ungdomssenter Skogly 61006 Hærverk Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Fauske Glass AS 24075
+6 Region Nord 614700 Røvika ungdomssenter Skogly 61006 Hærverk Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Olaugs Innramming, Olaug Nelly Rindahl 1495
+6 Region Nord 614700 Røvika ungdomssenter beredskapshjem Fosterhjem Leie lokaler andre utleiere Isbjørn Eiendom AS 76153,83
+6 Region Nord 614700 Røvika ungdomssenter beredskapshjem Fosterhjem Leie lokaler andre utleiere Femur Eiendom AS 65102,5
+6 Region Nord 614700 Røvika ungdomssenter beredskapshjem Fosterhjem Leie lokaler andre utleiere STORGATA 70 TROMSØ AS 68589,93
+6 Region Nord 614700 Røvika ungdomssenter beredskapshjem Fosterhjem Leie lokaler fra Statsbygg Statsbyggs hovedkontor 3641,6
+6 Region Nord 614700 Røvika ungdomssenter beredskapshjem Fosterhjem Leie lokaler fra Statsbygg Statsbyggs hovedkontor 36335,5
+6 Region Nord 614700 Røvika ungdomssenter beredskapshjem Fosterhjem Leie lokaler fra Statsbygg Statsbyggs hovedkontor 109728,84
+6 Region Nord 614700 Røvika ungdomssenter beredskapshjem Fosterhjem Renovasjon, vann, avløp o.l. FINNMARK RESSURSSELSKAP AS 236,53
+6 Region Nord 614700 Røvika ungdomssenter beredskapshjem Fosterhjem Renovasjon, vann, avløp o.l. FINNMARK RESSURSSELSKAP AS 236,53
+6 Region Nord 614700 Røvika ungdomssenter beredskapshjem Fosterhjem Renovasjon, vann, avløp o.l. Remiks Næring AS 84
+6 Region Nord 614710 Røvika ungdomssenter beredskapshjem Fosterhjem Renovasjon, vann, avløp o.l. Remiks Næring AS 361,9
+6 Region Nord 614710 Røvika ungdomssenter beredskapshjem Fosterhjem Renovasjon, vann, avløp o.l. Iris Service AS 53,69
+6 Region Nord 614710 Røvika ungdomssenter beredskapshjem Fosterhjem Strøm og oppvarming Lucerna AS 731,64
+6 Region Nord 614710 Røvika ungdomssenter beredskapshjem Fosterhjem Strøm og oppvarming Ishavskraft AS 1088,1
+6 Region Nord 614710 Røvika ungdomssenter beredskapshjem Fosterhjem Strøm og oppvarming Ishavskraft AS 218,11
+6 Region Nord 614720 Røvika ungdomssenter beredskapshjem Fosterhjem Strøm og oppvarming POLARIS EIENDOMSDRIFT AS 5250
+6 Region Nord 614720 Røvika ungdomssenter beredskapshjem Fosterhjem Renhold lokaler ISS Facility Services AS 1455,82
+6 Region Nord 614720 Røvika ungdomssenter beredskapshjem Fosterhjem Renhold lokaler ISS Facility Services AS 858,31
+6 Region Nord 614720 Røvika ungdomssenter beredskapshjem Fosterhjem Renhold lokaler ISS Facility Services AS 2233,72
+6 Region Nord 614720 Røvika ungdomssenter beredskapshjem Fosterhjem Renhold lokaler ISS Facility Services AS 2830,93
+6 Region Nord 615900 Røvika ungdomssenter beredskapshjem Fosterhjem Renhold lokaler ISS Facility Services AS 715,27
+6 Region Nord 615900 Røvika ungdomssenter beredskapshjem Fosterhjem Renhold lokaler ISS Facility Services AS 2359,15
+6 Region Nord 615900 Røvika ungdomssenter beredskapshjem Fosterhjem Renhold lokaler ISS Facility Services AS 909,9
+6 Region Nord 615900 Røvika ungdomssenter beredskapshjem Fosterhjem Renhold lokaler ISS Facility Services AS 1861,46
+6 Region Nord 615900 Røvika ungdomssenter beredskapshjem Fosterhjem Renhold lokaler MASKE AS 18,88
+6 Region Nord 615900 Røvika ungdomssenter beredskapshjem Fosterhjem Renhold lokaler Busch- Sørensen Rengjøringsbyrå AS, Bodø 1578,69
+6 Region Nord 615900 Røvika ungdomssenter beredskapshjem Fosterhjem Vaktmestertjenester HAMMERFEST VAKTMESTERSERVICE AS 1484,09
+6 Region Nord 615900 Røvika ungdomssenter beredskapshjem Fosterhjem Leie parkeringsplass Femur Eiendom AS 1350
+6 Region Nord 615900 Røvika ungdomssenter beredskapshjem Fosterhjem Leie parkeringsplass STORGATA 70 TROMSØ AS 7454,28
+6 Region Nord 615900 Røvika ungdomssenter beredskapshjem Fosterhjem Fellesutgifter andre utleiere Isbjørn Eiendom AS 3758,75
+6 Region Nord 615900 Røvika ungdomssenter beredskapshjem Fosterhjem Fellesutgifter andre utleiere Femur Eiendom AS 14062
+6 Region Nord 615900 Røvika ungdomssenter beredskapshjem Fosterhjem Fellesutgifter andre utleiere POLARIS EIENDOMSDRIFT AS 8011,68
+6 Region Nord 615900 Røvika ungdomssenter beredskapshjem Fosterhjem Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 18888,37
+6 Region Nord 615900 Røvika ungdomssenter beredskapshjem Fosterhjem Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 1965,35
+6 Region Nord 615900 Røvika ungdomssenter beredskapshjem Fosterhjem Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 8294,7
+6 Region Nord 615900 Enhet for inntak Bufetat region nord Inntak Leie lokaler andre utleiere Heian AS 133931,57
+6 Region Nord 615900 Enhet for inntak Bufetat region nord Inntak Leie lokaler andre utleiere Løkkeveien 33 AS 109596,6
+6 Region Nord 615900 Enhet for inntak Bufetat region nord Inntak Leie lokaler andre utleiere STORGATA 70 TROMSØ AS 186172,67
+6 Region Nord 615900 Enhet for inntak Bufetat region nord Inntak Renovasjon, vann, avløp o.l. Remiks Næring AS 228
+6 Region Nord 615900 Enhet for inntak Bufetat region nord Inntak Renovasjon, vann, avløp o.l. Remiks Næring AS 982,3
+6 Region Nord 615900 Enhet for inntak Bufetat region nord Inntak Strøm og oppvarming Ishavskraft AS 592,01
+6 Region Nord 615900 Enhet for inntak Bufetat region nord Inntak Strøm og oppvarming Løkkeveien 33 AS 7247,16
+6 Region Nord 615900 Enhet for inntak Bufetat region nord Inntak Strøm og oppvarming POLARIS EIENDOMSDRIFT AS 14250
+6 Region Nord 615900 Enhet for inntak Bufetat region nord Inntak Renhold lokaler ISS Facility Services AS 6062,96
+6 Region Nord 615900 Enhet for inntak Bufetat region nord Inntak Renhold lokaler ISS Facility Services AS 2829,49
+6 Region Nord 615900 Enhet for inntak Bufetat region nord Inntak Renhold lokaler ISS Facility Services AS 2357,95
+6 Region Nord 615900 Enhet for inntak Bufetat region nord Inntak Renhold lokaler ISS Facility Services AS 5052,54
+6 Region Nord 622602 Enhet for inntak Bufetat region nord Inntak Renhold lokaler Toma Facility Norge AS 2465,21
+6 Region Nord 622602 Enhet for inntak Bufetat region nord Inntak Vaktmestertjenester Newsec Basale AS 241,06
+6 Region Nord 623300 Enhet for inntak Bufetat region nord Inntak Fellesutgifter andre utleiere Heian AS 10398,82
+6 Region Nord 623300 Enhet for inntak Bufetat region nord Inntak Fellesutgifter andre utleiere Løkkeveien 33 AS 24528,96
+6 Region Nord 623300 Enhet for inntak Bufetat region nord Inntak Fellesutgifter andre utleiere POLARIS EIENDOMSDRIFT AS 21745,98
+6 Region Nord 623500 Enhet for inntak Bufetat region nord Fosterhjemstjenesten Renovasjon, vann, avløp o.l. Retura Iris AS 10,88
+6 Region Nord 623800 Tromsø ungdomssenter Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 75306
+6 Region Nord 623800 Tromsø ungdomssenter Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Remiks Næring AS 96,58
+6 Region Nord 623800 Tromsø ungdomssenter Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Remiks Næring AS 115,34
+6 Region Nord 623800 Tromsø ungdomssenter Barnevernsinstitusjoner Renhold lokaler PROFFRENT AS 2259,94
+6 Region Nord 624200 Tromsø ungdomssenter Barnevernsinstitusjoner Vakthold lokaler CERTEGO AS, Bergen 3414,98
+6 Region Nord 624200 Tromsø ungdomssenter Barnevernsinstitusjoner Vakthold lokaler CERTEGO AS, Bergen -3414,98
+6 Region Nord 624200 Tromsø ungdomssenter Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 9759,74
+6 Region Nord 624200 Tromsø ungdomssenter Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 3099,24
+6 Region Nord 624300 Tromsø ungdomssenter 151002 Brannverntiltak Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Remiks Næring AS 15312,5
+6 Region Nord 624300 Tromsø ungdomssenter 61900 Ombygging/flytting lokaler Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Remiks Næring AS 12123,75
+6 Region Nord 624300 Tromsø ungdomssenter 61900 Ombygging/flytting lokaler Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Remiks Næring AS 13796,75
+6 Region Nord 624300 Tromsø ungdomssenter Flo Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 451347
+6 Region Nord 624300 Tromsø ungdomssenter Flo Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Remiks Næring AS 578,86
+6 Region Nord 624300 Tromsø ungdomssenter Flo Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Remiks Næring AS 691,23
+6 Region Nord 624300 Tromsø ungdomssenter Flo Barnevernsinstitusjoner Renhold lokaler PROFFRENT AS 13545,03
+6 Region Nord 624400 Tromsø ungdomssenter Flo Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 58495,13
+6 Region Nord 624400 Tromsø ungdomssenter Flo Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 18575,38
+6 Region Nord 624400 Tromsø ungdomssenter Fjære Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 451347
+6 Region Nord 624400 Tromsø ungdomssenter Fjære Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Remiks Næring AS 578,86
+6 Region Nord 624400 Tromsø ungdomssenter Fjære Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Remiks Næring AS 691,23
+6 Region Nord 624400 Tromsø ungdomssenter Fjære Barnevernsinstitusjoner Renhold lokaler PROFFRENT AS 13545,03
+6 Region Nord 624400 Tromsø ungdomssenter Fjære Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 58495,13
+6 Region Nord 624400 Tromsø ungdomssenter Fjære Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 18575,38
+6 Region Nord 624400 FHT RN - adm Fosterhjemstjenesten Leie lokaler andre utleiere Isbjørn Eiendom AS 189156,28
+6 Region Nord 624400 FHT RN - adm Fosterhjemstjenesten Leie lokaler andre utleiere Varanger ASVO AS 4500
+6 Region Nord 624500 FHT RN - adm Fosterhjemstjenesten Leie lokaler andre utleiere Håkonsgate 4 AS 44499,6
+6 Region Nord 624500 FHT RN - adm Fosterhjemstjenesten Leie lokaler andre utleiere Femur Eiendom AS 65102,5
+6 Region Nord 624500 FHT RN - adm Fosterhjemstjenesten Leie lokaler andre utleiere HARILA EIENDOM AS 85161,33
+6 Region Nord 624500 FHT RN - adm Fosterhjemstjenesten Leie lokaler andre utleiere Heian AS 170878,21
+6 Region Nord 624500 FHT RN - adm Fosterhjemstjenesten Leie lokaler andre utleiere STORGATA 70 TROMSØ AS 186172,68
+6 Region Nord 624500 FHT RN - adm Fosterhjemstjenesten Leie lokaler fra Statsbygg Statsbyggs hovedkontor 8739,84
+6 Region Nord 631903 FHT RN - adm Fosterhjemstjenesten Leie lokaler fra Statsbygg Statsbyggs hovedkontor 18836,8
+6 Region Nord 631903 FHT RN - adm Fosterhjemstjenesten Leie lokaler fra Statsbygg Statsbyggs hovedkontor 87205,2
+6 Region Nord 632401 FHT RN - adm Fosterhjemstjenesten Renovasjon, vann, avløp o.l. MASKE AS 186,19
+6 Region Nord 632401 FHT RN - adm Fosterhjemstjenesten Renovasjon, vann, avløp o.l. Retura Iris AS 13,88
+6 Region Nord 632401 FHT RN - adm Fosterhjemstjenesten Renovasjon, vann, avløp o.l. FINNMARK RESSURSSELSKAP AS 587,52
+6 Region Nord 632401 FHT RN - adm Fosterhjemstjenesten Renovasjon, vann, avløp o.l. FINNMARK RESSURSSELSKAP AS 587,52
+6 Region Nord 632401 FHT RN - adm Fosterhjemstjenesten Renovasjon, vann, avløp o.l. Remiks Næring AS 228
+6 Region Nord 632401 FHT RN - adm Fosterhjemstjenesten Renovasjon, vann, avløp o.l. Remiks Næring AS 982,3
+6 Region Nord 632401 FHT RN - adm Fosterhjemstjenesten Strøm og oppvarming Lucerna AS 1817,3
+6 Region Nord 632401 FHT RN - adm Fosterhjemstjenesten Strøm og oppvarming Statsbyggs hovedkontor 4000
+6 Region Nord 632401 FHT RN - adm Fosterhjemstjenesten Strøm og oppvarming Ishavskraft AS 2702,69
+6 Region Nord 632401 FHT RN - adm Fosterhjemstjenesten Strøm og oppvarming Ishavskraft AS 105,65
+6 Region Nord 632401 FHT RN - adm Fosterhjemstjenesten Strøm og oppvarming Ishavskraft AS 90,16
+6 Region Nord 632501 FHT RN - adm Fosterhjemstjenesten Strøm og oppvarming Ishavskraft AS 179,01
+6 Region Nord 632501 FHT RN - adm Fosterhjemstjenesten Strøm og oppvarming Ishavskraft AS 592,01
+6 Region Nord 632501 FHT RN - adm Fosterhjemstjenesten Strøm og oppvarming HARILA EIENDOM AS 13967,68
+6 Region Nord 632501 FHT RN - adm Fosterhjemstjenesten Strøm og oppvarming POLARIS EIENDOMSDRIFT AS 14250
+6 Region Nord 632501 FHT RN - adm Fosterhjemstjenesten Renhold lokaler ISS Facility Services AS 6313,35
+6 Region Nord 632501 FHT RN - adm Fosterhjemstjenesten Renhold lokaler ISS Facility Services AS 2059,94
+6 Region Nord 632501 FHT RN - adm Fosterhjemstjenesten Renhold lokaler ISS Facility Services AS 6062,96
+6 Region Nord 633500 FHT RN - adm Fosterhjemstjenesten Renhold lokaler ISS Facility Services AS 2830,93
+6 Region Nord 633500 FHT RN - adm Fosterhjemstjenesten Renhold lokaler ISS Facility Services AS 3611,87
+6 Region Nord 633500 FHT RN - adm Fosterhjemstjenesten Renhold lokaler ISS Facility Services AS 1716,64
+6 Region Nord 633500 FHT RN - adm Fosterhjemstjenesten Renhold lokaler ISS Facility Services AS 2359,15
+6 Region Nord 633500 FHT RN - adm Fosterhjemstjenesten Renhold lokaler ISS Facility Services AS 5261,2
+6 Region Nord 633501 FHT RN - adm Fosterhjemstjenesten Renhold lokaler ISS Facility Services AS 3009,83
+6 Region Nord 633501 FHT RN - adm Fosterhjemstjenesten Renhold lokaler ISS Facility Services AS 5052,54
+6 Region Nord 633501 FHT RN - adm Fosterhjemstjenesten Renhold lokaler ISS Facility Services AS 14895,93
+6 Region Nord 633501 FHT RN - adm Fosterhjemstjenesten Renhold lokaler MASKE AS 45,31
+6 Region Nord 633501 FHT RN - adm Fosterhjemstjenesten Renhold lokaler Toma Facility Norge AS 3145,27
+6 Region Nord 633502 FHT RN - adm Fosterhjemstjenesten Renhold lokaler Toma Facility Norge AS 1233,07
+6 Region Nord 633502 FHT RN - adm Fosterhjemstjenesten Renhold lokaler Toma Facility Norge AS 266,35
+6 Region Nord 633502 FHT RN - adm Fosterhjemstjenesten Vaktmestertjenester Newsec Basale AS 307,56
+6 Region Nord 633502 FHT RN - adm Fosterhjemstjenesten Vaktmestertjenester HAMMERFEST VAKTMESTERSERVICE AS 3686,41
+6 Region Nord 633504 FHT RN - adm Fosterhjemstjenesten Leie parkeringsplass Femur Eiendom AS 1350
+6 Region Nord 633504 FHT RN - adm Fosterhjemstjenesten Leie parkeringsplass HARILA EIENDOM AS 15370,5
+6 Region Nord 633504 FHT RN - adm Fosterhjemstjenesten Leie parkeringsplass STORGATA 70 TROMSØ AS 24955,63
+6 Region Nord 633504 FHT RN - adm Fosterhjemstjenesten Fellesutgifter andre utleiere Isbjørn Eiendom AS 9336,25
+6 Region Nord 633504 FHT RN - adm Fosterhjemstjenesten Fellesutgifter andre utleiere Håkonsgate 4 AS 6300
+6 Region Nord 634000 FHT RN - adm Fosterhjemstjenesten Fellesutgifter andre utleiere Femur Eiendom AS 14062
+6 Region Nord 634000 FHT RN - adm Fosterhjemstjenesten Fellesutgifter andre utleiere HARILA EIENDOM AS -24727,5
+6 Region Nord 634001 FHT RN - adm Fosterhjemstjenesten Fellesutgifter andre utleiere HARILA EIENDOM AS 15766,52
+6 Region Nord 634001 FHT RN - adm Fosterhjemstjenesten Fellesutgifter andre utleiere Heian AS 13267,46
+6 Region Nord 634001 FHT RN - adm Fosterhjemstjenesten Fellesutgifter andre utleiere POLARIS EIENDOMSDRIFT AS 21745,98
+6 Region Nord 634001 FHT RN - adm Fosterhjemstjenesten Fellesutgifter andre utleiere POLARIS EIENDOMSDRIFT AS 94726,25
+6 Region Nord 634001 FHT RN - adm Fosterhjemstjenesten Fellesutgifter andre utleiere POLARIS EIENDOMSDRIFT AS -94726,25
+6 Region Nord 634001 FHT RN - adm Fosterhjemstjenesten Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 3000
+6 Region Nord 634001 FHT RN - adm Fosterhjemstjenesten Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 1055,6
+6 Region Nord 634700 FHT RN - adm Fosterhjemstjenesten Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 4716,84
+6 Region Nord 634700 Solbakken barne- og familiesenter avd. 1 foreldre og barn Sentre for foreldre og barn Leie lokaler fra Statsbygg Statsbyggs hovedkontor 9899
+6 Region Nord 634700 Solbakken barne- og familiesenter avd. 1 foreldre og barn Sentre for foreldre og barn Leie lokaler fra Statsbygg Statsbyggs hovedkontor 973398
+6 Region Nord 634700 Solbakken barne- og familiesenter avd. 1 foreldre og barn Sentre for foreldre og barn Renhold lokaler PROFFRENT AS 9782,5
+6 Region Nord 634700 Solbakken barne- og familiesenter avd. 1 foreldre og barn Sentre for foreldre og barn Renhold lokaler PROFFRENT AS 613,75
+6 Region Nord 634700 Solbakken barne- og familiesenter avd. 1 foreldre og barn Sentre for foreldre og barn Vaktmestertjenester Transportsentralen Tromsø SA 49170
+6 Region Nord 634700 Solbakken barne- og familiesenter avd. 1 foreldre og barn Sentre for foreldre og barn Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 73500
+6 Region Nord 634700 Solbakken barne- og familiesenter avd. 1 foreldre og barn Sentre for foreldre og barn Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 31996
+6 Region Nord 634800 Bodø Familievernkontor Familieverntjeneste Leie lokaler andre utleiere Storgata 27/29 Sentrum AS 275910,25
+6 Region Nord 634800 Bodø Familievernkontor Familieverntjeneste Strøm og oppvarming Ishavskraft AS 2714,5
+6 Region Nord 634800 Bodø Familievernkontor Familieverntjeneste Renhold lokaler ISS Facility Services AS 10028,66
+6 Region Nord 634800 Bodø Familievernkontor Familieverntjeneste Renhold lokaler ISS Facility Services AS 8357,34
+6 Region Nord 634800 Bodø Familievernkontor Familieverntjeneste Fellesutgifter andre utleiere Storgata 27/29 Sentrum AS 34302,25
+6 Region Nord 634800 Bodø Familievernkontor Familieverntjeneste Reparasjon og vedlikehold leide lokaler Jacobs Douwe Egberts Norge AS 1875
+6 Region Nord 634800 Finnsnes familievernkontor Familieverntjeneste Leie lokaler andre utleiere HARILA EIENDOM AS 119225,87
+6 Region Nord 634801 Finnsnes familievernkontor Familieverntjeneste Strøm og oppvarming HARILA EIENDOM AS 19554,75
+6 Region Nord 635700 Finnsnes familievernkontor Familieverntjeneste Renhold lokaler ISS Facility Services AS 8838,69
+6 Region Nord 635703 Finnsnes familievernkontor Familieverntjeneste Renhold lokaler ISS Facility Services AS 7365,67
+6 Region Nord 635703 Finnsnes familievernkontor Familieverntjeneste Fellesutgifter andre utleiere HARILA EIENDOM AS -34618,5
+6 Region Nord 635703 Finnsnes familievernkontor Familieverntjeneste Fellesutgifter andre utleiere HARILA EIENDOM AS 22073,13
+6 Region Nord 635703 Indre finnmark FV Familieverntjeneste Renhold lokaler ISS Facility Services AS 6877,3
+6 Region Nord 635703 Tromsø familievernkontor Familieverntjeneste Leie lokaler andre utleiere Brennbygget AS 343097,64
+6 Region Nord 635703 Tromsø familievernkontor Familieverntjeneste Strøm og oppvarming Ishavskraft AS 1955,45
+6 Region Nord 635703 Tromsø familievernkontor Familieverntjeneste Renhold lokaler Toma Facility Norge AS 6635,65
+6 Region Nord 635703 Tromsø familievernkontor Familieverntjeneste Fellesutgifter andre utleiere Brennbygget AS 133001,28
+6 Region Nord 635703 Tromsø familievernkontor 64525 SKM - Samtale med barn Familieverntjeneste Leie lokaler andre utleiere Brennbygget AS 114365,88
+6 Region Nord 635703 Tromsø familievernkontor 64525 SKM - Samtale med barn Familieverntjeneste Strøm og oppvarming Ishavskraft AS 651,8
+6 Region Nord 635703 Tromsø familievernkontor 64525 SKM - Samtale med barn Familieverntjeneste Renhold lokaler Toma Facility Norge AS 2211,89
+6 Region Nord 635703 Tromsø familievernkontor 64525 SKM - Samtale med barn Familieverntjeneste Fellesutgifter andre utleiere Brennbygget AS 44333,76
+6 Region Nord 635703 Lofoten og Vesterålen familievernkontor Familieverntjeneste Leie lokaler andre utleiere SOH EIENDOM AS 92235,28
+6 Region Nord 635703 Lofoten og Vesterålen familievernkontor Familieverntjeneste Leie lokaler andre utleiere FISKERGATA 22 SVOLVÆR AS 14530
+6 Region Nord 635703 Lofoten og Vesterålen familievernkontor Familieverntjeneste Strøm og oppvarming Ishavskraft AS 1838,16
+6 Region Nord 635703 Lofoten og Vesterålen familievernkontor Familieverntjeneste Renhold lokaler ISS Facility Services AS 1666,63
+6 Region Nord 635704 Lofoten og Vesterålen familievernkontor Familieverntjeneste Renhold lokaler ISS Facility Services AS 1388,88
+6 Region Nord 635704 Lofoten og Vesterålen familievernkontor Familieverntjeneste Renhold lokaler AKG Rengjøring AS 9713
+6 Region Nord 635704 Lofoten og Vesterålen familievernkontor Familieverntjeneste Fellesutgifter andre utleiere SOH EIENDOM AS 6594,77
+6 Region Nord 635704 Lofoten og Vesterålen familievernkontor Familieverntjeneste Fellesutgifter andre utleiere FISKERGATA 22 SVOLVÆR AS 4327
+6 Region Nord 635800 Harstad og Narvik familievernkontor Familieverntjeneste Leie lokaler andre utleiere Narvik Havn KF 21973
+6 Region Nord 635800 Harstad og Narvik familievernkontor Familieverntjeneste Leie lokaler andre utleiere Håkonsgate 4 AS 113721,2
+6 Region Nord 635800 Harstad og Narvik familievernkontor Familieverntjeneste Strøm og oppvarming Ishavskraft AS 270
+6 Region Nord 635800 Harstad og Narvik familievernkontor Familieverntjeneste Strøm og oppvarming Ishavskraft AS 230,41
+6 Region Nord 635800 Harstad og Narvik familievernkontor Familieverntjeneste Strøm og oppvarming Ishavskraft AS 457,47
+6 Region Nord 635801 Harstad og Narvik familievernkontor Familieverntjeneste Strøm og oppvarming Ishavskraft AS 172,3
+6 Region Nord 635801 Harstad og Narvik familievernkontor Familieverntjeneste Renhold lokaler Narvik Havn KF 7770
+6 Region Nord 635801 Harstad og Narvik familievernkontor Familieverntjeneste Renhold lokaler Toma Facility Norge AS 3151,17
+6 Region Nord 635801 Harstad og Narvik familievernkontor Familieverntjeneste Renhold lokaler Toma Facility Norge AS 680,66
+6 Region Nord 635801 Harstad og Narvik familievernkontor Familieverntjeneste Fellesutgifter andre utleiere Narvik Havn KF 6221
+6 Region Nord 635801 Harstad og Narvik familievernkontor Familieverntjeneste Fellesutgifter andre utleiere Håkonsgate 4 AS 16100
+6 Region Nord 635801 Alta og Hammerfest familievernkontor Familieverntjeneste Leie lokaler andre utleiere Isbjørn Eiendom AS 113002,45
+6 Region Nord 641600 Alta og Hammerfest familievernkontor Familieverntjeneste Leie lokaler andre utleiere Løkkeveien 33 AS 127862,7
+6 Region Nord 641600 Alta og Hammerfest familievernkontor Familieverntjeneste Renovasjon, vann, avløp o.l. FINNMARK RESSURSSELSKAP AS 350,98
+6 Region Nord 641600 Alta og Hammerfest familievernkontor Familieverntjeneste Renovasjon, vann, avløp o.l. FINNMARK RESSURSSELSKAP AS 350,98
+6 Region Nord 641600 Alta og Hammerfest familievernkontor Familieverntjeneste Strøm og oppvarming Lucerna AS 1085,66
+6 Region Nord 641600 Alta og Hammerfest familievernkontor Familieverntjeneste Strøm og oppvarming Ishavskraft AS 1614,6
+6 Region Nord 641600 Alta og Hammerfest familievernkontor Familieverntjeneste Strøm og oppvarming Løkkeveien 33 AS 8455,02
+6 Region Nord 641800 Alta og Hammerfest familievernkontor Familieverntjeneste Renhold lokaler ISS Facility Services AS 2183,74
+6 Region Nord 641800 Alta og Hammerfest familievernkontor Familieverntjeneste Renhold lokaler ISS Facility Services AS 3301,08
+6 Region Nord 641900 Alta og Hammerfest familievernkontor Familieverntjeneste Renhold lokaler ISS Facility Services AS 2750,94
+6 Region Nord 641900 Alta og Hammerfest familievernkontor Familieverntjeneste Renhold lokaler ISS Facility Services AS 2123,11
+6 Region Nord 643100 Alta og Hammerfest familievernkontor Familieverntjeneste Vaktmestertjenester HAMMERFEST VAKTMESTERSERVICE AS 2202,25
+6 Region Nord 643101 Alta og Hammerfest familievernkontor Familieverntjeneste Fellesutgifter andre utleiere Isbjørn Eiendom AS 5577,5
+6 Region Nord 643101 Alta og Hammerfest familievernkontor Familieverntjeneste Fellesutgifter andre utleiere Løkkeveien 33 AS 28617,12
+6 Region Nord 643101 Alta ungdomssenter Utsikten omsorg Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 350282,07
+6 Region Nord 643101 Alta ungdomssenter Utsikten omsorg Barnevernsinstitusjoner Renhold lokaler ISS Facility Services AS 10281,78
+6 Region Nord 643101 Alta ungdomssenter Utsikten omsorg Barnevernsinstitusjoner Renhold lokaler ISS Facility Services AS 8568,27
+6 Region Nord 643101 Alta ungdomssenter Utsikten omsorg Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 48565,99
+6 Region Nord 643101 Alta ungdomssenter Utsikten omsorg Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 13170,43
+6 Region Nord 643101 Røvika Åsheim Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 384050,93
+6 Region Nord 643101 Røvika Åsheim Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Iris Service AS 150,34
+6 Region Nord 660030 Røvika Åsheim Barnevernsinstitusjoner Renhold lokaler Busch- Sørensen Rengjøringsbyrå AS, Bodø 4420,34
+6 Region Nord 660030 Røvika Åsheim Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 66109,3
+6 Region Nord 660030 Røvika Åsheim Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 29031,44
+6 Region Nord 660030 Røvika Åsheim Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Polarvakt AS 424
+6 Region Nord 660030 Røvika Åsheim 61006 Hærverk Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Olaugs Innramming, Olaug Nelly Rindahl 1495
+6 Region Nord 660030 Silsand ungdomssenter administrasjon Barnevernsinstitusjoner Leie lokaler andre utleiere Consept Eiendom AS 32183
+6 Region Nord 660030 Silsand ungdomssenter administrasjon Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 995
+6 Region Nord 660030 Silsand ungdomssenter avdeling 1 Barnevernsinstitusjoner Leie lokaler andre utleiere Consept Eiendom AS 260386
+6 Region Nord 660030 Silsand ungdomssenter avdeling 1 Barnevernsinstitusjoner Leie lokaler andre utleiere Consept Eiendom AS 877706
+6 Region Nord 660030 Silsand ungdomssenter avdeling 1 Barnevernsinstitusjoner Leie lokaler andre utleiere Consept Eiendom AS -877706
+6 Region Nord 660030 Silsand ungdomssenter avdeling 1 Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Senja Avfall AS 3112
+6 Region Nord 660030 Silsand ungdomssenter avdeling 1 Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 8050,85
+6 Region Nord 660030 Silsand ungdomssenter avdeling 1 Barnevernsinstitusjoner Renhold lokaler ISS Facility Services AS 16190,85
+6 Region Nord 660030 Silsand ungdomssenter avdeling 1 Barnevernsinstitusjoner Renhold lokaler ISS Facility Services AS 13492,58
+6 Region Nord 660030 Silsand ungdomssenter avdeling 1 Barnevernsinstitusjoner Annen kostnad lokaler NB Engros AS 719
+6 Region Nord 660030 Silsand ungdomssenter avdeling 1 Barnevernsinstitusjoner Annen kostnad lokaler Clas Ohlson AS 400
+6 Region Nord 660030 Silsand ungdomssenter avdeling 1 Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Bakkens Verksted AS 2205
+6 Region Nord 600300 Silsand ungdomssenter avdeling 1 151003 Prosjektering og utvikling av eiendom/bygg Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Senja Avfall AS 14415
+6 Region Nord 600300 Silsand ungdomssenter avdeling 1 151003 Prosjektering og utvikling av eiendom/bygg Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Senja Avfall Miljø AS, Finnsnes 464
+6 Region Nord 600300 Silsand ungdomssenter avdeling 1 151003 Prosjektering og utvikling av eiendom/bygg Barnevernsinstitusjoner Annen kostnad lokaler Europris Finnsnes Lavpris AS 1367,3
+6 Region Nord 600300 Silsand ungdomssenter avdeling 1 151003 Prosjektering og utvikling av eiendom/bygg Barnevernsinstitusjoner Annen kostnad lokaler Europris Finnsnes Lavpris AS 476,8
+6 Region Nord 600300 Silsand ungdomssenter avdeling 1 151003 Prosjektering og utvikling av eiendom/bygg Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Optimera AS 5033
+6 Region Nord 600300 Silsand ungdomssenter avdeling 1 151003 Prosjektering og utvikling av eiendom/bygg Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Optimera AS 914
+6 Region Nord 600300 Silsand ungdomssenter avdeling 1 151003 Prosjektering og utvikling av eiendom/bygg Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Optimera AS 1072
+6 Region Nord 600300 Silsand ungdomssenter avdeling 1 151003 Prosjektering og utvikling av eiendom/bygg Barnevernsinstitusjoner Oppgradering og påkostning leide lokaler - under kr 50 000 Optimera AS 3264,96
+6 Region Nord 600300 Nye Kvæfjord ungdomssenter adm Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 163464,6
+6 Region Nord 600300 Nye Kvæfjord ungdomssenter adm Barnevernsinstitusjoner Strøm og oppvarming Polar Kraft AS 393,97
+6 Region Nord 600300 Nye Kvæfjord ungdomssenter adm Barnevernsinstitusjoner Renhold lokaler Breeze Tekstil AS 128,46
+6 Region Nord 600300 Nye Kvæfjord ungdomssenter adm Barnevernsinstitusjoner Renhold lokaler Breeze Tekstil AS 160,57
+6 Region Nord 600300 Nye Kvæfjord ungdomssenter adm Barnevernsinstitusjoner Renhold lokaler Toma Facility Norge AS 1043,5
+6 Region Nord 600300 Nye Kvæfjord ungdomssenter adm Barnevernsinstitusjoner Renhold lokaler Toma Facility Norge AS 2021,98
+6 Region Nord 600300 Nye Kvæfjord ungdomssenter adm Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 20644
+6 Region Nord 600501 Nye Kvæfjord ungdomssenter adm Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 4309,37
+6 Region Nord 600501 Nye Kvæfjord ungdomssenter Storheimen Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 565839
+6 Region Nord 600700 Nye Kvæfjord ungdomssenter Storheimen Barnevernsinstitusjoner Renhold lokaler Breeze Tekstil AS 444,67
+6 Region Nord 600700 Nye Kvæfjord ungdomssenter Storheimen Barnevernsinstitusjoner Renhold lokaler Breeze Tekstil AS 555,84
+6 Region Nord 600700 Nye Kvæfjord ungdomssenter Storheimen Barnevernsinstitusjoner Renhold lokaler Toma Facility Norge AS 3612,13
+6 Region Nord 600700 Nye Kvæfjord ungdomssenter Storheimen Barnevernsinstitusjoner Renhold lokaler Toma Facility Norge AS 6999,16
+6 Region Nord 611901 Nye Kvæfjord ungdomssenter Storheimen Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 71460
+6 Region Nord 612400 Nye Kvæfjord ungdomssenter Storheimen Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 14917,05
+6 Region Nord 612400 Nye Kvæfjord ungdomssenter Storheimen Barnevernsinstitusjoner Reparasjon og vedlikehold av anlegg, også serviceavtaler PTG Kuldeteknisk AS 5131,13
+6 Region Nord 612400 Nye Kvæfjord ungdomssenter Storheimen 61006 Hærverk Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler HARSTAD LÅSSERVICE AS 6925
+6 Region Nord 612402 Nye Kvæfjord ungdomssenter Lilleheimen Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 528116,4
+6 Region Nord 612402 Nye Kvæfjord ungdomssenter Lilleheimen Barnevernsinstitusjoner Renhold lokaler Coop Nord SA 636
+6 Region Nord 612402 Nye Kvæfjord ungdomssenter Lilleheimen Barnevernsinstitusjoner Renhold lokaler Breeze Tekstil AS 415,02
+6 Region Nord 612402 Nye Kvæfjord ungdomssenter Lilleheimen Barnevernsinstitusjoner Renhold lokaler Breeze Tekstil AS 518,78
+6 Region Nord 612403 Nye Kvæfjord ungdomssenter Lilleheimen Barnevernsinstitusjoner Renhold lokaler Toma Facility Norge AS 3371,32
+6 Region Nord 612403 Nye Kvæfjord ungdomssenter Lilleheimen Barnevernsinstitusjoner Renhold lokaler Toma Facility Norge AS 6532,55
+6 Region Nord 612403 Nye Kvæfjord ungdomssenter Lilleheimen Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 66696
+6 Region Nord 612403 Nye Kvæfjord ungdomssenter Lilleheimen Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 13922,58
+6 Region Nord 612403 Nye Kvæfjord ungdomssenter Lilleheimen Barnevernsinstitusjoner Reparasjon og vedlikehold av anlegg, også serviceavtaler PTG Kuldeteknisk AS 5131,13
+6 Region Nord 612403 KUS SKM Omsorg for ungdom 64132 SKM-omsorg for ungdom Barnevernsinstitusjoner Leie lokaler andre utleiere Håkonsgate 4 AS 177998,4
+6 Region Nord 612403 KUS SKM Omsorg for ungdom 64132 SKM-omsorg for ungdom Barnevernsinstitusjoner Leie lokaler andre utleiere Tivoli North AS 11004
+6 Region Nord 612403 KUS SKM Omsorg for ungdom 64132 SKM-omsorg for ungdom Barnevernsinstitusjoner Leie lokaler andre utleiere LOFOTEIENDOM AS 15402
+6 Region Nord 614600 KUS SKM Omsorg for ungdom 64132 SKM-omsorg for ungdom Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 422,61
+6 Region Nord 614600 KUS SKM Omsorg for ungdom 64132 SKM-omsorg for ungdom Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 360,64
+6 Region Nord 614600 KUS SKM Omsorg for ungdom 64132 SKM-omsorg for ungdom Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 716,04
+6 Region Nord 614600 KUS SKM Omsorg for ungdom 64132 SKM-omsorg for ungdom Barnevernsinstitusjoner Renhold lokaler Toma Facility Norge AS 4932,27
+6 Region Nord 614600 KUS SKM Omsorg for ungdom 64132 SKM-omsorg for ungdom Barnevernsinstitusjoner Renhold lokaler Toma Facility Norge AS 1065,38
+6 Region Nord 614600 KUS SKM Omsorg for ungdom 64132 SKM-omsorg for ungdom Barnevernsinstitusjoner Leie parkeringsplass Nordic Investment As 4290
+6 Region Nord 614602 KUS SKM Omsorg for ungdom 64132 SKM-omsorg for ungdom Barnevernsinstitusjoner Fellesutgifter andre utleiere Håkonsgate 4 AS 25200
+6 Region Nord 614700 Lamo ungdomssenter adm Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 471223
+6 Region Nord 614700 Lamo ungdomssenter adm Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. HRS Miljø AS 756,51
+6 Region Nord 614700 Lamo ungdomssenter adm Barnevernsinstitusjoner Renhold lokaler AKSJESELSKAP SALANGSVASK 4025
+6 Region Nord 614701 Lamo ungdomssenter adm Barnevernsinstitusjoner Vaktmestertjenester Sjøvegan Maskin & Transport AS 2469
+6 Region Nord 614701 Lamo ungdomssenter adm Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 37975
+6 Region Nord 614701 Lamo ungdomssenter adm Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 13581,5
+6 Region Nord 614701 Lamo ungdomssenter Tunet Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 46650
+6 Region Nord 614701 Lamo ungdomssenter Tunet Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 471223
+6 Region Nord 614701 Lamo ungdomssenter Tunet Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. HRS Miljø AS 1500
+6 Region Nord 614702 Lamo ungdomssenter Tunet Barnevernsinstitusjoner Renhold lokaler AKSJESELSKAP SALANGSVASK 10000
+6 Region Nord 614702 Lamo ungdomssenter Tunet Barnevernsinstitusjoner Vaktmestertjenester Sjøvegan Maskin & Transport AS 4000
+6 Region Nord 614702 Lamo ungdomssenter Tunet Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 37975
+6 Region Nord 614702 Lamo ungdomssenter Tunet Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 13581,5
+6 Region Nord 614702 Lamo ungdomssenter Tunet 61010 Risikoavsetning - Hærverk, enetiltak/skjerming, etc. Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 57623
+6 Region Nord 614702 Lamo ungdomssenter Tunet 61010 Risikoavsetning - Hærverk, enetiltak/skjerming, etc. Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 58671
+6 Region Nord 614710 Lamo ungdomssenter Tunet 61010 Risikoavsetning - Hærverk, enetiltak/skjerming, etc. Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 4907
+6 Region Nord 614710 Lamo ungdomssenter Tunet 61010 Risikoavsetning - Hærverk, enetiltak/skjerming, etc. Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 4907
+6 Region Nord 614710 Bodø behandlingssenter adm Barnevernsinstitusjoner Leie lokaler andre utleiere Stein Johannesen AS 524796
+6 Region Nord 614710 Bodø behandlingssenter adm Barnevernsinstitusjoner Leie lokaler andre utleiere Kristin Johannessen 6000
+6 Region Nord 614710 Bodø behandlingssenter adm Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 5152,77
+6 Region Nord 614710 Bodø behandlingssenter adm Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 411,54
+6 Region Nord 614710 Bodø behandlingssenter adm Barnevernsinstitusjoner Renhold lokaler Insider Facility Solutions AS 5391
+6 Region Nord 614720 Bodø behandlingssenter adm Barnevernsinstitusjoner Vakthold lokaler Addsecure AS 5603
+6 Region Nord 614720 Bodø behandlingssenter adm Barnevernsinstitusjoner Vaktmestertjenester Pro Motor Nord AS 5306,25
+6 Region Nord 614720 Bodø behandlingssenter adm 61006 Hærverk Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Glassproffen AS 24605
+6 Region Nord 614720 Bodø behandlingssenter Sandhornet Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 5035,47
+6 Region Nord 614720 Bodø behandlingssenter Sandhornet Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Eurocard Norway 72
+6 Region Nord 614720 Bodø behandlingssenter Sandhornet Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Julius Jakhelln AS 330
+6 Region Nord 614720 Enhet for spesialiserte fosterhjem adm Fosterhjem Leie lokaler fra Statsbygg Statsbyggs hovedkontor 10900,65
+6 Region Nord 615900 Enhet for spesialiserte fosterhjem Fosterhjem Leie lokaler andre utleiere Håkonsgate 4 AS 24722
+6 Region Nord 615900 Enhet for spesialiserte fosterhjem Fosterhjem Leie lokaler andre utleiere HARILA EIENDOM AS 17032,27
+6 Region Nord 615900 Enhet for spesialiserte fosterhjem Fosterhjem Leie lokaler andre utleiere Heian AS 36946,64
+6 Region Nord 615900 Enhet for spesialiserte fosterhjem Fosterhjem Leie lokaler fra Statsbygg Statsbyggs hovedkontor 2184,96
+6 Region Nord 615900 Enhet for spesialiserte fosterhjem Fosterhjem Leie lokaler fra Statsbygg Statsbyggs hovedkontor 18836,8
+6 Region Nord 615900 Enhet for spesialiserte fosterhjem Fosterhjem Leie lokaler fra Statsbygg Statsbyggs hovedkontor 10900,65
+6 Region Nord 615900 Enhet for spesialiserte fosterhjem Fosterhjem Renovasjon, vann, avløp o.l. Retura Iris AS 3
+6 Region Nord 615900 Enhet for spesialiserte fosterhjem Fosterhjem Strøm og oppvarming Statsbyggs hovedkontor 4000
+6 Region Nord 615900 Enhet for spesialiserte fosterhjem Fosterhjem Strøm og oppvarming Ishavskraft AS 58,7
+6 Region Nord 615900 Enhet for spesialiserte fosterhjem Fosterhjem Strøm og oppvarming Ishavskraft AS 50,09
+6 Region Nord 615900 Enhet for spesialiserte fosterhjem Fosterhjem Strøm og oppvarming Ishavskraft AS 99,45
+6 Region Nord 615900 Enhet for spesialiserte fosterhjem Fosterhjem Strøm og oppvarming HARILA EIENDOM AS 2793,54
+6 Region Nord 615900 Enhet for spesialiserte fosterhjem Fosterhjem Renhold lokaler ISS Facility Services AS 1262,67
+6 Region Nord 615900 Enhet for spesialiserte fosterhjem Fosterhjem Renhold lokaler ISS Facility Services AS 514,98
+6 Region Nord 622600 Enhet for spesialiserte fosterhjem Fosterhjem Renhold lokaler ISS Facility Services AS 3611,87
+6 Region Nord 623300 Enhet for spesialiserte fosterhjem Fosterhjem Renhold lokaler ISS Facility Services AS 429,16
+6 Region Nord 623300 Enhet for spesialiserte fosterhjem Fosterhjem Renhold lokaler ISS Facility Services AS 1052,24
+6 Region Nord 624200 Enhet for spesialiserte fosterhjem Fosterhjem Renhold lokaler ISS Facility Services AS 3009,83
+6 Region Nord 624200 Enhet for spesialiserte fosterhjem Fosterhjem Renhold lokaler MASKE AS 11,33
+6 Region Nord 624200 Enhet for spesialiserte fosterhjem Fosterhjem Renhold lokaler Toma Facility Norge AS 680,06
+6 Region Nord 624200 Enhet for spesialiserte fosterhjem Fosterhjem Renhold lokaler Toma Facility Norge AS 685,04
+6 Region Nord 624300 Enhet for spesialiserte fosterhjem Fosterhjem Renhold lokaler Toma Facility Norge AS 147,97
+6 Region Nord 624300 Enhet for spesialiserte fosterhjem Fosterhjem Vaktmestertjenester Newsec Basale AS 66,5
+6 Region Nord 624300 Enhet for spesialiserte fosterhjem Fosterhjem Fellesutgifter andre utleiere Håkonsgate 4 AS 3500
+6 Region Nord 624300 Enhet for spesialiserte fosterhjem Fosterhjem Fellesutgifter andre utleiere HARILA EIENDOM AS -4945,5
+6 Region Nord 624400 Enhet for spesialiserte fosterhjem Fosterhjem Fellesutgifter andre utleiere HARILA EIENDOM AS 3153,3
+6 Region Nord 624400 Enhet for spesialiserte fosterhjem Fosterhjem Fellesutgifter andre utleiere Heian AS 2868,64
+6 Region Nord 624400 Enhet for spesialiserte fosterhjem Fosterhjem Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 3000
+6 Region Nord 624400 Enhet for spesialiserte fosterhjem Fosterhjem Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 1055,6
+6 Region Nord 624400 Enhet for spesialiserte fosterhjem Fosterhjem Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 1179,21
+6 Region Nord 624400 FIT-team Hammerfest Hjelpetiltak i hjemmet Leie lokaler andre utleiere Isbjørn Eiendom AS 113002,45
+6 Region Nord 624400 FIT-team Hammerfest Hjelpetiltak i hjemmet Renovasjon, vann, avløp o.l. MASKE AS 111,71
+6 Region Nord 624400 FIT-team Hammerfest Hjelpetiltak i hjemmet Renovasjon, vann, avløp o.l. FINNMARK RESSURSSELSKAP AS 350,98
+6 Region Nord 624500 FIT-team Hammerfest Hjelpetiltak i hjemmet Renovasjon, vann, avløp o.l. FINNMARK RESSURSSELSKAP AS 350,98
+6 Region Nord 624500 FIT-team Hammerfest Hjelpetiltak i hjemmet Strøm og oppvarming Lucerna AS 1085,66
+6 Region Nord 624500 FIT-team Hammerfest Hjelpetiltak i hjemmet Strøm og oppvarming Ishavskraft AS 1614,6
+6 Region Nord 632401 FIT-team Hammerfest Hjelpetiltak i hjemmet Renhold lokaler ISS Facility Services AS 8937,56
+6 Region Nord 632401 FIT-team Hammerfest Hjelpetiltak i hjemmet Vaktmestertjenester HAMMERFEST VAKTMESTERSERVICE AS 2202,25
+6 Region Nord 632401 FIT-team Hammerfest Hjelpetiltak i hjemmet Fellesutgifter andre utleiere Isbjørn Eiendom AS 5577,5
+6 Region Nord 632500 Sollia barne- og ungdomssenter adm Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 5098,24
+6 Region Nord 632501 Sollia barne- og ungdomssenter adm Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 50869,7
+6 Region Nord 632501 Sollia barne- og ungdomssenter adm Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Reno-Vest Bedrift AS 120
+6 Region Nord 632501 Sollia barne- og ungdomssenter adm Barnevernsinstitusjoner Renhold lokaler ISS Facility Services AS 1201,66
+6 Region Nord 632501 Sollia barne- og ungdomssenter adm Barnevernsinstitusjoner Renhold lokaler ISS Facility Services AS 1001,4
+6 Region Nord 632501 Sollia barne- og ungdomssenter adm Barnevernsinstitusjoner Renhold lokaler MASKE AS 231,89
+6 Region Nord 633500 Sollia barne- og ungdomssenter adm Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 2751,49
+6 Region Nord 633500 Sollia barne- og ungdomssenter miljøavdeling Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 53167,36
+6 Region Nord 633500 Sollia barne- og ungdomssenter miljøavdeling Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 530498,3
+6 Region Nord 633501 Sollia barne- og ungdomssenter miljøavdeling Barnevernsinstitusjoner Renhold lokaler ISS Facility Services AS 12531,35
+6 Region Nord 633501 Sollia barne- og ungdomssenter miljøavdeling Barnevernsinstitusjoner Renhold lokaler ISS Facility Services AS 10442,94
+6 Region Nord 633501 Sollia barne- og ungdomssenter miljøavdeling Barnevernsinstitusjoner Renhold lokaler MASKE AS 698,04
+6 Region Nord 633501 Sollia barne- og ungdomssenter miljøavdeling Barnevernsinstitusjoner Renhold lokaler Europris Butikkdrift AS 221,9
+6 Region Nord 633501 Sollia barne- og ungdomssenter miljøavdeling Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 28694,11
+6 Region Nord 633502 Sollia barne- og ungdomssenter miljøavdeling Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Europris Butikkdrift AS 119
+6 Region Nord 633502 MST Bodø Hjelpetiltak i hjemmet Leie lokaler andre utleiere Heian AS 92366,6
+6 Region Nord 633502 MST Bodø Hjelpetiltak i hjemmet Renovasjon, vann, avløp o.l. Retura Iris AS 7,5
+6 Region Nord 633502 MST Bodø Hjelpetiltak i hjemmet Renhold lokaler Toma Facility Norge AS 1700,15
+6 Region Nord 633502 MST Bodø Hjelpetiltak i hjemmet Vaktmestertjenester Newsec Basale AS 166,25
+6 Region Nord 633504 MST Bodø Hjelpetiltak i hjemmet Fellesutgifter andre utleiere Heian AS 7171,6
+6 Region Nord 633504 MST Tromsø Hjelpetiltak i hjemmet Leie lokaler andre utleiere Brennbygget AS 152487,84
+6 Region Nord 633504 MST Tromsø Hjelpetiltak i hjemmet Renhold lokaler Toma Facility Norge AS 2826,3
+6 Region Nord 633504 MST Tromsø Hjelpetiltak i hjemmet Leie parkeringsplass Brennbygget AS 21120
+6 Region Nord 634000 MST Tromsø Hjelpetiltak i hjemmet Fellesutgifter andre utleiere Brennbygget AS 59111,68
+6 Region Nord 634001 MST Mo i Rana Hjelpetiltak i hjemmet Leie lokaler andre utleiere BANE NOR EIENDOM AS 49226,25
+6 Region Nord 634800 MST Mo i Rana Hjelpetiltak i hjemmet Renovasjon, vann, avløp o.l. Østbø AS 181,25
+6 Region Nord 634800 MST Mo i Rana Hjelpetiltak i hjemmet Strøm og oppvarming BANE NOR EIENDOM AS 13062,5
+6 Region Nord 634800 MST Mo i Rana Hjelpetiltak i hjemmet Renhold lokaler ISS Facility Services AS 4166,56
+6 Region Nord 634800 MST Mo i Rana Hjelpetiltak i hjemmet Renhold lokaler ISS Facility Services AS 3472,19
+6 Region Nord 634800 MST Mo i Rana Hjelpetiltak i hjemmet Leie parkeringsplass BANE NOR EIENDOM AS 8708,75
+6 Region Nord 634800 MST Mo i Rana Hjelpetiltak i hjemmet Fellesutgifter andre utleiere BANE NOR EIENDOM AS 14000
+6 Region Nord 634800 Yttrabekken ungdomssenter avdeling 1 Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 710000
+6 Region Nord 634800 Yttrabekken ungdomssenter avdeling 1 Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Østbø AS 909,5
+6 Region Nord 634800 Yttrabekken ungdomssenter avdeling 1 Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Retura HAF AS 430
+6 Region Nord 634801 Yttrabekken ungdomssenter avdeling 1 Barnevernsinstitusjoner Renhold lokaler Coop Midt-Norge SA 69,3
+6 Region Nord 634801 Yttrabekken ungdomssenter avdeling 1 Barnevernsinstitusjoner Renhold lokaler Coop Midt-Norge SA 95,7
+6 Region Nord 635703 Yttrabekken ungdomssenter avdeling 1 Barnevernsinstitusjoner Renhold lokaler Coop Midt-Norge SA 199,5
+6 Region Nord 635703 Yttrabekken ungdomssenter avdeling 1 Barnevernsinstitusjoner Renhold lokaler Søstrene Renhold AS 4500
+6 Region Nord 635703 Yttrabekken ungdomssenter avdeling 1 Barnevernsinstitusjoner Annen kostnad lokaler Clas Ohlson AS 1008
+6 Region Nord 635703 Yttrabekken ungdomssenter avdeling 1 Barnevernsinstitusjoner Annen kostnad lokaler Jula Norge AS 94,9
+6 Region Nord 635703 Yttrabekken ungdomssenter avdeling 1 Barnevernsinstitusjoner Annen kostnad lokaler Jula Norge AS 871,3
+6 Region Nord 635703 Yttrabekken ungdomssenter avdeling 1 Barnevernsinstitusjoner Annen kostnad lokaler Biltema Norge AS 199,9
+6 Region Nord 635703 Yttrabekken ungdomssenter avdeling 1 Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 96000
+6 Region Nord 635704 Yttrabekken ungdomssenter avdeling 1 Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 36500
+6 Region Nord 635704 NASAK - Nasjonalt Samisk kompetansesenter Regionale fellesfunksjoner Renhold lokaler ISS Facility Services AS 1100,37
+6 Region Nord 635800 NASAK - Nasjonalt Samisk kompetansesenter Regionale fellesfunksjoner Renhold lokaler ISS Facility Services AS 3438,65
+6 Region Nord 635801 NASAK - Nasjonalt Samisk kompetansesenter Regionale fellesfunksjoner Renhold lokaler ISS Facility Services AS 1650,55
+6 Region Nord 641600 NASAK - Nasjonalt Samisk kompetansesenter Regionale fellesfunksjoner Annen kostnad lokaler SOLARNORD AS 2899
+6 Region Nord 641600 Avdelingsdirektør stab Regionale fellesfunksjoner Renovasjon, vann, avløp o.l. Remiks Næring AS 40,63
+6 Region Nord 641600 Avdelingsdirektør stab Regionale fellesfunksjoner Strøm og oppvarming Ishavskraft AS 142,4
+6 Region Nord 641800 Avdelingsdirektør stab Regionale fellesfunksjoner Strøm og oppvarming Ishavskraft AS 92,65
+6 Region Nord 641800 Avdelingsdirektør stab Regionale fellesfunksjoner Strøm og oppvarming Ishavskraft AS 71,99
+6 Region Nord 641900 Avdelingsdirektør stab Regionale fellesfunksjoner Strøm og oppvarming Ishavskraft AS 139,34
+6 Region Nord 643101 Avdelingsdirektør stab Regionale fellesfunksjoner Strøm og oppvarming Ishavskraft AS 194,06
+6 Region Nord 643101 Avdelingsdirektør stab Regionale fellesfunksjoner Strøm og oppvarming POLARIS EIENDOMSDRIFT AS 5024,7
+6 Region Nord 643101 Avdelingsdirektør stab Regionale fellesfunksjoner Renhold lokaler ISS Facility Services AS 1156,77
+6 Region Nord 643101 Avdelingsdirektør stab Regionale fellesfunksjoner Renhold lokaler ISS Facility Services AS 1504,93
+6 Region Nord 643101 Avdelingsdirektør stab Regionale fellesfunksjoner Renhold lokaler Toma Facility Norge AS 1321,85
+6 Region Nord 643101 Avdelingsdirektør stab Regionale fellesfunksjoner Renhold lokaler Toma Facility Norge AS 614,41
+6 Region Nord 643101 Avdelingsdirektør stab Regionale fellesfunksjoner Renhold lokaler Toma Facility Norge AS 423,67
+6 Region Nord 600300 Avdelingsdirektør stab Regionale fellesfunksjoner Annen kostnad lokaler Alta matteutleie AS 502,81
+6 Region Nord 600300 Avdelingsdirektør stab 151012 Implementeringsstøtte PMTO Regionale fellesfunksjoner Renovasjon, vann, avløp o.l. Retura Iris AS 80,28
+6 Region Nord 600300 Avdelingsdirektør stab 151012 Implementeringsstøtte PMTO Regionale fellesfunksjoner Renhold lokaler Toma Facility Norge AS 510,04
+6 Region Nord 600300 Avdelingsdirektør stab 151012 Implementeringsstøtte PMTO Regionale fellesfunksjoner Vaktmestertjenester Newsec Basale AS 116,25
+6 Region Nord 600300 Avdelingsdirektør stab 64001 BSA region nord Regionale fellesfunksjoner Annen kostnad lokaler Alta matteutleie AS 502,81
+6 Region Nord 600300 Tverrfaglig helsekartlegging region nord 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Strøm og oppvarming Ishavskraft AS 826,6
+6 Region Nord 600300 Tverrfaglig helsekartlegging region nord 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Renhold lokaler Toma Facility Norge AS 4446,76
+6 Region Nord 600300 Tverrfaglig helsekartlegging region nord 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Renhold lokaler Toma Facility Norge AS 3066,34
+6 Region Nord 600300 Tverrfaglig helsekartlegging region nord 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Annen kostnad lokaler STOFFLYKKE AS 1140
+6 Region Nord 600300 Avdelingsdirektør omsorg for ungdom og behandling av ungdom Regionale fellesfunksjoner Strøm og oppvarming Ishavskraft AS 185,3
+6 Region Nord 600300 Avdelingsdirektør omsorg for ungdom og behandling av ungdom Regionale fellesfunksjoner Strøm og oppvarming Ishavskraft AS 143,99
+6 Region Nord 600300 Avdelingsdirektør omsorg for ungdom og behandling av ungdom Regionale fellesfunksjoner Strøm og oppvarming Ishavskraft AS 278,68
+6 Region Nord 600300 Avdelingsdirektør omsorg for ungdom og behandling av ungdom Regionale fellesfunksjoner Renhold lokaler Toma Facility Norge AS 2643,7
+6 Region Nord 600300 Alta Ungdomssenter administrasjon Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Vefas Retur AS 530
+6 Region Nord 600300 Alta Ungdomssenter administrasjon Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS -4410,32
+6 Region Nord 600300 Alta Ungdomssenter administrasjon Barnevernsinstitusjoner Renhold lokaler ISS Facility Services AS 1665,61
+6 Region Nord 600300 Alta Ungdomssenter sjøtun Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS -22185,3
+6 Region Nord 600300 Alta Ungdomssenter sjøtun Barnevernsinstitusjoner Renhold lokaler ISS Facility Services AS 14843,54
+6 Region Nord 600300 Røvika ungdomssenter Administrasjon Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Iris Service AS 19,33
+6 Region Nord 600300 Røvika ungdomssenter Administrasjon Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS -1950,86
+6 Region Nord 600300 Røvika ungdomssenter Administrasjon Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS -111
+6 Region Nord 600300 Røvika ungdomssenter Administrasjon Barnevernsinstitusjoner Renhold lokaler Busch- Sørensen Rengjøringsbyrå AS, Bodø 947,22
+6 Region Nord 600300 Røvika ungdomssenter Skogly Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Iris Service AS 141,75
+6 Region Nord 600300 Røvika ungdomssenter Skogly Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS -14306,31
+6 Region Nord 600300 Røvika ungdomssenter Skogly Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS -814,06
+6 Region Nord 600300 Røvika ungdomssenter Skogly Barnevernsinstitusjoner Renhold lokaler Busch- Sørensen Rengjøringsbyrå AS, Bodø 6946,25
+6 Region Nord 600300 Røvika ungdomssenter Skogly 61006 Hærverk Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Eurocard Norway 282,24
+6 Region Nord 600300 Røvika ungdomssenter beredskapshjem Fosterhjem Renovasjon, vann, avløp o.l. FINNMARK RESSURSSELSKAP AS 236,53
+6 Region Nord 600300 Røvika ungdomssenter beredskapshjem Fosterhjem Renovasjon, vann, avløp o.l. Remiks Næring AS 56,88
+6 Region Nord 600300 Røvika ungdomssenter beredskapshjem Fosterhjem Renovasjon, vann, avløp o.l. Iris Service AS 32,22
+6 Region Nord 600300 Røvika ungdomssenter beredskapshjem Fosterhjem Strøm og oppvarming Lucerna AS 702,26
+6 Region Nord 600300 Røvika ungdomssenter beredskapshjem Fosterhjem Strøm og oppvarming Ishavskraft AS 767,98
+6 Region Nord 600300 Røvika ungdomssenter beredskapshjem Fosterhjem Strøm og oppvarming Ishavskraft AS 271,69
+6 Region Nord 600300 Røvika ungdomssenter beredskapshjem Fosterhjem Strøm og oppvarming Ishavskraft AS 743,95
+6 Region Nord 600300 Røvika ungdomssenter beredskapshjem Fosterhjem Strøm og oppvarming POLARIS EIENDOMSDRIFT AS 7034,58
+6 Region Nord 600300 Røvika ungdomssenter beredskapshjem Fosterhjem Strøm og oppvarming KINECT ENERGY SPOT AS -413,53
+6 Region Nord 600300 Røvika ungdomssenter beredskapshjem Fosterhjem Strøm og oppvarming KINECT ENERGY SPOT AS -3251,43
+6 Region Nord 600300 Røvika ungdomssenter beredskapshjem Fosterhjem Strøm og oppvarming KINECT ENERGY SPOT AS -185,01
+6 Region Nord 600300 Røvika ungdomssenter beredskapshjem Fosterhjem Renhold lokaler ISS Facility Services AS 1213,2
+6 Region Nord 600300 Røvika ungdomssenter beredskapshjem Fosterhjem Renhold lokaler ISS Facility Services AS 2359,15
+6 Region Nord 600300 Røvika ungdomssenter beredskapshjem Fosterhjem Renhold lokaler ISS Facility Services AS 1728,5
+6 Region Nord 600300 Røvika ungdomssenter beredskapshjem Fosterhjem Renhold lokaler ISS Facility Services AS 715,27
+6 Region Nord 600300 Røvika ungdomssenter beredskapshjem Fosterhjem Renhold lokaler Busch- Sørensen Rengjøringsbyrå AS, Bodø 1578,69
+6 Region Nord 600300 Enhet for inntak Bufetat region nord Inntak Renovasjon, vann, avløp o.l. Remiks Næring AS 154,38
+6 Region Nord 600300 Enhet for inntak Bufetat region nord Inntak Strøm og oppvarming Ishavskraft AS 737,44
+6 Region Nord 600300 Enhet for inntak Bufetat region nord Inntak Strøm og oppvarming POLARIS EIENDOMSDRIFT AS 19093,86
+6 Region Nord 600300 Enhet for inntak Bufetat region nord Inntak Renhold lokaler ISS Facility Services AS 4627,06
+6 Region Nord 600300 Enhet for inntak Bufetat region nord Inntak Renhold lokaler Toma Facility Norge AS 2465,21
+6 Region Nord 600300 Enhet for inntak Bufetat region nord Fosterhjemstjenesten Renovasjon, vann, avløp o.l. Retura Iris AS 388,01
+6 Region Nord 600300 Enhet for inntak Bufetat region nord Fosterhjemstjenesten Vaktmestertjenester Newsec Basale AS 561,88
+6 Region Nord 600300 Enhet for inntak avd. fosterhjem Inntak Annen kostnad lokaler Alta matteutleie AS 502,81
+6 Region Nord 600500 Tromsø ungdomssenter Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Remiks Næring AS 3350,85
+6 Region Nord 600500 Tromsø ungdomssenter Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 335,01
+6 Region Nord 600501 Tromsø ungdomssenter Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS -842,98
+6 Region Nord 600501 Tromsø ungdomssenter Flo Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Remiks Næring AS 20083,4
+6 Region Nord 600501 Tromsø ungdomssenter Flo Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 2007,9
+6 Region Nord 600700 Tromsø ungdomssenter Flo Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS -5052,47
+6 Region Nord 600700 Tromsø ungdomssenter Fjære Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Remiks Næring AS 20083,4
+6 Region Nord 600700 Tromsø ungdomssenter Fjære Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 2007,9
+6 Region Nord 600700 Tromsø ungdomssenter Fjære Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS -5052,47
+6 Region Nord 600700 FHT RN - adm Fosterhjemstjenesten Renovasjon, vann, avløp o.l. Retura Iris AS 495,04
+6 Region Nord 600700 FHT RN - adm Fosterhjemstjenesten Renovasjon, vann, avløp o.l. FINNMARK RESSURSSELSKAP AS 587,52
+6 Region Nord 600700 FHT RN - adm Fosterhjemstjenesten Renovasjon, vann, avløp o.l. Remiks Næring AS 154,38
+6 Region Nord 600700 FHT RN - adm Fosterhjemstjenesten Strøm og oppvarming Lucerna AS 1744,32
+6 Region Nord 600700 FHT RN - adm Fosterhjemstjenesten Strøm og oppvarming Ishavskraft AS 1907,56
+6 Region Nord 600700 FHT RN - adm Fosterhjemstjenesten Strøm og oppvarming Ishavskraft AS 92,65
+6 Region Nord 611900 FHT RN - adm Fosterhjemstjenesten Strøm og oppvarming Ishavskraft AS 71,99
+6 Region Nord 611900 FHT RN - adm Fosterhjemstjenesten Strøm og oppvarming Ishavskraft AS 139,34
+6 Region Nord 611900 FHT RN - adm Fosterhjemstjenesten Strøm og oppvarming Ishavskraft AS 737,44
+6 Region Nord 611900 FHT RN - adm Fosterhjemstjenesten Strøm og oppvarming Ishavskraft AS 1847,87
+6 Region Nord 611900 FHT RN - adm Fosterhjemstjenesten Strøm og oppvarming POLARIS EIENDOMSDRIFT AS 19093,86
+6 Region Nord 611901 FHT RN - adm Fosterhjemstjenesten Strøm og oppvarming KINECT ENERGY SPOT AS -992,47
+6 Region Nord 611901 FHT RN - adm Fosterhjemstjenesten Renhold lokaler -1203,93
+6 Region Nord 611901 FHT RN - adm Fosterhjemstjenesten Renhold lokaler ISS Facility Services AS 2359,15
+6 Region Nord 611901 FHT RN - adm Fosterhjemstjenesten Renhold lokaler ISS Facility Services AS 5783,83
+6 Region Nord 611901 FHT RN - adm Fosterhjemstjenesten Renhold lokaler ISS Facility Services AS 1716,64
+6 Region Nord 611901 FHT RN - adm Fosterhjemstjenesten Renhold lokaler ISS Facility Services AS 4213,76
+6 Region Nord 611901 FHT RN - adm Fosterhjemstjenesten Renhold lokaler Toma Facility Norge AS 1321,85
+6 Region Nord 612400 FHT RN - adm Fosterhjemstjenesten Renhold lokaler Toma Facility Norge AS 3145,27
+6 Region Nord 612400 FHT RN - adm Fosterhjemstjenesten Vaktmestertjenester Newsec Basale AS 716,88
+6 Region Nord 612400 Solbakken barne- og familiesenter Sentre for foreldre og barn Renhold lokaler MASKE AS 1879,5
+6 Region Nord 612400 Solbakken barne- og familiesenter avd. 1 foreldre og barn Sentre for foreldre og barn Strøm og oppvarming KINECT ENERGY SPOT AS 6703,35
+6 Region Nord 612400 Bodø Familievernkontor Familieverntjeneste Strøm og oppvarming Ishavskraft AS 2313,12
+6 Region Nord 612402 Bodø Familievernkontor Familieverntjeneste Renhold lokaler ISS Facility Services AS 8357,34
+6 Region Nord 612402 Indre finnmark FV Familieverntjeneste Leie lokaler andre utleiere Fitnodatgeaidnu 41 AS 74470
+6 Region Nord 612402 Indre finnmark FV Familieverntjeneste Renhold lokaler ISS Facility Services AS 5749,13
+6 Region Nord 612402 Indre finnmark FV Familieverntjeneste Renhold lokaler ISS Facility Services AS 5731,09
+6 Region Nord 612402 Indre finnmark FV Familieverntjeneste Renhold lokaler MASKE AS 463,23
+6 Region Nord 612402 Indre finnmark FV Familieverntjeneste Fellesutgifter andre utleiere Fitnodatgeaidnu 41 AS -2602
+6 Region Nord 612402 Indre finnmark FV Familieverntjeneste Fellesutgifter andre utleiere Fitnodatgeaidnu 41 AS 4500
+6 Region Nord 612403 Tromsø familievernkontor Familieverntjeneste Strøm og oppvarming Ishavskraft AS 1537,69
+6 Region Nord 612403 Tromsø familievernkontor Familieverntjeneste Renhold lokaler Toma Facility Norge AS 6635,65
+6 Region Nord 612403 Tromsø familievernkontor Familieverntjeneste Renhold lokaler Toma Facility Norge AS 4575,74
+6 Region Nord 612403 Tromsø familievernkontor 64525 SKM - Samtale med barn Familieverntjeneste Strøm og oppvarming Ishavskraft AS 512,5
+6 Region Nord 612403 Tromsø familievernkontor 64525 SKM - Samtale med barn Familieverntjeneste Renhold lokaler Toma Facility Norge AS 2211,89
+6 Region Nord 612403 Tromsø familievernkontor 64525 SKM - Samtale med barn Familieverntjeneste Renhold lokaler Toma Facility Norge AS 1525,23
+6 Region Nord 612403 Lofoten og Vesterålen familievernkontor Familieverntjeneste Leie lokaler andre utleiere FISKERGATA 22 SVOLVÆR AS 14530
+6 Region Nord 612403 Lofoten og Vesterålen familievernkontor Familieverntjeneste Strøm og oppvarming Ishavskraft AS 1524,06
+6 Region Nord 612403 Lofoten og Vesterålen familievernkontor Familieverntjeneste Renhold lokaler ISS Facility Services AS 1388,88
+6 Region Nord 612403 Lofoten og Vesterålen familievernkontor Familieverntjeneste Renhold lokaler AKG Rengjøring AS 9713
+6 Region Nord 612403 Lofoten og Vesterålen familievernkontor Familieverntjeneste Fellesutgifter andre utleiere FISKERGATA 22 SVOLVÆR AS 4327
+6 Region Nord 612403 Harstad og Narvik familievernkontor Familieverntjeneste Leie lokaler andre utleiere Narvik Havn KF 21973
+6 Region Nord 612403 Harstad og Narvik familievernkontor Familieverntjeneste Strøm og oppvarming Ishavskraft AS 1560,16
+6 Region Nord 612403 Harstad og Narvik familievernkontor Familieverntjeneste Strøm og oppvarming Ishavskraft AS 236,77
+6 Region Nord 612403 Harstad og Narvik familievernkontor Familieverntjeneste Strøm og oppvarming Ishavskraft AS 183,98
+6 Region Nord 612403 Harstad og Narvik familievernkontor Familieverntjeneste Strøm og oppvarming Ishavskraft AS 356,09
+6 Region Nord 612403 Harstad og Narvik familievernkontor Familieverntjeneste Renhold lokaler Narvik Havn KF 7770
+6 Region Nord 612403 Harstad og Narvik familievernkontor Familieverntjeneste Renhold lokaler Toma Facility Norge AS 3378,06
+6 Region Nord 612403 Harstad og Narvik familievernkontor Familieverntjeneste Fellesutgifter andre utleiere Narvik Havn KF 6221
+6 Region Nord 612403 Alta og Hammerfest familievernkontor Familieverntjeneste Renovasjon, vann, avløp o.l. FINNMARK RESSURSSELSKAP AS 350,98
+6 Region Nord 612403 Alta og Hammerfest familievernkontor Familieverntjeneste Strøm og oppvarming Lucerna AS 1042,06
+6 Region Nord 612403 Alta og Hammerfest familievernkontor Familieverntjeneste Strøm og oppvarming Ishavskraft AS 1139,58
+6 Region Nord 612403 Alta og Hammerfest familievernkontor Familieverntjeneste Strøm og oppvarming Ishavskraft AS 1103,92
+6 Region Nord 612403 Alta og Hammerfest familievernkontor Familieverntjeneste Renhold lokaler ISS Facility Services AS 1819,81
+6 Region Nord 612403 Alta og Hammerfest familievernkontor Familieverntjeneste Annen kostnad lokaler Alta matteutleie AS 502,82
+6 Region Nord 612403 Alta ungdomssenter Utsikten omsorg Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS -12884,54
+6 Region Nord 612403 Alta ungdomssenter Utsikten omsorg Barnevernsinstitusjoner Renhold lokaler ISS Facility Services AS 8568,27
+6 Region Nord 612403 Røvika Åsheim Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Iris Service AS 90,2
+6 Region Nord 612403 Røvika Åsheim Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS -9104,02
+6 Region Nord 612403 Røvika Åsheim Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS -518,04
+6 Region Nord 612403 Røvika Åsheim Barnevernsinstitusjoner Renhold lokaler Busch- Sørensen Rengjøringsbyrå AS, Bodø 4420,34
+6 Region Nord 612403 Røvika Åsheim Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Coop Nordland SA 1867,6
+6 Region Nord 612403 Røvika Åsheim 64471 Omstilling RN Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler VALNESFJORD PRODUKSJON AS 5218,75
+6 Region Nord 612403 Silsand ungdomssenter avdeling 1 Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Senja Avfall AS 2859
+6 Region Nord 614600 Silsand ungdomssenter avdeling 1 Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 8088,59
+6 Region Nord 614600 Silsand ungdomssenter avdeling 1 Barnevernsinstitusjoner Renhold lokaler ISS Facility Services AS 13492,58
+6 Region Nord 614600 Silsand ungdomssenter avdeling 1 Barnevernsinstitusjoner Renhold lokaler ISS Facility Services AS 1975
+6 Region Nord 614600 Silsand ungdomssenter avdeling 1 Barnevernsinstitusjoner Annen kostnad lokaler NB Engros AS 1867,9
+6 Region Nord 614600 Silsand ungdomssenter avdeling 1 Barnevernsinstitusjoner Annen kostnad lokaler Clas Ohlson AS 100
+6 Region Nord 614600 Silsand ungdomssenter avdeling 1 151003 Prosjektering og utvikling av eiendom/bygg Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Senja Avfall Miljø AS, Finnsnes 5353
+6 Region Nord 614600 Silsand ungdomssenter avdeling 1 151003 Prosjektering og utvikling av eiendom/bygg Barnevernsinstitusjoner Annen kostnad lokaler NB Engros AS 4318,1
+6 Region Nord 614600 Silsand ungdomssenter avdeling 1 151003 Prosjektering og utvikling av eiendom/bygg Barnevernsinstitusjoner Annen kostnad lokaler Clas Ohlson AS 640
+6 Region Nord 614600 Silsand ungdomssenter avdeling 1 151003 Prosjektering og utvikling av eiendom/bygg Barnevernsinstitusjoner Annen kostnad lokaler Berggård Amundsen & Co AS 2529,98
+6 Region Nord 614600 Silsand ungdomssenter avdeling 1 151003 Prosjektering og utvikling av eiendom/bygg Barnevernsinstitusjoner Annen kostnad lokaler Biltema Norge AS 269,5
+6 Region Nord 614600 Silsand ungdomssenter avdeling 1 151003 Prosjektering og utvikling av eiendom/bygg Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Clas Ohlson AS 484
+6 Region Nord 614600 Silsand ungdomssenter avdeling 1 151003 Prosjektering og utvikling av eiendom/bygg Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Biltema Norge AS 403
+6 Region Nord 614600 Nye Kvæfjord ungdomssenter adm Barnevernsinstitusjoner Strøm og oppvarming Polar Kraft AS 390,89
+6 Region Nord 614600 Nye Kvæfjord ungdomssenter adm Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 3324,8
+6 Region Nord 614600 Nye Kvæfjord ungdomssenter adm Barnevernsinstitusjoner Renhold lokaler Breeze Tekstil AS 128,46
+6 Region Nord 614600 Nye Kvæfjord ungdomssenter adm Barnevernsinstitusjoner Renhold lokaler Toma Facility Norge AS 2021,98
+6 Region Nord 614600 Nye Kvæfjord ungdomssenter Storheimen Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 11508,91
+6 Region Nord 614600 Nye Kvæfjord ungdomssenter Storheimen Barnevernsinstitusjoner Renhold lokaler Breeze Tekstil AS 444,67
+6 Region Nord 614700 Nye Kvæfjord ungdomssenter Storheimen Barnevernsinstitusjoner Renhold lokaler Toma Facility Norge AS 6999,16
+6 Region Nord 614700 Nye Kvæfjord ungdomssenter Storheimen Barnevernsinstitusjoner Annen kostnad lokaler Sotera AS 239,18
+6 Region Nord 614700 Nye Kvæfjord ungdomssenter Storheimen Barnevernsinstitusjoner Annen kostnad lokaler Sotera AS 79,72
+6 Region Nord 614700 Nye Kvæfjord ungdomssenter Storheimen 61006 Hærverk Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Statsbyggs hovedkontor 7376,25
+6 Region Nord 614700 Nye Kvæfjord ungdomssenter Lilleheimen Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 10741,65
+6 Region Nord 614700 Nye Kvæfjord ungdomssenter Lilleheimen Barnevernsinstitusjoner Renhold lokaler Breeze Tekstil AS 415,02
+6 Region Nord 614700 Nye Kvæfjord ungdomssenter Lilleheimen Barnevernsinstitusjoner Renhold lokaler Toma Facility Norge AS 6532,55
+6 Region Nord 614700 KUS SKM Omsorg for ungdom 64132 SKM-omsorg for ungdom Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 370,6
+6 Region Nord 614700 KUS SKM Omsorg for ungdom 64132 SKM-omsorg for ungdom Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 287,97
+6 Region Nord 614700 KUS SKM Omsorg for ungdom 64132 SKM-omsorg for ungdom Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 557,36
+6 Region Nord 614700 KUS SKM Omsorg for ungdom 64132 SKM-omsorg for ungdom Barnevernsinstitusjoner Renhold lokaler Toma Facility Norge AS 5287,4
+6 Region Nord 614710 Lamo ungdomssenter adm Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 3867,49
+6 Region Nord 614710 Lamo ungdomssenter adm Barnevernsinstitusjoner Renhold lokaler AKSJESELSKAP SALANGSVASK 6000
+6 Region Nord 614710 Lamo ungdomssenter Tunet Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 9,47
+6 Region Nord 614710 Lamo ungdomssenter Tunet Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 6000
+6 Region Nord 614710 Lamo ungdomssenter Tunet Barnevernsinstitusjoner Renhold lokaler MASKE AS 764,7
+6 Region Nord 614710 Lamo ungdomssenter Tunet Barnevernsinstitusjoner Renhold lokaler MASKE AS 1225,31
+6 Region Nord 614720 Lamo ungdomssenter Tunet Barnevernsinstitusjoner Renhold lokaler AKSJESELSKAP SALANGSVASK 12774,38
+6 Region Nord 614720 Lamo ungdomssenter Tunet Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler MAXI MILJØ AS 699,75
+6 Region Nord 614720 Lamo ungdomssenter Tunet 61010 Risikoavsetning - Hærverk, enetiltak/skjerming, etc. Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS -2257,37
+6 Region Nord 614720 Bodø behandlingssenter adm Barnevernsinstitusjoner Leie lokaler andre utleiere Kristin Johannessen 6000
+6 Region Nord 614720 Bodø behandlingssenter adm Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 4565,15
+6 Region Nord 614720 Bodø behandlingssenter adm Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 359,11
+6 Region Nord 615900 Bodø behandlingssenter adm Barnevernsinstitusjoner Renhold lokaler Insider Facility Solutions AS 5068
+6 Region Nord 615900 Bodø behandlingssenter Sandhornet Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Eurocard Norway 611,9
+6 Region Nord 615900 Bodø behandlingssenter Sandhornet Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 3665,88
+6 Region Nord 615900 Bodø behandlingssenter Sandhornet Barnevernsinstitusjoner Vakthold lokaler AS Skan-Kontroll 6810
+6 Region Nord 615900 Bodø behandlingssenter Sandhornet Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Eurocard Norway 49,9
+6 Region Nord 615900 Enhet for spesialiserte fosterhjem Fosterhjem Renovasjon, vann, avløp o.l. Retura Iris AS 107,04
+6 Region Nord 615900 Enhet for spesialiserte fosterhjem Fosterhjem Strøm og oppvarming Ishavskraft AS 51,47
+6 Region Nord 615900 Enhet for spesialiserte fosterhjem Fosterhjem Strøm og oppvarming Ishavskraft AS 40
+6 Region Nord 615900 Enhet for spesialiserte fosterhjem Fosterhjem Strøm og oppvarming Ishavskraft AS 77,41
+6 Region Nord 615900 Enhet for spesialiserte fosterhjem Fosterhjem Strøm og oppvarming KINECT ENERGY SPOT AS -248,12
+6 Region Nord 615900 Enhet for spesialiserte fosterhjem Fosterhjem Renhold lokaler 1203,93
+6 Region Nord 615900 Enhet for spesialiserte fosterhjem Fosterhjem Renhold lokaler ISS Facility Services AS 429,16
+6 Region Nord 615900 Enhet for spesialiserte fosterhjem Fosterhjem Renhold lokaler ISS Facility Services AS 1805,9
+6 Region Nord 615900 Enhet for spesialiserte fosterhjem Fosterhjem Renhold lokaler Toma Facility Norge AS 734,36
+6 Region Nord 615900 Enhet for spesialiserte fosterhjem Fosterhjem Renhold lokaler Toma Facility Norge AS 680,06
+6 Region Nord 615900 Enhet for spesialiserte fosterhjem Fosterhjem Vaktmestertjenester Newsec Basale AS 155
+6 Region Nord 615900 FIT-team Hammerfest Hjelpetiltak i hjemmet Renovasjon, vann, avløp o.l. FINNMARK RESSURSSELSKAP AS 350,98
+6 Region Nord 615900 FIT-team Hammerfest Hjelpetiltak i hjemmet Strøm og oppvarming Lucerna AS 1042,06
+6 Region Nord 615900 FIT-team Hammerfest Hjelpetiltak i hjemmet Strøm og oppvarming Ishavskraft AS 1139,58
+6 Region Nord 615900 FIT-team Hammerfest Hjelpetiltak i hjemmet Strøm og oppvarming Ishavskraft AS 1103,92
+6 Region Nord 615900 Sollia barne- og ungdomssenter adm Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Reno-Vest Bedrift AS 120
+6 Region Nord 615900 Sollia barne- og ungdomssenter adm Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS -578,94
+6 Region Nord 615900 Sollia barne- og ungdomssenter adm Barnevernsinstitusjoner Renhold lokaler ISS Facility Services AS 1001,4
+6 Region Nord 615900 Sollia barne- og ungdomssenter miljøavdeling Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS -6037,52
+6 Region Nord 615900 Sollia barne- og ungdomssenter miljøavdeling Barnevernsinstitusjoner Renhold lokaler ISS Facility Services AS 10442,94
+6 Region Nord 615900 Sollia barne- og ungdomssenter miljøavdeling Barnevernsinstitusjoner Renhold lokaler Clas Ohlson AS 200
+6 Region Nord 615900 Sollia barne- og ungdomssenter miljøavdeling Barnevernsinstitusjoner Annen kostnad lokaler Europris Butikkdrift AS 1590
+6 Region Nord 615900 Sollia barne- og ungdomssenter miljøavdeling Barnevernsinstitusjoner Annen kostnad lokaler Rema 1000 Sortland(15033440445) 443,6
+6 Region Nord 615900 MST Bodø Hjelpetiltak i hjemmet Renovasjon, vann, avløp o.l. Retura Iris AS 267,59
+6 Region Nord 615900 MST Bodø Hjelpetiltak i hjemmet Renhold lokaler Toma Facility Norge AS 1700,15
+6 Region Nord 615900 MST Bodø Hjelpetiltak i hjemmet Vaktmestertjenester Newsec Basale AS 387,5
+6 Region Nord 615900 MST Tromsø Hjelpetiltak i hjemmet Strøm og oppvarming Ishavskraft AS 654,9
+6 Region Nord 615900 MST Tromsø Hjelpetiltak i hjemmet Renhold lokaler Toma Facility Norge AS 2826,3
+6 Region Nord 615900 MST Tromsø Hjelpetiltak i hjemmet Renhold lokaler Toma Facility Norge AS 1948,9
+6 Region Nord 615900 MST Mo i Rana Hjelpetiltak i hjemmet Renovasjon, vann, avløp o.l. Østbø AS 186,25
+6 Region Nord 615900 MST Mo i Rana Hjelpetiltak i hjemmet Renhold lokaler ISS Facility Services AS 3472,19
+6 Region Nord 615900 Yttrabekken ungdomssenter administrasjon Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS -3073,14
+6 Region Nord 615900 Yttrabekken ungdomssenter avdeling 1 Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Retura HAF AS 430
+6 Region Nord 615900 Yttrabekken ungdomssenter avdeling 1 Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS -5997,65
+6 Region Nord 615900 Yttrabekken ungdomssenter avdeling 1 Barnevernsinstitusjoner Renhold lokaler Bunnpris Båsmoen 491,2
+6 Region Nord 615900 Yttrabekken ungdomssenter avdeling 1 Barnevernsinstitusjoner Renhold lokaler Søstrene Renhold AS 4500
+6 Region Nord 615900 Yttrabekken ungdomssenter avdeling 1 Barnevernsinstitusjoner Annen kostnad lokaler Jysk AS 5361,76
+6 Region Nord 615900 Yttrabekken ungdomssenter avdeling 1 Barnevernsinstitusjoner Annen kostnad lokaler Jysk AS 974,28
+6 Region Nord 615900 Yttrabekken ungdomssenter avdeling 1 Barnevernsinstitusjoner Annen kostnad lokaler NB Engros AS 316
+6 Region Nord 615900 Yttrabekken ungdomssenter avdeling 1 Barnevernsinstitusjoner Annen kostnad lokaler Clas Ohlson AS 350
+6 Region Nord 615900 NASAK - Nasjonalt Samisk kompetansesenter Regionale fellesfunksjoner Leie lokaler andre utleiere 0
+6 Region Nord 615900 NASAK - Nasjonalt Samisk kompetansesenter Regionale fellesfunksjoner Leie lokaler andre utleiere 0
+6 Region Nord 615900 NASAK - Nasjonalt Samisk kompetansesenter Regionale fellesfunksjoner Leie lokaler andre utleiere Fitnodatgeaidnu 41 AS 13994
+6 Region Nord 615900 NASAK - Nasjonalt Samisk kompetansesenter Regionale fellesfunksjoner Leie lokaler andre utleiere Fitnodatgeaidnu 41 AS 34986
+6 Region Nord 615900 NASAK - Nasjonalt Samisk kompetansesenter Regionale fellesfunksjoner Leie lokaler andre utleiere Fitnodatgeaidnu 41 AS 20991
+6 Region Nord 615900 NASAK - Nasjonalt Samisk kompetansesenter Regionale fellesfunksjoner Leie lokaler andre utleiere Tana Utleiebygg A/S 6334,34
+6 Region Nord 615900 NASAK - Nasjonalt Samisk kompetansesenter Regionale fellesfunksjoner Renhold lokaler -228,52
+6 Region Nord 615900 NASAK - Nasjonalt Samisk kompetansesenter Regionale fellesfunksjoner Renhold lokaler -342,8
+6 Region Nord 615900 NASAK - Nasjonalt Samisk kompetansesenter Regionale fellesfunksjoner Renhold lokaler ISS Facility Services AS 1142,6
+6 Region Nord 615900 NASAK - Nasjonalt Samisk kompetansesenter Regionale fellesfunksjoner Renhold lokaler ISS Facility Services AS 2856,6
+6 Region Nord 615900 NASAK - Nasjonalt Samisk kompetansesenter Regionale fellesfunksjoner Renhold lokaler ISS Facility Services AS 1714
+6 Region Nord 615900 NASAK - Nasjonalt Samisk kompetansesenter Regionale fellesfunksjoner Renhold lokaler ISS Facility Services AS 916,99
+6 Region Nord 622602 NASAK - Nasjonalt Samisk kompetansesenter Regionale fellesfunksjoner Renhold lokaler ISS Facility Services AS 2865,6
+6 Region Nord 622602 NASAK - Nasjonalt Samisk kompetansesenter Regionale fellesfunksjoner Renhold lokaler ISS Facility Services AS 1375,52
+6 Region Nord 622602 NASAK - Nasjonalt Samisk kompetansesenter Regionale fellesfunksjoner Fellesutgifter andre utleiere 0
+6 Region Nord 622602 NASAK - Nasjonalt Samisk kompetansesenter Regionale fellesfunksjoner Fellesutgifter andre utleiere 0
+6 Region Nord 622602 NASAK - Nasjonalt Samisk kompetansesenter Regionale fellesfunksjoner Fellesutgifter andre utleiere Fitnodatgeaidnu 41 AS 1800
+6 Region Nord 622602 NASAK - Nasjonalt Samisk kompetansesenter Regionale fellesfunksjoner Fellesutgifter andre utleiere Fitnodatgeaidnu 41 AS 4500
+6 Region Nord 622602 NASAK - Nasjonalt Samisk kompetansesenter Regionale fellesfunksjoner Fellesutgifter andre utleiere Fitnodatgeaidnu 41 AS 2700
+6 Region Nord 623300 NASAK - Nasjonalt Samisk kompetansesenter Regionale fellesfunksjoner Oppgradering og påkostning leide lokaler - under kr 50 000 Fitnodatgeaidnu 41 AS 23802
+6 Region Nord 623300 Avdelingsdirektør stab Regionale fellesfunksjoner Leie lokaler andre utleiere -160486,06
+6 Region Nord 623300 Avdelingsdirektør stab Regionale fellesfunksjoner Renovasjon, vann, avløp o.l. Remiks Næring AS 21,31
+6 Region Nord 623300 Avdelingsdirektør stab Regionale fellesfunksjoner Strøm og oppvarming -8071,85
+6 Region Nord 623300 Avdelingsdirektør stab Regionale fellesfunksjoner Strøm og oppvarming Ishavskraft AS 121,25
+6 Region Nord 623300 Avdelingsdirektør stab Regionale fellesfunksjoner Strøm og oppvarming Ishavskraft AS 84,33
+6 Region Nord 623500 Avdelingsdirektør stab Regionale fellesfunksjoner Strøm og oppvarming Ishavskraft AS 120,35
+6 Region Nord 623500 Avdelingsdirektør stab Regionale fellesfunksjoner Strøm og oppvarming Ishavskraft AS 90,6
+6 Region Nord 623500 Avdelingsdirektør stab Regionale fellesfunksjoner Strøm og oppvarming Ishavskraft AS 161,74
+6 Region Nord 623500 Avdelingsdirektør stab Regionale fellesfunksjoner Renhold lokaler -6682,03
+6 Region Nord 623500 Avdelingsdirektør stab Regionale fellesfunksjoner Renhold lokaler ISS Facility Services AS 11003,79
+6 Region Nord 623500 Avdelingsdirektør stab Regionale fellesfunksjoner Renhold lokaler ISS Facility Services AS 11003,79
+6 Region Nord 623800 Avdelingsdirektør stab Regionale fellesfunksjoner Renhold lokaler ISS Facility Services AS 1329,62
+6 Region Nord 624200 Avdelingsdirektør stab Regionale fellesfunksjoner Renhold lokaler ISS Facility Services AS 1052,24
+6 Region Nord 624200 Avdelingsdirektør stab Regionale fellesfunksjoner Renhold lokaler Toma Facility Norge AS 669,6
+6 Region Nord 624200 Avdelingsdirektør stab Regionale fellesfunksjoner Renhold lokaler Toma Facility Norge AS 1321,85
+6 Region Nord 624200 Avdelingsdirektør stab Regionale fellesfunksjoner Fellesutgifter andre utleiere -26582,08
+6 Region Nord 624200 Avdelingsdirektør stab 151012 Implementeringsstøtte PMTO Regionale fellesfunksjoner Leie lokaler andre utleiere 160486,06
+6 Region Nord 624200 Avdelingsdirektør stab 151012 Implementeringsstøtte PMTO Regionale fellesfunksjoner Renovasjon, vann, avløp o.l. Retura Iris AS 2,33
+6 Region Nord 624200 Avdelingsdirektør stab 151012 Implementeringsstøtte PMTO Regionale fellesfunksjoner Strøm og oppvarming 8071,85
+6 Region Nord 624200 Avdelingsdirektør stab 151012 Implementeringsstøtte PMTO Regionale fellesfunksjoner Strøm og oppvarming Heian AS 891,66
+6 Region Nord 624300 Avdelingsdirektør stab 151012 Implementeringsstøtte PMTO Regionale fellesfunksjoner Renhold lokaler 6682,03
+6 Region Nord 624300 Avdelingsdirektør stab 151012 Implementeringsstøtte PMTO Regionale fellesfunksjoner Renhold lokaler ISS Facility Services AS 982,47
+6 Region Nord 624300 Avdelingsdirektør stab 151012 Implementeringsstøtte PMTO Regionale fellesfunksjoner Renhold lokaler ISS Facility Services AS 982,47
+6 Region Nord 624300 Avdelingsdirektør stab 151012 Implementeringsstøtte PMTO Regionale fellesfunksjoner Fellesutgifter andre utleiere 26582,08
+6 Region Nord 624300 Avdelingsdirektør stab 64001 BSA region nord Regionale fellesfunksjoner Renhold lokaler ISS Facility Services AS 2357,95
+6 Region Nord 624300 Avdelingsdirektør stab 64001 BSA region nord Regionale fellesfunksjoner Renhold lokaler ISS Facility Services AS 1515,41
+6 Region Nord 624300 Avdelingsdirektør stab 64001 BSA region nord Regionale fellesfunksjoner Renhold lokaler ISS Facility Services AS 2357,95
+6 Region Nord 624300 Regionkontoret frikjøpte (tillitsvalgt osv) Regionale fellesfunksjoner Renhold lokaler ISS Facility Services AS 1504,91
+6 Region Nord 624400 Tverrfaglig helsekartlegging region nord 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Strøm og oppvarming Ishavskraft AS 817,97
+6 Region Nord 624400 Tverrfaglig helsekartlegging region nord 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Renhold lokaler Toma Facility Norge AS 4846,33
+6 Region Nord 624400 Avdelingsdirektør omsorg for ungdom og behandling av ungdom Regionale fellesfunksjoner Strøm og oppvarming Ishavskraft AS 168,65
+6 Region Nord 624400 Avdelingsdirektør omsorg for ungdom og behandling av ungdom Regionale fellesfunksjoner Strøm og oppvarming Ishavskraft AS 240,69
+6 Region Nord 624400 Avdelingsdirektør omsorg for ungdom og behandling av ungdom Regionale fellesfunksjoner Strøm og oppvarming Ishavskraft AS 181,2
+6 Region Nord 624400 Avdelingsdirektør omsorg for ungdom og behandling av ungdom Regionale fellesfunksjoner Renhold lokaler Toma Facility Norge AS 2643,7
+6 Region Nord 624400 Alta Ungdomssenter administrasjon Barnevernsinstitusjoner Renhold lokaler ISS Facility Services AS 1665,62
+6 Region Nord 624400 Alta Ungdomssenter sjøtun Barnevernsinstitusjoner Renhold lokaler ISS Facility Services AS 14843,54
+6 Region Nord 624400 Alta Ungdomssenter sjøtun Barnevernsinstitusjoner Renhold lokaler MASKE AS 415,74

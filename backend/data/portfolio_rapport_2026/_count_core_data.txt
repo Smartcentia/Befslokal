@@ -1,0 +1,189 @@
+Traceback (most recent call last):
+  File "/Users/frank/Documents/BEFS_CLEAN/backend/.venv/lib/python3.13/site-packages/sqlalchemy/orm/clsregistry.py", line 516, in _resolve_name
+    rval = d[token]
+           ~^^^^^^^
+  File "/Users/frank/Documents/BEFS_CLEAN/backend/.venv/lib/python3.13/site-packages/sqlalchemy/util/_collections.py", line 340, in __missing__
+    self[key] = val = self.creator(key)
+                      ~~~~~~~~~~~~^^^^^
+  File "/Users/frank/Documents/BEFS_CLEAN/backend/.venv/lib/python3.13/site-packages/sqlalchemy/orm/clsregistry.py", line 484, in _access_cls
+    return self.fallback[key]
+           ~~~~~~~~~~~~~^^^^^
+KeyError: 'User'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/frank/Documents/BEFS_CLEAN/backend/scripts/count_core_data.py", line 50, in <module>
+    asyncio.run(main())
+    ~~~~~~~~~~~^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.13/3.13.11/Frameworks/Python.framework/Versions/3.13/lib/python3.13/asyncio/runners.py", line 195, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+  File "/opt/homebrew/Cellar/python@3.13/3.13.11/Frameworks/Python.framework/Versions/3.13/lib/python3.13/asyncio/runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "/opt/homebrew/Cellar/python@3.13/3.13.11/Frameworks/Python.framework/Versions/3.13/lib/python3.13/asyncio/base_events.py", line 725, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "/Users/frank/Documents/BEFS_CLEAN/backend/scripts/count_core_data.py", line 28, in main
+    props = await db.scalar(select(func.count(Property.property_id)))
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/frank/Documents/BEFS_CLEAN/backend/.venv/lib/python3.13/site-packages/sqlalchemy/ext/asyncio/session.py", line 505, in scalar
+    return await greenlet_spawn(
+           ^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/frank/Documents/BEFS_CLEAN/backend/.venv/lib/python3.13/site-packages/sqlalchemy/util/_concurrency_py3k.py", line 203, in greenlet_spawn
+    result = context.switch(value)
+  File "/Users/frank/Documents/BEFS_CLEAN/backend/.venv/lib/python3.13/site-packages/sqlalchemy/orm/session.py", line 2399, in scalar
+    return self._execute_internal(
+           ~~~~~~~~~~~~~~~~~~~~~~^
+        statement,
+        ^^^^^^^^^^
+    ...<4 lines>...
+        **kw,
+        ^^^^^
+    )
+    ^
+  File "/Users/frank/Documents/BEFS_CLEAN/backend/.venv/lib/python3.13/site-packages/sqlalchemy/orm/session.py", line 2249, in _execute_internal
+    result: Result[Any] = compile_state_cls.orm_execute_statement(
+                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self,
+        ^^^^^
+    ...<4 lines>...
+        conn,
+        ^^^^^
+    )
+    ^
+  File "/Users/frank/Documents/BEFS_CLEAN/backend/.venv/lib/python3.13/site-packages/sqlalchemy/orm/context.py", line 306, in orm_execute_statement
+    result = conn.execute(
+        statement, params or {}, execution_options=execution_options
+    )
+  File "/Users/frank/Documents/BEFS_CLEAN/backend/.venv/lib/python3.13/site-packages/sqlalchemy/engine/base.py", line 1419, in execute
+    return meth(
+        self,
+        distilled_parameters,
+        execution_options or NO_OPTIONS,
+    )
+  File "/Users/frank/Documents/BEFS_CLEAN/backend/.venv/lib/python3.13/site-packages/sqlalchemy/sql/elements.py", line 527, in _execute_on_connection
+    return connection._execute_clauseelement(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self, distilled_params, execution_options
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/frank/Documents/BEFS_CLEAN/backend/.venv/lib/python3.13/site-packages/sqlalchemy/engine/base.py", line 1633, in _execute_clauseelement
+    compiled_sql, extracted_params, cache_hit = elem._compile_w_cache(
+                                                ~~~~~~~~~~~~~~~~~~~~~^
+        dialect=dialect,
+        ^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+        linting=self.dialect.compiler_linting | compiler.WARN_LINTING,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/frank/Documents/BEFS_CLEAN/backend/.venv/lib/python3.13/site-packages/sqlalchemy/sql/elements.py", line 716, in _compile_w_cache
+    compiled_sql = self._compiler(
+        dialect,
+    ...<4 lines>...
+        **kw,
+    )
+  File "/Users/frank/Documents/BEFS_CLEAN/backend/.venv/lib/python3.13/site-packages/sqlalchemy/sql/elements.py", line 324, in _compiler
+    return dialect.statement_compiler(dialect, self, **kw)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/frank/Documents/BEFS_CLEAN/backend/.venv/lib/python3.13/site-packages/sqlalchemy/sql/compiler.py", line 1461, in __init__
+    Compiled.__init__(self, dialect, statement, **kwargs)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/frank/Documents/BEFS_CLEAN/backend/.venv/lib/python3.13/site-packages/sqlalchemy/sql/compiler.py", line 901, in __init__
+    self.string = self.process(self.statement, **compile_kwargs)
+                  ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/frank/Documents/BEFS_CLEAN/backend/.venv/lib/python3.13/site-packages/sqlalchemy/sql/compiler.py", line 947, in process
+    return obj._compiler_dispatch(self, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "/Users/frank/Documents/BEFS_CLEAN/backend/.venv/lib/python3.13/site-packages/sqlalchemy/sql/visitors.py", line 138, in _compiler_dispatch
+    return meth(self, **kw)  # type: ignore  # noqa: E501
+  File "/Users/frank/Documents/BEFS_CLEAN/backend/.venv/lib/python3.13/site-packages/sqlalchemy/sql/compiler.py", line 4809, in visit_select
+    compile_state = select_stmt._compile_state_factory(
+        select_stmt, self, **kwargs
+    )
+  File "/Users/frank/Documents/BEFS_CLEAN/backend/.venv/lib/python3.13/site-packages/sqlalchemy/sql/base.py", line 775, in create_for_statement
+    return klass.create_for_statement(statement, compiler, **kw)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/frank/Documents/BEFS_CLEAN/backend/.venv/lib/python3.13/site-packages/sqlalchemy/orm/context.py", line 447, in create_for_statement
+    return cls._create_orm_context(
+           ~~~~~~~~~~~~~~~~~~~~~~~^
+        cast("Union[Select, FromStatement]", statement),
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+        **kw,
+        ^^^^^
+    )
+    ^
+  File "/Users/frank/Documents/BEFS_CLEAN/backend/.venv/lib/python3.13/site-packages/sqlalchemy/orm/context.py", line 1175, in _create_orm_context
+    _QueryEntity.to_compile_state(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self,
+        ^^^^^
+    ...<2 lines>...
+        is_current_entities=True,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/frank/Documents/BEFS_CLEAN/backend/.venv/lib/python3.13/site-packages/sqlalchemy/orm/context.py", line 2635, in to_compile_state
+    _ColumnEntity._for_columns(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        compile_state,
+        ^^^^^^^^^^^^^^
+    ...<3 lines>...
+        is_current_entities,
+        ^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/frank/Documents/BEFS_CLEAN/backend/.venv/lib/python3.13/site-packages/sqlalchemy/orm/context.py", line 3015, in _for_columns
+    _ORMColumnEntity(
+    ~~~~~~~~~~~~~~~~^
+        compile_state,
+        ^^^^^^^^^^^^^^
+    ...<5 lines>...
+        parent_bundle=parent_bundle,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/frank/Documents/BEFS_CLEAN/backend/.venv/lib/python3.13/site-packages/sqlalchemy/orm/context.py", line 3235, in __init__
+    _entity._post_inspect
+  File "/Users/frank/Documents/BEFS_CLEAN/backend/.venv/lib/python3.13/site-packages/sqlalchemy/util/langhelpers.py", line 1235, in __get__
+    obj.__dict__[self.__name__] = result = self.fget(obj)
+                                           ~~~~~~~~~^^^^^
+  File "/Users/frank/Documents/BEFS_CLEAN/backend/.venv/lib/python3.13/site-packages/sqlalchemy/orm/mapper.py", line 2733, in _post_inspect
+    self._check_configure()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/frank/Documents/BEFS_CLEAN/backend/.venv/lib/python3.13/site-packages/sqlalchemy/orm/mapper.py", line 2410, in _check_configure
+    _configure_registries({self.registry}, cascade=True)
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/frank/Documents/BEFS_CLEAN/backend/.venv/lib/python3.13/site-packages/sqlalchemy/orm/mapper.py", line 4227, in _configure_registries
+    _do_configure_registries(registries, cascade)
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/frank/Documents/BEFS_CLEAN/backend/.venv/lib/python3.13/site-packages/sqlalchemy/orm/mapper.py", line 4268, in _do_configure_registries
+    mapper._post_configure_properties()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/frank/Documents/BEFS_CLEAN/backend/.venv/lib/python3.13/site-packages/sqlalchemy/orm/mapper.py", line 2427, in _post_configure_properties
+    prop.init()
+    ~~~~~~~~~^^
+  File "/Users/frank/Documents/BEFS_CLEAN/backend/.venv/lib/python3.13/site-packages/sqlalchemy/orm/interfaces.py", line 595, in init
+    self.do_init()
+    ~~~~~~~~~~~~^^
+  File "/Users/frank/Documents/BEFS_CLEAN/backend/.venv/lib/python3.13/site-packages/sqlalchemy/orm/relationships.py", line 1655, in do_init
+    self._setup_entity()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "/Users/frank/Documents/BEFS_CLEAN/backend/.venv/lib/python3.13/site-packages/sqlalchemy/orm/relationships.py", line 1865, in _setup_entity
+    self._clsregistry_resolve_name(argument)(),
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/frank/Documents/BEFS_CLEAN/backend/.venv/lib/python3.13/site-packages/sqlalchemy/orm/clsregistry.py", line 520, in _resolve_name
+    self._raise_for_name(name, err)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "/Users/frank/Documents/BEFS_CLEAN/backend/.venv/lib/python3.13/site-packages/sqlalchemy/orm/clsregistry.py", line 501, in _raise_for_name
+    raise exc.InvalidRequestError(
+    ...<5 lines>...
+    ) from err
+sqlalchemy.exc.InvalidRequestError: When initializing mapper Mapper[InternalControlCase(internal_control_cases)], expression 'User' failed to locate a name ('User'). If this is a class name, consider adding this relationship() to the <class 'app.domains.hms.models.internal_control.InternalControlCase'> class after both dependent classes have been defined.

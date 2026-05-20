@@ -1,0 +1,752 @@
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050195 Hovdenveien 159, 1708 Sarpsborg Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 9563,83
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050196 Storveien 1408, 1950 Rømskog Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 47566,21
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050196 Storveien 1408, 1950 Rømskog Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 25757,77
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050197 Bekkegata 2a, 3513 Hønefoss Omsorgssentre for mindreårige asylsøkere Strøm og oppvarming KINECT ENERGY SPOT AS 2952,36
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050197 Bekkegata 2a, 3513 Hønefoss Omsorgssentre for mindreårige asylsøkere Strøm og oppvarming KINECT ENERGY SPOT AS 17148,32
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050206 Energiveien 15, Kirkenær Omsorgssentre for mindreårige asylsøkere Strøm og oppvarming Elvia AS 5116,47
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050206 Energiveien 15, Kirkenær Omsorgssentre for mindreårige asylsøkere Strøm og oppvarming Grue Kommune 24777,22
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050206 Energiveien 15, Kirkenær Omsorgssentre for mindreårige asylsøkere Strøm og oppvarming KINECT ENERGY SPOT AS 21293,51
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050207 Energiveien 17, Kirkenær Omsorgssentre for mindreårige asylsøkere Strøm og oppvarming Grue Kommune 36689,03
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050208 Gartnerivegen 8, Kirkenær Barnevernsinstitusjoner Strøm og oppvarming Elvia AS 7874,18
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050208 Gartnerivegen 8, Kirkenær Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 40962,19
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050209 Kirkenærtunet 27, Kirkenær Omsorgssentre for mindreårige asylsøkere Strøm og oppvarming Elvia AS 8716,71
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050209 Kirkenærtunet 27, Kirkenær Omsorgssentre for mindreårige asylsøkere Strøm og oppvarming KINECT ENERGY SPOT AS 48359,19
+2 Region Øst 204416 Gullhella barne- og familiesenter Administrasjon Sentre for foreldre og barn Vakthold lokaler SECTOR ALARM AS /PayEx Norge AS 384,96
+2 Region Øst 204416 Gullhella barne- og familiesenter Avdeling for beredskapshjem Fosterhjem Renovasjon, vann, avløp o.l. -1486,31
+2 Region Øst 204416 Gullhella barne- og familiesenter Avdeling for beredskapshjem Fosterhjem Renovasjon, vann, avløp o.l. Asker kommune 1486,31
+2 Region Øst 204416 Gullhella barne- og familiesenter Avdeling for beredskapshjem 2 Fosterhjem Renovasjon, vann, avløp o.l. 1486,31
+2 Region Øst 204416 Gullhella barne- og familiesenter Avdeling for beredskapshjem 2 Fosterhjem Renovasjon, vann, avløp o.l. Asker kommune -1486,31
+2 Region Øst 204416 Gullhella barne- og familiesenter Avdeling for beredskapshjem 3 Fosterhjem Renhold lokaler CityMaid HjemmeService AS 1752
+2 Region Øst 204416 Seljelia barne- og familiesenter Foreldre- og barn avdeling 2050174 Marmorveien 23, 2818 Gjøvik Sentre for foreldre og barn Renhold lokaler Toma Facility Norge AS 8089,91
+2 Region Øst 204416 Seljelia barne- og familiesenter Foreldre- og barn avdeling 2050174 Marmorveien 23, 2818 Gjøvik Sentre for foreldre og barn Renhold lokaler Toma Facility Norge AS 8673,75
+2 Region Øst 204416 Seljelia barne- og familiesenter Avdeling for beredskapshjem 1 2050174 Marmorveien 23, 2818 Gjøvik Fosterhjem Renhold lokaler Toma Facility Norge AS 4044,95
+2 Region Øst 204416 Seljelia barne- og familiesenter Avdeling for beredskapshjem 2 2050174 Marmorveien 23, 2818 Gjøvik Fosterhjem Renhold lokaler Toma Facility Norge AS 4044,95
+2 Region Øst 204416 Borg barne- og familiesenter Administrasjon 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Annen kostnad lokaler HUMLEKJÆR OG ØDEGAARD AS (15060314648) 1,97
+2 Region Øst 204416 Borg barne- og familiesenter Administrasjon 2050173 Sundløkkaveien 73m, 1659 Torp Fosterhjem Annen kostnad lokaler HUMLEKJÆR OG ØDEGAARD AS (15060314648) 17,75
+2 Region Øst 204416 Borg barne- og familiesenter Avdeling Moringen Sentre for foreldre og barn Renhold lokaler Insider Facility Solutions AS 12165
+2 Region Øst 204416 Borg barne- og familiesenter Avdeling for beredskapshjem 2050173 Sundløkkaveien 73m, 1659 Torp Fosterhjem Annen kostnad lokaler HUMLEKJÆR OG ØDEGAARD AS (15060314648) 64,07
+2 Region Øst 204416 Borg barne- og familiesenter Avdeling for beredskapshjem - 2 2050173 Sundløkkaveien 73m, 1659 Torp Fosterhjem Annen kostnad lokaler HUMLEKJÆR OG ØDEGAARD AS (15060314648) 64,07
+2 Region Øst 204416 Borg - Team for tverrfaglig helsekartlegging 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Annen kostnad lokaler HUMLEKJÆR OG ØDEGAARD AS (15060314648) 24,65
+2 Region Øst 204416 Enhet for inntak Bufetat region øst, avdeling Akershus F1 20144 Bilpool i Portalen Inntak Leie parkeringsplass Aimo Park Norway AS(15030825141) 2478,42
+2 Region Øst 204416 Fosterhjemstjenesten Bufetat region øst, avdeling Akershus 20144 Bilpool i Portalen Fosterhjemstjenesten Leie parkeringsplass Aimo Park Norway AS(15030825141) 9736,65
+2 Region Øst 204416 Fosterhjemstjenesten Bufetat region øst, avd Innlandet Fosterhjemstjenesten Annen kostnad lokaler Lillehammer elektro AS 19132,56
+2 Region Øst 204416 Fosterhjemstjenesten Bufetat region øst, avd Innlandet Fosterhjemstjenesten Leie parkeringsplass Onepark AS 2062
+2 Region Øst 204416 Fosterhjemstjenesten Bufetat region øst, avd Innlandet 2050170 Storgata 56-58, 2609 Lillehammer Fosterhjemstjenesten Renhold lokaler Toma Facility Norge AS 2548,09
+2 Region Øst 204416 Enhet for spesialiserte fosterhjem - region Øst 2050155 Glynitveien 30, 3020 Nordre Follo Fosterhjem Renhold lokaler ISS Facility Services AS 2866,81
+2 Region Øst 204416 Familievernkontoret Enerhaugen Familieverntjeneste Vakthold lokaler Verisure AS 4661,25
+2 Region Øst 204416 Seksjon adopsjon 20144 Bilpool i Portalen Adopsjon Leie parkeringsplass Aimo Park Norway AS(15030825141) 3186,54
+2 Region Øst 204416 Familievernkontoret Østfold Familieverntjeneste Annen kostnad lokaler SENAB EIKELAND OSLO AS 300
+2 Region Øst 204416 Familievernkontoret Østfold 2050112 Henrik Gerners gate 14, 1530 Moss Familieverntjeneste Renhold lokaler Elis Norge AS 1104
+2 Region Øst 204416 Familievernkontoret Østfold 2050112 Henrik Gerners gate 14, 1530 Moss Familieverntjeneste Renhold lokaler Insider Facility Solutions AS 41940
+2 Region Øst 204416 Familievernkontoret Østfold 2050113 Glemmengaten 55, 1608 Fredrikstad Familieverntjeneste Renhold lokaler Elis Norge AS 1955
+2 Region Øst 204416 Familievernkontoret Østfold 2050113 Glemmengaten 55, 1608 Fredrikstad Familieverntjeneste Renhold lokaler Toma Facility Norge AS 16757,94
+2 Region Øst 204416 Familievernkontoret Østfold 2050114 Rådhusgata 16, 1830 Askim Familieverntjeneste Renhold lokaler Toma Facility Norge AS 7436,61
+2 Region Øst 204416 Familievernkontoret Nedre Romerike Familieverntjeneste Annen kostnad lokaler Kid Interiør AS 605,4
+2 Region Øst 204416 Familievernkontoret Nedre Romerike Familieverntjeneste Annen kostnad lokaler KARL JENSEN AS 2710
+2 Region Øst 204416 Familievernkontoret Øvre Romerike Glåmdal 2050115 Energiveien 14, 2069 Jessheim Familieverntjeneste Renhold lokaler Maid 4 You AS 19739
+2 Region Øst 204416 Familievernkontoret Innlandet Vest 2050105 Nymosvingen 6, 2609 Lillehammer Familieverntjeneste Renhold lokaler Toma Facility Norge AS 7864,99
+2 Region Øst 204416 Familievernkontoret Innlandet Vest 2050140 Storgata10, 2815 Gjøvik Familieverntjeneste Renhold lokaler 4Service Eir Renhold AS 8308,04
+2 Region Øst 204416 Lierfoss ungdoms- og familiesenter - omsorg Administrasjon Barnevernsinstitusjoner Vakthold lokaler Caverion Norge AS 1318,13
+2 Region Øst 204416 Lierfoss ungdoms- og familiesenter - omsorg Administrasjon Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Låsekspressen AS 6350
+2 Region Øst 204416 Lierfoss ungdoms- og familiesenter - omsorg Administrasjon Barnevernsinstitusjoner Oppgradering og påkostning leide lokaler - under kr 50 000 Låsekspressen AS 5450
+2 Region Øst 204416 Lierfoss ungdoms- og familiesenter - omsorg Administrasjon 2050196 Storveien 1408, 1950 Rømskog Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Mr. Pukk Gjenvinning AS 3120
+2 Region Øst 204416 Lierfoss ungdoms- og familiesenter - omsorg Administrasjon 2050196 Storveien 1408, 1950 Rømskog Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Mr. Pukk Gjenvinning AS 1575
+2 Region Øst 204416 Østfold ungdoms - og familiesenter - omsorg Administrasjon Barnevernsinstitusjoner Vaktmestertjenester Fredriksborg Eiendom AS 706,25
+2 Region Øst 204416 Østfold ungdoms - og familiesenter - omsorg Administrasjon Barnevernsinstitusjoner Vaktmestertjenester Fredriksborg Eiendom AS -706,25
+2 Region Øst 204416 Østfold ungdoms - og familiesenter - omsorg, avdeling Kurland ungdomshjem 2050178 Kurlandveien 12, 1727 Sarpsborg Barnevernsinstitusjoner Renhold lokaler BORG RENHOLD AS 18065
+2 Region Øst 204416 Østfold ungdoms- og familiesenter - omsorg, avdeling Rokkeveien ungdomshjem Barnevernsinstitusjoner Renhold lokaler Clas Ohlson AS 2401
+2 Region Øst 204416 Østfold ungdoms- og familiesenter - omsorg, avdeling Tune ungdomshjem 2050179 Uglevn 1, 1712 Grålum Barnevernsinstitusjoner Renhold lokaler RENBOLIG SERVICE OG OMSORG AS 11698,75
+2 Region Øst 204416 Kirkenær barnevern- og omsorgssenter Administrasjon 2050125 Energivegen 13, 2260 Kirkenær Omsorgssentre for mindreårige asylsøkere Renovasjon, vann, avløp o.l. Solør Renovasjon Iks 141,38
+2 Region Øst 204416 Kirkenær barnevern- og omsorgssenter Administrasjon 2050125 Energivegen 13, 2260 Kirkenær Omsorgssentre for mindreårige asylsøkere Reparasjon og vedlikehold leide lokaler GRUE BYGDESERVICE AS 30875,63
+2 Region Øst 204416 Kirkenær barnevern- og omsorgssenter Administrasjon 2050125 Energivegen 13, 2260 Kirkenær Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler GRUE BYGDESERVICE AS 30875,62
+2 Region Øst 204416 Kirkenær barnevern- og omsorgssenter Avdeling Frydenlund 2050127 Snorres vei 2, 2260 Kirkenær Omsorgssentre for mindreårige asylsøkere Reparasjon og vedlikehold leide lokaler YC AMUNDRUD AS 3544
+2 Region Øst 204416 Kirkenær barnevern- og omsorgssenter Edda ungdomshjem Barnevernsinstitusjoner Leie lokaler andre utleiere Vestlandske Boligstiftelse AS 6850
+2 Region Øst 204416 Kirkenær barnevern- og omsorgssenter Edda ungdomshjem 2050164 Veslekila 1, 2260 Kirkenær Barnevernsinstitusjoner Annen kostnad lokaler Glassbua Kirkenær A.S. 5325
+2 Region Øst 204416 Kirkenær barnever- og omsorgssenter Avdeling Frigg Barnevernsinstitusjoner Oppgradering og påkostning leide lokaler - under kr 50 000 LINDBAK INTERIØR AS 10312
+2 Region Øst 204416 Ringerike omsorgssenter Administrasjon 20194 Regionalt renholdsplanleggingsverktøy Omsorgssentre for mindreårige asylsøkere Renhold lokaler CARES AS 6269
+2 Region Øst 204416 Ringerike omsorgssenter Avdeling Solstrand Omsorgssentre for mindreårige asylsøkere Vakthold lokaler SØR-ØST 110 IKS 7482
+2 Region Øst 204416 Ringerike omsorgssenter Avdeling Bredal Omsorgssentre for mindreårige asylsøkere Reparasjon og vedlikehold leide lokaler Lås Og Kontrollservice AS 1150
+2 Region Øst 204416 Ringerike omsorgssenter Avdeling Bredal Omsorgssentre for mindreårige asylsøkere Reparasjon og vedlikehold leide lokaler RINGERIKE ELEKTRO AS 2191
+2 Region Øst 204416 Ringerike omsorgssenter Avdeling Egge Omsorgssentre for mindreårige asylsøkere Renovasjon, vann, avløp o.l. Hadeland og Ringerike Avfallsselskap AS 284,38
+2 Region Øst 204416 Ringerike omsorgssenter Avdeling Egge Omsorgssentre for mindreårige asylsøkere Reparasjon og vedlikehold leide lokaler Clas Ohlson AS 280
+2 Region Øst 204416 Ringerike omsorgssenter Avdeling Egge Omsorgssentre for mindreårige asylsøkere Reparasjon og vedlikehold leide lokaler BRANN OG LÅS AS 9320
+2 Region Øst 204416 Ringerike omsorgssenter Avdeling Snyta Omsorgssentre for mindreårige asylsøkere Renovasjon, vann, avløp o.l. Hadeland og Ringerike Avfallsselskap AS 345,65
+2 Region Øst 204416 Ringerike omsorgssenter Avdeling Snyta Omsorgssentre for mindreårige asylsøkere Reparasjon og vedlikehold leide lokaler VENÅSEN RØRSERVICE AS 4723
+2 Region Øst 204416 Ringerike omsorgssenter Avdeling Snyta 20194 Regionalt renholdsplanleggingsverktøy Omsorgssentre for mindreårige asylsøkere Renhold lokaler SIGRIDS RENHOLD AS 20250
+2 Region Øst 204416 Bufetat Øst Innlandet Barnevernsenter Barnevernsinstitusjoner Renhold lokaler NORSK GJENVINNING AS 2460,01
+2 Region Øst 204416 Bufetat Øst Innlandet Barnevernsenter 2050162 Øverbyvegen 104, 2825 Gjøvik Barnevernsinstitusjoner Leie lokaler andre utleiere LRN DISTRIBUSJON AS 1962,5
+2 Region Øst 204416 Bufetat Øst Innlandet Barnevernsenter 2050162 Øverbyvegen 104, 2825 Gjøvik Barnevernsinstitusjoner Renhold lokaler Leko Matter AS 5745
+2 Region Øst 204416 Bufetat Øst Innlandet Barnevernsenter 2050162 Øverbyvegen 104, 2825 Gjøvik Barnevernsinstitusjoner Renhold lokaler NORSK GJENVINNING AS 869,43
+2 Region Øst 204416 Bufetat Øst Innlandet Barnevernsenter 2050162 Øverbyvegen 104, 2825 Gjøvik Barnevernsinstitusjoner Vakthold lokaler Sensio AS 7879,65
+2 Region Øst 204416 Bufetat Øst Innlandet Barnevernsenter 2050162 Øverbyvegen 104, 2825 Gjøvik Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Sagstuen Glass AS 12887,5
+2 Region Øst 204416 Bufetat Øst Innlandet Barnevernsenter 2050162 Øverbyvegen 104, 2825 Gjøvik Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler CERTEGO AS, Bergen 2852,93
+2 Region Øst 204416 Bufetat Øst Innlandet Barnevernsenter 2050162 Øverbyvegen 104, 2825 Gjøvik Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler CERTEGO AS, Bergen 4312,5
+2 Region Øst 204416 Akershus ungdoms- og familiesenter - akutt, avd Bjørlien 2050153 Bjørlistubben 14, 1540 Vestby Barnevernsinstitusjoner Annen kostnad lokaler Homely AS 199
+2 Region Øst 204416 Akershus ungdoms- og familiesenter - akutt, avd Jibbe 2050151 Kantarellveien 4, 1708 Sarpsborg Barnevernsinstitusjoner Vaktmestertjenester Jy Hansen Hageanlegg 5000
+2 Region Øst 204416 Akershus ungdoms- og familiesenter - akutt, avd Jibbe 2050151 Kantarellveien 4, 1708 Sarpsborg Barnevernsinstitusjoner Vaktmestertjenester Jy Hansen Hageanlegg 20000
+2 Region Øst 204416 Akershus ungdoms- og familiesenter - akutt, avd Jibbe 2050151 Kantarellveien 4, 1708 Sarpsborg Barnevernsinstitusjoner Annen kostnad lokaler Optimera AS 307
+2 Region Øst 204416 Akershus ungdoms- og familiesenter - akutt, avd Jibbe 2050151 Kantarellveien 4, 1708 Sarpsborg Barnevernsinstitusjoner Annen kostnad lokaler Optimera AS 896
+2 Region Øst 204416 Akershus ungdoms- og familiesenter - akutt, avd Jibbe 2050151 Kantarellveien 4, 1708 Sarpsborg Barnevernsinstitusjoner Annen kostnad lokaler Holmen Eftf. Lås og Nøkkelsevice 1535
+2 Region Øst 204416 Akershus ungdoms- og familiesenter - akutt, avd Jibbe 2050151 Kantarellveien 4, 1708 Sarpsborg Barnevernsinstitusjoner Annen kostnad lokaler Homely AS 199
+2 Region Øst 204416 Akershus ungdoms- og familiesenter - akutt, avd Jibbe 2050151 Kantarellveien 4, 1708 Sarpsborg Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Sarpsborg Elektro AS 3008
+2 Region Øst 204416 Akershus ungdoms- og familiesenter - akutt, avd Sole Barnevernsinstitusjoner Strøm og oppvarming Elvia AS 1880,96
+2 Region Øst 204416 Akershus ungdoms- og familiesenter - akutt, avd Sole Barnevernsinstitusjoner Renhold lokaler MASKE AS 832,12
+2 Region Øst 204416 Hedmark ungdoms- og familiesenter - akutt, adm Barnevernsinstitusjoner Vakthold lokaler Låssenteret AS 25956,38
+2 Region Øst 204416 Hedmark ungdoms- og familiesenter - akutt, adm Barnevernsinstitusjoner Vakthold lokaler Låssenteret AS 20109,66
+2 Region Øst 204416 Hedmark ungdoms- og familiesenter - akutt, avd Disen 2050191 Just Brochs gate 13, 2321 Hamar Barnevernsinstitusjoner Strøm og oppvarming Elvia AS 9194,31
+2 Region Øst 204416 Hedmark ungdoms- og familiesenter - akutt, avd Stange 1 2050159 Dr. Thorshaugsveg 8, 2335 Stange Barnevernsinstitusjoner Strøm og oppvarming Elvia AS 12769,68
+2 Region Øst 204416 Hedmark ungdoms- og familiesenter - akutt, avd Stange 1 2050159 Dr. Thorshaugsveg 8, 2335 Stange Barnevernsinstitusjoner Strøm og oppvarming Elvia AS 7248,74
+2 Region Øst 204416 Hedmark ungdoms- og familiesenter - akutt, avd Vien 1 2050158 Klukevegen 30, 2318 Hamar Barnevernsinstitusjoner Strøm og oppvarming Elvia AS 3726,22
+2 Region Øst 204416 Hedmark ungdoms- og familiesenter - akutt, avd Vien 1 2050158 Klukevegen 30, 2318 Hamar Barnevernsinstitusjoner Strøm og oppvarming Elvia AS 2283,14
+2 Region Øst 204416 Hedmark ungdoms- og familiesenter - akutt, avd Vien 1 2050158 Klukevegen 30, 2318 Hamar Barnevernsinstitusjoner Vakthold lokaler Sensio AS 9188
+2 Region Øst 204416 Hedmark ungdoms- og familiesenter - akutt, avd Vien 2 2050158 Klukevegen 30, 2318 Hamar Barnevernsinstitusjoner Strøm og oppvarming Elvia AS 3726,22
+2 Region Øst 204416 Hedmark ungdoms- og familiesenter - akutt, avd Vien 2 2050158 Klukevegen 30, 2318 Hamar Barnevernsinstitusjoner Strøm og oppvarming Elvia AS 2283,15
+2 Region Øst 204416 Hedmark ungdoms- og familiesenter - akutt, avd Vien 2 2050158 Klukevegen 30, 2318 Hamar Barnevernsinstitusjoner Vakthold lokaler Sensio AS 9188
+2 Region Øst 204416 Bufetats behandlingssenter Akershus_Østfold, adm 2050181 Solfallsveien 27, 1435 Ås Barnevernsinstitusjoner Renhold lokaler Toma gruppen//Østlandske Miljørenhold AS 3341,73
+2 Region Øst 210805 Bufetats behandlingssenter Akershus_Østfold, avd Kroerveien Barnevernsinstitusjoner Reparasjon og vedlikehold av anlegg, også serviceavtaler Låssenteret AS 18287,5
+2 Region Øst 210805 Bufetats behandlingssenter Akershus_Østfold, avd Kroerveien 2050152 Kroerveien 9, 1540 Vestby Barnevernsinstitusjoner Renhold lokaler Østlandske Rengjøring AS 10405,91
+2 Region Øst 211001 Bufetats behandlingssenter Akershus_Østfold, avd Ressursteam 2050181 Solfallsveien 27, 1435 Ås Barnevernsinstitusjoner Renhold lokaler Toma gruppen//Østlandske Miljørenhold AS 11136,62
+2 Region Øst 211002 Bufetats behandlingssenter Akershus_Østfold, avd Ås 2050181 Solfallsveien 27, 1435 Ås Barnevernsinstitusjoner Renhold lokaler Toma gruppen//Østlandske Miljørenhold AS 23386,9
+2 Region Øst 211002 Bufetats behandlingssenter Akershus_Østfold, avd Østlund Barnevernsinstitusjoner Annen kostnad lokaler Jula Norge AS 1185,6
+2 Region Øst 211002 Bufetats behandlingssenter Akershus_Østfold, avd Østlund Barnevernsinstitusjoner Annen kostnad lokaler IKANO BANK AB (PUBL), Coop 1433
+2 Region Øst 211002 Jong ungdoms- og familiesenter, avd. Kollen Barnevernsinstitusjoner Vakthold lokaler Sensio AS 3755,85
+2 Region Øst 211003 Jong ungdoms- og familiesenter, avd. Kollen Barnevernsinstitusjoner Vakthold lokaler Sensio AS 4191,5
+2 Region Øst 211003 Jong ungdoms- og familiesenter, avd. Kollen Barnevernsinstitusjoner Annen kostnad lokaler NORSK GJENVINNING AS 896,75
+2 Region Øst 211007 Jong ungdoms- og familiesenter, avd. Kollen 2050157 Tokerudkollen 31/33, 1336 Sandvika Barnevernsinstitusjoner Renhold lokaler 4044
+2 Region Øst 211007 Jong ungdoms- og familiesenter, avd Åsen Barnevernsinstitusjoner Vakthold lokaler Sensio AS 3755,85
+2 Region Øst 211103 Jong ungdoms- og familiesenter, avd Åsen Barnevernsinstitusjoner Vakthold lokaler Sensio AS 4191,5
+2 Region Øst 211103 Jong ungdoms- og familiesenter, avdeling Kollen Barnevernsinstitusjoner Renhold lokaler -4044
+2 Region Øst 211104 Multisystemisk terapi-team Ski Hjelpetiltak i hjemmet Renhold lokaler ISS Facility Services AS 2866,79
+2 Region Øst 211104 MST Nedre Romerike 2050110 Torget 6, 2000 Lillestrøm Hjelpetiltak i hjemmet Renhold lokaler HJEM+ AS 8598,75
+2 Region Øst 211104 Bufetats behandlingssenter Akershus/Østfold, Avdeling Østlund Barnevernsinstitusjoner Annen kostnad lokaler Clas Ohlson AS 270
+2 Region Øst 211105 Regionkontor Seksjon FS 20390 PMTO konsulenter Hjelpetiltak i hjemmet Renhold lokaler ISS Facility Services AS 1146,71
+2 Region Øst 211105 ServiceTeamet Regionale fellesfunksjoner Vaktmestertjenester BORG FORVALTNING AS 850
+2 Region Øst 211105 ServiceTeamet Fosterhjemstjenesten Renhold lokaler ISS Facility Services AS 10003,78
+2 Region Øst 211201 ServiceTeamet 20144 Bilpool i Portalen Regionale fellesfunksjoner Leie parkeringsplass Aimo Park Norway AS(15030825141) 885,15
+2 Region Øst 211201 ServiceTeamet 2050101 Tærudgata 16, 2004 Lillestrøm Regionale fellesfunksjoner Renhold lokaler ISS Facility Services AS 1429,11
+2 Region Øst 211201 ServiceTeamet 2050101 Tærudgata 16, 2004 Lillestrøm Regionale fellesfunksjoner Renhold lokaler ISS Facility Services AS 25724,02
+2 Region Øst 211201 ServiceTeamet 2050101 Tærudgata 16, 2004 Lillestrøm Regionale fellesfunksjoner Renhold lokaler ISS Facility Services AS 2858,22
+2 Region Øst 211201 ServiceTeamet 2050101 Tærudgata 16, 2004 Lillestrøm Regionale fellesfunksjoner Renhold lokaler ISS Facility Services AS 1429,11
+2 Region Øst 211201 ServiceTeamet 2050101 Tærudgata 16, 2004 Lillestrøm Regionale fellesfunksjoner Renhold lokaler ISS Facility Services AS 25724,02
+2 Region Øst 211201 ServiceTeamet 2050101 Tærudgata 16, 2004 Lillestrøm Regionale fellesfunksjoner Renhold lokaler ISS Facility Services AS 2858,22
+2 Region Øst 211201 ServiceTeamet 2050101 Tærudgata 16, 2004 Lillestrøm Omsorgssentre for mindreårige asylsøkere Renhold lokaler ISS Facility Services AS 714,56
+2 Region Øst 211202 ServiceTeamet 2050101 Tærudgata 16, 2004 Lillestrøm Omsorgssentre for mindreårige asylsøkere Renhold lokaler ISS Facility Services AS 714,56
+2 Region Øst 211202 ServiceTeamet 2050101 Tærudgata 16, 2004 Lillestrøm Barnevernsinstitusjoner Renhold lokaler ISS Facility Services AS 9289,23
+2 Region Øst 211202 ServiceTeamet 2050101 Tærudgata 16, 2004 Lillestrøm Barnevernsinstitusjoner Renhold lokaler ISS Facility Services AS 9289,23
+2 Region Øst 211202 ServiceTeamet 2050101 Tærudgata 16, 2004 Lillestrøm Inntak Renhold lokaler ISS Facility Services AS 12862,01
+2 Region Øst 211202 ServiceTeamet 2050101 Tærudgata 16, 2004 Lillestrøm Inntak Renhold lokaler ISS Facility Services AS 12862,01
+2 Region Øst 211202 ServiceTeamet 2050101 Tærudgata 16, 2004 Lillestrøm Fosterhjemstjenesten Renhold lokaler ISS Facility Services AS 10003,78
+2 Region Øst 211202 ServiceTeamet 2050101 Tærudgata 16, 2004 Lillestrøm Adopsjon Renhold lokaler ISS Facility Services AS 8574,67
+2 Region Øst 211202 ServiceTeamet 2050101 Tærudgata 16, 2004 Lillestrøm Adopsjon Renhold lokaler ISS Facility Services AS 8574,67
+2 Region Øst 211203 Bufetats enhet for godkjenning av barneverninstitusjoner 20144 Bilpool i Portalen Regionale fellesfunksjoner Leie parkeringsplass Aimo Park Norway AS(15030825141) 1416,24
+2 Region Øst 211203 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 20271 Ladestasjoner Barnevernsinstitusjoner Fast bygningsinventar og påkostning, leide bygg -62159
+2 Region Øst 211203 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 20271 Ladestasjoner Barnevernsinstitusjoner Fast bygningsinventar og påkostning, leide bygg Vestby Elektro-Service A/S 62159
+2 Region Øst 211203 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 20271 Ladestasjoner Barnevernsinstitusjoner Annen kostnad lokaler 62159
+2 Region Øst 211206 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 20450 Bilpool Innlandet Fosterhjem Strøm og oppvarming Elvia AS 192,17
+2 Region Øst 211206 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 20450 Bilpool Innlandet Hjelpetiltak i hjemmet Strøm og oppvarming Elvia AS 130,68
+2 Region Øst 211206 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 20450 Bilpool Innlandet Inntak Strøm og oppvarming Elvia AS 169,1
+2 Region Øst 211206 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 20450 Bilpool Innlandet Fosterhjemstjenesten Strøm og oppvarming Elvia AS 276,73
+2 Region Øst 211208 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050105 Nymosvingen 6, 2609 Lillehammer Familieverntjeneste Fellesutgifter andre utleiere Dotterud Eiendom AS 65378
+2 Region Øst 211208 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050110 Torget 6, 2000 Lillestrøm Familieverntjeneste Strøm og oppvarming Istad Kraft AS 11571,69
+2 Region Øst 211208 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050110 Torget 6, 2000 Lillestrøm Hjelpetiltak i hjemmet Strøm og oppvarming Istad Kraft AS 3359,52
+2 Region Øst 211208 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050112 Henrik Gerners gate 14, 1530 Moss Familieverntjeneste Strøm og oppvarming Kvernhuset AS 7870
+2 Region Øst 211208 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050112 Henrik Gerners gate 14, 1530 Moss Familieverntjeneste Strøm og oppvarming Fortum Strøm 799,41
+2 Region Øst 214702 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050112 Henrik Gerners gate 14, 1530 Moss Familieverntjeneste Fellesutgifter andre utleiere Kvernhuset AS 33805
+2 Region Øst 214702 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050116 Gågata 5, 2211 Kongsvinger Familieverntjeneste Strøm og oppvarming Elvia AS 2604,6
+2 Region Øst 214702 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050119 Ramsrudveien 32, 3518 Hønefoss Omsorgssentre for mindreårige asylsøkere Renovasjon, vann, avløp o.l. H. Berger Eiendom AS 23882
+2 Region Øst 214703 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050119 Ramsrudveien 32, 3518 Hønefoss Omsorgssentre for mindreårige asylsøkere Renovasjon, vann, avløp o.l. H. Berger Eiendom AS 70454,07
+2 Region Øst 214706 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050123 Snytasvingen, 3519 Hønefoss Omsorgssentre for mindreårige asylsøkere Leie lokaler andre utleiere Morten Jensen, utleier 88248
+2 Region Øst 214706 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050123 Snytasvingen, 3519 Hønefoss Omsorgssentre for mindreårige asylsøkere Renovasjon, vann, avløp o.l. Morten Jensen, utleier 5028
+2 Region Øst 214706 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050127 Snorres vei 2, 2260 Kirkenær Barnevernsinstitusjoner Strøm og oppvarming Elvia AS 5558,76
+2 Region Øst 214802 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050150 Trondheimsveien 205, Jessheim Barnevernsinstitusjoner Fast bygningsinventar og påkostning, leide bygg -68454,24
+2 Region Øst 214802 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050150 Trondheimsveien 205, Jessheim Barnevernsinstitusjoner Fast bygningsinventar og påkostning, leide bygg Statsbyggs hovedkontor 30986,17
+2 Region Øst 214802 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050150 Trondheimsveien 205, Jessheim Barnevernsinstitusjoner Fast bygningsinventar og påkostning, leide bygg Statsbyggs hovedkontor 68454,24
+2 Region Øst 214803 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050150 Trondheimsveien 205, Jessheim Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler 68454,24
+2 Region Øst 214806 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050153 Bjørlistubben 14, 1540 Vestby Barnevernsinstitusjoner Leie lokaler andre utleiere J&B Eiendom AS 137382
+2 Region Øst 214806 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050154 Njords vei 11, 1540 Vestby Barnevernsinstitusjoner Strøm og oppvarming Elvia AS 6417,43
+2 Region Øst 214806 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050154 Njords vei 11, 1540 Vestby Barnevernsinstitusjoner Strøm og oppvarming Elvia AS 5353,46
+2 Region Øst 216001 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050154 Njords vei 11, 1540 Vestby Barnevernsinstitusjoner Strøm og oppvarming Elvia AS 2273,89
+2 Region Øst 216001 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050156 Storveien 121, 1621 Gressvik Sentre for foreldre og barn Strøm og oppvarming Elvia AS 4242,71
+2 Region Øst 216001 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050158 Klukevegen 30, 2318 Hamar Barnevernsinstitusjoner Strøm og oppvarming Fjordkraft AS 3362,59
+2 Region Øst 216001 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050158 Klukevegen 30, 2318 Hamar Barnevernsinstitusjoner Strøm og oppvarming Elvia AS 4342,8
+2 Region Øst 221301 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050161 Emma Hjortsvei 60, 1336 Sandvika Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 28133,03
+2 Region Øst 222301 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050162 Øverbyvegen 104, 2825 Gjøvik Barnevernsinstitusjoner Strøm og oppvarming Elvia AS 18204,84
+2 Region Øst 222301 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050164 Veslekila 1, 2260 Kirkenær Barnevernsinstitusjoner Strøm og oppvarming Elvia AS 3920,5
+2 Region Øst 222401 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050165 Jernbanevegen 70, 2260 Kirkenær Barnevernsinstitusjoner Strøm og oppvarming Elvia AS 690,83
+2 Region Øst 222501 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050166 Liaveien 2, 4 og 6, 1930 Aurskog Barnevernsinstitusjoner Strøm og oppvarming Elvia AS 1282,36
+2 Region Øst 224501 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050168 Vollakrokan 33, 1940 Bjørkelangen Barnevernsinstitusjoner Leie lokaler andre utleiere Utleiemegleren Lillestrøm AS 10290
+2 Region Øst 224501 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050168 Vollakrokan 33, 1940 Bjørkelangen Barnevernsinstitusjoner Strøm og oppvarming EL-VERKET HØLAND AS 484
+2 Region Øst 224501 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050168 Vollakrokan 33, 1940 Bjørkelangen Barnevernsinstitusjoner Strøm og oppvarming EL-VERKET HØLAND AS -533,66
+2 Region Øst 224501 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050168 Vollakrokan 33, 1940 Bjørkelangen Barnevernsinstitusjoner Strøm og oppvarming EL-VERKET HØLAND AS 533,66
+2 Region Øst 225101 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050173 Sundløkkaveien 73m, 1659 Torp Fosterhjem Fellesutgifter andre utleiere Caverion Norge AS -22044
+2 Region Øst 225201 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050173 Sundløkkaveien 73m, 1659 Torp Barnevernsinstitusjoner Fellesutgifter andre utleiere Caverion Norge AS -4408,8
+2 Region Øst 225301 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050173 Sundløkkaveien 73m, 1659 Torp Hjelpetiltak i hjemmet Fellesutgifter andre utleiere Caverion Norge AS -5878,4
+2 Region Øst 225501 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050173 Sundløkkaveien 73m, 1659 Torp Inntak Fellesutgifter andre utleiere Caverion Norge AS -19839,6
+2 Region Øst 225501 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050173 Sundløkkaveien 73m, 1659 Torp Fosterhjemstjenesten Fellesutgifter andre utleiere Caverion Norge AS -21309,2
+2 Region Øst 225601 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050174 Marmorveien 23, 2818 Gjøvik Sentre for foreldre og barn Strøm og oppvarming Elvia AS 6567,33
+2 Region Øst 225601 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050174 Marmorveien 23, 2818 Gjøvik Sentre for foreldre og barn Strøm og oppvarming Elvia AS 2703,15
+2 Region Øst 232601 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050174 Marmorveien 23, 2818 Gjøvik Fosterhjem Strøm og oppvarming Elvia AS 6567,32
+2 Region Øst 232601 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050174 Marmorveien 23, 2818 Gjøvik Fosterhjem Strøm og oppvarming Elvia AS 2703,16
+2 Region Øst 232701 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050177 Ullsvei 16, 1782 Halden Barnevernsinstitusjoner Leie lokaler andre utleiere Stiftelsen Halden Ungdomsboliger 8500
+2 Region Øst 232701 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050179 Uglevn 1, 1712 Grålum Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 47841,26
+2 Region Øst 232701 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050181 Solfallsveien 27, 1435 Ås Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 5931,86
+2 Region Øst 232704 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050182 Korpåsen 172, 1386 Asker Sentre for foreldre og barn Strøm og oppvarming Fortum Strøm 42805,66
+2 Region Øst 232707 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050182 Korpåsen 172, 1386 Asker Sentre for foreldre og barn Renhold lokaler Malthus Uniteam AS 18750
+2 Region Øst 232707 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050183 Riserveien 40A/B, 1930 Aurskog Barnevernsinstitusjoner Leie lokaler andre utleiere AURSKOG-HØLAND KOMMUNE 165788
+2 Region Øst 232709 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050184 Veslekila 3A1, 2260 Kirkenær Barnevernsinstitusjoner Strøm og oppvarming Fjordkraft AS 2160,7
+2 Region Øst 232801 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050186 Strandsagvegen 2 D, 2383 Brumunddal Fosterhjem Strøm og oppvarming Elvia AS 165,72
+2 Region Øst 232803 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050186 Strandsagvegen 2 D, 2383 Brumunddal Hjelpetiltak i hjemmet Strøm og oppvarming Elvia AS 112,69
+2 Region Øst 232805 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050186 Strandsagvegen 2 D, 2383 Brumunddal Inntak Strøm og oppvarming Elvia AS 145,84
+2 Region Øst 232806 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050186 Strandsagvegen 2 D, 2383 Brumunddal Fosterhjemstjenesten Strøm og oppvarming Elvia AS 238,64
+2 Region Øst 232806 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050191 Just Brochs gate 13, 2321 Hamar Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Ragn Sells AS 5249,09
+2 Region Øst 232806 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050191 Just Brochs gate 13, 2321 Hamar Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Ragn Sells AS 5057,29
+2 Region Øst 232808 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050191 Just Brochs gate 13, 2321 Hamar Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Hamar Kommune 28483,03
+2 Region Øst 232812 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050195 Hovdenveien 159, 1708 Sarpsborg Barnevernsinstitusjoner Leie lokaler andre utleiere ABERIA UNG AS 28000
+2 Region Øst 232812 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050195 Hovdenveien 159, 1708 Sarpsborg Barnevernsinstitusjoner Strøm og oppvarming Elvia AS 513,49
+2 Region Øst 232812 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050200 Lundebyveien 363,1878 Hærland Barnevernsinstitusjoner Leie lokaler andre utleiere ARNSTEIN KARLSRUD 66000
+2 Region Øst 232813 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050206 Energiveien 15, Kirkenær Omsorgssentre for mindreårige asylsøkere Strøm og oppvarming Elvia AS 5226,07
+2 Region Øst 232814 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050208 Gartnerivegen 8, Kirkenær Barnevernsinstitusjoner Strøm og oppvarming Elvia AS 7513,4
+2 Region Øst 232814 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050209 Kirkenærtunet 27, Kirkenær Omsorgssentre for mindreårige asylsøkere Strøm og oppvarming Elvia AS 9137,53
+2 Region Øst 233201 Gullhella barne- og familiesenter Foreldre- og barn avdeling 2050182 Korpåsen 172, 1386 Asker Sentre for foreldre og barn Renhold lokaler Ren Service AS 3759,69
+2 Region Øst 233202 Gullhella barne- og familiesenter Foreldre- og barn avdeling 2050182 Korpåsen 172, 1386 Asker Sentre for foreldre og barn Renhold lokaler Ren Service AS 536,35
+2 Region Øst 233203 Gullhella barne- og familiesenter Foreldre- og barn avdeling 2050182 Korpåsen 172, 1386 Asker Sentre for foreldre og barn Renhold lokaler Ren Service AS 1139,91
+2 Region Øst 233203 Gullhella barne- og familiesenter Foreldre- og barn avdeling 2050182 Korpåsen 172, 1386 Asker Sentre for foreldre og barn Vakthold lokaler SECTOR ALARM AS /PayEx Norge AS 192,48
+2 Region Øst 233205 Gullhella barne- og familiesenter Avdeling for beredskapshjem 2050182 Korpåsen 172, 1386 Asker Sentre for foreldre og barn Renhold lokaler -3759,69
+2 Region Øst 233205 Gullhella barne- og familiesenter Avdeling for beredskapshjem 2050182 Korpåsen 172, 1386 Asker Sentre for foreldre og barn Renhold lokaler Ren Service AS 3759,69
+2 Region Øst 233205 Gullhella barne- og familiesenter Avdeling for beredskapshjem 2050182 Korpåsen 172, 1386 Asker Fosterhjem Renovasjon, vann, avløp o.l. 1287
+2 Region Øst 233206 Gullhella barne- og familiesenter Avdeling for beredskapshjem 2050182 Korpåsen 172, 1386 Asker Fosterhjem Renhold lokaler 3759,69
+2 Region Øst 233206 Gullhella barne- og familiesenter Avdeling for beredskapshjem 2050182 Korpåsen 172, 1386 Asker Fosterhjem Renhold lokaler Ren Service AS 536,34
+2 Region Øst 235401 Gullhella barne- og familiesenter Avdeling for beredskapshjem 2050182 Korpåsen 172, 1386 Asker Fosterhjem Vakthold lokaler SECTOR ALARM AS /PayEx Norge AS 192,48
+2 Region Øst 235401 Gullhella barne- og familiesenter Avdeling for beredskapshjem 2 Fosterhjem Renovasjon, vann, avløp o.l. -1287
+2 Region Øst 235401 Gullhella barne- og familiesenter Avdeling for beredskapshjem 2 Fosterhjem Renovasjon, vann, avløp o.l. Asker kommune 1287
+2 Region Øst 235401 Gullhella - Team for tverrfaglig helsekartlegging 2050102 Elias Smiths vei 22-24, 1337 Sandvika Inntak Renhold lokaler ISS Facility Services AS 5568,66
+2 Region Øst 235401 Gullhella - Team for tverrfaglig helsekartlegging 2050102 Elias Smiths vei 22-24, 1337 Sandvika Inntak Renhold lokaler ISS Facility Services AS 5568
+2 Region Øst 235401 Seljelia barne- og familiesenter Foreldre- og barn avdeling 2050174 Marmorveien 23, 2818 Gjøvik Sentre for foreldre og barn Renhold lokaler Toma Facility Norge AS 8089,91
+2 Region Øst 235401 Seljelia barne- og familiesenter Foreldre- og barn avdeling 2050174 Marmorveien 23, 2818 Gjøvik Sentre for foreldre og barn Annen kostnad lokaler CERTEGO AS, Bergen 3202,5
+2 Region Øst 235401 Seljelia barne- og familiesenter Avdeling for beredskapshjem 1 2050174 Marmorveien 23, 2818 Gjøvik Fosterhjem Renhold lokaler Toma Facility Norge AS 4044,95
+2 Region Øst 235401 Seljelia barne- og familiesenter Avdeling for beredskapshjem 1 2050186 Strandsagvegen 2 D, 2383 Brumunddal Fosterhjem Renhold lokaler ISS Facility Services AS 1085,09
+2 Region Øst 236102 Seljelia barne- og familiesenter Avdeling for beredskapshjem 1 2050186 Strandsagvegen 2 D, 2383 Brumunddal Fosterhjem Renhold lokaler ISS Facility Services AS 1085,09
+2 Region Øst 236103 Seljelia barne- og familiesenter Avdeling for beredskapshjem 2 2050174 Marmorveien 23, 2818 Gjøvik Fosterhjem Renhold lokaler Toma Facility Norge AS 4044,95
+2 Region Øst 236103 Seljelia barne- og familiesenter Avdeling for beredskapshjem 2 2050186 Strandsagvegen 2 D, 2383 Brumunddal Fosterhjem Renhold lokaler ISS Facility Services AS 1085,09
+2 Region Øst 236202 Seljelia barne- og familiesenter Avdeling for beredskapshjem 2 2050186 Strandsagvegen 2 D, 2383 Brumunddal Fosterhjem Renhold lokaler ISS Facility Services AS 1085,09
+2 Region Øst 236203 Borg barne- og familiesenter Administrasjon Fosterhjem Renovasjon, vann, avløp o.l. MASKE AS 561,51
+2 Region Øst 236203 Borg barne- og familiesenter Administrasjon Fosterhjem Vaktmestertjenester Mesta AS 23,6
+2 Region Øst 236204 Borg barne- og familiesenter Administrasjon Fosterhjem Vaktmestertjenester Mesta AS 47,2
+2 Region Øst 236204 Borg barne- og familiesenter Administrasjon 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Renovasjon, vann, avløp o.l. MASKE AS 62,82
+2 Region Øst 236204 Borg barne- og familiesenter Administrasjon 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Renhold lokaler ISS Facility Services AS -76,62
+2 Region Øst 236204 Borg barne- og familiesenter Administrasjon 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Renhold lokaler ISS Facility Services AS 234,61
+2 Region Øst 236205 Borg barne- og familiesenter Administrasjon 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Renhold lokaler ISS Facility Services AS 157,99
+2 Region Øst 236205 Borg barne- og familiesenter Administrasjon 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Renhold lokaler Elis Norge AS 10,45
+2 Region Øst 236205 Borg barne- og familiesenter Administrasjon 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Renhold lokaler Elis Norge AS 8,7
+2 Region Øst 236205 Borg barne- og familiesenter Administrasjon 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Vaktmestertjenester Mesta AS 2,64
+2 Region Øst 237101 Borg barne- og familiesenter Administrasjon 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Vaktmestertjenester Mesta AS 5,28
+2 Region Øst 237102 Borg barne- og familiesenter Administrasjon 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Annen kostnad lokaler HUMLEKJÆR OG ØDEGAARD AS (15060314648) 1,78
+2 Region Øst 237103 Borg barne- og familiesenter Administrasjon 2050173 Sundløkkaveien 73m, 1659 Torp Fosterhjem Renhold lokaler ISS Facility Services AS -684,94
+2 Region Øst 237104 Borg barne- og familiesenter Administrasjon 2050173 Sundløkkaveien 73m, 1659 Torp Fosterhjem Renhold lokaler ISS Facility Services AS 2097,31
+2 Region Øst 237106 Borg barne- og familiesenter Administrasjon 2050173 Sundløkkaveien 73m, 1659 Torp Fosterhjem Renhold lokaler ISS Facility Services AS 1412,37
+2 Region Øst 237202 Borg barne- og familiesenter Administrasjon 2050173 Sundløkkaveien 73m, 1659 Torp Fosterhjem Renhold lokaler Elis Norge AS 93,4
+2 Region Øst 237203 Borg barne- og familiesenter Administrasjon 2050173 Sundløkkaveien 73m, 1659 Torp Fosterhjem Renhold lokaler Elis Norge AS 77,76
+2 Region Øst 243401 Borg barne- og familiesenter Administrasjon 2050173 Sundløkkaveien 73m, 1659 Torp Fosterhjem Annen kostnad lokaler HUMLEKJÆR OG ØDEGAARD AS (15060314648) 16,05
+2 Region Øst 243403 Borg barne- og familiesenter Avdeling Moringen Sentre for foreldre og barn Renhold lokaler Insider Facility Solutions AS 12165
+2 Region Øst 243901 Borg barne- og familiesenter Avdeling for beredskapshjem Fosterhjem Renovasjon, vann, avløp o.l. MASKE AS 2029,05
+2 Region Øst 243901 Borg barne- og familiesenter Avdeling for beredskapshjem Fosterhjem Vaktmestertjenester Mesta AS 85,28
+2 Region Øst 243901 Borg barne- og familiesenter Avdeling for beredskapshjem Fosterhjem Vaktmestertjenester Mesta AS 170,56
+2 Region Øst 244101 Borg barne- og familiesenter Avdeling for beredskapshjem 2050173 Sundløkkaveien 73m, 1659 Torp Fosterhjem Renhold lokaler ISS Facility Services AS -2475,07
+2 Region Øst 244201 Borg barne- og familiesenter Avdeling for beredskapshjem 2050173 Sundløkkaveien 73m, 1659 Torp Fosterhjem Renhold lokaler ISS Facility Services AS 7578,74
+2 Region Øst 244301 Borg barne- og familiesenter Avdeling for beredskapshjem 2050173 Sundløkkaveien 73m, 1659 Torp Fosterhjem Renhold lokaler ISS Facility Services AS 5103,67
+2 Region Øst 244301 Borg barne- og familiesenter Avdeling for beredskapshjem 2050173 Sundløkkaveien 73m, 1659 Torp Fosterhjem Renhold lokaler Elis Norge AS 337,5
+2 Region Øst 244301 Borg barne- og familiesenter Avdeling for beredskapshjem 2050173 Sundløkkaveien 73m, 1659 Torp Fosterhjem Renhold lokaler Elis Norge AS 281
+2 Region Øst 245001 Borg barne- og familiesenter Avdeling for beredskapshjem 2050173 Sundløkkaveien 73m, 1659 Torp Fosterhjem Annen kostnad lokaler HUMLEKJÆR OG ØDEGAARD AS (15060314648) 57,94
+2 Region Øst 246101 Borg barne- og familiesenter Avdeling for beredskapshjem - 2 Fosterhjem Renovasjon, vann, avløp o.l. MASKE AS 2029,05
+2 Region Øst 246104 Borg barne- og familiesenter Avdeling for beredskapshjem - 2 Fosterhjem Vaktmestertjenester Mesta AS 85,28
+2 Region Øst 246104 Borg barne- og familiesenter Avdeling for beredskapshjem - 2 Fosterhjem Vaktmestertjenester Mesta AS 170,56
+2 Region Øst 246104 Borg barne- og familiesenter Avdeling for beredskapshjem - 2 2050173 Sundløkkaveien 73m, 1659 Torp Fosterhjem Renhold lokaler ISS Facility Services AS -2475,07
+2 Region Øst 246104 Borg barne- og familiesenter Avdeling for beredskapshjem - 2 2050173 Sundløkkaveien 73m, 1659 Torp Fosterhjem Renhold lokaler ISS Facility Services AS 7578,74
+2 Region Øst 246106 Borg barne- og familiesenter Avdeling for beredskapshjem - 2 2050173 Sundløkkaveien 73m, 1659 Torp Fosterhjem Renhold lokaler ISS Facility Services AS 5103,67
+2 Region Øst 246107 Borg barne- og familiesenter Avdeling for beredskapshjem - 2 2050173 Sundløkkaveien 73m, 1659 Torp Fosterhjem Renhold lokaler Elis Norge AS 337,5
+2 Region Øst 204405 Borg barne- og familiesenter Avdeling for beredskapshjem - 2 2050173 Sundløkkaveien 73m, 1659 Torp Fosterhjem Renhold lokaler Elis Norge AS 281
+2 Region Øst 204414 Borg barne- og familiesenter Avdeling for beredskapshjem - 2 2050173 Sundløkkaveien 73m, 1659 Torp Fosterhjem Annen kostnad lokaler HUMLEKJÆR OG ØDEGAARD AS (15060314648) 57,94
+2 Region Øst 204414 Borg - Team for tverrfaglig helsekartlegging 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Renovasjon, vann, avløp o.l. MASKE AS 782,31
+2 Region Øst 204414 Borg - Team for tverrfaglig helsekartlegging 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Renhold lokaler ISS Facility Services AS -954,27
+2 Region Øst 204414 Borg - Team for tverrfaglig helsekartlegging 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Renhold lokaler ISS Facility Services AS 2922,01
+2 Region Øst 204414 Borg - Team for tverrfaglig helsekartlegging 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Renhold lokaler ISS Facility Services AS 1967,74
+2 Region Øst 204415 Borg - Team for tverrfaglig helsekartlegging 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Renhold lokaler Elis Norge AS 130,12
+2 Region Øst 204416 Borg - Team for tverrfaglig helsekartlegging 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Renhold lokaler Elis Norge AS 108,34
+2 Region Øst 204416 Borg - Team for tverrfaglig helsekartlegging 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Vaktmestertjenester Mesta AS 32,88
+2 Region Øst 204416 Borg - Team for tverrfaglig helsekartlegging 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Vaktmestertjenester Mesta AS 65,76
+2 Region Øst 204416 Borg - Team for tverrfaglig helsekartlegging 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Annen kostnad lokaler HUMLEKJÆR OG ØDEGAARD AS (15060314648) 22,29
+2 Region Øst 204416 Enhet for inntak Bufetat region øst, avdeling Østfold F1 Inntak Renovasjon, vann, avløp o.l. MASKE AS 4082,83
+2 Region Øst 204416 Enhet for inntak Bufetat region øst, avdeling Østfold F1 2050173 Sundløkkaveien 73m, 1659 Torp Inntak Renhold lokaler ISS Facility Services AS -4980,32
+2 Region Øst 204416 Enhet for inntak Bufetat region øst, avdeling Østfold F1 2050173 Sundløkkaveien 73m, 1659 Torp Inntak Renhold lokaler ISS Facility Services AS 15249,9
+2 Region Øst 204416 Enhet for inntak Bufetat region øst, avdeling Østfold F1 2050173 Sundløkkaveien 73m, 1659 Torp Inntak Renhold lokaler ISS Facility Services AS 10269,58
+2 Region Øst 204416 Enhet for inntak Bufetat region øst, avdeling Østfold F1 2050173 Sundløkkaveien 73m, 1659 Torp Inntak Renhold lokaler Elis Norge AS 679,11
+2 Region Øst 204416 Enhet for inntak Bufetat region øst, avdeling Østfold F1 2050173 Sundløkkaveien 73m, 1659 Torp Inntak Renhold lokaler Elis Norge AS 565,42
+2 Region Øst 204416 Enhet for inntak Bufetat region øst, avdeling Østfold F1 2050173 Sundløkkaveien 73m, 1659 Torp Inntak Vaktmestertjenester Mesta AS 171,6
+2 Region Øst 204416 Enhet for inntak Bufetat region øst, avdeling Østfold F1 2050173 Sundløkkaveien 73m, 1659 Torp Inntak Vaktmestertjenester Mesta AS 343,2
+2 Region Øst 204416 Enhet for inntak Bufetat region øst, avdeling Akershus F1 20144 Bilpool i Portalen Inntak Leie parkeringsplass Aimo Park Norway AS(15030825141) 2478,42
+2 Region Øst 204416 Enhet for inntak Bufetat region øst, avdeling Innlandet 2050186 Strandsagvegen 2 D, 2383 Brumunddal Inntak Renhold lokaler ISS Facility Services AS 3952,84
+2 Region Øst 204416 Enhet for inntak Bufetat region øst, avdeling Innlandet 2050186 Strandsagvegen 2 D, 2383 Brumunddal Inntak Renhold lokaler ISS Facility Services AS 3952,84
+2 Region Øst 204416 Fosterhjemstjenesten Bufetat region øst, avdeling Østfold Fosterhjemstjenesten Renovasjon, vann, avløp o.l. MASKE AS 5811,13
+2 Region Øst 204416 Fosterhjemstjenesten Bufetat region øst, avdeling Østfold 2050173 Sundløkkaveien 73m, 1659 Torp Fosterhjemstjenesten Renhold lokaler ISS Facility Services AS -7088,54
+2 Region Øst 204416 Fosterhjemstjenesten Bufetat region øst, avdeling Østfold 2050173 Sundløkkaveien 73m, 1659 Torp Fosterhjemstjenesten Renhold lokaler ISS Facility Services AS 21705,33
+2 Region Øst 204416 Fosterhjemstjenesten Bufetat region øst, avdeling Østfold 2050173 Sundløkkaveien 73m, 1659 Torp Fosterhjemstjenesten Renhold lokaler ISS Facility Services AS 14616,8
+2 Region Øst 204416 Fosterhjemstjenesten Bufetat region øst, avdeling Østfold 2050173 Sundløkkaveien 73m, 1659 Torp Fosterhjemstjenesten Renhold lokaler Elis Norge AS 804,77
+2 Region Øst 204416 Fosterhjemstjenesten Bufetat region øst, avdeling Østfold 2050173 Sundløkkaveien 73m, 1659 Torp Fosterhjemstjenesten Vaktmestertjenester Mesta AS 488,48
+2 Region Øst 204416 Fosterhjemstjenesten Bufetat region øst, avdeling Østfold 2050173 Sundløkkaveien 73m, 1659 Torp Fosterhjemstjenesten Annen kostnad lokaler Elis Norge AS 966,58
+2 Region Øst 204416 Fosterhjemstjenesten Bufetat region øst, avdeling Østfold 2050173 Sundløkkaveien 73m, 1659 Torp Fosterhjemstjenesten Annen kostnad lokaler Mesta AS 244,24
+2 Region Øst 204416 Fosterhjemstjenesten Bufetat region øst, avdeling Akershus 20144 Bilpool i Portalen Fosterhjemstjenesten Leie parkeringsplass Aimo Park Norway AS(15030825141) 9736,65
+2 Region Øst 204416 Fosterhjemstjenesten Bufetat region øst, avd Innlandet 2050170 Storgata 56-58, 2609 Lillehammer Fosterhjemstjenesten Renhold lokaler Toma Facility Norge AS 2548,09
+2 Region Øst 204416 Fosterhjemstjenesten Bufetat region øst, avd Innlandet 2050186 Strandsagvegen 2 D, 2383 Brumunddal Fosterhjemstjenesten Renhold lokaler ISS Facility Services AS 5037,94
+2 Region Øst 204416 Fosterhjemstjenesten Bufetat region øst, avd Innlandet 2050186 Strandsagvegen 2 D, 2383 Brumunddal Fosterhjemstjenesten Renhold lokaler ISS Facility Services AS 5037,94
+2 Region Øst 204416 Enhet for spesialiserte fosterhjem - region Øst Fosterhjem Renovasjon, vann, avløp o.l. MASKE AS 879,38
+2 Region Øst 204416 Enhet for spesialiserte fosterhjem - region Øst Fosterhjem Vaktmestertjenester Mesta AS 36,96
+2 Region Øst 204416 Enhet for spesialiserte fosterhjem - region Øst Fosterhjem Vaktmestertjenester Mesta AS 73,92
+2 Region Øst 204416 Enhet for spesialiserte fosterhjem - region Øst 2050155 Glynitveien 30, 3020 Nordre Follo Fosterhjem Renhold lokaler ISS Facility Services AS 2866,81
+2 Region Øst 204416 Enhet for spesialiserte fosterhjem - region Øst 2050173 Sundløkkaveien 73m, 1659 Torp Fosterhjem Renhold lokaler ISS Facility Services AS -1072,68
+2 Region Øst 204416 Enhet for spesialiserte fosterhjem - region Øst 2050173 Sundløkkaveien 73m, 1659 Torp Fosterhjem Renhold lokaler ISS Facility Services AS 3284,59
+2 Region Øst 204416 Enhet for spesialiserte fosterhjem - region Øst 2050173 Sundløkkaveien 73m, 1659 Torp Fosterhjem Renhold lokaler ISS Facility Services AS 2211,91
+2 Region Øst 204416 Enhet for spesialiserte fosterhjem - region Øst 2050173 Sundløkkaveien 73m, 1659 Torp Fosterhjem Annen kostnad lokaler Elis Norge AS 146,27
+2 Region Øst 204416 Enhet for spesialiserte fosterhjem - region Øst 2050173 Sundløkkaveien 73m, 1659 Torp Fosterhjem Annen kostnad lokaler Elis Norge AS 121,78
+2 Region Øst 204416 Enhet for spesialiserte fosterhjem - region Øst 2050186 Strandsagvegen 2 D, 2383 Brumunddal Fosterhjem Renhold lokaler ISS Facility Services AS 2170,19
+2 Region Øst 204416 Enhet for spesialiserte fosterhjem - region Øst 2050186 Strandsagvegen 2 D, 2383 Brumunddal Fosterhjem Renhold lokaler ISS Facility Services AS 2170,19
+2 Region Øst 204416 Familievernkontoret Asker og Bærum Familieverntjeneste Leie parkeringsplass Sandvika Business Center AS 1650
+2 Region Øst 204416 Familievernkontoret Asker og Bærum 2050102 Elias Smiths vei 22-24, 1337 Sandvika Familieverntjeneste Renhold lokaler ISS Facility Services AS 19490,63
+2 Region Øst 204416 Familievernkontoret Asker og Bærum 2050102 Elias Smiths vei 22-24, 1337 Sandvika Familieverntjeneste Renhold lokaler ISS Facility Services AS 19490,63
+2 Region Øst 204416 Familievernkontoret Homansbyen Familieverntjeneste Reparasjon og vedlikehold leide lokaler -22500
+2 Region Øst 204416 Familievernkontoret Homansbyen Familieverntjeneste Reparasjon og vedlikehold leide lokaler MALERENTREPRENØREN AS 22500
+2 Region Øst 204416 Familievernkontoret Homansbyen 2050117 Oscarsgate 20, 0301 Oslo Familieverntjeneste Renhold lokaler ISS Facility Services AS 26624,79
+2 Region Øst 204416 Familievernkontoret Homansbyen 2050117 Oscarsgate 20, 0301 Oslo Familieverntjeneste Renhold lokaler ISS Facility Services AS 26624,79
+2 Region Øst 204416 Familievernkontoret Homansbyen 2050117 Oscarsgate 20, 0301 Oslo Familieverntjeneste Renhold lokaler ISS Facility Services AS -26624,79
+2 Region Øst 204416 Familievernkontoret Homansbyen 2050117 Oscarsgate 20, 0301 Oslo Familieverntjeneste Reparasjon og vedlikehold leide lokaler 22500
+2 Region Øst 204416 Familievernkontoret Homansbyen 2050117 Oscarsgate 20, 0301 Oslo Familieverntjeneste Reparasjon og vedlikehold leide lokaler Oscars gate 20 AS 34114,08
+2 Region Øst 204416 Familievernkontoret Homansbyen 2050117 Oscarsgate 20, 0301 Oslo Familieverntjeneste Reparasjon og vedlikehold leide lokaler HJ Elektro AS 5959
+2 Region Øst 204416 Familievernkontoret Enerhaugen Familieverntjeneste Renhold lokaler ISS Facility Services AS 35843,41
+2 Region Øst 204416 Familievernkontoret Enerhaugen 2050103 Smedsgata 49, 0651 Oslo Familieverntjeneste Renhold lokaler ISS Facility Services AS 35843,41
+2 Region Øst 204416 Seksjon adopsjon Adopsjon Reparasjon og vedlikehold av anlegg, også serviceavtaler Dustin Norway AS 341,36
+2 Region Øst 204416 Seksjon adopsjon 20144 Bilpool i Portalen Adopsjon Leie parkeringsplass Aimo Park Norway AS(15030825141) 3186,54
+2 Region Øst 204416 Familievernkontoret Østfold 2050112 Henrik Gerners gate 14, 1530 Moss Familieverntjeneste Renhold lokaler Elis Norge AS 2207
+2 Region Øst 204416 Familievernkontoret Østfold 2050112 Henrik Gerners gate 14, 1530 Moss Familieverntjeneste Renhold lokaler Insider Facility Solutions AS 5623
+2 Region Øst 204416 Familievernkontoret Østfold 2050112 Henrik Gerners gate 14, 1530 Moss Familieverntjeneste Annen kostnad lokaler Fredriksborg Eiendom AS 1412,5
+2 Region Øst 204416 Familievernkontoret Østfold 2050112 Henrik Gerners gate 14, 1530 Moss Familieverntjeneste Annen kostnad lokaler Kvernhuset AS 8750
+2 Region Øst 204416 Familievernkontoret Østfold 2050113 Glemmengaten 55, 1608 Fredrikstad Familieverntjeneste Renhold lokaler Elis Norge AS 1446
+2 Region Øst 204416 Familievernkontoret Østfold 2050113 Glemmengaten 55, 1608 Fredrikstad Familieverntjeneste Renhold lokaler Toma Facility Norge AS 16757,94
+2 Region Øst 204416 Familievernkontoret Østfold 2050114 Rådhusgata 16, 1830 Askim Familieverntjeneste Renhold lokaler Elis Norge AS 1034
+2 Region Øst 204416 Familievernkontoret Østfold 2050114 Rådhusgata 16, 1830 Askim Familieverntjeneste Renhold lokaler Elis Norge AS 1085
+2 Region Øst 204416 Familievernkontoret Østfold 2050114 Rådhusgata 16, 1830 Askim Familieverntjeneste Renhold lokaler Toma Facility Norge AS 7436,61
+2 Region Øst 204416 Familievernkontoret Oslo Nord 2050111 Kabelgata 2, 0508 Oslo Familieverntjeneste Renhold lokaler Trygg Renhold AS Stor-Oslo 11613
+2 Region Øst 204416 Familievernkontoret Oslo Nord 2050111 Kabelgata 2, 0508 Oslo Familieverntjeneste Renhold lokaler Trygg Renhold AS Stor-Oslo 11613
+2 Region Øst 204416 Familievernkontoret Nedre Romerike Familieverntjeneste Vakthold lokaler Securitas AS 3131,25
+2 Region Øst 204416 Familievernkontoret Nedre Romerike 2050110 Torget 6, 2000 Lillestrøm Familieverntjeneste Renhold lokaler HJEM+ AS 14172,64
+2 Region Øst 204416 Familievernkontoret Øvre Romerike Glåmdal Familieverntjeneste Renhold lokaler MASKE AS 2276,32
+2 Region Øst 204416 Familievernkontoret Øvre Romerike Glåmdal 2050115 Energiveien 14, 2069 Jessheim Familieverntjeneste Renhold lokaler Maid 4 You AS 19739
+2 Region Øst 204416 Familievernkontoret Innlandet Vest 2050105 Nymosvingen 6, 2609 Lillehammer Familieverntjeneste Renhold lokaler Toma Facility Norge AS 7864,99
+2 Region Øst 204416 Familievernkontoret Innlandet Vest 2050140 Storgata10, 2815 Gjøvik Familieverntjeneste Renhold lokaler 4Service Eir Renhold AS 8308,04
+2 Region Øst 204416 Familievernkontoret Innlandet Øst 2050108 Vangsvegen 121, 2318 Hamar Familieverntjeneste Renhold lokaler ISS Facility Services AS 12527,71
+2 Region Øst 204416 Familievernkontoret Innlandet Øst 2050108 Vangsvegen 121, 2318 Hamar Familieverntjeneste Renhold lokaler ISS Facility Services AS 12527,71
+2 Region Øst 204416 Familievernkontoret Innlandet Øst 2050108 Vangsvegen 121, 2318 Hamar Familieverntjeneste Renhold lokaler Elis Norge AS 3344
+2 Region Øst 204416 Familievernkontoret Innlandet Øst 2050108 Vangsvegen 121, 2318 Hamar Familieverntjeneste Renhold lokaler Elis Norge AS 3935
+2 Region Øst 204416 Lierfoss ungdoms- og familiesenter - omsorg Administrasjon Barnevernsinstitusjoner Vakthold lokaler Ascom Norway AS 27651,25
+2 Region Øst 204416 Lierfoss ungdoms- og familiesenter - omsorg Administrasjon Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Innovasjon Elektro AS 2388
+2 Region Øst 204416 Lierfoss ungdoms- og familiesenter - omsorg Administrasjon Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler X-TEAM AS 5113
+2 Region Øst 204416 Lierfoss ungdoms- og familiesenter - omsorg Administrasjon 2050166 Liaveien 2, 4 og 6, 1930 Aurskog Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler KRAGTORP VVS AS 2314
+2 Region Øst 204416 Lierfoss ungdoms- og familiesenter - omsorg Administrasjon 2050183 Riserveien 40A/B, 1930 Aurskog Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler HELLESJØ BYGG ENTREPRENØR AS 44563
+2 Region Øst 204416 Lierfoss ungdoms- og familiesenter - omsorg Administrasjon 2050196 Storveien 1408, 1950 Rømskog Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler X-TEAM AS 39765
+2 Region Øst 204416 Østfold ungdoms - og familiesenter - omsorg Administrasjon Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. MASKE AS 1067,82
+2 Region Øst 204416 Østfold ungdoms - og familiesenter - omsorg Administrasjon Barnevernsinstitusjoner Vaktmestertjenester Mesta AS 89,76
+2 Region Øst 204416 Østfold ungdoms - og familiesenter - omsorg Administrasjon 2050173 Sundløkkaveien 73m, 1659 Torp Barnevernsinstitusjoner Renhold lokaler ISS Facility Services AS -1302,54
+2 Region Øst 204416 Østfold ungdoms - og familiesenter - omsorg Administrasjon 2050173 Sundløkkaveien 73m, 1659 Torp Barnevernsinstitusjoner Renhold lokaler ISS Facility Services AS 3988,44
+2 Region Øst 204416 Østfold ungdoms - og familiesenter - omsorg Administrasjon 2050173 Sundløkkaveien 73m, 1659 Torp Barnevernsinstitusjoner Renhold lokaler ISS Facility Services AS 2685,89
+2 Region Øst 204416 Østfold ungdoms - og familiesenter - omsorg Administrasjon 2050173 Sundløkkaveien 73m, 1659 Torp Barnevernsinstitusjoner Renhold lokaler Elis Norge AS 177,61
+2 Region Øst 204416 Østfold ungdoms - og familiesenter - omsorg Administrasjon 2050173 Sundløkkaveien 73m, 1659 Torp Barnevernsinstitusjoner Renhold lokaler Elis Norge AS 147,88
+2 Region Øst 204416 Østfold ungdoms - og familiesenter - omsorg Administrasjon 2050173 Sundløkkaveien 73m, 1659 Torp Barnevernsinstitusjoner Annen kostnad lokaler Mesta AS 44,88
+2 Region Øst 204416 Østfold ungdoms - og familiesenter - omsorg, avdeling Kurland ungdomshjem Barnevernsinstitusjoner Vakthold lokaler Addsecure AS 5213
+2 Region Øst 204416 Østfold ungdoms - og familiesenter - omsorg, avdeling Kurland ungdomshjem 2050178 Kurlandveien 12, 1727 Sarpsborg Barnevernsinstitusjoner Renhold lokaler BORG RENHOLD AS 18065
+2 Region Øst 204416 Østfold ungdoms- og familiesenter - omsorg, avdeling Tune ungdomshjem 2050179 Uglevn 1, 1712 Grålum Barnevernsinstitusjoner Renhold lokaler Elis Norge AS 2921,05
+2 Region Øst 204416 Østfold ungdoms- og familiesenter - omsorg, avdeling Tune ungdomshjem 2050179 Uglevn 1, 1712 Grålum Barnevernsinstitusjoner Renhold lokaler Elis Norge AS 2336,61
+2 Region Øst 204416 Østfold ungdoms- og familiesenter - omsorg, avdeling Tune ungdomshjem 2050179 Uglevn 1, 1712 Grålum Barnevernsinstitusjoner Renhold lokaler RENBOLIG SERVICE OG OMSORG AS 11545
+2 Region Øst 204416 Østfold ungdoms- og familiesenter - omsorg, avdeling Dal Barnevernsinstitusjoner Annen kostnad lokaler Firesafe AS 7901
+2 Region Øst 204416 Østfold ungdoms- og familiesenter - avdeling Fossen Barnevernsinstitusjoner Annen kostnad lokaler ASSISTENT PARTNER AS 29546,89
+2 Region Øst 204416 Kirkenær barnevern- og omsorgssenter Administrasjon 2050125 Energivegen 13, 2260 Kirkenær Omsorgssentre for mindreårige asylsøkere Renovasjon, vann, avløp o.l. Solør Renovasjon Iks 263,12
+2 Region Øst 204416 Kirkenær barnevern- og omsorgssenter Administrasjon 2050125 Energivegen 13, 2260 Kirkenær Omsorgssentre for mindreårige asylsøkere Reparasjon og vedlikehold leide lokaler GRUE BYGDESERVICE AS 6920
+2 Region Øst 204416 Kirkenær barnevern- og omsorgssenter Administrasjon 2050125 Energivegen 13, 2260 Kirkenær Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Solør Renovasjon Iks 263,12
+2 Region Øst 204416 Kirkenær barnevern- og omsorgssenter Administrasjon 2050125 Energivegen 13, 2260 Kirkenær Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Svein Brodahl Grusforretning 7074
+2 Region Øst 204416 Kirkenær barnevern- og omsorgssenter Administrasjon 2050125 Energivegen 13, 2260 Kirkenær Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler GRUE BYGDESERVICE AS 6920
+2 Region Øst 204416 Kirkenær barnevern- og omsorgssenter Edda ungdomshjem Barnevernsinstitusjoner Leie lokaler andre utleiere Vestlandske Boligstiftelse AS 6850
+2 Region Øst 204416 Kirkenær barnevern- og omsorgssenter Edda ungdomshjem 2050164 Veslekila 1, 2260 Kirkenær Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Solør Renovasjon Iks 440,64
+2 Region Øst 204416 Kirkenær barnever- og omsorgssenter Avdeling Frigg 2050127 Snorres vei 2, 2260 Kirkenær Barnevernsinstitusjoner Annen kostnad lokaler Glassbua Kirkenær A.S. 1218,75
+2 Region Øst 204416 Ringerike omsorgssenter Administrasjon Omsorgssentre for mindreårige asylsøkere Vakthold lokaler Sotera AS 443,75
+2 Region Øst 204416 Ringerike omsorgssenter Administrasjon Omsorgssentre for mindreårige asylsøkere Vakthold lokaler Sotera AS 837,5
+2 Region Øst 204416 Ringerike omsorgssenter Administrasjon 20194 Regionalt renholdsplanleggingsverktøy Omsorgssentre for mindreårige asylsøkere Renhold lokaler CARES AS 6269
+2 Region Øst 204416 Ringerike omsorgssenter Avdeling Solstrand Omsorgssentre for mindreårige asylsøkere Leie lokaler andre utleiere Heradsbygda IL 768
+2 Region Øst 204416 Ringerike omsorgssenter Avdeling Solstrand Omsorgssentre for mindreårige asylsøkere Reparasjon og vedlikehold leide lokaler Brødrene Helgensen Eftf. AS 7574,54
+2 Region Øst 204416 Ringerike omsorgssenter Avdeling Bredal Omsorgssentre for mindreårige asylsøkere Leie lokaler andre utleiere Heradsbygda IL 768
+2 Region Øst 204416 Ringerike omsorgssenter Avdeling Egge Omsorgssentre for mindreårige asylsøkere Leie lokaler andre utleiere Heradsbygda IL 768
+2 Region Øst 204416 Ringerike omsorgssenter Avdeling Snyta Omsorgssentre for mindreårige asylsøkere Leie lokaler andre utleiere Heradsbygda IL 768
+2 Region Øst 204416 Ringerike omsorgssenter Avdeling Snyta Omsorgssentre for mindreårige asylsøkere Renovasjon, vann, avløp o.l. Hadeland og Ringerike Avfallsselskap AS 345,65
+2 Region Øst 204416 Ringerike omsorgssenter Avdeling Ramsrud Omsorgssentre for mindreårige asylsøkere Leie lokaler andre utleiere Heradsbygda IL 3840
+2 Region Øst 204416 Ringerike omsorgssenter Avdeling Ramsrud Omsorgssentre for mindreårige asylsøkere Leie lokaler andre utleiere Heradsbygda IL 768
+2 Region Øst 204416 Bufetat Øst Innlandet Barnevernsenter Barnevernsinstitusjoner Leie lokaler andre utleiere LRN DISTRIBUSJON AS 1962,5
+2 Region Øst 204416 Bufetat Øst Innlandet Barnevernsenter Barnevernsinstitusjoner Renhold lokaler NORSK GJENVINNING AS 570,88
+2 Region Øst 204416 Bufetat Øst Innlandet Barnevernsenter Barnevernsinstitusjoner Vaktmestertjenester GARTNER NYHUS V/GURO NYHUS 12880,25
+2 Region Øst 204416 Bufetat Øst Innlandet Barnevernsenter 2050162 Øverbyvegen 104, 2825 Gjøvik Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Caverion Norge AS 3716,71
+2 Region Øst 204416 Bufetat Øst Innlandet Barnevernsenter 2050162 Øverbyvegen 104, 2825 Gjøvik Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Syljuåsen AS 31470
+2 Region Øst 204416 Bufetat Øst Innlandet Barnevernsenter 2050162 Øverbyvegen 104, 2825 Gjøvik Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Syljuåsen AS 23886
+2 Region Øst 204416 Bufetat Øst Innlandet Barnevernsenter 2050162 Øverbyvegen 104, 2825 Gjøvik Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Sagstuen Glass AS 10287,5
+2 Region Øst 204416 Akershus ungdoms- og familiesenter - akutt, avd Bjørlien Barnevernsinstitusjoner Renhold lokaler MASKE AS 4223,01
+2 Region Øst 204416 Akershus ungdoms- og familiesenter - akutt, avd Bjørlien 2050153 Bjørlistubben 14, 1540 Vestby Barnevernsinstitusjoner Annen kostnad lokaler Homely AS 199
+2 Region Øst 204416 Akershus ungdoms- og familiesenter - akutt, avd Jibbe 2050151 Kantarellveien 4, 1708 Sarpsborg Barnevernsinstitusjoner Vaktmestertjenester Jy Hansen Hageanlegg 5000
+2 Region Øst 204416 Akershus ungdoms- og familiesenter - akutt, avd Jibbe 2050151 Kantarellveien 4, 1708 Sarpsborg Barnevernsinstitusjoner Annen kostnad lokaler Sarpsborg Elektro AS 930
+2 Region Øst 204416 Akershus ungdoms- og familiesenter - akutt, avd Jibbe 2050151 Kantarellveien 4, 1708 Sarpsborg Barnevernsinstitusjoner Annen kostnad lokaler NYE RØR AS 16217
+2 Region Øst 204416 Akershus ungdoms- og familiesenter - akutt, avd Jibbe 2050151 Kantarellveien 4, 1708 Sarpsborg Barnevernsinstitusjoner Annen kostnad lokaler Homely AS 199
+2 Region Øst 204416 Akershus ungdoms- og familiesenter - akutt, avd Sole Barnevernsinstitusjoner Vakthold lokaler FOLLO ALARM AS 1987,5
+2 Region Øst 204416 Akershus ungdoms- og familiesenter - akutt, avd Sole Barnevernsinstitusjoner Vakthold lokaler FOLLO ALARM AS 6735
+2 Region Øst 204416 Akershus ungdoms- og familiesenter - akutt, avd Sole 20451 Solepilot Barnevernsinstitusjoner Annen kostnad lokaler Optimera AS 455
+2 Region Øst 204416 Akershus ungdoms- og familiesenter - akutt, avd Sole 20451 Solepilot Barnevernsinstitusjoner Annen kostnad lokaler Optimera AS 204
+2 Region Øst 204416 Akershus ungdoms- og familiesenter - akutt, avd Sole 20451 Solepilot Barnevernsinstitusjoner Annen kostnad lokaler Optimera AS 1829
+2 Region Øst 204416 Akershus ungdoms- og familiesenter - akutt, avd Sole 20451 Solepilot Barnevernsinstitusjoner Annen kostnad lokaler Ås Glassmesterforretning AS, Vestby 3125
+2 Region Øst 204416 Akershus ungdoms- og familiesenter - akutt, avd Tjernlia Barnevernsinstitusjoner Renhold lokaler MASKE AS 1908,5
+2 Region Øst 204416 Hedmark ungdoms- og familiesenter - akutt, avd Disen Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler HAGEN VVS OG KLIMA AS 1525
+2 Region Øst 204416 Hedmark ungdoms- og familiesenter - akutt, avd Disen 2050191 Just Brochs gate 13, 2321 Hamar Barnevernsinstitusjoner Strøm og oppvarming Elvia AS 8275,68
+2 Region Øst 204416 Hedmark ungdoms- og familiesenter - akutt, avd Disen 2050191 Just Brochs gate 13, 2321 Hamar Barnevernsinstitusjoner Annen kostnad lokaler Hamar Glass AS 1362,5
+2 Region Øst 204416 Hedmark ungdoms- og familiesenter - akutt, avd Stange 1 Barnevernsinstitusjoner Reparasjon og vedlikehold av anlegg, også serviceavtaler Atea AS 28167,99
+2 Region Øst 204416 Hedmark ungdoms- og familiesenter - akutt, avd Stange 1 2050159 Dr. Thorshaugsveg 8, 2335 Stange Barnevernsinstitusjoner Strøm og oppvarming Elvia AS 11459,5
+2 Region Øst 204416 Hedmark ungdoms- og familiesenter - akutt, avd Stange 1 2050159 Dr. Thorshaugsveg 8, 2335 Stange Barnevernsinstitusjoner Strøm og oppvarming Elvia AS 6793,95
+2 Region Øst 204416 Hedmark ungdoms- og familiesenter - akutt, avd Vien 1 2050158 Klukevegen 30, 2318 Hamar Barnevernsinstitusjoner Strøm og oppvarming Elvia AS 4039,74
+2 Region Øst 204416 Hedmark ungdoms- og familiesenter - akutt, avd Vien 2 Barnevernsinstitusjoner Vakthold lokaler Sensio AS 900
+2 Region Øst 204416 Hedmark ungdoms- og familiesenter - akutt, avd Vien 2 2050158 Klukevegen 30, 2318 Hamar Barnevernsinstitusjoner Strøm og oppvarming Elvia AS 4039,74
+2 Region Øst 204416 Bufetats behandlingssenter Akershus_Østfold, adm 2050181 Solfallsveien 27, 1435 Ås Barnevernsinstitusjoner Renhold lokaler Toma gruppen//Østlandske Miljørenhold AS 3341,73
+2 Region Øst 204416 Bufetats behandlingssenter Akershus_Østfold, avd Kroerveien 2050152 Kroerveien 9, 1540 Vestby Barnevernsinstitusjoner Renhold lokaler Østlandske Rengjøring AS 10405,91
+2 Region Øst 204416 Bufetats behandlingssenter Akershus_Østfold, avd Kroerveien 2050152 Kroerveien 9, 1540 Vestby Barnevernsinstitusjoner Renhold lokaler Østlandske Rengjøring AS 1306,91
+2 Region Øst 204416 Bufetats behandlingssenter Akershus_Østfold, avd Ressursteam 2050181 Solfallsveien 27, 1435 Ås Barnevernsinstitusjoner Renhold lokaler Toma gruppen//Østlandske Miljørenhold AS 11136,62
+2 Region Øst 204416 Bufetats behandlingssenter Akershus_Østfold, avd Ås Barnevernsinstitusjoner Renhold lokaler MASKE AS 2913,71
+2 Region Øst 204416 Bufetats behandlingssenter Akershus_Østfold, avd Ås Barnevernsinstitusjoner Renhold lokaler MASKE AS 86,06
+2 Region Øst 204416 Bufetats behandlingssenter Akershus_Østfold, avd Ås Barnevernsinstitusjoner Renhold lokaler MASKE AS 690,7
+2 Region Øst 204416 Bufetats behandlingssenter Akershus_Østfold, avd Ås Barnevernsinstitusjoner Vakthold lokaler 106528
+2 Region Øst 204416 Bufetats behandlingssenter Akershus_Østfold, avd Ås Barnevernsinstitusjoner Reparasjon og vedlikehold av anlegg, også serviceavtaler CERTEGO AS, Bergen 4784,05
+2 Region Øst 204416 Bufetats behandlingssenter Akershus_Østfold, avd Ås 2050181 Solfallsveien 27, 1435 Ås Barnevernsinstitusjoner Renhold lokaler Toma gruppen//Østlandske Miljørenhold AS 23386,9
+2 Region Øst 204416 Bufetats behandlingssenter Akershus_Østfold, avd Østheim Barnevernsinstitusjoner Annen kostnad lokaler Sensio AS 10747,5
+2 Region Øst 204416 Bufetats behandlingssenter Akershus_Østfold, avd Østlund Barnevernsinstitusjoner Annen kostnad lokaler Europris Butikkdrift AS 897
+2 Region Øst 204416 Bufetats behandlingssenter Akershus_Østfold, avd Østlund Barnevernsinstitusjoner Annen kostnad lokaler IKANO BANK AB (PUBL), Coop 389
+2 Region Øst 204416 Bufetats behandlingssenter Akershus_Østfold, avd Østlund Barnevernsinstitusjoner Annen kostnad lokaler LINDBAK INTERIØR AS 7837,5
+2 Region Øst 204416 Bufetats behandlingssenter Akershus_Østfold, avd Østlund Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler IKANO BANK AB (PUBL), Coop 2378
+2 Region Øst 204416 Bufetats behandlingssenter Akershus_Østfold, avd Østlund 2050172 Grimstadtunet 27, 1746 Skjeberg Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler HVALER ELEKTRISKE AS 14813
+2 Region Øst 204416 Jong ungdoms- og familiesenter, avd. Kollen 2050157 Tokerudkollen 31/33, 1336 Sandvika Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. NORSK GJENVINNING AS 1049
+2 Region Øst 204416 Jong ungdoms- og familiesenter, avd. Kollen 2050157 Tokerudkollen 31/33, 1336 Sandvika Barnevernsinstitusjoner Renhold lokaler Insider Facility Solutions AS 4044
+2 Region Øst 204416 Jong ungdoms- og familiesenter, avd. Kollen 2050157 Tokerudkollen 31/33, 1336 Sandvika Barnevernsinstitusjoner Renhold lokaler Insider Facility Solutions AS 4044
+2 Region Øst 204416 Jong ungdoms- og familiesenter, avd. Kollen 2050157 Tokerudkollen 31/33, 1336 Sandvika Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler EIKER ELEKTRO AS 13388
+2 Region Øst 204416 Jong ungdoms- og familiesenter, avd Åsen 2050161 Emma Hjortsvei 60, 1336 Sandvika Barnevernsinstitusjoner Renhold lokaler 4044
+2 Region Øst 204416 Jong ungdoms- og familiesenter, avd Åsen 2050161 Emma Hjortsvei 60, 1336 Sandvika Barnevernsinstitusjoner Renhold lokaler Insider Facility Solutions AS 4044
+2 Region Øst 204416 Jong ungdoms- og familiesenter, avd Åsen 2050161 Emma Hjortsvei 60, 1336 Sandvika Barnevernsinstitusjoner Renhold lokaler Insider Facility Solutions AS 4044
+2 Region Øst 204416 Jong ungdoms- og familiesenter, avdeling Åsen Barnevernsinstitusjoner Renhold lokaler -4044
+2 Region Øst 204416 Multisystemisk terapi-team Sarpsborg Hjelpetiltak i hjemmet Renovasjon, vann, avløp o.l. MASKE AS 1728,29
+2 Region Øst 204416 Multisystemisk terapi-team Sarpsborg Hjelpetiltak i hjemmet Renhold lokaler ISS Facility Services AS -2108,22
+2 Region Øst 204416 Multisystemisk terapi-team Sarpsborg Hjelpetiltak i hjemmet Renhold lokaler ISS Facility Services AS 6455,43
+2 Region Øst 204416 Multisystemisk terapi-team Sarpsborg Hjelpetiltak i hjemmet Renhold lokaler ISS Facility Services AS 4347,22
+2 Region Øst 204416 Multisystemisk terapi-team Sarpsborg Hjelpetiltak i hjemmet Renhold lokaler Elis Norge AS 287,47
+2 Region Øst 204416 Multisystemisk terapi-team Sarpsborg Hjelpetiltak i hjemmet Renhold lokaler Elis Norge AS 239,35
+2 Region Øst 204416 Multisystemisk terapi-team Sarpsborg Hjelpetiltak i hjemmet Vaktmestertjenester Mesta AS 72,64
+2 Region Øst 204416 Multisystemisk terapi-team Sarpsborg Hjelpetiltak i hjemmet Vaktmestertjenester Mesta AS 145,28
+2 Region Øst 204416 Multisystemisk terapi-team Ski 2050155 Glynitveien 30, 3020 Nordre Follo Hjelpetiltak i hjemmet Renhold lokaler ISS Facility Services AS 2866,79
+2 Region Øst 204416 Multisystemisk terapi-team Hamar 2050186 Strandsagvegen 2 D, 2383 Brumunddal Hjelpetiltak i hjemmet Renhold lokaler ISS Facility Services AS 2170,19
+2 Region Øst 204416 Multisystemisk terapi-team Hamar 2050186 Strandsagvegen 2 D, 2383 Brumunddal Hjelpetiltak i hjemmet Renhold lokaler ISS Facility Services AS 2170,19
+2 Region Øst 204416 MST Nedre Romerike Hjelpetiltak i hjemmet Renhold lokaler HJEM+ AS 2638,75
+2 Region Øst 204416 MST Nedre Romerike 2050102 Elias Smiths vei 22-24, 1337 Sandvika Hjelpetiltak i hjemmet Renhold lokaler -2784,34
+2 Region Øst 204416 MST Nedre Romerike 2050102 Elias Smiths vei 22-24, 1337 Sandvika Hjelpetiltak i hjemmet Renhold lokaler ISS Facility Services AS 2784,34
+2 Region Øst 204416 MST Nedre Romerike 2050110 Torget 6, 2000 Lillestrøm Hjelpetiltak i hjemmet Renhold lokaler HJEM+ AS 6073,99
+2 Region Øst 204416 MST Nedre Romerike 2050110 Torget 6, 2000 Lillestrøm Hjelpetiltak i hjemmet Renhold lokaler HJEM+ AS 8480
+2 Region Øst 204416 Multisystemisk terapi-team Sandvika 2050102 Elias Smiths vei 22-24, 1337 Sandvika Hjelpetiltak i hjemmet Renhold lokaler 2784,34
+2 Region Øst 204416 Multisystemisk terapi-team Sandvika 2050102 Elias Smiths vei 22-24, 1337 Sandvika Hjelpetiltak i hjemmet Renhold lokaler ISS Facility Services AS 2785
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk 2050184 Veslekila 3A1, 2260 Kirkenær Barnevernsinstitusjoner Strøm og oppvarming Fjordkraft AS 1610,74
+2 Region Øst 204416 Regionkontor Seksjon FS 20390 PMTO konsulenter Hjelpetiltak i hjemmet Renhold lokaler ISS Facility Services AS 1146,71
+2 Region Øst 204416 Regionkontor Seksjon FS 20390 PMTO konsulenter Hjelpetiltak i hjemmet Renhold lokaler ISS Facility Services AS 1146,71
+2 Region Øst 204416 ServiceTeamet 20144 Bilpool i Portalen Regionale fellesfunksjoner Leie parkeringsplass Aimo Park Norway AS(15030825141) 885,15
+2 Region Øst 204416 Bufetats enhet for godkjenning av barneverninstitusjoner 20144 Bilpool i Portalen Regionale fellesfunksjoner Leie parkeringsplass Aimo Park Norway AS(15030825141) 1416,24
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 20410 BSA-del av utgifter i Portalen Regionale fellesfunksjoner Leie lokaler andre utleiere Portalen Kontor AS 365827,23
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 20410 BSA-del av utgifter i Portalen Regionale fellesfunksjoner Leie lokaler andre utleiere Portalen Forretning AS 946,64
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 20410 BSA-del av utgifter i Portalen Regionale fellesfunksjoner Fellesutgifter andre utleiere Portalen Kontor AS 57986,31
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 20410 BSA-del av utgifter i Portalen Regionale fellesfunksjoner Fellesutgifter andre utleiere Portalen Forretning AS 474,04
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 20450 Bilpool Innlandet Fosterhjem Strøm og oppvarming Elvia AS 187,25
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 20450 Bilpool Innlandet Hjelpetiltak i hjemmet Strøm og oppvarming Elvia AS 127,33
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 20450 Bilpool Innlandet Inntak Strøm og oppvarming Elvia AS 164,78
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 20450 Bilpool Innlandet Fosterhjemstjenesten Strøm og oppvarming Elvia AS 269,63
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 20450 Bilpool Innlandet Fosterhjemstjenesten Leie parkeringsplass Tema Næringsbygg AS 6550,9
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050101 Tærudgata 16, 2004 Lillestrøm Regionale fellesfunksjoner Leie lokaler andre utleiere Portalen Kontor AS 60971,21
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050101 Tærudgata 16, 2004 Lillestrøm Regionale fellesfunksjoner Leie lokaler andre utleiere Portalen Kontor AS 1036510,49
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050101 Tærudgata 16, 2004 Lillestrøm Regionale fellesfunksjoner Leie lokaler andre utleiere Portalen Kontor AS 121942,41
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050101 Tærudgata 16, 2004 Lillestrøm Regionale fellesfunksjoner Leie lokaler andre utleiere Portalen Forretning AS 157,77
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050101 Tærudgata 16, 2004 Lillestrøm Regionale fellesfunksjoner Leie lokaler andre utleiere Portalen Forretning AS 2682,15
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050101 Tærudgata 16, 2004 Lillestrøm Regionale fellesfunksjoner Leie lokaler andre utleiere Portalen Forretning AS 315,55
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050101 Tærudgata 16, 2004 Lillestrøm Regionale fellesfunksjoner Fellesutgifter andre utleiere Portalen Kontor AS 9664,39
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050101 Tærudgata 16, 2004 Lillestrøm Regionale fellesfunksjoner Fellesutgifter andre utleiere Portalen Kontor AS 164294,56
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050101 Tærudgata 16, 2004 Lillestrøm Regionale fellesfunksjoner Fellesutgifter andre utleiere Portalen Kontor AS 19328,77
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050101 Tærudgata 16, 2004 Lillestrøm Regionale fellesfunksjoner Fellesutgifter andre utleiere Portalen Forretning AS 79,01
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050101 Tærudgata 16, 2004 Lillestrøm Regionale fellesfunksjoner Fellesutgifter andre utleiere Portalen Forretning AS 1343,11
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050101 Tærudgata 16, 2004 Lillestrøm Regionale fellesfunksjoner Fellesutgifter andre utleiere Portalen Forretning AS 158,01
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050101 Tærudgata 16, 2004 Lillestrøm Omsorgssentre for mindreårige asylsøkere Leie lokaler andre utleiere Portalen Kontor AS 30485,6
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050101 Tærudgata 16, 2004 Lillestrøm Omsorgssentre for mindreårige asylsøkere Leie lokaler andre utleiere Portalen Forretning AS 78,89
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050101 Tærudgata 16, 2004 Lillestrøm Omsorgssentre for mindreårige asylsøkere Fellesutgifter andre utleiere Portalen Kontor AS 4832,19
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050101 Tærudgata 16, 2004 Lillestrøm Omsorgssentre for mindreårige asylsøkere Fellesutgifter andre utleiere Portalen Forretning AS 39,5
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050101 Tærudgata 16, 2004 Lillestrøm Barnevernsinstitusjoner Leie lokaler andre utleiere Portalen Kontor AS 289613,22
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050101 Tærudgata 16, 2004 Lillestrøm Barnevernsinstitusjoner Leie lokaler andre utleiere Portalen Forretning AS 749,43
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050101 Tærudgata 16, 2004 Lillestrøm Barnevernsinstitusjoner Fellesutgifter andre utleiere Portalen Kontor AS 45905,83
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050101 Tærudgata 16, 2004 Lillestrøm Barnevernsinstitusjoner Fellesutgifter andre utleiere Portalen Forretning AS 375,28
+2 Region Øst 211001 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050101 Tærudgata 16, 2004 Lillestrøm Inntak Leie lokaler andre utleiere Portalen Kontor AS 457284,04
+2 Region Øst 211003 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050101 Tærudgata 16, 2004 Lillestrøm Inntak Leie lokaler andre utleiere Portalen Forretning AS 1183,3
+2 Region Øst 211003 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050101 Tærudgata 16, 2004 Lillestrøm Inntak Fellesutgifter andre utleiere Portalen Kontor AS 72482,89
+2 Region Øst 211005 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050101 Tærudgata 16, 2004 Lillestrøm Inntak Fellesutgifter andre utleiere Portalen Forretning AS 592,55
+2 Region Øst 211005 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050101 Tærudgata 16, 2004 Lillestrøm Fosterhjemstjenesten Leie lokaler andre utleiere Portalen Kontor AS 350584,43
+2 Region Øst 211006 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050101 Tærudgata 16, 2004 Lillestrøm Fosterhjemstjenesten Leie lokaler andre utleiere Portalen Forretning AS 907,2
+2 Region Øst 211103 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050101 Tærudgata 16, 2004 Lillestrøm Fosterhjemstjenesten Fellesutgifter andre utleiere Portalen Kontor AS 55570,22
+2 Region Øst 211103 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050101 Tærudgata 16, 2004 Lillestrøm Fosterhjemstjenesten Fellesutgifter andre utleiere Portalen Forretning AS 454,29
+2 Region Øst 211104 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050101 Tærudgata 16, 2004 Lillestrøm Adopsjon Leie lokaler andre utleiere Portalen Kontor AS 335341,63
+2 Region Øst 211105 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050101 Tærudgata 16, 2004 Lillestrøm Adopsjon Leie lokaler andre utleiere Portalen Forretning AS 867,76
+2 Region Øst 211201 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050101 Tærudgata 16, 2004 Lillestrøm Adopsjon Fellesutgifter andre utleiere Portalen Kontor AS 53154,12
+2 Region Øst 211201 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050101 Tærudgata 16, 2004 Lillestrøm Adopsjon Fellesutgifter andre utleiere Portalen Forretning AS 434,53
+2 Region Øst 211202 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050102 Elias Smiths vei 22-24, 1337 Sandvika Familieverntjeneste Leie lokaler andre utleiere Sandvika Business Center AS 709266,6
+2 Region Øst 211203 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050102 Elias Smiths vei 22-24, 1337 Sandvika Familieverntjeneste Strøm og oppvarming Union Drift Core AS 50173,4
+2 Region Øst 211206 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050102 Elias Smiths vei 22-24, 1337 Sandvika Familieverntjeneste Fellesutgifter andre utleiere Union Drift Core AS -54508,3
+2 Region Øst 211208 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050102 Elias Smiths vei 22-24, 1337 Sandvika Familieverntjeneste Fellesutgifter andre utleiere Union Drift Core AS 101996,11
+2 Region Øst 214703 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050102 Elias Smiths vei 22-24, 1337 Sandvika Hjelpetiltak i hjemmet Leie lokaler andre utleiere Sandvika Business Center AS 101323,8
+2 Region Øst 214803 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050102 Elias Smiths vei 22-24, 1337 Sandvika Hjelpetiltak i hjemmet Strøm og oppvarming Union Drift Core AS 7167,63
+2 Region Øst 214806 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050102 Elias Smiths vei 22-24, 1337 Sandvika Hjelpetiltak i hjemmet Fellesutgifter andre utleiere Union Drift Core AS -7786,9
+2 Region Øst 214806 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050102 Elias Smiths vei 22-24, 1337 Sandvika Hjelpetiltak i hjemmet Fellesutgifter andre utleiere Union Drift Core AS 14570,87
+2 Region Øst 214806 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050102 Elias Smiths vei 22-24, 1337 Sandvika Inntak Leie lokaler andre utleiere Sandvika Business Center AS 202647,6
+2 Region Øst 216001 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050102 Elias Smiths vei 22-24, 1337 Sandvika Inntak Strøm og oppvarming Union Drift Core AS 14335,25
+2 Region Øst 222401 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050102 Elias Smiths vei 22-24, 1337 Sandvika Inntak Fellesutgifter andre utleiere Union Drift Core AS -15573,8
+2 Region Øst 222501 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050102 Elias Smiths vei 22-24, 1337 Sandvika Inntak Fellesutgifter andre utleiere Union Drift Core AS 29141,75
+2 Region Øst 224501 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050103 Smedsgata 49, 0651 Oslo Familieverntjeneste Leie lokaler andre utleiere Smedgata 45 og 49 AS 817743
+2 Region Øst 224501 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050103 Smedsgata 49, 0651 Oslo Familieverntjeneste Fellesutgifter andre utleiere Smedgata 45 og 49 AS 168105
+2 Region Øst 224501 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050105 Nymosvingen 6, 2609 Lillehammer Familieverntjeneste Leie lokaler andre utleiere Dotterud Eiendom AS 150588
+2 Region Øst 224501 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050105 Nymosvingen 6, 2609 Lillehammer Familieverntjeneste Fellesutgifter andre utleiere Dotterud Eiendom AS 42327
+2 Region Øst 224501 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050108 Vangsvegen 121, 2318 Hamar Familieverntjeneste Leie lokaler andre utleiere Vangsvegen 121 AS 264704
+2 Region Øst 224501 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050108 Vangsvegen 121, 2318 Hamar Familieverntjeneste Vakthold lokaler Vangsvegen 121 AS 5243
+2 Region Øst 225201 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050108 Vangsvegen 121, 2318 Hamar Familieverntjeneste Fellesutgifter andre utleiere Vangsvegen 121 AS 87000
+2 Region Øst 225201 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050109 Aumliveien 4C, 2500 Tynset Familieverntjeneste Leie lokaler andre utleiere Siva FE Kompetansesenteret 65907,09
+2 Region Øst 225301 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050109 Aumliveien 4C, 2500 Tynset Familieverntjeneste Fellesutgifter andre utleiere Siva FE Kompetansesenteret 40712,43
+2 Region Øst 225501 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050110 Torget 6, 2000 Lillestrøm Familieverntjeneste Leie lokaler andre utleiere Lillestrøm Torv AS 653983
+2 Region Øst 225501 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050110 Torget 6, 2000 Lillestrøm Familieverntjeneste Strøm og oppvarming Istad Kraft AS 6355,41
+2 Region Øst 232601 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050110 Torget 6, 2000 Lillestrøm Familieverntjeneste Fellesutgifter andre utleiere Lillestrøm Torv AS -31461
+2 Region Øst 232601 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050110 Torget 6, 2000 Lillestrøm Familieverntjeneste Fellesutgifter andre utleiere Lillestrøm Torv AS 131944
+2 Region Øst 232601 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050110 Torget 6, 2000 Lillestrøm Hjelpetiltak i hjemmet Leie lokaler andre utleiere Lillestrøm Torv AS 189866
+2 Region Øst 232601 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050110 Torget 6, 2000 Lillestrøm Hjelpetiltak i hjemmet Strøm og oppvarming Istad Kraft AS 1845
+2 Region Øst 232601 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050110 Torget 6, 2000 Lillestrøm Hjelpetiltak i hjemmet Fellesutgifter andre utleiere Lillestrøm Torv AS 38306
+2 Region Øst 232701 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050111 Kabelgata 2, 0508 Oslo Familieverntjeneste Leie lokaler andre utleiere Østre Aker vei 31 AS 479566,67
+2 Region Øst 232701 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050111 Kabelgata 2, 0508 Oslo Familieverntjeneste Strøm og oppvarming Østre Aker vei 31 AS 9744,26
+2 Region Øst 232704 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050111 Kabelgata 2, 0508 Oslo Familieverntjeneste Fellesutgifter andre utleiere Østre Aker vei 31 AS 75327,5
+2 Region Øst 232706 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050111 Kabelgata 2, 0508 Oslo Familieverntjeneste Fellesutgifter andre utleiere Østre Aker vei 31 AS 53338
+2 Region Øst 232707 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050112 Henrik Gerners gate 14, 1530 Moss Familieverntjeneste Leie lokaler andre utleiere Kvernhuset AS 222169
+2 Region Øst 232801 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050112 Henrik Gerners gate 14, 1530 Moss Familieverntjeneste Strøm og oppvarming Kvernhuset AS 21300
+2 Region Øst 232801 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050112 Henrik Gerners gate 14, 1530 Moss Familieverntjeneste Strøm og oppvarming Fortum Strøm 1275,57
+2 Region Øst 232801 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050112 Henrik Gerners gate 14, 1530 Moss Familieverntjeneste Fellesutgifter andre utleiere Kvernhuset AS 44607
+2 Region Øst 232803 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050113 Glemmengaten 55, 1608 Fredrikstad Familieverntjeneste Leie lokaler andre utleiere Glemmengaten 55 DA 455738
+2 Region Øst 232806 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050113 Glemmengaten 55, 1608 Fredrikstad Familieverntjeneste Strøm og oppvarming Glemmengaten 55 DA 20000
+2 Region Øst 232806 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050113 Glemmengaten 55, 1608 Fredrikstad Familieverntjeneste Fellesutgifter andre utleiere Glemmengaten 55 DA -192090
+2 Region Øst 232813 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050113 Glemmengaten 55, 1608 Fredrikstad Familieverntjeneste Fellesutgifter andre utleiere Glemmengaten 55 DA 110000
+2 Region Øst 233201 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050114 Rådhusgata 16, 1830 Askim Familieverntjeneste Leie lokaler andre utleiere Sentrumskvartalet Askim AS 227833
+2 Region Øst 233202 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050114 Rådhusgata 16, 1830 Askim Familieverntjeneste Fellesutgifter andre utleiere Sentrumskvartalet Askim AS 5502
+2 Region Øst 233203 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050115 Energiveien 14, 2069 Jessheim Familieverntjeneste Leie lokaler andre utleiere Jessheim Næringspark AS 361153,66
+2 Region Øst 233203 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050115 Energiveien 14, 2069 Jessheim Familieverntjeneste Fellesutgifter andre utleiere Jessheim Næringspark AS -20084
+2 Region Øst 233205 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050115 Energiveien 14, 2069 Jessheim Familieverntjeneste Fellesutgifter andre utleiere Jessheim Næringspark AS 75097,5
+2 Region Øst 233205 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050116 Gågata 5, 2211 Kongsvinger Familieverntjeneste Strøm og oppvarming Elvia AS 1928,03
+2 Region Øst 233205 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050117 Oscarsgate 20, 0301 Oslo Familieverntjeneste Leie lokaler andre utleiere Oscars gate 20 AS 709195,08
+2 Region Øst 233206 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050117 Oscarsgate 20, 0301 Oslo Familieverntjeneste Fellesutgifter andre utleiere Oscars gate 20 AS 156081,29
+2 Region Øst 233206 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050117 Oscarsgate 20, 0301 Oslo Familieverntjeneste Fellesutgifter andre utleiere Oscars gate 20 AS 119395,09
+2 Region Øst 233206 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050118 Storgata 11, 3510 Hønefoss Omsorgssentre for mindreårige asylsøkere Leie lokaler andre utleiere OFFENTLIG BYGG HØNEFOSS AS 86586
+2 Region Øst 235401 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050118 Storgata 11, 3510 Hønefoss Omsorgssentre for mindreårige asylsøkere Leie lokaler andre utleiere OFFENTLIG BYGG HØNEFOSS AS -10913
+2 Region Øst 235401 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050118 Storgata 11, 3510 Hønefoss Omsorgssentre for mindreårige asylsøkere Leie lokaler andre utleiere OFFENTLIG BYGG HØNEFOSS AS 3598
+2 Region Øst 235401 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050118 Storgata 11, 3510 Hønefoss Omsorgssentre for mindreårige asylsøkere Fellesutgifter andre utleiere OFFENTLIG BYGG HØNEFOSS AS 39825
+2 Region Øst 235401 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050118 Storgata 11, 3510 Hønefoss Omsorgssentre for mindreårige asylsøkere Fellesutgifter andre utleiere OFFENTLIG BYGG HØNEFOSS AS -2250
+2 Region Øst 235401 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050118 Storgata 11, 3510 Hønefoss Omsorgssentre for mindreårige asylsøkere Fellesutgifter andre utleiere OFFENTLIG BYGG HØNEFOSS AS 742
+2 Region Øst 235401 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050119 Ramsrudveien 32, 3518 Hønefoss Omsorgssentre for mindreårige asylsøkere Leie lokaler andre utleiere H. Berger Eiendom AS 117018
+2 Region Øst 235401 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050120 Åsaveien 662, 3512 Hønefoss Omsorgssentre for mindreårige asylsøkere Leie lokaler fra Statsbygg Statsbyggs hovedkontor 137135
+2 Region Øst 235401 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050120 Åsaveien 662, 3512 Hønefoss Omsorgssentre for mindreårige asylsøkere Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 56400
+2 Region Øst 236102 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050120 Åsaveien 662, 3512 Hønefoss Omsorgssentre for mindreårige asylsøkere Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 19978
+2 Region Øst 236103 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050120 Åsaveien 662, 3512 Hønefoss Omsorgssentre for mindreårige asylsøkere Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 12293
+2 Region Øst 236103 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050122 Egge Gård, 3514 Hønefoss Omsorgssentre for mindreårige asylsøkere Leie lokaler andre utleiere Oddvar Røysi, utleier(enkeltm.foret.) 62574
+2 Region Øst 236103 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050123 Snytasvingen, 3519 Hønefoss Omsorgssentre for mindreårige asylsøkere Fellesutgifter andre utleiere Morten Jensen, utleier 5028
+2 Region Øst 236103 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050125 Energivegen 13, 2260 Kirkenær Omsorgssentre for mindreårige asylsøkere Leie lokaler andre utleiere Grue Kommune 162771
+2 Region Øst 236103 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050125 Energivegen 13, 2260 Kirkenær Barnevernsinstitusjoner Leie lokaler andre utleiere Grue Kommune 162771
+2 Region Øst 236103 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050127 Snorres vei 2, 2260 Kirkenær Omsorgssentre for mindreårige asylsøkere Leie lokaler fra Statsbygg Statsbyggs hovedkontor 59930
+2 Region Øst 236103 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050127 Snorres vei 2, 2260 Kirkenær Omsorgssentre for mindreårige asylsøkere Strøm og oppvarming Elvia AS 2840,77
+2 Region Øst 236104 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050127 Snorres vei 2, 2260 Kirkenær Omsorgssentre for mindreårige asylsøkere Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor -5811
+2 Region Øst 236104 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050127 Snorres vei 2, 2260 Kirkenær Omsorgssentre for mindreårige asylsøkere Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 39278
+2 Region Øst 236201 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050127 Snorres vei 2, 2260 Kirkenær Omsorgssentre for mindreårige asylsøkere Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 9010
+2 Region Øst 236201 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050127 Snorres vei 2, 2260 Kirkenær Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 29965
+2 Region Øst 236202 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050127 Snorres vei 2, 2260 Kirkenær Barnevernsinstitusjoner Strøm og oppvarming Elvia AS 1420,38
+2 Region Øst 236203 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050127 Snorres vei 2, 2260 Kirkenær Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor -2905
+2 Region Øst 236203 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050127 Snorres vei 2, 2260 Kirkenær Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 19639
+2 Region Øst 236204 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050127 Snorres vei 2, 2260 Kirkenær Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 4505
+2 Region Øst 236204 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050129 Skolevegen 6, 2265 Namnå/Kirkenær Omsorgssentre for mindreårige asylsøkere Leie lokaler andre utleiere Grue Kommune 92700
+2 Region Øst 236204 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050140 Storgata10, 2815 Gjøvik Familieverntjeneste Leie lokaler andre utleiere STORGATA 10 AS 629388,21
+2 Region Øst 236205 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050140 Storgata10, 2815 Gjøvik Familieverntjeneste Strøm og oppvarming STORGATA 10 AS 8002,8
+2 Region Øst 236205 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050140 Storgata10, 2815 Gjøvik Familieverntjeneste Fellesutgifter andre utleiere STORGATA 10 AS 68721,63
+2 Region Øst 236205 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050150 Trondheimsveien 205, Jessheim Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 221848
+2 Region Øst 237101 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050150 Trondheimsveien 205, Jessheim Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 100804
+2 Region Øst 237102 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050150 Trondheimsveien 205, Jessheim Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 190468
+2 Region Øst 237102 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050150 Trondheimsveien 205, Jessheim Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 34032
+2 Region Øst 237103 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050151 Kantarellveien 4, 1708 Sarpsborg Barnevernsinstitusjoner Leie lokaler andre utleiere Pedersen Perspective 126123
+2 Region Øst 237104 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050152 Kroerveien 9, 1540 Vestby Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 155319
+2 Region Øst 237106 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050152 Kroerveien 9, 1540 Vestby Barnevernsinstitusjoner Annen kostnad lokaler Statsbyggs hovedkontor 31922,14
+2 Region Øst 237106 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050152 Kroerveien 9, 1540 Vestby Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 73950
+2 Region Øst 237202 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050152 Kroerveien 9, 1540 Vestby Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 131101
+2 Region Øst 237202 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050152 Kroerveien 9, 1540 Vestby Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 15705
+2 Region Øst 237202 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050154 Njords vei 11, 1540 Vestby Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 222616
+2 Region Øst 237202 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050154 Njords vei 11, 1540 Vestby Barnevernsinstitusjoner Strøm og oppvarming Elvia AS 1080,99
+2 Region Øst 237203 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050154 Njords vei 11, 1540 Vestby Barnevernsinstitusjoner Strøm og oppvarming Elvia AS 6855,1
+2 Region Øst 237203 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050154 Njords vei 11, 1540 Vestby Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 110250
+2 Region Øst 243403 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050154 Njords vei 11, 1540 Vestby Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 2583
+2 Region Øst 244001 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050154 Njords vei 11, 1540 Vestby Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 21158
+2 Region Øst 244301 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050155 Glynitveien 30, 3020 Nordre Follo Fosterhjem Leie lokaler andre utleiere Glynitveien 30 AS 90714,12
+2 Region Øst 246104 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050155 Glynitveien 30, 3020 Nordre Follo Fosterhjem Strøm og oppvarming Glynitveien 30 AS 11760
+2 Region Øst 204405 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050155 Glynitveien 30, 3020 Nordre Follo Fosterhjem Strøm og oppvarming Glynitveien 30 AS 530,04
+2 Region Øst 204414 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050155 Glynitveien 30, 3020 Nordre Follo Fosterhjem Fellesutgifter andre utleiere Glynitveien 30 AS 9586,5
+2 Region Øst 204414 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050155 Glynitveien 30, 3020 Nordre Follo Fosterhjem Fellesutgifter andre utleiere Glynitveien 30 AS 30690,66
+2 Region Øst 204414 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050155 Glynitveien 30, 3020 Nordre Follo Hjelpetiltak i hjemmet Leie lokaler andre utleiere Glynitveien 30 AS 125271,88
+2 Region Øst 204414 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050155 Glynitveien 30, 3020 Nordre Follo Hjelpetiltak i hjemmet Strøm og oppvarming Glynitveien 30 AS 16240
+2 Region Øst 204414 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050155 Glynitveien 30, 3020 Nordre Follo Hjelpetiltak i hjemmet Strøm og oppvarming Glynitveien 30 AS 731,96
+2 Region Øst 204414 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050155 Glynitveien 30, 3020 Nordre Follo Hjelpetiltak i hjemmet Fellesutgifter andre utleiere Glynitveien 30 AS 13238,5
+2 Region Øst 204414 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050155 Glynitveien 30, 3020 Nordre Follo Hjelpetiltak i hjemmet Fellesutgifter andre utleiere Glynitveien 30 AS 42382,34
+2 Region Øst 204414 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050156 Storveien 121, 1621 Gressvik Sentre for foreldre og barn Leie lokaler fra Statsbygg Statsbyggs hovedkontor 173755
+2 Region Øst 204414 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050156 Storveien 121, 1621 Gressvik Sentre for foreldre og barn Strøm og oppvarming Elvia AS 4223,71
+2 Region Øst 204414 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050156 Storveien 121, 1621 Gressvik Sentre for foreldre og barn Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 65200
+2 Region Øst 204414 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050156 Storveien 121, 1621 Gressvik Sentre for foreldre og barn Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 2878
+2 Region Øst 204414 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050156 Storveien 121, 1621 Gressvik Sentre for foreldre og barn Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 14304
+2 Region Øst 204414 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050158 Klukevegen 30, 2318 Hamar Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 423464
+2 Region Øst 204414 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050158 Klukevegen 30, 2318 Hamar Barnevernsinstitusjoner Strøm og oppvarming Fjordkraft AS 1735,24
+2 Region Øst 204414 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050158 Klukevegen 30, 2318 Hamar Barnevernsinstitusjoner Strøm og oppvarming Elvia AS 6881,7
+2 Region Øst 204414 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050158 Klukevegen 30, 2318 Hamar Barnevernsinstitusjoner Strøm og oppvarming Elvia AS 219,94
+2 Region Øst 204414 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050158 Klukevegen 30, 2318 Hamar Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 52537
+2 Region Øst 204414 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050158 Klukevegen 30, 2318 Hamar Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 139875
+2 Region Øst 204415 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050158 Klukevegen 30, 2318 Hamar Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 28784
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050159 Dr. Thorshaugsveg 8, 2335 Stange Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 189095
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050159 Dr. Thorshaugsveg 8, 2335 Stange Barnevernsinstitusjoner Strøm og oppvarming Elvia AS 9395,39
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050159 Dr. Thorshaugsveg 8, 2335 Stange Barnevernsinstitusjoner Strøm og oppvarming Elvia AS 6031,34
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050159 Dr. Thorshaugsveg 8, 2335 Stange Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 7103
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050159 Dr. Thorshaugsveg 8, 2335 Stange Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 95050
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050159 Dr. Thorshaugsveg 8, 2335 Stange Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 25993
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050161 Emma Hjortsvei 60, 1336 Sandvika Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 182954
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050161 Emma Hjortsvei 60, 1336 Sandvika Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 16354,03
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050161 Emma Hjortsvei 60, 1336 Sandvika Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor -46826
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050161 Emma Hjortsvei 60, 1336 Sandvika Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 109562
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050161 Emma Hjortsvei 60, 1336 Sandvika Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 12634
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050162 Øverbyvegen 104, 2825 Gjøvik Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 36636
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050162 Øverbyvegen 104, 2825 Gjøvik Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 1330030
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050162 Øverbyvegen 104, 2825 Gjøvik Barnevernsinstitusjoner Strøm og oppvarming Elvia AS 16254,41
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050162 Øverbyvegen 104, 2825 Gjøvik Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 229650
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050162 Øverbyvegen 104, 2825 Gjøvik Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 27618
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050162 Øverbyvegen 104, 2825 Gjøvik Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 7022
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050162 Øverbyvegen 104, 2825 Gjøvik Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 85629
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050164 Veslekila 1, 2260 Kirkenær Barnevernsinstitusjoner Leie lokaler andre utleiere Grue Kommune 64167
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050164 Veslekila 1, 2260 Kirkenær Barnevernsinstitusjoner Strøm og oppvarming Elvia AS 3382,31
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050165 Jernbanevegen 70, 2260 Kirkenær Barnevernsinstitusjoner Leie lokaler andre utleiere Grue Kommune 63093
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050165 Jernbanevegen 70, 2260 Kirkenær Barnevernsinstitusjoner Strøm og oppvarming Elvia AS 2421,89
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050166 Liaveien 2, 4 og 6, 1930 Aurskog Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 101507
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050166 Liaveien 2, 4 og 6, 1930 Aurskog Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 267021
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050166 Liaveien 2, 4 og 6, 1930 Aurskog Barnevernsinstitusjoner Strøm og oppvarming Elvia AS 1134,88
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050166 Liaveien 2, 4 og 6, 1930 Aurskog Barnevernsinstitusjoner Annen kostnad lokaler Statsbyggs hovedkontor 23399,67
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050166 Liaveien 2, 4 og 6, 1930 Aurskog Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 49652
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050166 Liaveien 2, 4 og 6, 1930 Aurskog Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 101500
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050166 Liaveien 2, 4 og 6, 1930 Aurskog Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor -22285
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050166 Liaveien 2, 4 og 6, 1930 Aurskog Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 3129
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050166 Liaveien 2, 4 og 6, 1930 Aurskog Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 23304
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050168 Vollakrokan 33, 1940 Bjørkelangen Barnevernsinstitusjoner Leie lokaler andre utleiere Utleiemegleren Lillestrøm AS 10290
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050169 Alfheimvn 6, 1779 Halden Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 19058
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050169 Alfheimvn 6, 1779 Halden Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 67812
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050169 Alfheimvn 6, 1779 Halden Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor -85074
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050169 Alfheimvn 6, 1779 Halden Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 42933
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050170 Storgata 56-58, 2609 Lillehammer Fosterhjemstjenesten Leie lokaler andre utleiere Tema Næringsbygg AS 120324,25
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050170 Storgata 56-58, 2609 Lillehammer Fosterhjemstjenesten Strøm og oppvarming Tema Næringsbygg AS 16250
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050170 Storgata 56-58, 2609 Lillehammer Fosterhjemstjenesten Fellesutgifter andre utleiere Tema Næringsbygg AS 37500
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050170 Storgata 56-58, 2609 Lillehammer Fosterhjemstjenesten Fellesutgifter andre utleiere Tema Næringsbygg AS 12811
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050171 Østheimveien 14, 1630 Gamle Fredrikstad Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 19058
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050171 Østheimveien 14, 1630 Gamle Fredrikstad Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 51875
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050171 Østheimveien 14, 1630 Gamle Fredrikstad Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor -27194
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050171 Østheimveien 14, 1630 Gamle Fredrikstad Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 39930
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050172 Grimstadtunet 27, 1746 Skjeberg Barnevernsinstitusjoner Leie lokaler andre utleiere OPTA EIENDOM AS 121790,1
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050173 Sundløkkaveien 73m, 1659 Torp Fosterhjem Leie lokaler andre utleiere Aarum Eiendom AS 431399,7
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050173 Sundløkkaveien 73m, 1659 Torp Barnevernsinstitusjoner Leie lokaler andre utleiere Aarum Eiendom AS 86279,94
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050173 Sundløkkaveien 73m, 1659 Torp Hjelpetiltak i hjemmet Leie lokaler andre utleiere Aarum Eiendom AS 115039,92
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050173 Sundløkkaveien 73m, 1659 Torp Inntak Leie lokaler andre utleiere Aarum Eiendom AS 388259,73
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050173 Sundløkkaveien 73m, 1659 Torp Fosterhjemstjenesten Leie lokaler andre utleiere Aarum Eiendom AS 417019,71
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050174 Marmorveien 23, 2818 Gjøvik Sentre for foreldre og barn Leie lokaler fra Statsbygg Statsbyggs hovedkontor 295797
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050174 Marmorveien 23, 2818 Gjøvik Sentre for foreldre og barn Strøm og oppvarming Elvia AS 5181,43
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050174 Marmorveien 23, 2818 Gjøvik Sentre for foreldre og barn Strøm og oppvarming Elvia AS 11209
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050174 Marmorveien 23, 2818 Gjøvik Sentre for foreldre og barn Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 100000
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050174 Marmorveien 23, 2818 Gjøvik Sentre for foreldre og barn Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 49619
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050174 Marmorveien 23, 2818 Gjøvik Sentre for foreldre og barn Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 29979
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050175 Rokkeveien 849, 1763 Halden Barnevernsinstitusjoner Leie lokaler andre utleiere Robin Damsgaard 107280
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050177 Ullsvei 16, 1782 Halden Barnevernsinstitusjoner Leie lokaler andre utleiere Stiftelsen Halden Ungdomsboliger 8500
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050178 Kurlandveien 12, 1727 Sarpsborg Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 748967
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050178 Kurlandveien 12, 1727 Sarpsborg Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 101279
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050178 Kurlandveien 12, 1727 Sarpsborg Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor -25779
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050178 Kurlandveien 12, 1727 Sarpsborg Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 12279
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050179 Uglevn 1, 1712 Grålum Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 642351
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050179 Uglevn 1, 1712 Grålum Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 29037,78
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050179 Uglevn 1, 1712 Grålum Barnevernsinstitusjoner Leie parkeringsplass Statsbyggs hovedkontor 17640
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050179 Uglevn 1, 1712 Grålum Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 79050
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050179 Uglevn 1, 1712 Grålum Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor -64946
+2 Region Øst 204416 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050179 Uglevn 1, 1712 Grålum Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 24395
+2 Region Øst 211002 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050180 Vestrevei 1, 1710 Sarpsborg Barnevernsinstitusjoner Leie lokaler andre utleiere VALASKJOLD EIENDOM AS (20955002971) 24528
+2 Region Øst 211002 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050181 Solfallsveien 27, 1435 Ås Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 1679917
+2 Region Øst 211002 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050181 Solfallsveien 27, 1435 Ås Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 4084,74
+2 Region Øst 211002 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050181 Solfallsveien 27, 1435 Ås Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 160400
+2 Region Øst 211003 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050181 Solfallsveien 27, 1435 Ås Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 104283
+2 Region Øst 211003 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050181 Solfallsveien 27, 1435 Ås Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 55852
+2 Region Øst 211003 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050182 Korpåsen 172, 1386 Asker Sentre for foreldre og barn Leie lokaler fra Statsbygg Statsbyggs hovedkontor 363094
+2 Region Øst 211003 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050182 Korpåsen 172, 1386 Asker Sentre for foreldre og barn Strøm og oppvarming Fortum Strøm 24395,54
+2 Region Øst 211003 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050182 Korpåsen 172, 1386 Asker Sentre for foreldre og barn Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 128500
+2 Region Øst 211003 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050182 Korpåsen 172, 1386 Asker Sentre for foreldre og barn Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 28647
+2 Region Øst 211005 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050182 Korpåsen 172, 1386 Asker Sentre for foreldre og barn Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 21631
+2 Region Øst 211005 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050186 Strandsagvegen 2 D, 2383 Brumunddal Fosterhjem Leie lokaler andre utleiere Golhus AS 92782
+2 Region Øst 211007 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050186 Strandsagvegen 2 D, 2383 Brumunddal Fosterhjem Fellesutgifter andre utleiere Golhus AS 27058,75
+2 Region Øst 211007 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050186 Strandsagvegen 2 D, 2383 Brumunddal Hjelpetiltak i hjemmet Leie lokaler andre utleiere Golhus AS 65811,76
+2 Region Øst 211103 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050186 Strandsagvegen 2 D, 2383 Brumunddal Hjelpetiltak i hjemmet Fellesutgifter andre utleiere Golhus AS 15679,95
+2 Region Øst 211103 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050186 Strandsagvegen 2 D, 2383 Brumunddal Inntak Leie lokaler andre utleiere Golhus AS 85168,16
+2 Region Øst 211104 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050186 Strandsagvegen 2 D, 2383 Brumunddal Inntak Fellesutgifter andre utleiere Golhus AS 20291,7
+2 Region Øst 211104 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050186 Strandsagvegen 2 D, 2383 Brumunddal Fosterhjemstjenesten Leie lokaler andre utleiere Golhus AS 139366,08
+2 Region Øst 211104 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050186 Strandsagvegen 2 D, 2383 Brumunddal Fosterhjemstjenesten Fellesutgifter andre utleiere Golhus AS 33204,6
+2 Region Øst 211105 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050191 Just Brochs gate 13, 2321 Hamar Barnevernsinstitusjoner Leie lokaler andre utleiere STIFTELSEN DISEN KULTURVEKSTTUN 110040
+2 Region Øst 211105 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050191 Just Brochs gate 13, 2321 Hamar Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Ragn Sells AS 5801,3
+2 Region Øst 211105 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050191 Just Brochs gate 13, 2321 Hamar Barnevernsinstitusjoner Strøm og oppvarming Elvia AS 6438,98
+2 Region Øst 211201 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050191 Just Brochs gate 13, 2321 Hamar Barnevernsinstitusjoner Fellesutgifter andre utleiere STIFTELSEN DISEN KULTURVEKSTTUN 13200
+2 Region Øst 211201 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050195 Hovdenveien 159, 1708 Sarpsborg Barnevernsinstitusjoner Strøm og oppvarming Elvia AS 1345,7
+2 Region Øst 211201 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050196 Storveien 1408, 1950 Rømskog Barnevernsinstitusjoner Leie lokaler andre utleiere X-TEAM AS 6840
+2 Region Øst 211201 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050196 Storveien 1408, 1950 Rømskog Barnevernsinstitusjoner Leie lokaler andre utleiere X-TEAM AS 336840
+2 Region Øst 211201 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050197 Bekkegata 2a, 3513 Hønefoss Omsorgssentre for mindreårige asylsøkere Leie lokaler andre utleiere HOLE UTBYGGINGS- OG EIENDOMSSELSKAP AS 101376
+2 Region Øst 211201 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050197 Bekkegata 2a, 3513 Hønefoss Omsorgssentre for mindreårige asylsøkere Fellesutgifter andre utleiere HOLE UTBYGGINGS- OG EIENDOMSSELSKAP AS 12000
+2 Region Øst 211201 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050206 Energiveien 15, Kirkenær Omsorgssentre for mindreårige asylsøkere Leie lokaler andre utleiere Grue Kommune 106734
+2 Region Øst 211201 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050206 Energiveien 15, Kirkenær Omsorgssentre for mindreårige asylsøkere Strøm og oppvarming Elvia AS 5516,94
+2 Region Øst 211201 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050207 Energiveien 17, Kirkenær Omsorgssentre for mindreårige asylsøkere Leie lokaler andre utleiere Grue Kommune 157780
+2 Region Øst 211201 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050208 Gartnerivegen 8, Kirkenær Barnevernsinstitusjoner Leie lokaler andre utleiere Grue Kommune 384467
+2 Region Øst 211201 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050208 Gartnerivegen 8, Kirkenær Barnevernsinstitusjoner Strøm og oppvarming Elvia AS 6216,63
+2 Region Øst 211201 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050209 Kirkenærtunet 27, Kirkenær Omsorgssentre for mindreårige asylsøkere Leie lokaler andre utleiere Grue Kommune 387252
+2 Region Øst 211201 Regionkontor Seksjon ØV - teknisk Statlige institusjoner 2050209 Kirkenærtunet 27, Kirkenær Omsorgssentre for mindreårige asylsøkere Strøm og oppvarming Elvia AS 7926,4
+2 Region Øst 211201 Gullhella barne- og familiesenter Administrasjon Sentre for foreldre og barn Vakthold lokaler -769,92
+2 Region Øst 211201 Gullhella barne- og familiesenter Administrasjon 2050182 Korpåsen 172, 1386 Asker Fosterhjem Vakthold lokaler 769,92
+2 Region Øst 211201 Gullhella barne- og familiesenter Administrasjon 2050182 Korpåsen 172, 1386 Asker Fosterhjem Vakthold lokaler SECTOR ALARM AS /PayEx Norge AS 1625,8
+2 Region Øst 211201 Gullhella barne- og familiesenter Foreldre- og barn avdeling Sentre for foreldre og barn Renhold lokaler -3662,8
+2 Region Øst 211201 Gullhella barne- og familiesenter Foreldre- og barn avdeling 2050182 Korpåsen 172, 1386 Asker Sentre for foreldre og barn Renhold lokaler 3662,8
+2 Region Øst 211202 Gullhella barne- og familiesenter Foreldre- og barn avdeling 2050182 Korpåsen 172, 1386 Asker Sentre for foreldre og barn Renhold lokaler 4Service Eir Renhold AS 7293,75
+2 Region Øst 211203 Gullhella barne- og familiesenter Foreldre- og barn avdeling 2050182 Korpåsen 172, 1386 Asker Sentre for foreldre og barn Vakthold lokaler SECTOR ALARM AS /PayEx Norge AS 384,96
+2 Region Øst 211203 Gullhella barne- og familiesenter Avdeling for beredskapshjem 2050182 Korpåsen 172, 1386 Asker Fosterhjem Renovasjon, vann, avløp o.l. Asker kommune 1410,75
+2 Region Øst 211203 Gullhella barne- og familiesenter Avdeling for beredskapshjem 2050182 Korpåsen 172, 1386 Asker Fosterhjem Renovasjon, vann, avløp o.l. Asker kommune -1410,75
+2 Region Øst 211203 Gullhella barne- og familiesenter Avdeling for beredskapshjem 2050182 Korpåsen 172, 1386 Asker Fosterhjem Renhold lokaler 4Service Eir Renhold AS 7293,75
+2 Region Øst 211203 Gullhella barne- og familiesenter Avdeling for beredskapshjem 2050182 Korpåsen 172, 1386 Asker Fosterhjem Vakthold lokaler SECTOR ALARM AS /PayEx Norge AS 3250
+2 Region Øst 211203 Gullhella barne- og familiesenter Avdeling for beredskapshjem 3 Fosterhjem Renhold lokaler -1752
+2 Region Øst 211203 Gullhella barne- og familiesenter Avdeling for beredskapshjem 3 2050150 Trondheimsveien 205, Jessheim Fosterhjem Renhold lokaler 1752
+2 Region Øst 211203 Gullhella - Team for tverrfaglig helsekartlegging 2050102 Elias Smiths vei 22-24, 1337 Sandvika Inntak Renhold lokaler ISS Facility Services AS 5569
+2 Region Øst 211203 Gullhella - Team for tverrfaglig helsekartlegging 2050182 Korpåsen 172, 1386 Asker Inntak Vakthold lokaler SECTOR ALARM AS /PayEx Norge AS 3250
+2 Region Øst 211206 Seljelia barne- og familiesenter Foreldre- og barn avdeling 20450 Bilpool Innlandet Sentre for foreldre og barn Leie parkeringsplass Fredvang Eiendom AS 3202,4
+2 Region Øst 211206 Seljelia barne- og familiesenter Foreldre- og barn avdeling 2050174 Marmorveien 23, 2818 Gjøvik Sentre for foreldre og barn Renhold lokaler Toma Facility Norge AS 8089,91
+2 Region Øst 211206 Seljelia barne- og familiesenter Avdeling for beredskapshjem 1 20450 Bilpool Innlandet Fosterhjem Leie parkeringsplass Fredvang Eiendom AS 1727,14
+2 Region Øst 211206 Seljelia barne- og familiesenter Avdeling for beredskapshjem 1 2050174 Marmorveien 23, 2818 Gjøvik Fosterhjem Renhold lokaler Toma Facility Norge AS 4044,95
+2 Region Øst 211206 Seljelia barne- og familiesenter Avdeling for beredskapshjem 1 2050186 Strandsagvegen 2 D, 2383 Brumunddal Fosterhjem Renhold lokaler ISS Facility Services AS 1085,09
+2 Region Øst 211206 Seljelia barne- og familiesenter Avdeling for beredskapshjem 2 20450 Bilpool Innlandet Fosterhjem Leie parkeringsplass Fredvang Eiendom AS 1727,14
+2 Region Øst 211206 Seljelia barne- og familiesenter Avdeling for beredskapshjem 2 2050174 Marmorveien 23, 2818 Gjøvik Fosterhjem Renhold lokaler Toma Facility Norge AS 4044,95
+2 Region Øst 211206 Seljelia barne- og familiesenter Avdeling for beredskapshjem 2 2050186 Strandsagvegen 2 D, 2383 Brumunddal Fosterhjem Renhold lokaler ISS Facility Services AS 1085,09
+2 Region Øst 211206 Borg barne- og familiesenter Administrasjon Fosterhjem Vaktmestertjenester -48,04
+2 Region Øst 211208 Borg barne- og familiesenter Administrasjon Fosterhjem Vaktmestertjenester -23,6
+2 Region Øst 211208 Borg barne- og familiesenter Administrasjon Fosterhjem Vaktmestertjenester -47,2
+2 Region Øst 211208 Borg barne- og familiesenter Administrasjon 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Renhold lokaler ISS Facility Services AS 157,99
+2 Region Øst 211208 Borg barne- og familiesenter Administrasjon 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Renhold lokaler Elis Norge AS 8,7
+2 Region Øst 211208 Borg barne- og familiesenter Administrasjon 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Annen kostnad lokaler HUMLEKJÆR OG ØDEGAARD AS

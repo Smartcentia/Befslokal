@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "dataYear": 2025,
+  "lastUpdated": "2025-04-09",
+  "source": "Agresso/Cognos ERP-eksport",
+  "erpGrandTotalNok": 504079834,
+  "aggregertCsvTotalsumNok": 497471735,
+  "notes": "erpGrandTotalNok er totalsum bekreftet i Agresso for alle relevante kostnadskategorier. aggregertCsvTotalsumNok er summen av kategori-radene i aggregert.csv; differansen er poster som ikke ligger i den CSV-filen. Pivot-filen leie_av_lokaler.csv inneholder hele detaljeksporten (alle seksjoner); strom_oppvarming.csv og annen_kostnad.csv er samme poster i flat format og brukes ikke lagt til pivot-total."
+
+}

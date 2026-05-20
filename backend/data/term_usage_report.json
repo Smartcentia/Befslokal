@@ -1,0 +1,6272 @@
+[
+  {
+    "term": "database",
+    "file": "backend/app/main.py",
+    "line": 295,
+    "context": "Database status is reported separately."
+  },
+  {
+    "term": "database",
+    "file": "backend/app/main.py",
+    "line": 302,
+    "context": "# Always return 200 OK - don't let database issues stop the machine"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/main.py",
+    "line": 309,
+    "context": "# Try to connect to database"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/main.py",
+    "line": 319,
+    "context": "# Database waking up - exponential backoff"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/main.py",
+    "line": 323,
+    "context": "# Always return 200 OK - database status is informational"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/main.py",
+    "line": 324,
+    "context": "# This prevents the platform from stopping the service due to database issues"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/main.py",
+    "line": 330,
+    "context": "\"note\": \"Service is running. Database may be suspended (serverless).\" if db_status == \"disconnected\""
+  },
+  {
+    "term": "database",
+    "file": "backend/app/tasks/save_query_patterns.py",
+    "line": 97,
+    "context": "Clean up query logs older than 90 days to prevent database bloat."
+  },
+  {
+    "term": "database",
+    "file": "backend/app/domains/core/routers/properties.py",
+    "line": 413,
+    "context": "Returnerer total GL-beløp per år (alle år i databasen)."
+  },
+  {
+    "term": "deling",
+    "file": "backend/app/domains/core/routers/properties.py",
+    "line": 144,
+    "context": "unit_short_type: Optional[str] = Query(None, description=\"Filtrer på enhetstype: Avdeling | Barnever"
+  },
+  {
+    "term": "deling",
+    "file": "backend/app/domains/core/routers/properties.py",
+    "line": 145,
+    "context": "exclude_avdelinger: bool = Query(True, description=\"Skjul avdelinger (unit_short_type=Avdeling) fra "
+  },
+  {
+    "term": "deling",
+    "file": "backend/app/domains/core/routers/properties.py",
+    "line": 167,
+    "context": "elif exclude_avdelinger:"
+  },
+  {
+    "term": "deling",
+    "file": "backend/app/domains/core/routers/properties.py",
+    "line": 169,
+    "context": "(PropertyModel.unit_short_type != \"Avdeling\") | PropertyModel.unit_short_type.is_(None)"
+  },
+  {
+    "term": "deling",
+    "file": "backend/app/domains/core/routers/properties.py",
+    "line": 231,
+    "context": "elif p.unit_short_type == \"Avdeling\" and p.affiliation and p.region:"
+  },
+  {
+    "term": "deling",
+    "file": "backend/app/domains/core/routers/properties.py",
+    "line": 537,
+    "context": "OR p.unit_type_derived = 'Institusjonsavdeling'"
+  },
+  {
+    "term": "deling",
+    "file": "backend/app/domains/core/routers/properties.py",
+    "line": 638,
+    "context": "Returnerer listen over godkjente eiendommer og avdelinger (referansedata for UTGÅTT-badge)."
+  },
+  {
+    "term": "deling",
+    "file": "backend/app/domains/core/routers/properties.py",
+    "line": 643,
+    "context": "json_path = data_dir / \"godkjente_eiendommer_avdelinger.json\""
+  },
+  {
+    "term": "deling",
+    "file": "backend/app/domains/core/routers/properties.py",
+    "line": 651,
+    "context": "logger.warning(\"Kunne ikke lese godkjente_eiendommer_avdelinger: %s\", e)"
+  },
+  {
+    "term": "deling",
+    "file": "backend/app/domains/core/routers/properties.py",
+    "line": 1394,
+    "context": "# Check property access - load center for \"Avdeling\" link"
+  },
+  {
+    "term": "deling",
+    "file": "backend/app/domains/core/routers/properties.py",
+    "line": 1904,
+    "context": "Hent avdelinger (sub-units) som organisatorisk tilhører denne eiendommen."
+  },
+  {
+    "term": "deling",
+    "file": "backend/app/domains/core/routers/properties.py",
+    "line": 1909,
+    "context": "2. Fallback: finn avdelinger med samme affiliation + region som denne eiendommen"
+  },
+  {
+    "term": "deling",
+    "file": "backend/app/domains/core/routers/properties.py",
+    "line": 1937,
+    "context": "# Avdelinger som deler affiliation og region med en institusjon tilhører typisk samme enhet."
+  },
+  {
+    "term": "deling",
+    "file": "backend/app/domains/core/routers/properties.py",
+    "line": 1943,
+    "context": "PropertyModel.unit_short_type == \"Avdeling\","
+  },
+  {
+    "term": "tilgang",
+    "file": "backend/app/domains/core/routers/properties.py",
+    "line": 150,
+    "context": "\"\"\"Hent alle eiendommer (filtrert basert på tilgang).\"\"\""
+  },
+  {
+    "term": "tilgang",
+    "file": "backend/app/domains/core/routers/properties.py",
+    "line": 1074,
+    "context": "# Filtrer på tilgang slik at bruker ikke oppdaterer eiendommer de ikke har tilgang til"
+  },
+  {
+    "term": "tilgjengelighet",
+    "file": "backend/app/domains/core/routers/properties.py",
+    "line": 1868,
+    "context": "- accessibility_score (0-100): Hvor god tilgjengelighet til tjenester"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/domains/core/routers/contracts.py",
+    "line": 72,
+    "context": "# Extract contract IDs from metadata"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/domains/core/routers/contracts.py",
+    "line": 75,
+    "context": "if res.get(\"metadata\") and res[\"metadata\"].get(\"contract_id\"):"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/domains/core/routers/contracts.py",
+    "line": 76,
+    "context": "relevant_contract_ids.add(res[\"metadata\"][\"contract_id\"])"
+  },
+  {
+    "term": "deling",
+    "file": "backend/app/domains/core/utils/csv_source_mapping.py",
+    "line": 111,
+    "context": "\"Avdeling\": \"department_code\","
+  },
+  {
+    "term": "deling",
+    "file": "backend/app/domains/core/utils/csv_source_mapping.py",
+    "line": 112,
+    "context": "\"Avdeling(T)\": \"department_name\","
+  },
+  {
+    "term": "deling",
+    "file": "backend/app/domains/core/utils/csv_source_mapping.py",
+    "line": 176,
+    "context": "\"Avdelingens koststed\": (\"department_code\", \"normalize_id\"),"
+  },
+  {
+    "term": "deling",
+    "file": "backend/app/domains/core/utils/csv_source_mapping.py",
+    "line": 177,
+    "context": "\"Avdelingens koststed \": (\"department_code\", \"normalize_id\"),"
+  },
+  {
+    "term": "deling",
+    "file": "backend/app/domains/core/utils/csv_source_mapping.py",
+    "line": 178,
+    "context": "\"Navn på avdeling\": (\"unit_name\", None),"
+  },
+  {
+    "term": "deling",
+    "file": "backend/app/domains/core/utils/csv_source_mapping.py",
+    "line": 179,
+    "context": "\"Avdelingsnavn\": (\"unit_name\", None),"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/domains/core/models/user.py",
+    "line": 23,
+    "context": "'user_property_association', Base.metadata,"
+  },
+  {
+    "term": "deling",
+    "file": "backend/app/domains/core/models/property.py",
+    "line": 62,
+    "context": "unit_short_type = Column(String, nullable=True)  # Enhetskorttype: Avdeling | Barnevernsinstitusjon"
+  },
+  {
+    "term": "deling",
+    "file": "backend/app/domains/core/models/property.py",
+    "line": 63,
+    "context": "unit_type_derived = Column(String, nullable=True)  # Enhetstype (Utledet): Barnevernsinstitusjon | I"
+  },
+  {
+    "term": "deling",
+    "file": "backend/app/domains/core/models/property.py",
+    "line": 65,
+    "context": "department_code = Column(String, nullable=True)  # Avdelingens koststed (1:1 med institusjon)"
+  },
+  {
+    "term": "deling",
+    "file": "backend/app/domains/core/models/property.py",
+    "line": 66,
+    "context": "department_name = Column(String, nullable=True)  # Navn på avdeling (1:1 med institusjon)"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/domains/core/models/session.py",
+    "line": 8,
+    "context": "NextAuth session storage for database-backed sessions."
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/domains/core/models/session.py",
+    "line": 21,
+    "context": "# Session metadata"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/domains/core/models/api_usage.py",
+    "line": 35,
+    "context": "# Metadata"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/domains/core/services/party_service.py",
+    "line": 72,
+    "context": "logger.error(f\"PartyService: Database error persisting party {org_nr}: {e}\")"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/domains/core/services/party_service.py",
+    "line": 79,
+    "context": "# Add metadata for indexing"
+  },
+  {
+    "term": "internkontroll",
+    "file": "backend/app/domains/hms/routers/internal_control.py",
+    "line": 47,
+    "context": "Hent internkontroll saker (filtrert basert på property access)."
+  },
+  {
+    "term": "internkontroll",
+    "file": "backend/app/domains/hms/routers/internal_control.py",
+    "line": 85,
+    "context": "Hent spesifikk internkontroll sak (med property access check)."
+  },
+  {
+    "term": "internkontroll",
+    "file": "backend/app/domains/hms/routers/internal_control.py",
+    "line": 111,
+    "context": "Oppdater internkontroll sak (status, notes, etc.)."
+  },
+  {
+    "term": "internkontroll",
+    "file": "backend/app/domains/hms/routers/internal_control.py",
+    "line": 151,
+    "context": "Fullfør sjekkliste på en internkontroll sak."
+  },
+  {
+    "term": "internkontroll",
+    "file": "backend/app/domains/hms/routers/internal_control.py",
+    "line": 184,
+    "context": "Opprett internkontroll sak fra en ChecklistTemplate."
+  },
+  {
+    "term": "internkontroll",
+    "file": "backend/app/domains/hms/routers/internal_control.py",
+    "line": 211,
+    "context": "Opprett initiale internkontroll saker for en property (med property access check)."
+  },
+  {
+    "term": "internkontroll",
+    "file": "backend/app/domains/hms/routers/internal_control.py",
+    "line": 241,
+    "context": "Prosesser forfalte internkontroll-saker. Sender purringer og eskalerer."
+  },
+  {
+    "term": "tilgang",
+    "file": "backend/app/domains/hms/routers/internal_control.py",
+    "line": 185,
+    "context": "Krever skrivetilgang til eiendommen."
+  },
+  {
+    "term": "tilgang",
+    "file": "backend/app/domains/hms/routers/scheduled_activities.py",
+    "line": 40,
+    "context": "Krever skrivetilgang til eiendommen."
+  },
+  {
+    "term": "tilgang",
+    "file": "backend/app/domains/hms/routers/scheduled_activities.py",
+    "line": 544,
+    "context": "# Hent aktiviteten først for å sjekke tilgang"
+  },
+  {
+    "term": "tilgang",
+    "file": "backend/app/domains/hms/routers/scheduled_activities.py",
+    "line": 553,
+    "context": "# Sjekk tilgang til eiendommen"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/domains/hms/models/scheduled_activity.py",
+    "line": 12,
+    "context": "Activities are generated based on property metadata tags."
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/domains/hms/models/scheduled_activity.py",
+    "line": 19,
+    "context": "# Activity metadata"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/domains/hms/models/scheduled_activity.py",
+    "line": 42,
+    "context": "# Metadata"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/domains/hms/models/scheduled_activity.py",
+    "line": 61,
+    "context": "# Template metadata"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/domains/hms/services/process_service.py",
+    "line": 21,
+    "context": "Manages the lifecycle of an Internal Control Process using the Database."
+  },
+  {
+    "term": "database",
+    "file": "backend/app/domains/hms/services/process_service.py",
+    "line": 77,
+    "context": "raise ValueError(\"Database session required\")"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/domains/hms/services/activity_generator.py",
+    "line": 3,
+    "context": "Automatically generates scheduled activities based on property metadata tags."
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/domains/hms/services/activity_generator.py",
+    "line": 22,
+    "context": "Uses predefined templates and property metadata to create recurring tasks."
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/domains/hms/services/activity_generator.py",
+    "line": 233,
+    "context": "# Get property with metadata"
+  },
+  {
+    "term": "internkontroll",
+    "file": "backend/app/domains/hms/services/pedagogical_service.py",
+    "line": 45,
+    "context": "\"Du er en pedagogisk veileder for internkontroll i eiendomsforvaltning. \""
+  },
+  {
+    "term": "internkontroll",
+    "file": "backend/app/domains/hms/services/pedagogical_service.py",
+    "line": 50,
+    "context": "\"- Internkontrollforskriften § 5 (Krav til innhold i internkontroll)\\n\""
+  },
+  {
+    "term": "internkontroll",
+    "file": "backend/app/domains/hms/services/pedagogical_service.py",
+    "line": 90,
+    "context": "\"Du er 'Pedagogen', en erfaren HMS-rådgiver og læremester i internkontroll for BEFS (Bufetat Eiendom"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/domains/innsikt/routers/agent.py",
+    "line": 84,
+    "context": "logger.warning(\"Database unavailable or error: %s\", e)"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/domains/innsikt/routers/agent.py",
+    "line": 85,
+    "context": "# Return 0s if database is not available"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/domains/innsikt/routers/search.py",
+    "line": 47,
+    "context": "# structure: {'ids': [['id1', ...]], 'distances': [[0.1...]], 'documents': [['text...']], 'metadatas"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/domains/innsikt/routers/search.py",
+    "line": 53,
+    "context": "metadatas = results['metadatas'][0]"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/domains/innsikt/routers/search.py",
+    "line": 60,
+    "context": "\"metadata\": metadatas[i],"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/domains/innsikt/services/rag_service.py",
+    "line": 270,
+    "context": "\"origin\": \"DATABASE RECORD\""
+  },
+  {
+    "term": "database",
+    "file": "backend/app/domains/innsikt/services/rag_service.py",
+    "line": 276,
+    "context": "source = row.get(\"source_file\", \"Database\")"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/domains/innsikt/services/rag_service.py",
+    "line": 315,
+    "context": "Når du nevner en Eiendom, Kontrakt eller Part som er funnet i konteksten (spesielt fra \"DATABASE REC"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/domains/innsikt/services/rag_service.py",
+    "line": 269,
+    "context": "\"metadata\": {},"
+  },
+  {
+    "term": "tilgang",
+    "file": "backend/app/domains/innsikt/services/rag_service.py",
+    "line": 309,
+    "context": "- Du har IKKE tilgang til internett eller eksterne registre."
+  },
+  {
+    "term": "deling",
+    "file": "backend/app/domains/barnevern/routers/barnevern.py",
+    "line": 30,
+    "context": "\"\"\"Filtrerer på barnevernsinstitusjoner og institusjonsavdelinger.\"\"\""
+  },
+  {
+    "term": "deling",
+    "file": "backend/app/domains/barnevern/routers/barnevern.py",
+    "line": 32,
+    "context": "return \"barnevern\" in types or \"institusjonsavdeling\" in types"
+  },
+  {
+    "term": "deling",
+    "file": "backend/app/domains/barnevern/services/prediction_service.py",
+    "line": 64,
+    "context": "OR p.unit_type_derived = 'Institusjonsavdeling'"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/domains/fdv/models/action.py",
+    "line": 25,
+    "context": "action_type = Column(String(50), nullable=True) # e.g., \"email\", \"database_update\", \"report_generati"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/core/config.py",
+    "line": 37,
+    "context": "# Database"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/core/config.py",
+    "line": 42,
+    "context": "DATABASE_URL: Optional[str] = None"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/core/config.py",
+    "line": 44,
+    "context": "@field_validator(\"DATABASE_URL\", mode=\"before\")"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/core/config.py",
+    "line": 48,
+    "context": "Normaliserer DATABASE_URL for asyncpg:"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/core/config.py",
+    "line": 76,
+    "context": "\"DATABASE_URL peker til localhost. Sjekk at du bruker produksjons-URL i produksjon.\","
+  },
+  {
+    "term": "database",
+    "file": "backend/app/core/config.py",
+    "line": 191,
+    "context": "def validate_database_config(cls, v: Optional[str], info: ValidationInfo) -> Optional[str]:"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/core/config.py",
+    "line": 192,
+    "context": "# Relaxed validation: Allow None/Empty if configured via DATABASE_URL"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/core/property_access.py",
+    "line": 38,
+    "context": "db: Database session"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/core/property_access.py",
+    "line": 127,
+    "context": "db: Database session"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/core/property_access.py",
+    "line": 180,
+    "context": "Useful for filtering queries at the database level."
+  },
+  {
+    "term": "database",
+    "file": "backend/app/core/property_access.py",
+    "line": 183,
+    "context": "db: Database session"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/core/security/__init__.py",
+    "line": 47,
+    "context": "# Supabase stores user role in app_metadata or user_metadata"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/core/security/__init__.py",
+    "line": 48,
+    "context": "app_meta = decoded.get(\"app_metadata\", {})"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/core/security/__init__.py",
+    "line": 49,
+    "context": "user_meta = decoded.get(\"user_metadata\", {})"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/config/AGENT.md",
+    "line": 41,
+    "context": "- **Prioritering:** ALLTID bruk Lovdata FØR dokument- eller databasesøk for juridiske spørsmål"
+  },
+  {
+    "term": "datakvalitet",
+    "file": "backend/app/config/AGENT.md",
+    "line": 55,
+    "context": "- Du har tilgang til 64 forhåndsgodkjente scripts for statistikk, revisjon og sjekk av datakvalitet."
+  },
+  {
+    "term": "deling",
+    "file": "backend/app/config/AGENT.md",
+    "line": 61,
+    "context": "- `cost_*`: Økonomisk analyse og kostnadsfordeling."
+  },
+  {
+    "term": "integritet",
+    "file": "backend/app/config/AGENT.md",
+    "line": 60,
+    "context": "- `verify_*`: Integritetssjekk av data."
+  },
+  {
+    "term": "personvern",
+    "file": "backend/app/config/AGENT.md",
+    "line": 105,
+    "context": "## SIKKERHET OG PERSONVERN (Databeskyttelse) 🛡️"
+  },
+  {
+    "term": "personvern",
+    "file": "backend/app/config/AGENT.md",
+    "line": 123,
+    "context": "- Lovdata-søk krever IKKE personvern-vasking da det kun søker i offentlige lover og forskrifter"
+  },
+  {
+    "term": "tilgang",
+    "file": "backend/app/config/AGENT.md",
+    "line": 22,
+    "context": "Du har tilgang på både interne data og internett. Du MÅ følge denne prioriteringen strengt for å unn"
+  },
+  {
+    "term": "tilgang",
+    "file": "backend/app/config/AGENT.md",
+    "line": 55,
+    "context": "- Du har tilgang til 64 forhåndsgodkjente scripts for statistikk, revisjon og sjekk av datakvalitet."
+  },
+  {
+    "term": "tilgang",
+    "file": "backend/app/config/AGENT.md",
+    "line": 131,
+    "context": "4.  **SQL Sikkerhet:** Aldri generer SQL som endrer data (DELETE/DROP). Du har kun lesetilgang."
+  },
+  {
+    "term": "database",
+    "file": "backend/app/config/SCHEMA.md",
+    "line": 1,
+    "context": "# Database Schema for Text-to-SQL"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/config/SCHEMA.md",
+    "line": 3,
+    "context": "Her er oversikten over databasen du kan spørre mot."
+  },
+  {
+    "term": "database",
+    "file": "backend/app/config/SCHEMA.md",
+    "line": 4,
+    "context": "Databasen er PostgreSQL."
+  },
+  {
+    "term": "database",
+    "file": "backend/app/config/SCHEMA.md",
+    "line": 202,
+    "context": "### Eksempler på JSONB-felter i databasen"
+  },
+  {
+    "term": "menneskelesbar",
+    "file": "backend/app/config/SCHEMA.md",
+    "line": 45,
+    "context": "- `archive_code` (String): Arkivkode BUF-LOK-YYYYMMDD-NN (unik, menneskelesbar)."
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/ai_lab/test_library_search.py",
+    "line": 59,
+    "context": "await conn.run_sync(Base.metadata.create_all)"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/ai_lab/test_widgets.py",
+    "line": 72,
+    "context": "await conn.run_sync(Base.metadata.create_all)"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/ai_lab/test_memory.py",
+    "line": 44,
+    "context": "description=description # Metadata"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/ai_lab/test_shared_library.py",
+    "line": 18,
+    "context": "await conn.run_sync(Base.metadata.create_all)"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/ai_lab/test_marketplace.py",
+    "line": 17,
+    "context": "await conn.run_sync(Base.metadata.create_all)"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/ai_lab/plugins/browser_plugin 2.py",
+    "line": 15,
+    "context": "description=\"Fetches the HTML content and metadata of a URL.\""
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/ai_lab/plugins/browser_plugin.py",
+    "line": 15,
+    "context": "description=\"Fetches the HTML content and metadata of a URL.\""
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/models/master_data_crosswalk.py",
+    "line": 30,
+    "context": "audit_metadata = Column(JSON, nullable=True)                   # JSONB equivalent in sqlite/postgres"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/models/ai_tool.py",
+    "line": 24,
+    "context": "# Metadata"
+  },
+  {
+    "term": "GDPR",
+    "file": "backend/app/models/gdpr.py",
+    "line": 9,
+    "context": "Tracks GDPR requests (Right to Access, Right to be Forgotten)."
+  },
+  {
+    "term": "GDPR",
+    "file": "backend/app/models/gdpr.py",
+    "line": 11,
+    "context": "__tablename__ = \"gdpr_requests\""
+  },
+  {
+    "term": "GDPR",
+    "file": "backend/app/models/gdpr.py",
+    "line": 25,
+    "context": "__tablename__ = \"gdpr_anonymization_logs\""
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/models/text_content.py",
+    "line": 14,
+    "context": "additional_metadata = Column(JSON, nullable=True)"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/models/agent_memory.py",
+    "line": 13,
+    "context": "additional_metadata = Column(JSONB, nullable=True, server_default='{}')"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/models/data_governance.py",
+    "line": 5,
+    "context": "class DataFieldMetadata(Base):"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/models/data_governance.py",
+    "line": 6,
+    "context": "__tablename__ = \"data_field_metadata\""
+  },
+  {
+    "term": "deling",
+    "file": "backend/app/models/financial_models.py",
+    "line": 91,
+    "context": "dim4_kode       = Column(String(20),  nullable=True)   # Finansiering (tildelingsbrev)"
+  },
+  {
+    "term": "kildedata",
+    "file": "backend/app/models/financial_models.py",
+    "line": 176,
+    "context": "Kildedata: Innkjøpsanalyse 2026 lønnsutgifter (pivot-CSV)."
+  },
+  {
+    "term": "deling",
+    "file": "backend/app/schemas/property.py",
+    "line": 61,
+    "context": "unit_short_type: Optional[str] = None   # Enhetskorttype: Avdeling | Barnevernsinstitusjon"
+  },
+  {
+    "term": "deling",
+    "file": "backend/app/schemas/property.py",
+    "line": 65,
+    "context": "department_code: Optional[str] = None  # Avdelingens koststed (1:1 med institusjon)"
+  },
+  {
+    "term": "deling",
+    "file": "backend/app/schemas/property.py",
+    "line": 66,
+    "context": "department_name: Optional[str] = None  # Navn på avdeling (1:1 med institusjon)"
+  },
+  {
+    "term": "deling",
+    "file": "backend/app/schemas/contract.py",
+    "line": 126,
+    "context": "# Kostnadsfordeling (fra CSV/import)"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/import_enrichment_17.py",
+    "line": 186,
+    "context": "async def update_database(file_path: str):"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/import_enrichment_17.py",
+    "line": 321,
+    "context": "asyncio.run(update_database(file_path))"
+  },
+  {
+    "term": "prosjekt",
+    "file": "backend/app/scripts/import_enrichment_17.py",
+    "line": 45,
+    "context": "\"Prosjektering og utvikling av eiendom/bygg\","
+  },
+  {
+    "term": "deling",
+    "file": "backend/app/scripts/import_from_text.py",
+    "line": 16,
+    "context": "5939 - Alfheimvn 6, 1779 Halden\tØstfold  ungdoms- og familiesenter, avdeling Alfheim\t2023/80050\t\t01."
+  },
+  {
+    "term": "deling",
+    "file": "backend/app/scripts/import_from_text.py",
+    "line": 20,
+    "context": "5926 - Snytasvingen, 3519 Hønefoss\tRingerike omsorgssenter, avdeling Snyta\t2023/80020\t\t01.01.2020\t30"
+  },
+  {
+    "term": "deling",
+    "file": "backend/app/scripts/import_from_text.py",
+    "line": 21,
+    "context": "5107 - Aumliveien 4C, 2500 Tynset\tFamilievernkontoret Innlandet Øst, avdeling Tynset\t2023/80000\t\t01."
+  },
+  {
+    "term": "deling",
+    "file": "backend/app/scripts/import_from_text.py",
+    "line": 26,
+    "context": "5957 - Bekkegata 2A, 3513 Hønefoss\tRingerike omsorgssenter, avdeling Bredal\t2023/84810\t\t01.02.2024\t3"
+  },
+  {
+    "term": "deling",
+    "file": "backend/app/scripts/import_from_text.py",
+    "line": 27,
+    "context": "4701 - ST Hansgården\tST Hansgården\t2021/58085-3\t\t01.01.2022\t31.12.2041\tStatsbygg\t1\t\tAktiv\tKRISTIANSA"
+  },
+  {
+    "term": "deling",
+    "file": "backend/app/scripts/import_from_text.py",
+    "line": 28,
+    "context": "5905 - Bjørlistubben 14, 1540 Vestby\tAkershus ungdoms- og familiesenter, avdeling Bjørlien\t2023/8003"
+  },
+  {
+    "term": "deling",
+    "file": "backend/app/scripts/import_from_text.py",
+    "line": 38,
+    "context": "5111 - Dr. Thorshaugsveg 8, 2335 Stange\tHedmark ungdoms- og familiesenter, avdeling Stange\t2023/8004"
+  },
+  {
+    "term": "deling",
+    "file": "backend/app/scripts/import_from_text.py",
+    "line": 39,
+    "context": "5927 - Egge Gård, 3514 Hønefoss\tRingerike omsorgssenter, avdeling Egge\t2023/80019\t\t11.01.2019\t01.01."
+  },
+  {
+    "term": "deling",
+    "file": "backend/app/scripts/import_from_text.py",
+    "line": 45,
+    "context": "5116 - Emma Hjortsvei 60, 1336 Sandvika\tJong Ungdomssenter, avdeling Åsen\t2023/80042\t\t01.01.2024\t31."
+  },
+  {
+    "term": "deling",
+    "file": "backend/app/scripts/import_from_text.py",
+    "line": 48,
+    "context": "5914 - Energiveien 14, 2069 Jessheim\tFamilievernkontoret Øvre Romerike Glåmdal, avdeling Jessheim\t20"
+  },
+  {
+    "term": "deling",
+    "file": "backend/app/scripts/import_from_text.py",
+    "line": 59,
+    "context": "6011 - Furene 8\tFurene 8 - FVK Ålesund-Volda (avdelingskontor)\t\t\t15.02.2022\t15.02.2032\tAS Terminalby"
+  },
+  {
+    "term": "deling",
+    "file": "backend/app/scripts/import_from_text.py",
+    "line": 62,
+    "context": "5912 - Glemmengaten 55, 1608 Fredrikstad\tFamilievernkontoret Østfold, avdeling Fredrikstad\t2023/8000"
+  },
+  {
+    "term": "tilgang",
+    "file": "backend/app/scripts/import_from_text.py",
+    "line": 21,
+    "context": "5107 - Aumliveien 4C, 2500 Tynset\tFamilievernkontoret Innlandet Øst, avdeling Tynset\t2023/80000\t\t01."
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/import_enrichment_13.py",
+    "line": 201,
+    "context": "async def update_database(file_path: str):"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/import_enrichment_13.py",
+    "line": 339,
+    "context": "asyncio.run(update_database(file_path))"
+  },
+  {
+    "term": "prosjekt",
+    "file": "backend/app/scripts/import_enrichment_13.py",
+    "line": 45,
+    "context": "\"Prosjektering og utvikling av eiendom/bygg\","
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/archive_and_clear_economic_data.py",
+    "line": 2,
+    "context": "Arkiverer alle økonomidata til CSV-filer, deretter sletter dem fra databasen."
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/import_enrichment_03.py",
+    "line": 141,
+    "context": "async def update_database(file_path: str):"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/import_enrichment_03.py",
+    "line": 249,
+    "context": "asyncio.run(update_database(file_path))"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/seed_risk_data.py",
+    "line": 18,
+    "context": "if not os.getenv(\"DATABASE_URL\") and not settings.DATABASE_URL:"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/seed_risk_data.py",
+    "line": 19,
+    "context": "print(\"WARNING: No DATABASE_URL found. Seeding skipped.\")"
+  },
+  {
+    "term": "internkontroll",
+    "file": "backend/app/scripts/seed_risk_data.py",
+    "line": 42,
+    "context": "factors_ops = [\"Manglende branninstruks\", \"Utgått el-kontroll\", \"Defekt ventilasjon\", \"Manglende int"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/import_enrichment_12.py",
+    "line": 189,
+    "context": "async def update_database(file_path: str):"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/import_enrichment_12.py",
+    "line": 325,
+    "context": "asyncio.run(update_database(file_path))"
+  },
+  {
+    "term": "prosjekt",
+    "file": "backend/app/scripts/import_enrichment_12.py",
+    "line": 45,
+    "context": "\"Prosjektering og utvikling av eiendom/bygg\","
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/import_salary_csv.py",
+    "line": 282,
+    "context": "settings.DATABASE_URL,"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/scripts/import_salary_csv.py",
+    "line": 47,
+    "context": "# Seksjons-linjenummer (0-basert) i CSV (etter metadata-header):"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/import_enrichment_02.py",
+    "line": 131,
+    "context": "async def update_database(file_path: str):"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/import_enrichment_02.py",
+    "line": 233,
+    "context": "asyncio.run(update_database(file_path))"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/import_gl_2025.py",
+    "line": 202,
+    "context": "engine = create_async_engine(settings.DATABASE_URL, echo=False)"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/scrub_property_ids.py",
+    "line": 49,
+    "context": "print(\"Connecting to database for ID normalization...\")"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/scrub_property_ids.py",
+    "line": 80,
+    "context": "print(\"Database cleanup completed successfully.\")"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/import_div3_analysis.py",
+    "line": 160,
+    "context": "print(\"\\nNOTE: Database connection likely blocked by Firewall.\")"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/enrich_postal_codes_official.py",
+    "line": 410,
+    "context": "print(\"✅ Database oppdatert.\")"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/inspect_orphans.py",
+    "line": 17,
+    "context": "def get_database_url():"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/inspect_orphans.py",
+    "line": 23,
+    "context": "if line.startswith('DATABASE_URL='):"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/inspect_orphans.py",
+    "line": 25,
+    "context": "return os.environ.get(\"DATABASE_URL\")"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/inspect_orphans.py",
+    "line": 27,
+    "context": "db_url = get_database_url()"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/inspect_orphans.py",
+    "line": 29,
+    "context": "os.environ[\"DATABASE_URL\"] = db_url"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/import_enrichment_16.py",
+    "line": 182,
+    "context": "async def update_database(file_path: str):"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/import_enrichment_16.py",
+    "line": 307,
+    "context": "asyncio.run(update_database(file_path))"
+  },
+  {
+    "term": "prosjekt",
+    "file": "backend/app/scripts/import_enrichment_16.py",
+    "line": 45,
+    "context": "\"Prosjektering og utvikling av eiendom/bygg\","
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/import_enrichment_06.py",
+    "line": 161,
+    "context": "async def update_database(file_path: str):"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/import_enrichment_06.py",
+    "line": 258,
+    "context": "asyncio.run(update_database(file_path))"
+  },
+  {
+    "term": "deling",
+    "file": "backend/app/scripts/import_enrichment_06.py",
+    "line": 46,
+    "context": "\"miljøavdeling\","
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/check_properties.py",
+    "line": 13,
+    "context": "print(f\"✅ Antall eiendommer i database: {count}\")"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/diag_ids.py",
+    "line": 17,
+    "context": "print(f\"Checking database for Lokasjonskoder: {target_loks}\")"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/diag_ids.py",
+    "line": 28,
+    "context": "print(f\"LOK {lok}: NOT FOUND in database.\")"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/match_contracts_input.py",
+    "line": 309,
+    "context": "# --- Database Persistence ---"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/match_contracts_input.py",
+    "line": 323,
+    "context": "def get_database_url():"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/match_contracts_input.py",
+    "line": 329,
+    "context": "if line.startswith('DATABASE_URL='):"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/match_contracts_input.py",
+    "line": 331,
+    "context": "return os.environ.get(\"DATABASE_URL\")"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/match_contracts_input.py",
+    "line": 334,
+    "context": "db_url = get_database_url()"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/match_contracts_input.py",
+    "line": 336,
+    "context": "os.environ[\"DATABASE_URL\"] = db_url"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/match_contracts_input.py",
+    "line": 362,
+    "context": "print(f\"Persisting {len(matches)} matches to Database...\")"
+  },
+  {
+    "term": "deling",
+    "file": "backend/app/scripts/match_contracts_input.py",
+    "line": 182,
+    "context": "(df_input, 'Input', ['Dim 2(T)', 'Resk.nr(T)', 'Avdeling(T)']),"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/seed_users_hierarchy.py",
+    "line": 3,
+    "context": "Uses existing properties from database."
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/seed_users_hierarchy.py",
+    "line": 27,
+    "context": "print(f\"✅ Found {len(properties)} properties in database\\n\")"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/verify_cleanup.py",
+    "line": 19,
+    "context": "print(\"--- Database Cleanup Verification ---\")"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/scripts/verify_cleanup.py",
+    "line": 27,
+    "context": "# 2. Check Property metadata"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/scripts/verify_cleanup.py",
+    "line": 32,
+    "context": "print(f\"Properties with 'financials' metadata: {prop_with_fin}\")"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/enrich_postal_from_csv.py",
+    "line": 75,
+    "context": "print(f\"\\nOppdaterer {len(updates)} eiendommer i databasen...\")"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/normalize_property_regions.py",
+    "line": 11,
+    "context": "DATABASE_URL=... python -m app.scripts.normalize_property_regions"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/normalize_property_regions.py",
+    "line": 72,
+    "context": "db_url = os.environ.get(\"DATABASE_URL\", \"\")"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/normalize_property_regions.py",
+    "line": 74,
+    "context": "raise SystemExit(\"DATABASE_URL ikke satt.\")"
+  },
+  {
+    "term": "deling",
+    "file": "backend/app/scripts/normalize_property_regions.py",
+    "line": 62,
+    "context": "# Vis ny fordeling"
+  },
+  {
+    "term": "deling",
+    "file": "backend/app/scripts/normalize_property_regions.py",
+    "line": 66,
+    "context": "logger.info(\"\\nNy region-fordeling:\")"
+  },
+  {
+    "term": "prosjekt",
+    "file": "backend/app/scripts/enrich_parties_openai_company.py",
+    "line": 9,
+    "context": "Kjør fra prosjektrot: ./scripts/kjor_enrich_parties_openai.sh"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/enrich_postal_codes_retry2.py",
+    "line": 149,
+    "context": "print(\"✅ Database oppdatert.\")"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/import_enrichment_09.py",
+    "line": 154,
+    "context": "async def update_database(file_path: str):"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/import_enrichment_09.py",
+    "line": 261,
+    "context": "asyncio.run(update_database(file_path))"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/scripts/import_enrichment_09.py",
+    "line": 191,
+    "context": "# We often store numeric IDs in name or address if not in metadata"
+  },
+  {
+    "term": "prosjekt",
+    "file": "backend/app/scripts/import_enrichment_09.py",
+    "line": 41,
+    "context": "\"Prosjektering og utvikling av eiendom/bygg\","
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/test_ki_kollega_access.py",
+    "line": 52,
+    "context": "if \"DATABASE RAPPORT\" in result or \"199\" in result:"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/structure_parking_data.py",
+    "line": 150,
+    "context": "# Save to Database"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/structure_parking_data.py",
+    "line": 151,
+    "context": "print(\"Saving insights to database...\")"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/import_enrichment_08.py",
+    "line": 155,
+    "context": "async def update_database(file_path: str):"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/import_enrichment_08.py",
+    "line": 259,
+    "context": "asyncio.run(update_database(file_path))"
+  },
+  {
+    "term": "prosjekt",
+    "file": "backend/app/scripts/import_enrichment_08.py",
+    "line": 41,
+    "context": "\"Prosjektering og utvikling av eiendom/bygg\","
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/generate_contract_report.py",
+    "line": 12,
+    "context": "def get_database_url():"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/generate_contract_report.py",
+    "line": 19,
+    "context": "if line.startswith('DATABASE_URL='):"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/generate_contract_report.py",
+    "line": 21,
+    "context": "return os.environ.get(\"DATABASE_URL\")"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/generate_contract_report.py",
+    "line": 23,
+    "context": "os.environ[\"DATABASE_URL\"] = get_database_url()"
+  },
+  {
+    "term": "deling",
+    "file": "backend/app/scripts/manglende_postnummer.md",
+    "line": 12,
+    "context": "| 1 | Østfold ungdoms- og familiesenter, avdeling Eika og Rokkeveien | Rokkeveien 502 | HALDEN | 11 "
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/generate_budget_2026_from_gl.py",
+    "line": 31,
+    "context": "db_url = os.environ.get(\"DATABASE_URL\", \"\")"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/generate_budget_2026_from_gl.py",
+    "line": 33,
+    "context": "print(\"ERROR: DATABASE_URL not set\")"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/import_kontant_2024_2025.py",
+    "line": 9,
+    "context": "# Lokalt mot Railway-DB (via DATABASE_URL i .env):"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/import_kontant_2024_2025.py",
+    "line": 45,
+    "context": "db_url = settings.DATABASE_URL"
+  },
+  {
+    "term": "deling",
+    "file": "backend/app/scripts/import_kontant_2024_2025.py",
+    "line": 81,
+    "context": "# Vis ny fordeling per år"
+  },
+  {
+    "term": "deling",
+    "file": "backend/app/scripts/analyze_report_gaps.py",
+    "line": 23,
+    "context": "# 2. Region / Kommune fordeling"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/import_financial_text.py",
+    "line": 123,
+    "context": "async def update_database(parsed_data: Dict[str, List[Dict]]):"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/import_financial_text.py",
+    "line": 269,
+    "context": "asyncio.run(update_database(data))"
+  },
+  {
+    "term": "prosjekt",
+    "file": "backend/app/scripts/import_financial_text.py",
+    "line": 32,
+    "context": "\"Vaktmester\", \"Leie\", \"Renovasjon\", \"Prosjekt\","
+  },
+  {
+    "term": "prosjekt",
+    "file": "backend/app/scripts/import_financial_text.py",
+    "line": 33,
+    "context": "\"Prosjekt/Bygg\", \"Prosjekt (Rehab)\", \"Renovasjon\""
+  },
+  {
+    "term": "prosjekt",
+    "file": "backend/app/scripts/enrich_parties_brreg_by_orgnr.py",
+    "line": 5,
+    "context": "Kjør fra prosjektrot: python -m app.scripts.enrich_parties_brreg_by_orgnr"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/check_db.py",
+    "line": 12,
+    "context": "print(\"Checking database connection...\")"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/check_db.py",
+    "line": 17,
+    "context": "print(f\"Found {len(props)} properties in database.\")"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/check_db.py",
+    "line": 29,
+    "context": "print(f\"Error querying database: {e}\")"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/enrich_postal_codes.py",
+    "line": 136,
+    "context": "print(f\"\\nSkriver {len(updated)} oppdateringer til database...\")"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/enrich_postal_codes.py",
+    "line": 149,
+    "context": "print(\"✅ Database oppdatert.\")"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/diagnose_rent.py",
+    "line": 16,
+    "context": "def get_database_url():"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/diagnose_rent.py",
+    "line": 22,
+    "context": "if line.startswith('DATABASE_URL='):"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/diagnose_rent.py",
+    "line": 24,
+    "context": "return os.environ.get(\"DATABASE_URL\")"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/diagnose_rent.py",
+    "line": 26,
+    "context": "os.environ[\"DATABASE_URL\"] = get_database_url()"
+  },
+  {
+    "term": "nøkkelord",
+    "file": "backend/app/scripts/dump_source_text.py",
+    "line": 36,
+    "context": "output_lines = [\"# Kildedump: Parkering\\n\\nDette dokumentet inneholder råtekst fra dokumenter hvor n"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/fix_financial_mapping.py",
+    "line": 25,
+    "context": "def get_database_url():"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/fix_financial_mapping.py",
+    "line": 31,
+    "context": "if line.startswith('DATABASE_URL='):"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/fix_financial_mapping.py",
+    "line": 33,
+    "context": "return os.environ.get(\"DATABASE_URL\")"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/fix_financial_mapping.py",
+    "line": 36,
+    "context": "db_url = get_database_url()"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/fix_financial_mapping.py",
+    "line": 38,
+    "context": "os.environ[\"DATABASE_URL\"] = db_url"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/scripts/find_parking_in_text.py",
+    "line": 28,
+    "context": "# Fallback: Search all text content and try to infer location from metadata if direct link missing."
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/scripts/find_parking_in_text.py",
+    "line": 66,
+    "context": "# Try to resolve property/address from metadata or TextContent relationships"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/import_enrichment_11.py",
+    "line": 152,
+    "context": "async def update_database(file_path: str):"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/import_enrichment_11.py",
+    "line": 271,
+    "context": "asyncio.run(update_database(file_path))"
+  },
+  {
+    "term": "prosjekt",
+    "file": "backend/app/scripts/import_enrichment_11.py",
+    "line": 45,
+    "context": "\"Prosjektering og utvikling av eiendom/bygg\","
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/import_enrichment_01.py",
+    "line": 148,
+    "context": "async def update_database(file_path: str):"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/import_enrichment_01.py",
+    "line": 238,
+    "context": "asyncio.run(update_database(file_path))"
+  },
+  {
+    "term": "prosjekt",
+    "file": "backend/app/scripts/import_enrichment_01.py",
+    "line": 42,
+    "context": "\"Prosjektering og utvikling av eiendom/bygg\","
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/check_div3_status.py",
+    "line": 22,
+    "context": "async def check_database():"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/check_div3_status.py",
+    "line": 70,
+    "context": "asyncio.run(check_database())"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/audit_bufdir_addresses.py",
+    "line": 154,
+    "context": "lines.append(\"## ❌ Ikke funnet i databasen\\n\")"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/import_enrichment_15.py",
+    "line": 186,
+    "context": "async def update_database(file_path: str):"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/import_enrichment_15.py",
+    "line": 321,
+    "context": "asyncio.run(update_database(file_path))"
+  },
+  {
+    "term": "prosjekt",
+    "file": "backend/app/scripts/import_enrichment_15.py",
+    "line": 45,
+    "context": "\"Prosjektering og utvikling av eiendom/bygg\","
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/import_enrichment_05.py",
+    "line": 147,
+    "context": "async def update_database(file_path: str):"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/import_enrichment_05.py",
+    "line": 239,
+    "context": "asyncio.run(update_database(file_path))"
+  },
+  {
+    "term": "deling",
+    "file": "backend/app/scripts/import_enrichment_05.py",
+    "line": 46,
+    "context": "\"miljøavdeling\","
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/structure_cost_data.py",
+    "line": 138,
+    "context": "print(f\"\\nSaving {len(results_map)} insights to database...\")"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/structure_responsibility_data.py",
+    "line": 140,
+    "context": "print(f\"\\nSaving {len(results_map)} insights to database...\")"
+  },
+  {
+    "term": "deling",
+    "file": "backend/app/scripts/remap_costs.py",
+    "line": 40,
+    "context": "\"Sollia barne- og ungdomssenter miljøavdeling\": \"Sollia barne- og ungdomssenter + fosterhjemstjenest"
+  },
+  {
+    "term": "deling",
+    "file": "backend/app/scripts/remap_costs.py",
+    "line": 146,
+    "context": "if \"sollia\" in p.name.lower() and \"miljøavdeling\" in p.name.lower():"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/scripts/remap_costs.py",
+    "line": 137,
+    "context": "# Search in all metadata"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/bufdir_address_audit.md",
+    "line": 39,
+    "context": "## ❌ Ikke funnet i databasen"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/verify_import.py",
+    "line": 38,
+    "context": "# Note: querying JSON is database specific, here we just iterate as quick check or assume filtering "
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/scripts/enrich_financial_metadata.py",
+    "line": 17,
+    "context": "async def enrich_financial_metadata():"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/scripts/enrich_financial_metadata.py",
+    "line": 18,
+    "context": "print(\"Starting financial metadata enrichment...\")"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/scripts/enrich_financial_metadata.py",
+    "line": 44,
+    "context": "# Update Metadata"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/scripts/enrich_financial_metadata.py",
+    "line": 57,
+    "context": "print(f\"Successfully enriched metadata for {updated_count} properties.\")"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/scripts/enrich_financial_metadata.py",
+    "line": 62,
+    "context": "asyncio.run(enrich_financial_metadata())"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/import_enrichment_14.py",
+    "line": 187,
+    "context": "async def update_database(file_path: str):"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/import_enrichment_14.py",
+    "line": 325,
+    "context": "asyncio.run(update_database(file_path))"
+  },
+  {
+    "term": "prosjekt",
+    "file": "backend/app/scripts/import_enrichment_14.py",
+    "line": 45,
+    "context": "\"Prosjektering og utvikling av eiendom/bygg\","
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/thorough_audit.py",
+    "line": 27,
+    "context": "print(\"\\n--- 1. DATABASE SCHEMA AUDIT ---\")"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/list_all_props.py",
+    "line": 10,
+    "context": "def get_database_url():"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/list_all_props.py",
+    "line": 17,
+    "context": "if line.startswith('DATABASE_URL='):"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/list_all_props.py",
+    "line": 19,
+    "context": "return os.environ.get(\"DATABASE_URL\")"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/list_all_props.py",
+    "line": 21,
+    "context": "os.environ[\"DATABASE_URL\"] = get_database_url()"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/import_enrichment_04.py",
+    "line": 148,
+    "context": "async def update_database(file_path: str):"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/import_enrichment_04.py",
+    "line": 246,
+    "context": "asyncio.run(update_database(file_path))"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/debug_prop_data.py",
+    "line": 11,
+    "context": "def get_database_url():"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/debug_prop_data.py",
+    "line": 18,
+    "context": "if line.startswith('DATABASE_URL='):"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/debug_prop_data.py",
+    "line": 20,
+    "context": "return os.environ.get(\"DATABASE_URL\")"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/debug_prop_data.py",
+    "line": 22,
+    "context": "os.environ[\"DATABASE_URL\"] = get_database_url()"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/structure_deadline_data.py",
+    "line": 138,
+    "context": "print(f\"\\nSaving {len(results_map)} insights to database...\")"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/import_enrichment_10.py",
+    "line": 152,
+    "context": "async def update_database(file_path: str):"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/import_enrichment_10.py",
+    "line": 242,
+    "context": "asyncio.run(update_database(file_path))"
+  },
+  {
+    "term": "prosjekt",
+    "file": "backend/app/scripts/import_enrichment_10.py",
+    "line": 45,
+    "context": "\"Prosjektering og utvikling av eiendom/bygg\","
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/count_merged.py",
+    "line": 17,
+    "context": "def get_database_url():"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/count_merged.py",
+    "line": 23,
+    "context": "if line.startswith('DATABASE_URL='):"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/count_merged.py",
+    "line": 25,
+    "context": "return os.environ.get(\"DATABASE_URL\")"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/count_merged.py",
+    "line": 27,
+    "context": "db_url = get_database_url()"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/count_merged.py",
+    "line": 29,
+    "context": "os.environ[\"DATABASE_URL\"] = db_url"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/enrich_postal_codes_retry.py",
+    "line": 115,
+    "context": "print(f\"\\nSkriver {len(updated)} oppdateringer til database...\")"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/scripts/enrich_postal_codes_retry.py",
+    "line": 124,
+    "context": "print(\"✅ Database oppdatert.\")"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/db/session.py",
+    "line": 7,
+    "context": "database_url = settings.DATABASE_URL"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/db/session.py",
+    "line": 8,
+    "context": "if not database_url:"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/db/session.py",
+    "line": 9,
+    "context": "raise ValueError(\"DATABASE_URL is not set in environment!\")"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/db/session.py",
+    "line": 20,
+    "context": "if database_url and \".railway.internal\" in database_url:"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/db/session.py",
+    "line": 34,
+    "context": "# Database may suspend after inactivity - pre_ping handles wakeup gracefully"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/db/session.py",
+    "line": 36,
+    "context": "database_url,"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/db/session.py",
+    "line": 55,
+    "context": "# engine_sync = create_engine(settings.DATABASE_URL.replace(\"+asyncpg\", \"\"))"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/db/seed.py",
+    "line": 34,
+    "context": "print(\"Seeding database...\")"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/db/seed.py",
+    "line": 36,
+    "context": "# 1. Get existing properties from database"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/db/seed.py",
+    "line": 37,
+    "context": "print(\"Fetching existing properties from database...\")"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/db/seed.py",
+    "line": 41,
+    "context": "print(f\"✅ Found {len(existing_property_ids)} existing properties in database\")"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/db/seed.py",
+    "line": 128,
+    "context": "# Database schema missing 'status' column - needs migration"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/db/seed.py",
+    "line": 129,
+    "context": "print(\"Skipping risk assessments (database schema mismatch)...\")"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/db/seed.py",
+    "line": 31,
+    "context": "await conn.run_sync(Base.metadata.create_all)"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/db/migrations.py",
+    "line": 6,
+    "context": "logger = logging.getLogger(\"DatabaseMigrations\")"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/db/migrations.py",
+    "line": 10,
+    "context": "Runs ad-hoc database migrations to ensure schema consistency."
+  },
+  {
+    "term": "database",
+    "file": "backend/app/db/migrations.py",
+    "line": 12,
+    "context": "logger.info(\"Starting ad-hoc database migrations...\")"
+  },
+  {
+    "term": "GDPR",
+    "file": "backend/app/db/base.py",
+    "line": 54,
+    "context": "from app.models.gdpr import DataSubjectRequest, AnonymizationLog"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/db/base.py",
+    "line": 57,
+    "context": "from app.models.data_governance import DataFieldMetadata"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/api/deps.py",
+    "line": 18,
+    "context": "Database session dependency with reconnect handling."
+  },
+  {
+    "term": "database",
+    "file": "backend/app/api/deps.py",
+    "line": 32,
+    "context": "detail=\"Database connection pool exhausted. Please retry shortly.\""
+  },
+  {
+    "term": "database",
+    "file": "backend/app/api/deps.py",
+    "line": 59,
+    "context": "# Check for existing user in database"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/api/bup_locations.py",
+    "line": 194,
+    "context": "# In a real scenario, we would inject a PropertyService here and query the database."
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/api/bup_locations.py",
+    "line": 99,
+    "context": "\"metadata\": data.get(\"metadata\", {})"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/api/v1/files.py",
+    "line": 144,
+    "context": "raise HTTPException(status_code=500, detail=f\"Database error: {e}\")"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/api/v1/files.py",
+    "line": 207,
+    "context": "# Create Metadata"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/api/v1/files.py",
+    "line": 249,
+    "context": "@router.get(\"/{file_id}/metadata\")"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/api/v1/files.py",
+    "line": 250,
+    "context": "async def get_file_metadata("
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/api/v1/files.py",
+    "line": 255,
+    "context": "\"\"\"Hent fil metadata (med property access check).\"\"\""
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/api/v1/external_api.py",
+    "line": 28,
+    "context": "Supports search, document metadata retrieval, and public dataset listing."
+  },
+  {
+    "term": "deling",
+    "file": "backend/app/api/v1/procurement.py",
+    "line": 582,
+    "context": "# Institution drill-down – leverandører, månedstrend, kategorifordeling"
+  },
+  {
+    "term": "deling",
+    "file": "backend/app/api/v1/financials.py",
+    "line": 416,
+    "context": "SRS-samsvarrapport for regnskapsavdelingen."
+  },
+  {
+    "term": "database",
+    "file": "backend/app/api/v1/dashboard.py",
+    "line": 13,
+    "context": "database: str"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/api/v1/dashboard.py",
+    "line": 24,
+    "context": "\"database\": \"offline\","
+  },
+  {
+    "term": "database",
+    "file": "backend/app/api/v1/dashboard.py",
+    "line": 30,
+    "context": "# 1. Check Database"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/api/v1/dashboard.py",
+    "line": 34,
+    "context": "status[\"database\"] = \"online\""
+  },
+  {
+    "term": "database",
+    "file": "backend/app/api/v1/dashboard.py",
+    "line": 36,
+    "context": "status[\"database\"] = \"offline\""
+  },
+  {
+    "term": "database",
+    "file": "backend/app/api/v1/dashboard.py",
+    "line": 154,
+    "context": "TODO: Fetch from audit log / database."
+  },
+  {
+    "term": "deling",
+    "file": "backend/app/api/v1/overview.py",
+    "line": 2,
+    "context": "Oversikt: eiendommer, enheter (avdelinger), kontrakter og leietakere (parties)."
+  },
+  {
+    "term": "deling",
+    "file": "backend/app/api/v1/overview.py",
+    "line": 85,
+    "context": "Hent oversikt over eiendommer, enheter (avdelinger), kontrakter og leietakere."
+  },
+  {
+    "term": "tilgang",
+    "file": "backend/app/api/v1/overview.py",
+    "line": 3,
+    "context": "Én endepunkt som returnerer alle fire lister med tilgangskontroll."
+  },
+  {
+    "term": "tilgang",
+    "file": "backend/app/api/v1/overview.py",
+    "line": 86,
+    "context": "Alle lister er filtrert etter brukerens tilgang (ADMIN ser alt)."
+  },
+  {
+    "term": "tilgangskontroll",
+    "file": "backend/app/api/v1/overview.py",
+    "line": 3,
+    "context": "Én endepunkt som returnerer alle fire lister med tilgangskontroll."
+  },
+  {
+    "term": "database",
+    "file": "backend/app/api/v1/admin.py",
+    "line": 77,
+    "context": "\"database\": db_status,"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/api/v1/ssb_api.py",
+    "line": 4,
+    "context": "Endpoints for searching tables, fetching metadata and data,"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/api/v1/ssb_api.py",
+    "line": 97,
+    "context": "@router.get(\"/tables/{table_id}/metadata\")"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/api/v1/ssb_api.py",
+    "line": 98,
+    "context": "async def get_table_metadata("
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/api/v1/ssb_api.py",
+    "line": 104,
+    "context": "Hent metadata (variabler, verdikoder) for en tabell."
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/api/v1/ssb_api.py",
+    "line": 107,
+    "context": "return await client.get_metadata(table_id, lang=lang)"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/api/v1/costs.py",
+    "line": 267,
+    "context": "Runs the cost monitor script and saves results to database."
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/api/v1/ml_predictions.py",
+    "line": 143,
+    "context": "Dersom modellen ikke er i minnet vises metadata fra forrige trening (hvis tilgjengelig)."
+  },
+  {
+    "term": "database",
+    "file": "backend/app/api/v1/indexing.py",
+    "line": 13,
+    "context": "Trigger batch indexing of all PDF files in the database."
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/api/v1/fulltext_search.py",
+    "line": 40,
+    "context": "metadata: Optional[dict]"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/api/v1/fulltext_search.py",
+    "line": 50,
+    "context": "\"\"\"Search response with results and metadata.\"\"\""
+  },
+  {
+    "term": "database",
+    "file": "backend/app/api/v1/admin/economic_import.py",
+    "line": 102,
+    "context": "without writing anything to the database."
+  },
+  {
+    "term": "database",
+    "file": "backend/app/api/v1/admin/economic_import.py",
+    "line": 325,
+    "context": "db_url = os.getenv(\"DATABASE_URL\", \"\")"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/api/v1/admin/economic_import.py",
+    "line": 327,
+    "context": "_gl_import_status = {\"state\": \"error\", \"message\": \"DATABASE_URL ikke satt\"}"
+  },
+  {
+    "term": "deling",
+    "file": "backend/app/api/v1/admin/economic_import.py",
+    "line": 302,
+    "context": "# Region-fordeling"
+  },
+  {
+    "term": "deling",
+    "file": "backend/app/api/v1/admin/economic_import.py",
+    "line": 313,
+    "context": "\"region_fordeling\": region_dist,"
+  },
+  {
+    "term": "deling",
+    "file": "backend/app/api/v1/admin/economic_import.py",
+    "line": 691,
+    "context": "\"ny_fordeling\": ["
+  },
+  {
+    "term": "database",
+    "file": "backend/app/api/v1/admin/system.py",
+    "line": 143,
+    "context": "\"database\": db_status,"
+  },
+  {
+    "term": "GDPR",
+    "file": "backend/app/api/v1/mcp/__init__.py",
+    "line": 13,
+    "context": "from app.api.v1.mcp.gdpr import router as gdpr_router"
+  },
+  {
+    "term": "GDPR",
+    "file": "backend/app/api/v1/mcp/__init__.py",
+    "line": 27,
+    "context": "router.include_router(gdpr_router, prefix=\"/gdpr\", tags=[\"MCP GDPR\"])"
+  },
+  {
+    "term": "GDPR",
+    "file": "backend/app/api/v1/mcp/gdpr/router.py",
+    "line": 4,
+    "context": "from app.services.gdpr_service import gdpr_service"
+  },
+  {
+    "term": "GDPR",
+    "file": "backend/app/api/v1/mcp/gdpr/router.py",
+    "line": 21,
+    "context": "return {\"status\": \"GDPR Compliance MCP Server Active\"}"
+  },
+  {
+    "term": "GDPR",
+    "file": "backend/app/api/v1/mcp/gdpr/router.py",
+    "line": 28,
+    "context": "return await gdpr_service.detect_pii(payload.text)"
+  },
+  {
+    "term": "GDPR",
+    "file": "backend/app/api/v1/mcp/gdpr/router.py",
+    "line": 36,
+    "context": "clean_text = await gdpr_service.anonymize_text(db, payload.text, payload.entity_type, payload.entity"
+  },
+  {
+    "term": "GDPR",
+    "file": "backend/app/api/v1/mcp/gdpr/router.py",
+    "line": 44,
+    "context": "Agent Action: Log a User's GDPR request (e.g., 'Delete my data')."
+  },
+  {
+    "term": "GDPR",
+    "file": "backend/app/api/v1/mcp/gdpr/router.py",
+    "line": 47,
+    "context": "return await gdpr_service.create_request(db, req.user_id, req.request_type, req.details)"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/api/v1/ai/chat.py",
+    "line": 49,
+    "context": "return \"Ingen eiendommer i databasen.\""
+  },
+  {
+    "term": "database",
+    "file": "backend/app/api/v1/ai/chat.py",
+    "line": 61,
+    "context": "return \"Kunne ikke laste eiendomsdata (databasefeil).\""
+  },
+  {
+    "term": "database",
+    "file": "backend/app/api/v1/ai/chat.py",
+    "line": 74,
+    "context": "return \"Ingen eiendommer i databasen.\""
+  },
+  {
+    "term": "database",
+    "file": "backend/app/api/v1/ai/chat.py",
+    "line": 83,
+    "context": "return \"Kunne ikke laste eiendomsnavn (databasefeil).\""
+  },
+  {
+    "term": "database",
+    "file": "backend/app/api/v1/ai/chat.py",
+    "line": 101,
+    "context": "return \"Ingen kontrakter i databasen.\""
+  },
+  {
+    "term": "database",
+    "file": "backend/app/api/v1/ai/chat.py",
+    "line": 114,
+    "context": "return \"Kunne ikke laste kontraktsdata (databasefeil).\""
+  },
+  {
+    "term": "database",
+    "file": "backend/app/api/v1/ai/chat.py",
+    "line": 127,
+    "context": "return \"Ingen parter i databasen.\""
+  },
+  {
+    "term": "database",
+    "file": "backend/app/api/v1/ai/chat.py",
+    "line": 138,
+    "context": "return \"Kunne ikke laste partdata (databasefeil).\""
+  },
+  {
+    "term": "database",
+    "file": "backend/app/api/v1/ai/chat.py",
+    "line": 152,
+    "context": "return \"Ingen enheter i databasen.\""
+  },
+  {
+    "term": "database",
+    "file": "backend/app/api/v1/ai/chat.py",
+    "line": 164,
+    "context": "return \"Kunne ikke laste enhetsdata (databasefeil).\""
+  },
+  {
+    "term": "database",
+    "file": "backend/app/api/v1/ai/chat.py",
+    "line": 177,
+    "context": "return \"Ingen sentre i databasen.\""
+  },
+  {
+    "term": "database",
+    "file": "backend/app/api/v1/ai/chat.py",
+    "line": 187,
+    "context": "return \"Kunne ikke laste senterdata (databasefeil).\""
+  },
+  {
+    "term": "database",
+    "file": "backend/app/api/v1/ai/chat.py",
+    "line": 257,
+    "context": "return \"Kunne ikke laste kostnadsdata (databasefeil).\""
+  },
+  {
+    "term": "database",
+    "file": "backend/app/api/v1/ai/chat.py",
+    "line": 279,
+    "context": "return \"Ingen bygningskomponenter i databasen.\""
+  },
+  {
+    "term": "database",
+    "file": "backend/app/api/v1/ai/chat.py",
+    "line": 293,
+    "context": "return \"Kunne ikke laste komponentdata (databasefeil).\""
+  },
+  {
+    "term": "internkontroll",
+    "file": "backend/app/api/v1/ai/chat.py",
+    "line": 569,
+    "context": "Internkontroll-spørsmål → Internkontroll-agent. Øvrige → Avansert (ki_kollega)."
+  },
+  {
+    "term": "database",
+    "file": "backend/app/api/v1/ai/transparency.py",
+    "line": 31,
+    "context": "\"description\": \"Kjører SQL mot databasen for statistikk, tellinger og kostnadsanalyse\","
+  },
+  {
+    "term": "deling",
+    "file": "backend/app/services/salary_import_service.py",
+    "line": 7,
+    "context": "Matcher institusjons-/avdelingsnavn mot properties.name / properties.department_name."
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/vectordb.py",
+    "line": 22,
+    "context": "logger.error(\"No database session provided for vector search\")"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/vectordb.py",
+    "line": 23,
+    "context": "return {\"ids\": [], \"distances\": [], \"documents\": [], \"metadatas\": []}"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/vectordb.py",
+    "line": 26,
+    "context": "return {\"ids\": [], \"distances\": [], \"documents\": [], \"metadatas\": []}"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/vectordb.py",
+    "line": 47,
+    "context": "metadatas = []"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/vectordb.py",
+    "line": 54,
+    "context": "metadatas.append(row.additional_metadata or {})"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/vectordb.py",
+    "line": 61,
+    "context": "\"metadatas\": [metadatas]"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/vectordb.py",
+    "line": 68,
+    "context": "return {\"ids\": [], \"distances\": [], \"documents\": [], \"metadatas\": []}"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/query_logging_service.py",
+    "line": 40,
+    "context": "Log query execution to database."
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/query_logging_service.py",
+    "line": 43,
+    "context": "db: Database session"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/query_logging_service.py",
+    "line": 125,
+    "context": "db: Database session"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/query_logging_service.py",
+    "line": 185,
+    "context": "db: Database session"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/query_logging_service.py",
+    "line": 5,
+    "context": "metadata to enable the self-learning loop."
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/cost_forecasting_service.py",
+    "line": 69,
+    "context": "db: Database session"
+  },
+  {
+    "term": "deling",
+    "file": "backend/app/services/cost_forecasting_service.py",
+    "line": 5,
+    "context": "and contract commitments. Supports Monte Carlo simulations for uncertainty modeling."
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/financial_intelligence.py",
+    "line": 221,
+    "context": "Database Schema:"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/financial_intelligence.py",
+    "line": 294,
+    "context": "1. Query database using async SQLAlchemy"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/financial_intelligence.py",
+    "line": 279,
+    "context": "\"metadata\": {\"source\": \"ai_lab_analysis\"}"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/knowledge_graph_service.py",
+    "line": 19,
+    "context": "metadata: Optional[Dict[str, Any]] = None"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/knowledge_graph_service.py",
+    "line": 28,
+    "context": "INSERT INTO graph_entities (id, name, label, description, metadata, embedding)"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/knowledge_graph_service.py",
+    "line": 29,
+    "context": "VALUES (:id, :name, :label, :description, :metadata, :embedding)"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/knowledge_graph_service.py",
+    "line": 36,
+    "context": "\"metadata\": metadata or {},"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/knowledge_graph_service.py",
+    "line": 54,
+    "context": "metadata: Optional[Dict[str, Any]] = None"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/knowledge_graph_service.py",
+    "line": 60,
+    "context": "INSERT INTO graph_relationships (id, source_id, target_id, relation_type, description, metadata)"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/knowledge_graph_service.py",
+    "line": 61,
+    "context": "VALUES (:id, :source_id, :target_id, :relation_type, :description, :metadata)"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/knowledge_graph_service.py",
+    "line": 69,
+    "context": "\"metadata\": metadata or {}"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/knowledge_graph_service.py",
+    "line": 87,
+    "context": "SELECT id, name, label, description, metadata,"
+  },
+  {
+    "term": "tilsyn",
+    "file": "backend/app/services/media_monitor_service.py",
+    "line": 27,
+    "context": "For barnevern-tenants: adds extra queries (tilsyn, avvik, Bufdir) for leietakere av barnevernsinstit"
+  },
+  {
+    "term": "tilsyn",
+    "file": "backend/app/services/media_monitor_service.py",
+    "line": 37,
+    "context": "f'\"{company_name}\" barnevern tilsyn OR avvik',"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/bufdir_import_service.py",
+    "line": 1,
+    "context": "\"\"\"Service for importing Bufdir institutions into the database.\"\"\""
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/bufdir_import_service.py",
+    "line": 14,
+    "context": "Import institutions from Bufdir JSON file into the database."
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/bufdir_import_service.py",
+    "line": 17,
+    "context": "db: Database session"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/tool_discovery_service.py",
+    "line": 23,
+    "context": "# Since we only want tools, we filter by metadata type"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/tool_discovery_service.py",
+    "line": 27,
+    "context": ".where(cast(AgentMemory.additional_metadata['type'], String) == '\"tool_definition\"') # JSONB strings"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/tool_discovery_service.py",
+    "line": 39,
+    "context": "\"name\": m.additional_metadata.get(\"tool_name\"),"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/tool_discovery_service.py",
+    "line": 41,
+    "context": "\"parameters\": m.additional_metadata.get(\"parameters\", {}),"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/text_processor.py",
+    "line": 18,
+    "context": "def process_text_content(text: str, source_id: str, metadata: Dict[str, Any]) -> List[Dict[str, Any]"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/text_processor.py",
+    "line": 23,
+    "context": "chunk_meta = metadata.copy()"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/text_processor.py",
+    "line": 30,
+    "context": "\"metadata\": chunk_meta,"
+  },
+  {
+    "term": "tilgang",
+    "file": "backend/app/services/party_health_service.py",
+    "line": 10,
+    "context": "Kan kalles uten DB-tilgang – tar kun `external_data`-dict som input."
+  },
+  {
+    "term": "tilsyn",
+    "file": "backend/app/services/party_health_service.py",
+    "line": 7,
+    "context": "3 → ORANSJE  (Høy – ta kontakt / vurder tilsyn)"
+  },
+  {
+    "term": "GDPR",
+    "file": "backend/app/services/gdpr_service.py",
+    "line": 4,
+    "context": "from app.models.gdpr import DataSubjectRequest, AnonymizationLog"
+  },
+  {
+    "term": "GDPR",
+    "file": "backend/app/services/gdpr_service.py",
+    "line": 8,
+    "context": "logger = logging.getLogger(\"GDPRService\")"
+  },
+  {
+    "term": "GDPR",
+    "file": "backend/app/services/gdpr_service.py",
+    "line": 10,
+    "context": "class GDPRService(BaseService):"
+  },
+  {
+    "term": "GDPR",
+    "file": "backend/app/services/gdpr_service.py",
+    "line": 12,
+    "context": "Service for GDPR compliance: PII detection and anonymization."
+  },
+  {
+    "term": "GDPR",
+    "file": "backend/app/services/gdpr_service.py",
+    "line": 67,
+    "context": "Logs a formalized GDPR request."
+  },
+  {
+    "term": "GDPR",
+    "file": "backend/app/services/gdpr_service.py",
+    "line": 80,
+    "context": "gdpr_service = GDPRService()"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/jira_service.py",
+    "line": 219,
+    "context": "# Get project metadata to find issue types"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/budget_generation_service.py",
+    "line": 74,
+    "context": "db: Database session"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/budget_generation_service.py",
+    "line": 276,
+    "context": "db: Database session (for annual_rent and fallback)"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/budget_generation_service.py",
+    "line": 364,
+    "context": "db: Database session"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/budget_generation_service.py",
+    "line": 457,
+    "context": "db: Database session"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/budget_generation_service.py",
+    "line": 541,
+    "context": "db: Database session"
+  },
+  {
+    "term": "deling",
+    "file": "backend/app/services/budget_generation_service.py",
+    "line": 833,
+    "context": "# 3. Hent property info + kontraktsbeløp for fordeling"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/pdf_processor.py",
+    "line": 15,
+    "context": "Returnerer strukturert data inkludert tekst, tabeller, metadata, etc."
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/pdf_processor.py",
+    "line": 49,
+    "context": "# Extract metadata"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/pdf_processor.py",
+    "line": 50,
+    "context": "metadata = {"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/pdf_processor.py",
+    "line": 65,
+    "context": "'metadata': metadata,"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/pdf_processor.py",
+    "line": 136,
+    "context": "Returnerer dict med text, tables (hvis tilgjengelig), metadata, og source."
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/pdf_processor.py",
+    "line": 160,
+    "context": "'metadata': {},"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/pdf_processor.py",
+    "line": 251,
+    "context": "Returnerer liste av chunks med metadata."
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/pdf_processor.py",
+    "line": 258,
+    "context": "metadata = extraction_result.get('metadata', {})"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/pdf_processor.py",
+    "line": 264,
+    "context": "# Opprett metadata for hver chunk"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/pdf_processor.py",
+    "line": 280,
+    "context": "# Add metadata to first chunk"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/pdf_processor.py",
+    "line": 281,
+    "context": "if idx == 0 and metadata:"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/pdf_processor.py",
+    "line": 282,
+    "context": "chunk_data[\"pdf_metadata\"] = metadata"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/data_management.py",
+    "line": 723,
+    "context": "# 2. Database check"
+  },
+  {
+    "term": "deling",
+    "file": "backend/app/services/data_management.py",
+    "line": 57,
+    "context": "# Mange koststeder deler samme bygg; kostnaden tilhører avdelingen, ikke eiendommen."
+  },
+  {
+    "term": "deling",
+    "file": "backend/app/services/data_management.py",
+    "line": 780,
+    "context": "# Avdeling vs institusjon (jf. minnefil § 27–28)"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/data_management.py",
+    "line": 788,
+    "context": "# Atomic Audit Metadata + Birk-spesifikke felt"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/data_management.py",
+    "line": 842,
+    "context": "Expected columns: 'content', and optional 'metadata', 'source_file'."
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/data_management.py",
+    "line": 861,
+    "context": "additional_metadata={"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/agent_memory_service.py",
+    "line": 15,
+    "context": "metadata: Optional[Dict[str, Any]] = None"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/agent_memory_service.py",
+    "line": 23,
+    "context": "additional_metadata=metadata or {},"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/agent_memory_service.py",
+    "line": 63,
+    "context": "# Apply metadata filters if provided"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/agent_memory_service.py",
+    "line": 67,
+    "context": "stmt = stmt.where(AgentMemory.additional_metadata[key].astext == str(value))"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/agent_memory_service.py",
+    "line": 86,
+    "context": "\"metadata\": m.additional_metadata,"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/external_data_service.py",
+    "line": 24,
+    "context": "Saves or updates external API data in the database."
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/query_library_service.py",
+    "line": 36,
+    "context": "db: Database session"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/api_usage_tracker.py",
+    "line": 55,
+    "context": "Track API usage in database."
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/api_usage_tracker.py",
+    "line": 58,
+    "context": "db: Database session"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/api_usage_tracker.py",
+    "line": 111,
+    "context": "db: Database session"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/csv_importer.py",
+    "line": 59,
+    "context": "Analyze CSV content against existing database records (Async)."
+  },
+  {
+    "term": "tilsyn",
+    "file": "backend/app/services/due_diligence_service.py",
+    "line": 49,
+    "context": "- Bøter, sanksjoner eller problemer med myndigheter (f.eks. Arbeidstilsynet)."
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/dspy/sql_generator.py",
+    "line": 31,
+    "context": "Oversetter et naturlig spørsmål til PostgreSQL SQL basert på et gitt databaseskjema."
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/dspy/sql_generator.py",
+    "line": 474,
+    "context": "db: Database session"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/dspy/sql_generator.py",
+    "line": 517,
+    "context": "Viktig for serverless database som kan ha cold starts."
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/dspy/sql_generator.py",
+    "line": 520,
+    "context": "db: Database session"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/dspy/sql_generator.py",
+    "line": 575,
+    "context": "logger.error(f\"Non-transient database error: {e}\")"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/dspy/sql_generator.py",
+    "line": 581,
+    "context": "f\"Database error (attempt {attempt + 1}/{max_retries}): {e}. \""
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/dspy/sql_generator.py",
+    "line": 835,
+    "context": "# Database execution error - provide helpful error message"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/dspy/sql_generator.py",
+    "line": 872,
+    "context": "hint = \"Database-feil. Sjekk SQL-syntaks og at alle JSONB-felt er riktig formatert.\""
+  },
+  {
+    "term": "rådata",
+    "file": "backend/app/services/dspy/sql_generator.py",
+    "line": 116,
+    "context": "- IKKE gjenta rådataene – tolk og vurder dem."
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/tools/contract_tools.py",
+    "line": 18,
+    "context": "Searches for contracts using both Database (SQL) and Vector Search (PDF Content)."
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/tools/contract_tools.py",
+    "line": 65,
+    "context": "sql_results += f\"--- Database Treff ({len(rows)}) ---\\n\""
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/tools/contract_tools.py",
+    "line": 97,
+    "context": "final_output = \"Ingen kontrakter funnet. Søkte i både strukturert database og dokumentarkiv.\\n\""
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/tools/contract_tools.py",
+    "line": 32,
+    "context": "# --- 1. SQL Search (Metadata/Type/Status) ---"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/tools/contract_analysis_tools.py",
+    "line": 15,
+    "context": "\"\"\"Helper to get async database session.\"\"\""
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/tools/contract_analysis_tools.py",
+    "line": 73,
+    "context": "\"message\": \"Ingen kontrakter med prisdata funnet i databasen\""
+  },
+  {
+    "term": "internkontroll",
+    "file": "backend/app/services/intelligence/fullverdig/service.py",
+    "line": 4,
+    "context": "Fase 1: Orchestrator + Internkontroll-agent."
+  },
+  {
+    "term": "internkontroll",
+    "file": "backend/app/services/intelligence/fullverdig/service.py",
+    "line": 96,
+    "context": "# Kun internkontroll har egen agent. Alt annet (avansert, analyst, kontrakter, eiendommer) → ki_koll"
+  },
+  {
+    "term": "internkontroll",
+    "file": "backend/app/services/intelligence/fullverdig/service.py",
+    "line": 97,
+    "context": "if choice != \"internkontroll\":"
+  },
+  {
+    "term": "internkontroll",
+    "file": "backend/app/services/intelligence/fullverdig/graph.py",
+    "line": 4,
+    "context": "Fase 1: internkontroll-agent. Avansert rutes til END (service delegater til ki_kollega)."
+  },
+  {
+    "term": "internkontroll",
+    "file": "backend/app/services/intelligence/fullverdig/graph.py",
+    "line": 11,
+    "context": "from app.services.intelligence.fullverdig.agents.internkontroll import internkontroll_agent_node"
+  },
+  {
+    "term": "internkontroll",
+    "file": "backend/app/services/intelligence/fullverdig/graph.py",
+    "line": 24,
+    "context": "if choice == \"internkontroll\":"
+  },
+  {
+    "term": "internkontroll",
+    "file": "backend/app/services/intelligence/fullverdig/graph.py",
+    "line": 25,
+    "context": "return \"internkontroll_agent\""
+  },
+  {
+    "term": "internkontroll",
+    "file": "backend/app/services/intelligence/fullverdig/graph.py",
+    "line": 32,
+    "context": "workflow.add_node(\"internkontroll_agent\", internkontroll_agent_node)"
+  },
+  {
+    "term": "internkontroll",
+    "file": "backend/app/services/intelligence/fullverdig/graph.py",
+    "line": 38,
+    "context": "\"internkontroll_agent\": \"internkontroll_agent\","
+  },
+  {
+    "term": "internkontroll",
+    "file": "backend/app/services/intelligence/fullverdig/graph.py",
+    "line": 41,
+    "context": "workflow.add_edge(\"internkontroll_agent\", \"writer\")"
+  },
+  {
+    "term": "internkontroll",
+    "file": "backend/app/services/intelligence/fullverdig/__init__.py",
+    "line": 4,
+    "context": "Fase 1: Orchestrator + Internkontroll-agent."
+  },
+  {
+    "term": "internkontroll",
+    "file": "backend/app/services/intelligence/fullverdig/orchestrator.py",
+    "line": 21,
+    "context": "- internkontroll: Spørsmål om avvik, sjekklister, internkontroll, HMS, brannvern, forfallte saker, \""
+  },
+  {
+    "term": "internkontroll",
+    "file": "backend/app/services/intelligence/fullverdig/orchestrator.py",
+    "line": 30,
+    "context": "Svar KUN med ett ord: internkontroll | kontrakter | eiendommer | analyst | avansert\"\"\""
+  },
+  {
+    "term": "internkontroll",
+    "file": "backend/app/services/intelligence/fullverdig/orchestrator.py",
+    "line": 69,
+    "context": "valid = {\"internkontroll\", \"kontrakter\", \"eiendommer\", \"analyst\", \"avansert\"}"
+  },
+  {
+    "term": "internkontroll",
+    "file": "backend/app/services/intelligence/fullverdig/state.py",
+    "line": 14,
+    "context": "orchestrator_choice: str  # internkontroll | kontrakter | eiendommer | analyst | avansert"
+  },
+  {
+    "term": "internkontroll",
+    "file": "backend/app/services/intelligence/fullverdig/state.py",
+    "line": 17,
+    "context": "agent_result: Optional[str]  # Resultat fra domeneagent (f.eks. INTERNKONTROLL_RESULTAT)"
+  },
+  {
+    "term": "internkontroll",
+    "file": "backend/app/services/intelligence/fullverdig/agents/internkontroll.py",
+    "line": 2,
+    "context": "Internkontroll-agent – utfører internkontroll-oppgaver."
+  },
+  {
+    "term": "internkontroll",
+    "file": "backend/app/services/intelligence/fullverdig/agents/internkontroll.py",
+    "line": 35,
+    "context": "# Extract search term from patterns like \"Sjekk internkontroll for Bufdir Helsfyr\""
+  },
+  {
+    "term": "internkontroll",
+    "file": "backend/app/services/intelligence/fullverdig/agents/internkontroll.py",
+    "line": 38,
+    "context": "r\"internkontroll\\s+(?:for|på)\\s+([^.?!]+?)(?:\\?|\\.|$)\","
+  },
+  {
+    "term": "internkontroll",
+    "file": "backend/app/services/intelligence/fullverdig/agents/internkontroll.py",
+    "line": 80,
+    "context": "return \"Ingen åpne internkontroll-saker funnet.\""
+  },
+  {
+    "term": "internkontroll",
+    "file": "backend/app/services/intelligence/fullverdig/agents/internkontroll.py",
+    "line": 89,
+    "context": "header = f\"Åpne internkontroll-saker{f' for {property_name}' if property_name else ''}:\\n\""
+  },
+  {
+    "term": "internkontroll",
+    "file": "backend/app/services/intelligence/fullverdig/agents/internkontroll.py",
+    "line": 93,
+    "context": "async def internkontroll_agent_node("
+  },
+  {
+    "term": "internkontroll",
+    "file": "backend/app/services/intelligence/fullverdig/agents/internkontroll.py",
+    "line": 98,
+    "context": "Internkontroll-agent: henter åpne saker for eiendom eller alle."
+  },
+  {
+    "term": "internkontroll",
+    "file": "backend/app/services/intelligence/fullverdig/agents/internkontroll.py",
+    "line": 100,
+    "context": "logger.info(\"🏢 Internkontroll-agent: Henter saker...\")"
+  },
+  {
+    "term": "internkontroll",
+    "file": "backend/app/services/intelligence/fullverdig/agents/internkontroll.py",
+    "line": 119,
+    "context": "return await _run_internkontroll(db, message, context)"
+  },
+  {
+    "term": "internkontroll",
+    "file": "backend/app/services/intelligence/fullverdig/agents/internkontroll.py",
+    "line": 121,
+    "context": "return await _run_internkontroll(db, message, context)"
+  },
+  {
+    "term": "internkontroll",
+    "file": "backend/app/services/intelligence/fullverdig/agents/internkontroll.py",
+    "line": 124,
+    "context": "async def _run_internkontroll("
+  },
+  {
+    "term": "internkontroll",
+    "file": "backend/app/services/intelligence/fullverdig/agents/internkontroll.py",
+    "line": 164,
+    "context": "result_text = \"Alle åpne internkontroll-saker (utvalg):\\n\" + result_text"
+  },
+  {
+    "term": "internkontroll",
+    "file": "backend/app/services/intelligence/fullverdig/agents/internkontroll.py",
+    "line": 168,
+    "context": "SystemMessage(content=f\"INTERNKONTROLL_RESULTAT:\\n{result_text}\")"
+  },
+  {
+    "term": "internkontroll",
+    "file": "backend/app/services/intelligence/fullverdig/agents/__init__.py",
+    "line": 3,
+    "context": "from app.services.intelligence.fullverdig.agents.internkontroll import internkontroll_agent_node"
+  },
+  {
+    "term": "internkontroll",
+    "file": "backend/app/services/intelligence/fullverdig/agents/__init__.py",
+    "line": 5,
+    "context": "__all__ = [\"internkontroll_agent_node\"]"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/intelligence/ki_kollega/service.py",
+    "line": 141,
+    "context": "\"description\": \"Kjør en database-analyse for å svare på spørsmål om eiendommer, kontrakter, kostnade"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/intelligence/ki_kollega/service.py",
+    "line": 311,
+    "context": "return \"Ingen resultater fra databasen.\""
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/intelligence/ki_kollega/service.py",
+    "line": 501,
+    "context": "return \"Database-tilkobling mangler for risikovurdering.\""
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/intelligence/ki_kollega/service.py",
+    "line": 1354,
+    "context": "# Log usage to database if available"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/intelligence/ki_kollega/service.py",
+    "line": 1536,
+    "context": "elif \"analyst\" in name: status_text = \"Analyse: Behandler database- og økonomidata...\""
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/intelligence/ki_kollega/service.py",
+    "line": 1621,
+    "context": "\"content\": f\"DATABASE RAPPORT:\\n{result_str}\\n\\n(Basert på: `{sql}`)\""
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/intelligence/ki_kollega/service.py",
+    "line": 1708,
+    "context": "db: Database session"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/intelligence/ki_kollega/service.py",
+    "line": 1751,
+    "context": "return f\"Feil ved kjøring av database-søk: {str(e)}\""
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/intelligence/ki_kollega/service.py",
+    "line": 1821,
+    "context": "\"\"\"Log usage to database.\"\"\""
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/intelligence/ki_kollega/service.py",
+    "line": 1860,
+    "context": "\"answer\": \"Database-tilkobling mangler. Prøv igjen senere.\","
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/intelligence/ki_kollega/service.py",
+    "line": 1862,
+    "context": "\"error\": \"No database\","
+  },
+  {
+    "term": "datasett",
+    "file": "backend/app/services/intelligence/ki_kollega/service.py",
+    "line": 266,
+    "context": "\"befs_dataset\": {\"type\": \"string\", \"description\": \"BEFS-datasett: region_costs, properties eller con"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/intelligence/ki_kollega/service.py",
+    "line": 1376,
+    "context": "metadata={\"type\": \"conversation\", \"user_query\": message}"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/intelligence/ki_kollega/service.py",
+    "line": 1569,
+    "context": "metadata={\"type\": \"conversation\", \"user_query\": message[:100]}"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/intelligence/ki_kollega/service.py",
+    "line": 1999,
+    "context": "metadata={\"type\": \"conversation\", \"user_query\": message, \"mode\": \"unified\"},"
+  },
+  {
+    "term": "prosjekt",
+    "file": "backend/app/services/intelligence/ki_kollega/service.py",
+    "line": 219,
+    "context": "\"project_key\": {\"type\": \"string\", \"description\": \"Prosjekt (standard 'KAN' for BEFS)\", \"default\": \"K"
+  },
+  {
+    "term": "tilgang",
+    "file": "backend/app/services/intelligence/ki_kollega/service.py",
+    "line": 1287,
+    "context": "chat_messages.append(SystemMessage(content=f\"Du har tilgang til følgende relevant langtidsinformasjo"
+  },
+  {
+    "term": "tilgang",
+    "file": "backend/app/services/intelligence/ki_kollega/service.py",
+    "line": 1499,
+    "context": "chat_messages.append(SystemMessage(content=f\"Du har tilgang til følgende relevant langtidsinformasjo"
+  },
+  {
+    "term": "tilgang",
+    "file": "backend/app/services/intelligence/ki_kollega/service.py",
+    "line": 1943,
+    "context": "chat_messages.append(SystemMessage(content=f\"Du har tilgang til følgende relevant langtidsinformasjo"
+  },
+  {
+    "term": "tilgang",
+    "file": "backend/app/services/intelligence/ki_kollega/service.py",
+    "line": 1948,
+    "context": "chat_messages.append(SystemMessage(content=f\"Du har tilgang til følgende relevant langtidsinformasjo"
+  },
+  {
+    "term": "tilgjengelighet",
+    "file": "backend/app/services/intelligence/ki_kollega/service.py",
+    "line": 584,
+    "context": "formatted.append(f\"**Tilgjengelighetsrisiko: {accessibility_risk['risk_score']}/100\")"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/intelligence/agents/prompts.py",
+    "line": 55,
+    "context": "2. ALDRI vis SQL, database-spørringer eller system-intern informasjon til brukeren."
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/intelligence/agents/prompts.py",
+    "line": 56,
+    "context": "3. ALDRI referer til \"data\", \"database\", \"system\", \"tabell\" eller tekniske termer."
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/intelligence/agents/nodes/memory.py",
+    "line": 36,
+    "context": "metadata={\"type\": \"explicit_memory\", \"source\": \"user_request\"}"
+  },
+  {
+    "term": "datakvalitet",
+    "file": "backend/app/services/intelligence/agents/nodes/reflector.py",
+    "line": 14,
+    "context": "TraceLogger.log_node(\"reflector\", \"Vurderer datakvalitet og svar-evne...\")"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/intelligence/agents/nodes/analyst.py",
+    "line": 176,
+    "context": "\"messages\": [SystemMessage(content=\"ANALYST: Ingen resultater funnet i databasen for spørsmålet ditt"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/intelligence/agents/nodes/analyst.py",
+    "line": 242,
+    "context": "\"messages\": [SystemMessage(content=f\"ANALYST: Kunne ikke utføre database-analyse. Teknisk feil: {str"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/intelligence/agents/nodes/writer.py",
+    "line": 66,
+    "context": "\"LOVDATA_RESULTATER\", \"ANALYST_RESULT\", \"DATABASE_RAPPORT\", \"INTERNKONTROLL_RESULTAT\", \"KOMPRIMERT_K"
+  },
+  {
+    "term": "internkontroll",
+    "file": "backend/app/services/intelligence/agents/nodes/writer.py",
+    "line": 66,
+    "context": "\"LOVDATA_RESULTATER\", \"ANALYST_RESULT\", \"DATABASE_RAPPORT\", \"INTERNKONTROLL_RESULTAT\", \"KOMPRIMERT_K"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/intelligence/agents/nodes/writer.py",
+    "line": 160,
+    "context": "if hasattr(chunk, \"response_metadata\") and chunk.response_metadata and \"token_usage\" in chunk.respon"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/intelligence/agents/nodes/writer.py",
+    "line": 161,
+    "context": "usage_data = chunk.response_metadata[\"token_usage\"]"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/intelligence/agents/nodes/researcher.py",
+    "line": 22,
+    "context": "TraceLogger.log_node(\"researcher\", \"Søker etter informasjon i dokumenter og database...\")"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/intelligence/agents/nodes/researcher.py",
+    "line": 258,
+    "context": "# 2. Try structured database search (RAG, fulltext search)"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/intelligence/agents/nodes/researcher.py",
+    "line": 260,
+    "context": "logger.info(\"🔎 Researcher: Trying structured database search...\")"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/intelligence/agents/nodes/researcher.py",
+    "line": 321,
+    "context": "logger.error(f\"🔎 Researcher: Database search failed: {e}\")"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/intelligence/agents/nodes/researcher.py",
+    "line": 323,
+    "context": "# 3. Check if this is a database query (not a document/web query)"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/intelligence/agents/nodes/researcher.py",
+    "line": 325,
+    "context": "database_query_keywords = ["
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/intelligence/agents/nodes/researcher.py",
+    "line": 333,
+    "context": "is_database_query = any(k in text_lower for k in database_query_keywords)"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/intelligence/agents/nodes/researcher.py",
+    "line": 335,
+    "context": "# 4. Fallback to Web Search (only if NOT a database query)"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/intelligence/agents/nodes/researcher.py",
+    "line": 336,
+    "context": "if not found_results and not is_database_query:"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/intelligence/agents/nodes/researcher.py",
+    "line": 362,
+    "context": "# - It's a database query OR web search didn't find anything"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/intelligence/agents/nodes/researcher.py",
+    "line": 364,
+    "context": "if is_database_query:"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/intelligence/agents/nodes/researcher.py",
+    "line": 365,
+    "context": "logger.info(\"🔎 Researcher: Database query detected, routing to ANALYST for SQL analysis\")"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/intelligence/agents/nodes/researcher.py",
+    "line": 367,
+    "context": "\"messages\": [SystemMessage(content=\"DATABASE_SPØRSMÅL: Dette ser ut som et spørsmål om data i databa"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/intelligence/agents/nodes/action_node.py",
+    "line": 13,
+    "context": "Forbereder og håndterer utførelse av verktøy (f.eks. Jira, E-post, Database mutasjoner)."
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/intelligence/unified_agent/tools.py",
+    "line": 4,
+    "context": "Tools are created with db and service via closure so they have access to database session."
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/intelligence/unified_agent/tools.py",
+    "line": 39,
+    "context": "\"\"\"Kjør database-analyse mot PostgreSQL. Bruk dette for:"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/intelligence/unified_agent/tools.py",
+    "line": 52,
+    "context": "return f\"Feil ved database-analyse: {str(e)}\""
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/intelligence/unified_agent/graph.py",
+    "line": 164,
+    "context": "db: AsyncSession for database access (passed to tools via closure)"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/mcp/handler.py",
+    "line": 713,
+    "context": "description=\"\"\"Utfør en READ-ONLY SQL-spørring mot Postgres-databasen. Bruk denne for komplekse anal"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/mcp/handler.py",
+    "line": 1983,
+    "context": "additional_metadata={"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/mcp/script_executor.py",
+    "line": 117,
+    "context": "\"description\": \"Count contracts in database\","
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/mcp/script_executor.py",
+    "line": 137,
+    "context": "\"description\": \"Verify HMS database schema\","
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/mcp/script_executor.py",
+    "line": 208,
+    "context": "\"description\": \"Inspect database schema\","
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/mcp/script_executor.py",
+    "line": 215,
+    "context": "\"description\": \"Compare CSV with database portfolio\","
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/mcp/script_executor.py",
+    "line": 237,
+    "context": "\"show_database_schema\": {"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/mcp/script_executor.py",
+    "line": 238,
+    "context": "\"path\": \"backend/scripts/show_database_schema.py\","
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/mcp/script_executor.py",
+    "line": 239,
+    "context": "\"description\": \"Display complete database schema\","
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/search/indexer.py",
+    "line": 72,
+    "context": "logger.warning(\"No PDF files found in database to index\")"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/search/indexer.py",
+    "line": 179,
+    "context": "# Build metadata dict with all available information"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/search/indexer.py",
+    "line": 180,
+    "context": "chunk_metadata = {"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/search/indexer.py",
+    "line": 189,
+    "context": "chunk_metadata[\"tables\"] = chunk[\"tables\"]"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/search/indexer.py",
+    "line": 191,
+    "context": "# Add PDF metadata if present (typically in first chunk)"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/search/indexer.py",
+    "line": 192,
+    "context": "if \"pdf_metadata\" in chunk:"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/search/indexer.py",
+    "line": 193,
+    "context": "chunk_metadata[\"pdf_metadata\"] = chunk[\"pdf_metadata\"]"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/search/indexer.py",
+    "line": 203,
+    "context": "additional_metadata=chunk_metadata,"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/search/search_service.py",
+    "line": 26,
+    "context": "session: Database session"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/search/search_service.py",
+    "line": 33,
+    "context": "List of search results with metadata and ranking"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/search/search_service.py",
+    "line": 48,
+    "context": "additional_metadata,"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/search/search_service.py",
+    "line": 91,
+    "context": "'metadata': row.additional_metadata,"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/search/search_service.py",
+    "line": 170,
+    "context": "additional_metadata,"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/search/search_service.py",
+    "line": 189,
+    "context": "additional_metadata,"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/search/search_service.py",
+    "line": 241,
+    "context": "'metadata': row.additional_metadata,"
+  },
+  {
+    "term": "deling",
+    "file": "backend/app/services/ml/feature_engineering.py",
+    "line": 37,
+    "context": "UNIT_TYPES = [\"Barnevernsinstitusjon\", \"Institusjonsavdeling\", \"Omsorgssenter\"]"
+  },
+  {
+    "term": "deling",
+    "file": "backend/app/services/ml/feature_engineering.py",
+    "line": 337,
+    "context": "\"unit_institusjonsavdeling\","
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/ml/feature_engineering.py",
+    "line": 5,
+    "context": "Features: property metadata + last year's GL costs + contract commitments."
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/ml/feature_engineering.py",
+    "line": 42,
+    "context": "Returns one row per property with static metadata features."
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/ml/feature_engineering.py",
+    "line": 214,
+    "context": "# Get property metadata"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/ml/model_registry.py",
+    "line": 2,
+    "context": "Model registry: holds the trained predictor in memory and persists metadata to JSON."
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/ml/model_registry.py",
+    "line": 8,
+    "context": "Metadata (metrics, feature importances, training timestamp) is persisted to a JSON"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/ml/model_registry.py",
+    "line": 22,
+    "context": "_METADATA_PATH = os.path.join(os.path.dirname(__file__), \"model_metadata.json\")"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/ml/model_registry.py",
+    "line": 39,
+    "context": "self._metadata: dict[str, Any] = {}"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/ml/model_registry.py",
+    "line": 40,
+    "context": "self._load_metadata()"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/ml/model_registry.py",
+    "line": 71,
+    "context": "elif self._metadata:"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/ml/model_registry.py",
+    "line": 72,
+    "context": "base.update(self._metadata)"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/ml/model_registry.py",
+    "line": 75,
+    "context": "\"Metadata fra forrige trening. \""
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/ml/model_registry.py",
+    "line": 81,
+    "context": "\"\"\"Store a newly trained predictor and persist its metadata to JSON.\"\"\""
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/ml/model_registry.py",
+    "line": 88,
+    "context": "self._metadata = {"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/ml/model_registry.py",
+    "line": 101,
+    "context": "self._save_metadata()"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/ml/model_registry.py",
+    "line": 104,
+    "context": "\"\"\"Remove the in-memory model (metadata is kept on disk).\"\"\""
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/ml/model_registry.py",
+    "line": 108,
+    "context": "def _save_metadata(self) -> None:"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/ml/model_registry.py",
+    "line": 110,
+    "context": "with open(_METADATA_PATH, \"w\", encoding=\"utf-8\") as f:"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/ml/model_registry.py",
+    "line": 111,
+    "context": "json.dump(self._metadata, f, indent=2, ensure_ascii=False)"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/ml/model_registry.py",
+    "line": 113,
+    "context": "logger.debug(\"Could not save model metadata: %s\", exc)"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/ml/model_registry.py",
+    "line": 115,
+    "context": "def _load_metadata(self) -> None:"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/ml/model_registry.py",
+    "line": 117,
+    "context": "if os.path.exists(_METADATA_PATH):"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/ml/model_registry.py",
+    "line": 118,
+    "context": "with open(_METADATA_PATH, encoding=\"utf-8\") as f:"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/ml/model_registry.py",
+    "line": 119,
+    "context": "self._metadata = json.load(f)"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/ml/model_registry.py",
+    "line": 120,
+    "context": "self._trained_at = self._metadata.get(\"trained_at\")"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/ml/model_registry.py",
+    "line": 121,
+    "context": "self._data_through_year = self._metadata.get(\"data_through_year\")"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/ml/model_registry.py",
+    "line": 123,
+    "context": "logger.debug(\"Could not load model metadata: %s\", exc)"
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/proximity/validator.py",
+    "line": 451,
+    "context": "db: Database session"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/proximity/validator.py",
+    "line": 120,
+    "context": "\"metadata\": {"
+  },
+  {
+    "term": "tilgjengelighet",
+    "file": "backend/app/services/proximity/validator.py",
+    "line": 431,
+    "context": "\"✓ Eiendommen har god tilgjengelighet til nødvendige tjenester.\""
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/governance/classification_service.py",
+    "line": 6,
+    "context": "from app.models.data_governance import DataFieldMetadata"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/governance/classification_service.py",
+    "line": 32,
+    "context": "stmt = select(DataFieldMetadata)"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/governance/classification_service.py",
+    "line": 34,
+    "context": "metadata_map = {"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/governance/classification_service.py",
+    "line": 51,
+    "context": "meta = metadata_map.get((table_name, col_name))"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/governance/classification_service.py",
+    "line": 83,
+    "context": "stmt = select(DataFieldMetadata).where("
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/governance/classification_service.py",
+    "line": 84,
+    "context": "DataFieldMetadata.table_name == table,"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/governance/classification_service.py",
+    "line": 85,
+    "context": "DataFieldMetadata.column_name == column"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/governance/classification_service.py",
+    "line": 93,
+    "context": "meta = DataFieldMetadata("
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/external/brreg_service.py",
+    "line": 556,
+    "context": "# Dette krever at vi lagrer forrige state i databasen og sammenligner."
+  },
+  {
+    "term": "rettighetshaver",
+    "file": "backend/app/services/external/brreg_service.py",
+    "line": 273,
+    "context": "async def get_reelle_rettighetshavere(org_nr: str) -> Optional[Dict[str, Any]]:"
+  },
+  {
+    "term": "rettighetshaver",
+    "file": "backend/app/services/external/brreg_service.py",
+    "line": 275,
+    "context": "Fetches 'Reelle Rettighetshavere' (Beneficial Owners) using Maskinporten Auth."
+  },
+  {
+    "term": "rettighetshaver",
+    "file": "backend/app/services/external/brreg_service.py",
+    "line": 285,
+    "context": "url = f\"https://rrh.brreg.no/api/oppslag/rettighetshavere/{org_nr}\""
+  },
+  {
+    "term": "database",
+    "file": "backend/app/services/external/osm_client.py",
+    "line": 83,
+    "context": "db: Database session for logging"
+  },
+  {
+    "term": "FAIR",
+    "file": "backend/app/services/external/osm_client.py",
+    "line": 262,
+    "context": "\"\"\"Logger API-bruk (gratis, men bra å tracke for fair use).\"\"\""
+  },
+  {
+    "term": "tilgjengelighet",
+    "file": "backend/app/services/external/osm_client.py",
+    "line": 41,
+    "context": "# Utvidet for barnevern og tilgjengelighet"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/external/api_clients/lovdata_client.py",
+    "line": 48,
+    "context": "Retrieve metadata for a specific document."
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/external/api_clients/ssb_pxweb_client.py",
+    "line": 79,
+    "context": "async def get_metadata(self, table_id: str, lang: str = \"no\") -> Dict[str, Any]:"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/external/api_clients/ssb_pxweb_client.py",
+    "line": 81,
+    "context": "Get metadata (variables, value codes) for a table."
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/external/api_clients/ssb_pxweb_client.py",
+    "line": 82,
+    "context": "GET /tables/{id}/metadata"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/external/api_clients/ssb_pxweb_client.py",
+    "line": 84,
+    "context": "url = f\"{self.base_url}/tables/{table_id}/metadata\""
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/external/api_clients/ssb_pxweb_client.py",
+    "line": 92,
+    "context": "logger.error(\"SSB get_metadata HTTP error %s: %s\", e.response.status_code, e.response.text)"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/external/api_clients/ssb_pxweb_client.py",
+    "line": 95,
+    "context": "logger.error(\"SSB get_metadata error: %s\", e)"
+  },
+  {
+    "term": "åpne data",
+    "file": "backend/app/services/external/api_clients/stortinget_open_data_client.py",
+    "line": 2,
+    "context": "Synkron klient for Stortingets åpne data (data.stortinget.no/eksport/...)."
+  },
+  {
+    "term": "samtykke",
+    "file": "backend/app/services/risk/compliance_interfaces.py",
+    "line": 28,
+    "context": "Requires 'Samtykke' or legal basis."
+  },
+  {
+    "term": "metadata",
+    "file": "backend/app/services/analytics/ml_watchdog.py",
+    "line": 86,
+    "context": "metadata={"
+  },
+  {
+    "term": "deling",
+    "file": "backend/app/services/analytics/cost_analysis_service.py",
+    "line": 298,
+    "context": "- Ved annual_rent=0 settes alle ratioer til 0 (unngår deling på null)."
+  },
+  {
+    "term": "database",
+    "file": "backend/docs/DPIA.md",
+    "line": 27,
+    "context": "* **Lagring:** Supabase Database (PostgreSQL) - Managed Service."
+  },
+  {
+    "term": "database",
+    "file": "backend/docs/DPIA.md",
+    "line": 41,
+    "context": "BE -->|SQL (Kryptert)| DB[(PostgreSQL Database)]"
+  },
+  {
+    "term": "databehandler",
+    "file": "backend/docs/DPIA.md",
+    "line": 104,
+    "context": "- [ ] **Databehandleravtaler:** Supabase (DB), Vercel/Hosting (Frontend) og evt. AI-provider må ha g"
+  },
+  {
+    "term": "databehandleravtale",
+    "file": "backend/docs/DPIA.md",
+    "line": 104,
+    "context": "- [ ] **Databehandleravtaler:** Supabase (DB), Vercel/Hosting (Frontend) og evt. AI-provider må ha g"
+  },
+  {
+    "term": "deling",
+    "file": "backend/docs/DPIA.md",
+    "line": 29,
+    "context": "* Interne avdelinger (Økonomi, Drift, HR)"
+  },
+  {
+    "term": "DPIA",
+    "file": "backend/docs/DPIA.md",
+    "line": 1,
+    "context": "# DPIA: Personvernkonsekvensutredning for BEFS (Boenhetsforvaltningssystem)"
+  },
+  {
+    "term": "GDPR",
+    "file": "backend/docs/DPIA.md",
+    "line": 50,
+    "context": "- [ ] **Særlige kategorier (Sensitive data):** Ingen planlagt behandling av helseopplysninger eller "
+  },
+  {
+    "term": "GDPR",
+    "file": "backend/docs/DPIA.md",
+    "line": 59,
+    "context": "* **Nødvendig for avtale (GDPR Art 6.1.b):** Behandling av kontraktinformasjon og kontaktinfo for å "
+  },
+  {
+    "term": "GDPR",
+    "file": "backend/docs/DPIA.md",
+    "line": 60,
+    "context": "* **Rettslig forpliktelse (GDPR Art 6.1.c):** Lagring av data iht. Bokføringsloven (5 år)."
+  },
+  {
+    "term": "GDPR",
+    "file": "backend/docs/DPIA.md",
+    "line": 61,
+    "context": "* **Berettiget interesse (GDPR Art 6.1.f):** Sikkerhetslogging, drift av IoT-sensorer for energiopti"
+  },
+  {
+    "term": "helseopplysning",
+    "file": "backend/docs/DPIA.md",
+    "line": 50,
+    "context": "- [ ] **Særlige kategorier (Sensitive data):** Ingen planlagt behandling av helseopplysninger eller "
+  },
+  {
+    "term": "metadata",
+    "file": "backend/docs/DPIA.md",
+    "line": 51,
+    "context": "- [x] **Tekniske spor:** IP-adresser, innloggingslogger, systemlogger, sensor-metadata (om det kan k"
+  },
+  {
+    "term": "personopplysning",
+    "file": "backend/docs/DPIA.md",
+    "line": 46,
+    "context": "### 1.3 Kategorier av personopplysninger"
+  },
+  {
+    "term": "personopplysning",
+    "file": "backend/docs/DPIA.md",
+    "line": 48,
+    "context": "- [x] **Alminnelige personopplysninger:** Navn, e-post, telefonnummer, adresse (Leietakere, Ansatte,"
+  },
+  {
+    "term": "personvern",
+    "file": "backend/docs/DPIA.md",
+    "line": 1,
+    "context": "# DPIA: Personvernkonsekvensutredning for BEFS (Boenhetsforvaltningssystem)"
+  },
+  {
+    "term": "personvern",
+    "file": "backend/docs/DPIA.md",
+    "line": 81,
+    "context": "| **Feil tilgangsstyring** (Intern tilgang) | 3 | 4 | **12 (Høy)** | Ansatte ser data de ikke skal ("
+  },
+  {
+    "term": "tilgang",
+    "file": "backend/docs/DPIA.md",
+    "line": 25,
+    "context": "* IoT-enheter (Sensorer for temperatur, energi, tilgangskontroll)"
+  },
+  {
+    "term": "tilgang",
+    "file": "backend/docs/DPIA.md",
+    "line": 80,
+    "context": "| **Uautorisert tilgang** (Hacking/Konto-tyveri) | 2 | 5 | **10 (Høy)** | Sensitive data (kontrakter"
+  },
+  {
+    "term": "tilgang",
+    "file": "backend/docs/DPIA.md",
+    "line": 81,
+    "context": "| **Feil tilgangsstyring** (Intern tilgang) | 3 | 4 | **12 (Høy)** | Ansatte ser data de ikke skal ("
+  },
+  {
+    "term": "tilgang",
+    "file": "backend/docs/DPIA.md",
+    "line": 93,
+    "context": "- [x] **Tilgangskontroll:** Rollebasert tilgangskontroll (RBAC) implementert i Backend (FastAPI depe"
+  },
+  {
+    "term": "tilgang",
+    "file": "backend/docs/DPIA.md",
+    "line": 96,
+    "context": "- [x] **Logging:** Systemrevisjonsspor (Audit logs) for sensitive operasjoner (sletting, endring av "
+  },
+  {
+    "term": "tilgangskontroll",
+    "file": "backend/docs/DPIA.md",
+    "line": 25,
+    "context": "* IoT-enheter (Sensorer for temperatur, energi, tilgangskontroll)"
+  },
+  {
+    "term": "tilgangskontroll",
+    "file": "backend/docs/DPIA.md",
+    "line": 93,
+    "context": "- [x] **Tilgangskontroll:** Rollebasert tilgangskontroll (RBAC) implementert i Backend (FastAPI depe"
+  },
+  {
+    "term": "database",
+    "file": "backend/docs/LANGEXTRACT_POC.md",
+    "line": 153,
+    "context": "# 3. Lagre i database"
+  },
+  {
+    "term": "database",
+    "file": "backend/docs/ADMIN_HANDBOOK.md",
+    "line": 10,
+    "context": "*   System health (Database, API connectivity)"
+  },
+  {
+    "term": "database",
+    "file": "backend/docs/ADMIN_HANDBOOK.md",
+    "line": 23,
+    "context": "This tool provides a real-time audit of the database schema:"
+  },
+  {
+    "term": "database",
+    "file": "backend/docs/ADMIN_HANDBOOK.md",
+    "line": 46,
+    "context": "*   **Database connection:** Check `/health` endpoint."
+  },
+  {
+    "term": "GDPR",
+    "file": "backend/docs/ADMIN_HANDBOOK.md",
+    "line": 34,
+    "context": "### 3.3 GDPR & Privacy"
+  },
+  {
+    "term": "database",
+    "file": "backend/docs/PDF_PROSESSERING_DOCLING.md",
+    "line": 12,
+    "context": "2. **indexer.py** - Indeksering av PDF-innhold til database"
+  },
+  {
+    "term": "database",
+    "file": "backend/docs/PDF_PROSESSERING_DOCLING.md",
+    "line": 133,
+    "context": "## Database-lagring"
+  },
+  {
+    "term": "database",
+    "file": "backend/docs/PDF_PROSESSERING_DOCLING.md",
+    "line": 364,
+    "context": "- PDF-innhold lagres kryptert i database"
+  },
+  {
+    "term": "datahåndtering",
+    "file": "backend/docs/PDF_PROSESSERING_DOCLING.md",
+    "line": 362,
+    "context": "### Datahåndtering"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/docs/PDF_PROSESSERING_DOCLING.md",
+    "line": 5,
+    "context": "BEFS bruker **Docling** som primær PDF-parser med PyPDF som fallback. Docling gir avansert dokumentf"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/docs/PDF_PROSESSERING_DOCLING.md",
+    "line": 19,
+    "context": "PDF-fil → pdf_processor.py → Docling/PyPDF → Tekst + Tabeller + Metadata"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/docs/PDF_PROSESSERING_DOCLING.md",
+    "line": 60,
+    "context": "# Prosesser PDF og få chunks med metadata"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/docs/PDF_PROSESSERING_DOCLING.md",
+    "line": 67,
+    "context": "# Resultat: Liste av chunks med tekst, tabeller og metadata"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/docs/PDF_PROSESSERING_DOCLING.md",
+    "line": 72,
+    "context": "if 'pdf_metadata' in chunk:"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/docs/PDF_PROSESSERING_DOCLING.md",
+    "line": 73,
+    "context": "print(f\"  Metadata: {chunk['pdf_metadata']}\")"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/docs/PDF_PROSESSERING_DOCLING.md",
+    "line": 87,
+    "context": "print(f\"Metadata: {result['metadata']}\")"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/docs/PDF_PROSESSERING_DOCLING.md",
+    "line": 113,
+    "context": "- `pdf_docs/extracted/manifest.json` - Metadata om prosesseringen"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/docs/PDF_PROSESSERING_DOCLING.md",
+    "line": 125,
+    "context": "\"pdf_metadata\": {"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/docs/PDF_PROSESSERING_DOCLING.md",
+    "line": 137,
+    "context": "PDF-chunks lagres i `text_content`-tabellen med utvidet metadata:"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/docs/PDF_PROSESSERING_DOCLING.md",
+    "line": 146,
+    "context": "\"additional_metadata\": {"
+  },
+  {
+    "term": "metadata",
+    "file": "backend/docs/PDF_PROSESSERING_DOCLING.md",
+    "line": 156,
+    "context": "\"pdf_metadata\": {"
+  },
+  {
+    "term": "database",
+    "file": "backend/docs/BRUKERHJELP.md",
+    "line": 56,
+    "context": "KI-Kollega bruker en **samlet modus** som automatisk velger riktige verktøy for spørsmålet ditt. Den"
+  },
+  {
+    "term": "database",
+    "file": "backend/docs/BRUKERHJELP.md",
+    "line": 139,
+    "context": "* **Dataklassifisering:** Oversikt over alle tabeller i databasen og deres risikonivå (Nivå 1: Publi"
+  },
+  {
+    "term": "database",
+    "file": "backend/docs/BRUKERHJELP.md",
+    "line": 572,
+    "context": "Viser tilkoblingsstatus til Backend API og database."
+  },
+  {
+    "term": "database",
+    "file": "backend/docs/BRUKERHJELP.md",
+    "line": 809,
+    "context": "A: Ja, som alle systemer kan den misforstå. Men i motsetning til \"ChatGPT\", hallusinerer den ikke ta"
+  },
+  {
+    "term": "datasikkerhet",
+    "file": "backend/docs/BRUKERHJELP.md",
+    "line": 834,
+    "context": "## Personvern og Datasikkerhet (GDPR)"
+  },
+  {
+    "term": "deling",
+    "file": "backend/docs/BRUKERHJELP.md",
+    "line": 239,
+    "context": "### Fordeling"
+  },
+  {
+    "term": "deling",
+    "file": "backend/docs/BRUKERHJELP.md",
+    "line": 241,
+    "context": "Tabellen **Fordeling per SRS-kategori** viser Drift, Investering og Gjennomstrømning separat. **Per "
+  },
+  {
+    "term": "deling",
+    "file": "backend/docs/BRUKERHJELP.md",
+    "line": 249,
+    "context": "Klikk på **«Metodebeskrivelse»** nederst på siden for en teknisk forklaring beregnet på revisorer og"
+  },
+  {
+    "term": "deling",
+    "file": "backend/docs/BRUKERHJELP.md",
+    "line": 259,
+    "context": "**SRS-rapporten** dokumenterer etterlevelse av **Statlig Regnskapsstandard (SRS)** og er primært ber"
+  },
+  {
+    "term": "deling",
+    "file": "backend/docs/BRUKERHJELP.md",
+    "line": 285,
+    "context": "Viser antall transaksjoner og beløpsfordeling per kategori."
+  },
+  {
+    "term": "deling",
+    "file": "backend/docs/BRUKERHJELP.md",
+    "line": 619,
+    "context": "* **Kostnader per kategori:** Fordeling av utgifter."
+  },
+  {
+    "term": "deling",
+    "file": "backend/docs/BRUKERHJELP.md",
+    "line": 680,
+    "context": "* **Vanligste Kostnadskategorier:** Fordeling av utgiftstyper på tvers av eiendommer."
+  },
+  {
+    "term": "deling",
+    "file": "backend/docs/BRUKERHJELP.md",
+    "line": 691,
+    "context": "* **Leverandørstatistikk:** Fordeling av utgifter på leverandører."
+  },
+  {
+    "term": "deling",
+    "file": "backend/docs/BRUKERHJELP.md",
+    "line": 891,
+    "context": "**Agresso CSV-lab** er et verktøy for regnskapsavdelingen og dataansvarlige til å analysere og valid"
+  },
+  {
+    "term": "deling",
+    "file": "backend/docs/BRUKERHJELP.md",
+    "line": 899,
+    "context": "* **Sammendrag** – viser antall linjer, totalt beløp, fordeling på kategori og bilagsart"
+  },
+  {
+    "term": "deling",
+    "file": "backend/docs/BRUKERHJELP.md",
+    "line": 916,
+    "context": "3. Gjennomgå sammendragskortet øverst (antall linjer, totalt beløp, kategorifordeling)"
+  },
+  {
+    "term": "deling",
+    "file": "backend/docs/BRUKERHJELP.md",
+    "line": 927,
+    "context": "| Bilagsart «CA/CF/KF/OP» flagget | Utgåtte bilagsarter | Disse skal ikke forekomme i nye uttrekk – "
+  },
+  {
+    "term": "DPIA",
+    "file": "backend/docs/BRUKERHJELP.md",
+    "line": 142,
+    "context": "* **DPIA (Personvernkonsekvensutredning):** En digital og oppdatert utredning som dokumenterer risik"
+  },
+  {
+    "term": "DPIA",
+    "file": "backend/docs/BRUKERHJELP.md",
+    "line": 148,
+    "context": "* **DPIA-modus:** Les den formelle vurderingen av personvern og sikkerhetstiltak i systemet."
+  },
+  {
+    "term": "GDPR",
+    "file": "backend/docs/BRUKERHJELP.md",
+    "line": 135,
+    "context": "For å sikre full åpenhet og kontroll over hvordan vi håndterer sensitive data, har BEFS et eget **Da"
+  },
+  {
+    "term": "GDPR",
+    "file": "backend/docs/BRUKERHJELP.md",
+    "line": 834,
+    "context": "## Personvern og Datasikkerhet (GDPR)"
+  },
+  {
+    "term": "informasjonssikkerhet",
+    "file": "backend/docs/BRUKERHJELP.md",
+    "line": 135,
+    "context": "For å sikre full åpenhet og kontroll over hvordan vi håndterer sensitive data, har BEFS et eget **Da"
+  },
+  {
+    "term": "internkontroll",
+    "file": "backend/docs/BRUKERHJELP.md",
+    "line": 109,
+    "context": "Internkontroll satt i system."
+  },
+  {
+    "term": "internkontroll",
+    "file": "backend/docs/BRUKERHJELP.md",
+    "line": 112,
+    "context": "* **Avvik:** Avvikelse fra krav eller plan (f.eks. manglende dokumentasjon, forfalt inspeksjon, HMS-"
+  },
+  {
+    "term": "internkontroll",
+    "file": "backend/docs/BRUKERHJELP.md",
+    "line": 113,
+    "context": "* **Sjekklister:** Strukturerte lister for internkontroll (f.eks. brannslukker, rømningsveier). Bruk"
+  },
+  {
+    "term": "internkontroll",
+    "file": "backend/docs/BRUKERHJELP.md",
+    "line": 114,
+    "context": "* **Mine maler:** Opprett egne sjekklistemaler under Sjekklister → Mine maler. Legg til sjekkpunkter"
+  },
+  {
+    "term": "internkontroll",
+    "file": "backend/docs/BRUKERHJELP.md",
+    "line": 337,
+    "context": "## Sjekklister og internkontroll"
+  },
+  {
+    "term": "internkontroll",
+    "file": "backend/docs/BRUKERHJELP.md",
+    "line": 339,
+    "context": "Siden **Sjekklister** viser dine planlagte internkontroll-oppgaver og lar deg fullføre sjekkrunder."
+  },
+  {
+    "term": "internkontroll",
+    "file": "backend/docs/BRUKERHJELP.md",
+    "line": 346,
+    "context": "* **Opprett sak fra mal:** På hver mal kan du velge eiendom og opprette en ny internkontroll-sak. På"
+  },
+  {
+    "term": "internkontroll",
+    "file": "backend/docs/BRUKERHJELP.md",
+    "line": 347,
+    "context": "* **Opprett internkontroll-saker:** For en eiendom kan du klikke «Opprett internkontroll-saker» for "
+  },
+  {
+    "term": "internkontroll",
+    "file": "backend/docs/BRUKERHJELP.md",
+    "line": 352,
+    "context": "Avvik er avvikelser fra krav eller plan: manglende dokumentasjon, forfalt inspeksjon, HMS-brudd, ved"
+  },
+  {
+    "term": "internkontroll",
+    "file": "backend/docs/BRUKERHJELP.md",
+    "line": 660,
+    "context": "* **Åpne avvik:** Antall avvik i internkontroll som venter på oppfølging."
+  },
+  {
+    "term": "metadata",
+    "file": "backend/docs/BRUKERHJELP.md",
+    "line": 768,
+    "context": "* **Metadata:** Dokumenttittel, forfatter, antall sider og opprettelsesdato."
+  },
+  {
+    "term": "personopplysning",
+    "file": "backend/docs/BRUKERHJELP.md",
+    "line": 841,
+    "context": "* **Sikkerhet:** Tilgang til systemet er strengt kontrollert. Kun autorisert personell har tilgang t"
+  },
+  {
+    "term": "personvern",
+    "file": "backend/docs/BRUKERHJELP.md",
+    "line": 135,
+    "context": "For å sikre full åpenhet og kontroll over hvordan vi håndterer sensitive data, har BEFS et eget **Da"
+  },
+  {
+    "term": "personvern",
+    "file": "backend/docs/BRUKERHJELP.md",
+    "line": 142,
+    "context": "* **DPIA (Personvernkonsekvensutredning):** En digital og oppdatert utredning som dokumenterer risik"
+  },
+  {
+    "term": "personvern",
+    "file": "backend/docs/BRUKERHJELP.md",
+    "line": 148,
+    "context": "* **DPIA-modus:** Les den formelle vurderingen av personvern og sikkerhetstiltak i systemet."
+  },
+  {
+    "term": "personvern",
+    "file": "backend/docs/BRUKERHJELP.md",
+    "line": 834,
+    "context": "## Personvern og Datasikkerhet (GDPR)"
+  },
+  {
+    "term": "personvern",
+    "file": "backend/docs/BRUKERHJELP.md",
+    "line": 836,
+    "context": "BEFS tar ditt personvern på alvor."
+  },
+  {
+    "term": "prosjekt",
+    "file": "backend/docs/BRUKERHJELP.md",
+    "line": 187,
+    "context": "Rullerende prognoser prosjektear **fremtidige kostnader** basert på historisk regnskap."
+  },
+  {
+    "term": "prosjekt",
+    "file": "backend/docs/BRUKERHJELP.md",
+    "line": 847,
+    "context": "Utdatert dokumentasjon er flyttet til mappen **`arkiv/`** i prosjektet for å holde root og backend r"
+  },
+  {
+    "term": "prosjekt",
+    "file": "backend/docs/BRUKERHJELP.md",
+    "line": 861,
+    "context": "Se **`arkiv/README.md`** i prosjektet for full oversikt. For oppdatert prosedyre: Brukerhjelp i appe"
+  },
+  {
+    "term": "prosjekt",
+    "file": "backend/docs/BRUKERHJELP.md",
+    "line": 908,
+    "context": "| **Dim 2 (Prosjekt)** | Prosjekt eller aktivitet |"
+  },
+  {
+    "term": "tilgang",
+    "file": "backend/docs/BRUKERHJELP.md",
+    "line": 404,
+    "context": "**SSB Statistikk**-siden gir tilgang til offisiell norsk statistikk fra Statistisk sentralbyrå direk"
+  },
+  {
+    "term": "tilgang",
+    "file": "backend/docs/BRUKERHJELP.md",
+    "line": 411,
+    "context": "* **Populære tabeller:** Hurtigtilgang til de mest brukte statistikktabellene for eiendomsforvaltnin"
+  },
+  {
+    "term": "tilgang",
+    "file": "backend/docs/BRUKERHJELP.md",
+    "line": 578,
+    "context": "Admin-dashboardet gir tilgang til administrative funksjoner. Krever admin-rolle."
+  },
+  {
+    "term": "tilgang",
+    "file": "backend/docs/BRUKERHJELP.md",
+    "line": 587,
+    "context": "* **Brukeradministrasjon:** Administrer brukerroller og tilganger."
+  },
+  {
+    "term": "tilgang",
+    "file": "backend/docs/BRUKERHJELP.md",
+    "line": 841,
+    "context": "* **Sikkerhet:** Tilgang til systemet er strengt kontrollert. Kun autorisert personell har tilgang t"
+  },
+  {
+    "term": "tilgjengelighet",
+    "file": "backend/docs/BRUKERHJELP.md",
+    "line": 398,
+    "context": "* **Bruk:** Nyttig når du vurderer tilgjengelighet til BUP-tjenester for eiendommer (f.eks. barnever"
+  },
+  {
+    "term": "datakvalitet",
+    "file": "backend/docs/plasseringavavdeling.md",
+    "line": 8,
+    "context": "2.  **Øke datakvalitet**: Sikre at fakturaer bokføres på korrekte enheter og gi automatiske varsler "
+  },
+  {
+    "term": "deling",
+    "file": "backend/docs/plasseringavavdeling.md",
+    "line": 1,
+    "context": "# Plassering av Avdeling mot Eiendom"
+  },
+  {
+    "term": "deling",
+    "file": "backend/docs/plasseringavavdeling.md",
+    "line": 4,
+    "context": "Tradisjonelt har det vært et gap mellom eiendomsforvaltningen (fysiske bygg) og regnskapsavdelingen "
+  },
+  {
+    "term": "deling",
+    "file": "backend/docs/plasseringavavdeling.md",
+    "line": 7,
+    "context": "1.  **Automatisere kostnadsovervåking**: Ved å knytte Avdelings-ID (Dim 1) direkte til Eiendoms-ID ("
+  },
+  {
+    "term": "deling",
+    "file": "backend/docs/plasseringavavdeling.md",
+    "line": 14,
+    "context": "Regnskapssystemet bruker **Dimensjon 1 (Enhet/Avdeling)** for å bokføre alle kostnader. Tidligere va"
+  },
+  {
+    "term": "deling",
+    "file": "backend/docs/plasseringavavdeling.md",
+    "line": 16,
+    "context": "Ved å legge til feltet `unit_id_erp` på hver eiendom, kan vi nå lese en regnskapsfil og automatisk s"
+  },
+  {
+    "term": "deling",
+    "file": "backend/docs/plasseringavavdeling.md",
+    "line": 29,
+    "context": "Strømkostnader kommer ofte som samlefiler. Hver måler er koblet til et bygg eller en avdeling."
+  },
+  {
+    "term": "deling",
+    "file": "backend/docs/plasseringavavdeling.md",
+    "line": 32,
+    "context": "- **Resultat**: Strømkostnaden plasseres riktig selv om avdelingsnavnet i strømfilen er litt annerle"
+  },
+  {
+    "term": "deling",
+    "file": "backend/docs/plasseringavavdeling.md",
+    "line": 41,
+    "context": "Hvis en leietaker betaler leie, bokføres dette ofte på eiendommens egen \"inntektsavdeling\"."
+  },
+  {
+    "term": "deling",
+    "file": "backend/docs/plasseringavavdeling.md",
+    "line": 50,
+    "context": "- **Resultat**: Systemet gir et varsel i dashbordet: *\"Kostnader registrert på avviklet enhet (Dim 1"
+  },
+  {
+    "term": "deling",
+    "file": "frontend/components/financials/TransactionExplorer.tsx",
+    "line": 130,
+    "context": "<th className=\"px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider\">Avdel"
+  },
+  {
+    "term": "database",
+    "file": "frontend/components/financials/CostSourceAnalysisSection.tsx",
+    "line": 13,
+    "context": "/** Alle år vi viser historikk for (GL i databasen + innkjøps-JSON der det finnes). */"
+  },
+  {
+    "term": "database",
+    "file": "frontend/components/financials/CostSourceAnalysisSection.tsx",
+    "line": 303,
+    "context": "GL-tall kommer fra databasen (alle transaksjoner). Innkjøpsanalyse krever importfil for året. Klikk "
+  },
+  {
+    "term": "deling",
+    "file": "frontend/components/financials/CostSourceAnalysisSection.tsx",
+    "line": 403,
+    "context": "Ingen direkte treff i innkjøpskategorier — sjekk kontonavn/oppdeling."
+  },
+  {
+    "term": "database",
+    "file": "frontend/components/ai/ActionApprovalCard.tsx",
+    "line": 38,
+    "context": "case 'update_database':"
+  },
+  {
+    "term": "database",
+    "file": "frontend/components/governance/GlossaryComponent.tsx",
+    "line": 7,
+    "context": "import { Search, Code, FileText, Database } from \"lucide-react\";"
+  },
+  {
+    "term": "database",
+    "file": "frontend/components/governance/GlossaryComponent.tsx",
+    "line": 143,
+    "context": "<Database className=\"h-16 w-16 mb-4 opacity-20\" />"
+  },
+  {
+    "term": "database",
+    "file": "frontend/components/governance/DataGovernanceDashboard.tsx",
+    "line": 7,
+    "context": "Database,"
+  },
+  {
+    "term": "database",
+    "file": "frontend/components/governance/DataGovernanceDashboard.tsx",
+    "line": 168,
+    "context": "1: { label: 'Nivå 1: Public/Internal', color: 'bg-green-100 text-green-800 border-green-200', icon: "
+  },
+  {
+    "term": "database",
+    "file": "frontend/components/governance/DataGovernanceDashboard.tsx",
+    "line": 406,
+    "context": "<Database className=\"w-4 h-4 text-indigo-500\" />"
+  },
+  {
+    "term": "datakatalog",
+    "file": "frontend/components/governance/DataGovernanceDashboard.tsx",
+    "line": 391,
+    "context": "Finansiell Datakatalog"
+  },
+  {
+    "term": "DPIA",
+    "file": "frontend/components/governance/DataGovernanceDashboard.tsx",
+    "line": 3,
+    "context": "import { getDPIA } from '../../lib/api/governanceApi';"
+  },
+  {
+    "term": "DPIA",
+    "file": "frontend/components/governance/DataGovernanceDashboard.tsx",
+    "line": 279,
+    "context": "type Tab = 'catalog' | 'dpia' | 'glossary' | 'finance_detail';"
+  },
+  {
+    "term": "DPIA",
+    "file": "frontend/components/governance/DataGovernanceDashboard.tsx",
+    "line": 288,
+    "context": "// DPIA State"
+  },
+  {
+    "term": "DPIA",
+    "file": "frontend/components/governance/DataGovernanceDashboard.tsx",
+    "line": 289,
+    "context": "const [dpiaContent, setDpiaContent] = useState<string | null>(null);"
+  },
+  {
+    "term": "DPIA",
+    "file": "frontend/components/governance/DataGovernanceDashboard.tsx",
+    "line": 290,
+    "context": "const [loadingDpia, setLoadingDpia] = useState(false);"
+  },
+  {
+    "term": "DPIA",
+    "file": "frontend/components/governance/DataGovernanceDashboard.tsx",
+    "line": 293,
+    "context": "if (activeTab === 'dpia' && !dpiaContent && !loadingDpia) {"
+  },
+  {
+    "term": "DPIA",
+    "file": "frontend/components/governance/DataGovernanceDashboard.tsx",
+    "line": 294,
+    "context": "const fetchDPIA = async () => {"
+  },
+  {
+    "term": "DPIA",
+    "file": "frontend/components/governance/DataGovernanceDashboard.tsx",
+    "line": 295,
+    "context": "setLoadingDpia(true);"
+  },
+  {
+    "term": "DPIA",
+    "file": "frontend/components/governance/DataGovernanceDashboard.tsx",
+    "line": 297,
+    "context": "const article = await getDPIA();"
+  },
+  {
+    "term": "DPIA",
+    "file": "frontend/components/governance/DataGovernanceDashboard.tsx",
+    "line": 298,
+    "context": "setDpiaContent(article.content);"
+  },
+  {
+    "term": "DPIA",
+    "file": "frontend/components/governance/DataGovernanceDashboard.tsx",
+    "line": 300,
+    "context": "console.error(\"Failed to fetch DPIA\", err);"
+  },
+  {
+    "term": "DPIA",
+    "file": "frontend/components/governance/DataGovernanceDashboard.tsx",
+    "line": 301,
+    "context": "setDpiaContent(\"# DPIA Not Found\\nCould not load the DPIA document.\");"
+  },
+  {
+    "term": "DPIA",
+    "file": "frontend/components/governance/DataGovernanceDashboard.tsx",
+    "line": 303,
+    "context": "setLoadingDpia(false);"
+  },
+  {
+    "term": "DPIA",
+    "file": "frontend/components/governance/DataGovernanceDashboard.tsx",
+    "line": 306,
+    "context": "fetchDPIA();"
+  },
+  {
+    "term": "DPIA",
+    "file": "frontend/components/governance/DataGovernanceDashboard.tsx",
+    "line": 308,
+    "context": "}, [activeTab, dpiaContent, loadingDpia]);"
+  },
+  {
+    "term": "DPIA",
+    "file": "frontend/components/governance/DataGovernanceDashboard.tsx",
+    "line": 350,
+    "context": "onClick={() => setActiveTab('dpia')}"
+  },
+  {
+    "term": "DPIA",
+    "file": "frontend/components/governance/DataGovernanceDashboard.tsx",
+    "line": 351,
+    "context": "className={`px-4 py-2 rounded-md text-sm font-medium transition-all ${activeTab === 'dpia'"
+  },
+  {
+    "term": "DPIA",
+    "file": "frontend/components/governance/DataGovernanceDashboard.tsx",
+    "line": 356,
+    "context": "DPIA (Sikkerhetsanalyse)"
+  },
+  {
+    "term": "DPIA",
+    "file": "frontend/components/governance/DataGovernanceDashboard.tsx",
+    "line": 618,
+    "context": "{loadingDpia ? ("
+  },
+  {
+    "term": "DPIA",
+    "file": "frontend/components/governance/DataGovernanceDashboard.tsx",
+    "line": 635,
+    "context": "{dpiaContent || ''}"
+  },
+  {
+    "term": "GDPR",
+    "file": "frontend/components/governance/DataGovernanceDashboard.tsx",
+    "line": 39,
+    "context": "legal: 'GDPR Art. 6.1.b (Kontrakt)',"
+  },
+  {
+    "term": "GDPR",
+    "file": "frontend/components/governance/DataGovernanceDashboard.tsx",
+    "line": 54,
+    "context": "legal: 'GDPR Art. 6.1.a (Samtykke)',"
+  },
+  {
+    "term": "GDPR",
+    "file": "frontend/components/governance/DataGovernanceDashboard.tsx",
+    "line": 101,
+    "context": "legal: 'GDPR Art. 6.1.f (Berettiget interesse)',"
+  },
+  {
+    "term": "GDPR",
+    "file": "frontend/components/governance/DataGovernanceDashboard.tsx",
+    "line": 146,
+    "context": "legal: 'GDPR Art. 32 (Sikkerhet)',"
+  },
+  {
+    "term": "metadata",
+    "file": "frontend/components/governance/DataGovernanceDashboard.tsx",
+    "line": 27,
+    "context": "// Extended catalog with Governance Metadata: Owner, Retention, Source, Legal Basis"
+  },
+  {
+    "term": "metadata",
+    "file": "frontend/components/governance/DataGovernanceDashboard.tsx",
+    "line": 559,
+    "context": "{/* Metadata Grid */}"
+  },
+  {
+    "term": "samtykke",
+    "file": "frontend/components/governance/DataGovernanceDashboard.tsx",
+    "line": 54,
+    "context": "legal: 'GDPR Art. 6.1.a (Samtykke)',"
+  },
+  {
+    "term": "tilgang",
+    "file": "frontend/components/governance/DataGovernanceDashboard.tsx",
+    "line": 37,
+    "context": "retention: 'Slettes 30 dager etter opphør av tilgang',"
+  },
+  {
+    "term": "tilgang",
+    "file": "frontend/components/governance/DataGovernanceDashboard.tsx",
+    "line": 56,
+    "context": "{ name: 'access_token', type: 'TEXT', level: 'Level 3: Restricted', description: 'Opaque token for A"
+  },
+  {
+    "term": "tilgang",
+    "file": "frontend/components/governance/DataGovernanceDashboard.tsx",
+    "line": 155,
+    "context": "identity: { label: 'Identitet & Tilgang', icon: Lock, color: 'text-red-600', bg: 'bg-red-50' },"
+  },
+  {
+    "term": "database",
+    "file": "frontend/lib/types.ts",
+    "line": 94,
+    "context": "database: string;"
+  },
+  {
+    "term": "deling",
+    "file": "frontend/lib/types.ts",
+    "line": 66,
+    "context": "// e-don2 / BIRK (avdeling, institusjon, kostnadsfordeling)"
+  },
+  {
+    "term": "deling",
+    "file": "frontend/lib/types.ts",
+    "line": 68,
+    "context": "unit_short_type?: string;   // Enhetskorttype: Avdeling | Barnevernsinstitusjon"
+  },
+  {
+    "term": "deling",
+    "file": "frontend/lib/types.ts",
+    "line": 69,
+    "context": "unit_type_derived?: string;  // Enhetstype (Utledet): Barnevernsinstitusjon | Institusjonsavdeling |"
+  },
+  {
+    "term": "deling",
+    "file": "frontend/lib/types.ts",
+    "line": 73,
+    "context": "department_code?: string;   // Avdelingens koststed (1:1 med institusjon)"
+  },
+  {
+    "term": "deling",
+    "file": "frontend/lib/types.ts",
+    "line": 74,
+    "context": "department_name?: string;   // Navn på avdeling (1:1 med institusjon)"
+  },
+  {
+    "term": "metadata",
+    "file": "frontend/lib/types.ts",
+    "line": 28,
+    "context": "metadata?: Record<string, any>;"
+  },
+  {
+    "term": "deling",
+    "file": "frontend/lib/mapPropertyTypes.ts",
+    "line": 10,
+    "context": "| 'Avdeling'"
+  },
+  {
+    "term": "deling",
+    "file": "frontend/lib/mapPropertyTypes.ts",
+    "line": 41,
+    "context": "if (matches(combined, 'avdeling', 'institusjonsavdeling')) return 'Avdeling';"
+  },
+  {
+    "term": "deling",
+    "file": "frontend/lib/mapPropertyTypes.ts",
+    "line": 53,
+    "context": "Avdeling: { color: '#ea580c', label: 'Avdeling', icon: LayoutGrid },"
+  },
+  {
+    "term": "deling",
+    "file": "frontend/lib/domains/agresso/columnDefinitions.ts",
+    "line": 15,
+    "context": "\"Bilagsart i Agresso (f.eks. IV = leverandørfaktura, KF = intern fordeling, CF/MP = betaling/korrige"
+  },
+  {
+    "term": "deling",
+    "file": "frontend/lib/domains/agresso/columnDefinitions.ts",
+    "line": 81,
+    "context": "explanation: \"Dimensjon 1 — beskrivelse (enhet, avdeling, ev. adresse i navnet).\","
+  },
+  {
+    "term": "deling",
+    "file": "frontend/lib/domains/agresso/columnDefinitions.ts",
+    "line": 97,
+    "context": "explanation: \"Ekstra fordelingsdimensjon (aktivitet/prosjekt — avhenger av oppsett).\","
+  },
+  {
+    "term": "deling",
+    "file": "frontend/lib/domains/agresso/columnDefinitions.ts",
+    "line": 102,
+    "context": "explanation: \"Ekstra fordelingsdimensjon.\","
+  },
+  {
+    "term": "deling",
+    "file": "frontend/lib/domains/agresso/columnDefinitions.ts",
+    "line": 107,
+    "context": "explanation: \"Ekstra fordelingsdimensjon.\","
+  },
+  {
+    "term": "deling",
+    "file": "frontend/lib/domains/agresso/columnDefinitions.ts",
+    "line": 112,
+    "context": "explanation: \"Ekstra fordelingsdimensjon.\","
+  },
+  {
+    "term": "deling",
+    "file": "frontend/lib/domains/agresso/columnDefinitions.ts",
+    "line": 117,
+    "context": "explanation: \"Ekstra fordelingsdimensjon.\","
+  },
+  {
+    "term": "prosjekt",
+    "file": "frontend/lib/domains/agresso/columnDefinitions.ts",
+    "line": 86,
+    "context": "explanation: \"Dimensjon 2 — kode (eiendom/prosjekt/lokalitet når brukt).\","
+  },
+  {
+    "term": "prosjekt",
+    "file": "frontend/lib/domains/agresso/columnDefinitions.ts",
+    "line": 92,
+    "context": "\"Dimensjon 2 — tekst. Ofte fysisk adresse eller bygg/prosjekt — sterkest spor til eiendom når utfylt"
+  },
+  {
+    "term": "prosjekt",
+    "file": "frontend/lib/domains/agresso/columnDefinitions.ts",
+    "line": 97,
+    "context": "explanation: \"Ekstra fordelingsdimensjon (aktivitet/prosjekt — avhenger av oppsett).\","
+  },
+  {
+    "term": "deling",
+    "file": "frontend/lib/domains/agresso/csvAnalysis.ts",
+    "line": 31,
+    "context": "bilag_many_locations: \"Bilaget har mange ulike Dim2-steder (≥ 9) — kontroller fordeling\","
+  },
+  {
+    "term": "metadata",
+    "file": "frontend/lib/domains/innsikt/searchService.ts",
+    "line": 6,
+    "context": "metadata: any;"
+  },
+  {
+    "term": "deling",
+    "file": "frontend/lib/utils/utgatt.ts",
+    "line": 3,
+    "context": "* Fjerner ekstra mellomrom, lowercase, fjerner \"avdeling X\" suffix."
+  },
+  {
+    "term": "deling",
+    "file": "frontend/lib/utils/utgatt.ts",
+    "line": 9,
+    "context": ".replace(/,?\\s*avdeling\\s+[^,]+/gi, \"\")"
+  },
+  {
+    "term": "deling",
+    "file": "frontend/lib/utils/utgatt.ts",
+    "line": 17,
+    "context": "* Bruker prefix/contains: \"Bergen Akuttsenter Ungdom, avdeling Toppe\" matcher \"Bergen Akuttsenter Un"
+  },
+  {
+    "term": "database",
+    "file": "frontend/lib/api/propertiesApi.ts",
+    "line": 133,
+    "context": "/** Returnerer total GL-beløp per år (alle år i databasen). */"
+  },
+  {
+    "term": "deling",
+    "file": "frontend/lib/api/propertiesApi.ts",
+    "line": 276,
+    "context": "/** Henter godkjente eiendommer og avdelinger (for UTGÅTT-badge). */"
+  },
+  {
+    "term": "deling",
+    "file": "frontend/lib/api/propertiesApi.ts",
+    "line": 285,
+    "context": "/** Henter Total kost per region (regionnivå + enhetsfordeling). */"
+  },
+  {
+    "term": "deling",
+    "file": "frontend/lib/api/propertiesApi.ts",
+    "line": 374,
+    "context": "/** Henter alle avdelinger (underenheter med unit_short_type=Avdeling). */"
+  },
+  {
+    "term": "deling",
+    "file": "frontend/lib/api/propertiesApi.ts",
+    "line": 375,
+    "context": "export async function getAvdelinger(): Promise<Property[]> {"
+  },
+  {
+    "term": "deling",
+    "file": "frontend/lib/api/propertiesApi.ts",
+    "line": 377,
+    "context": "return await getProperties(0, 500, { unit_short_type: \"Avdeling\" });"
+  },
+  {
+    "term": "DPIA",
+    "file": "frontend/lib/api/governanceApi.ts",
+    "line": 39,
+    "context": "export const getDPIA = async (): Promise<HelpArticle> => {"
+  },
+  {
+    "term": "DPIA",
+    "file": "frontend/lib/api/governanceApi.ts",
+    "line": 40,
+    "context": "return fetchAPI<HelpArticle>('/help/DPIA');"
+  },
+  {
+    "term": "DPIA",
+    "file": "frontend/lib/api/governanceApi.ts",
+    "line": 47,
+    "context": "getDPIA: getDPIA"
+  },
+  {
+    "term": "database",
+    "file": "frontend/lib/api/contractAnalyticsApi.ts",
+    "line": 125,
+    "context": "return { database: 'offline', api_gateway: 'online', nve_integration: 'unknown' } as any;"
+  },
+  {
+    "term": "metadata",
+    "file": "frontend/lib/api/barnevernDocsApi.ts",
+    "line": 30,
+    "context": "metadataUrl?: string | null;"
+  },
+  {
+    "term": "metadata",
+    "file": "frontend/lib/api/ssbApi.ts",
+    "line": 58,
+    "context": "export async function getTableMetadata("
+  },
+  {
+    "term": "metadata",
+    "file": "frontend/lib/api/ssbApi.ts",
+    "line": 63,
+    "context": "`/ssb/tables/${tableId}/metadata?lang=${lang}`"
+  },
+  {
+    "term": "database",
+    "file": "frontend/lib/api/adminApi.ts",
+    "line": 10,
+    "context": "database_size_mb: number;"
+  },
+  {
+    "term": "database",
+    "file": "frontend/lib/api/adminApi.ts",
+    "line": 22,
+    "context": "database: {"
+  },
+  {
+    "term": "metadata",
+    "file": "frontend/lib/api/filesApi.ts",
+    "line": 3,
+    "context": "export interface FileMetadata {"
+  },
+  {
+    "term": "metadata",
+    "file": "frontend/lib/api/filesApi.ts",
+    "line": 49,
+    "context": "export async function completeUpload(payload: UploadCompletePayload): Promise<FileMetadata> {"
+  },
+  {
+    "term": "metadata",
+    "file": "frontend/lib/api/filesApi.ts",
+    "line": 50,
+    "context": "return fetchAPI<FileMetadata>('/files/upload/complete', {"
+  },
+  {
+    "term": "metadata",
+    "file": "frontend/lib/api/filesApi.ts",
+    "line": 60,
+    "context": "): Promise<FileMetadata> {"
+  },
+  {
+    "term": "metadata",
+    "file": "frontend/lib/api/filesApi.ts",
+    "line": 66,
+    "context": "return fetchAPI<FileMetadata>('/files/upload', {"
+  },
+  {
+    "term": "metadata",
+    "file": "frontend/lib/api/filesApi.ts",
+    "line": 72,
+    "context": "export async function getFileMetadata(fileId: string): Promise<FileMetadata> {"
+  },
+  {
+    "term": "metadata",
+    "file": "frontend/lib/api/filesApi.ts",
+    "line": 73,
+    "context": "return fetchAPI<FileMetadata>(`/files/${fileId}/metadata`);"
+  },
+  {
+    "term": "metadata",
+    "file": "frontend/lib/api/filesApi.ts",
+    "line": 88,
+    "context": "getMetadata: getFileMetadata,"
+  },
+  {
+    "term": "metadata",
+    "file": "frontend/lib/api/mcpApi.ts",
+    "line": 98,
+    "context": "metadata: Record<string, unknown>"
+  },
+  {
+    "term": "metadata",
+    "file": "frontend/lib/api/mcpApi.ts",
+    "line": 102,
+    "context": "body: JSON.stringify({ content, metadata }),"
+  },
+  {
+    "term": "metadata",
+    "file": "frontend/lib/api/searchApi.ts",
+    "line": 7,
+    "context": "metadata: {"
+  },
+  {
+    "term": "metadata",
+    "file": "frontend/lib/api/searchApi.ts",
+    "line": 28,
+    "context": "metadata?: Record<string, unknown>;"
+  },
+  {
+    "term": "FAIR",
+    "file": "frontend/app/layout.tsx",
+    "line": 2,
+    "context": "import { Geist, Geist_Mono, Playfair_Display } from \"next/font/google\";"
+  },
+  {
+    "term": "FAIR",
+    "file": "frontend/app/layout.tsx",
+    "line": 18,
+    "context": "const playfair = Playfair_Display({"
+  },
+  {
+    "term": "FAIR",
+    "file": "frontend/app/layout.tsx",
+    "line": 19,
+    "context": "variable: \"--font-playfair\","
+  },
+  {
+    "term": "FAIR",
+    "file": "frontend/app/layout.tsx",
+    "line": 44,
+    "context": "className={`${geistSans.variable} ${geistMono.variable} ${playfair.variable} antialiased bg-backgrou"
+  },
+  {
+    "term": "metadata",
+    "file": "frontend/app/layout.tsx",
+    "line": 1,
+    "context": "import type { Metadata } from \"next\";"
+  },
+  {
+    "term": "metadata",
+    "file": "frontend/app/layout.tsx",
+    "line": 23,
+    "context": "export const metadata: Metadata = {"
+  },
+  {
+    "term": "deling",
+    "file": "frontend/app/oversikt/page.tsx",
+    "line": 120,
+    "context": "const [openSection, setOpenSection] = useState<\"eiendommer\" | \"avdelinger\" | \"kontrakter\" | \"leietak"
+  },
+  {
+    "term": "deling",
+    "file": "frontend/app/oversikt/page.tsx",
+    "line": 186,
+    "context": "id: \"avdelinger\" as const,"
+  },
+  {
+    "term": "deling",
+    "file": "frontend/app/oversikt/page.tsx",
+    "line": 187,
+    "context": "title: \"Avdelinger / Enheter\","
+  },
+  {
+    "term": "deling",
+    "file": "frontend/app/oversikt/page.tsx",
+    "line": 214,
+    "context": "Alle eiendommer, avdelinger, kontrakter og leietakere (tilgangsfiltrert)."
+  },
+  {
+    "term": "deling",
+    "file": "frontend/app/oversikt/page.tsx",
+    "line": 278,
+    "context": "{id === \"avdelinger\" && ("
+  },
+  {
+    "term": "deling",
+    "file": "frontend/app/oversikt/page.tsx",
+    "line": 372,
+    "context": "(id === \"avdelinger\" && d.units.length === 0) ||"
+  },
+  {
+    "term": "tilgang",
+    "file": "frontend/app/oversikt/page.tsx",
+    "line": 214,
+    "context": "Alle eiendommer, avdelinger, kontrakter og leietakere (tilgangsfiltrert)."
+  },
+  {
+    "term": "database",
+    "file": "frontend/app/settings/page.tsx",
+    "line": 83,
+    "context": "<span>Database:</span>"
+  },
+  {
+    "term": "database",
+    "file": "frontend/app/ssb/page.tsx",
+    "line": 4,
+    "context": "import { Database, Search, Link2, FileBarChart, Loader2 } from \"lucide-react\";"
+  },
+  {
+    "term": "database",
+    "file": "frontend/app/ssb/page.tsx",
+    "line": 44,
+    "context": "{ id: \"data\", label: \"Hent data\", icon: <Database size={18} /> },"
+  },
+  {
+    "term": "database",
+    "file": "frontend/app/ssb/page.tsx",
+    "line": 55,
+    "context": "<Database size={32} />"
+  },
+  {
+    "term": "internkontroll",
+    "file": "frontend/app/calendar/page.tsx",
+    "line": 266,
+    "context": "Planlagte HMS-aktiviteter, internkontroll og rapporteringsfrister på tvers av porteføljen."
+  },
+  {
+    "term": "database",
+    "file": "frontend/app/financials/page.tsx",
+    "line": 624,
+    "context": "<p className=\"text-xs text-muted mt-0.5\">Innkjøpsanalyse (ERP-eksport) dekker kun <em>lokalkostnader"
+  },
+  {
+    "term": "datakvalitet",
+    "file": "frontend/app/financials/page.tsx",
+    "line": 888,
+    "context": "<span className=\"text-muted py-1\">Datakvalitet:</span>"
+  },
+  {
+    "term": "deling",
+    "file": "frontend/app/financials/page.tsx",
+    "line": 435,
+    "context": "// Total kost: bruk full oversikt fra total_kost_per_region (alle eiendommer/avdelinger) når tilgjen"
+  },
+  {
+    "term": "deling",
+    "file": "frontend/app/financials/page.tsx",
+    "line": 507,
+    "context": "<DataTooltip content={`Lokalkostnader 2025 (Innkjøpsanalyse/ERP). ${totalKostFull != null ? \"Alle ei"
+  },
+  {
+    "term": "deling",
+    "file": "frontend/app/financials/page.tsx",
+    "line": 520,
+    "context": "? (totalKostFull != null ? \"Fra Innkjøpsanalyse (alle eiendommer/avdelinger)\" : \"ERP-total Agresso —"
+  },
+  {
+    "term": "deling",
+    "file": "frontend/app/financials/page.tsx",
+    "line": 801,
+    "context": "<summary className=\"cursor-pointer text-sm font-medium text-muted hover:text-foreground\">Enhetsforde"
+  },
+  {
+    "term": "tilgang",
+    "file": "frontend/app/financials/page.tsx",
+    "line": 511,
+    "context": "<DataTooltip content=\"Sum for eiendommer du har tilgang til fra Innkjøpsanalyse.\">"
+  },
+  {
+    "term": "deling",
+    "file": "frontend/app/financials/prediksjon/page.tsx",
+    "line": 321,
+    "context": "<h2 className=\"font-semibold mb-3\">Fordeling per SRS-kategori"
+  },
+  {
+    "term": "deling",
+    "file": "frontend/app/financials/prediksjon/page.tsx",
+    "line": 440,
+    "context": "<span>Metodebeskrivelse — for revisor og regnskapsavdeling</span>"
+  },
+  {
+    "term": "deling",
+    "file": "frontend/app/financials/srs/page.tsx",
+    "line": 103,
+    "context": "Statlig Regnskapsstandard — dokumentasjon for regnskapsavdelingen"
+  },
+  {
+    "term": "metadata",
+    "file": "frontend/app/analysis/page.tsx",
+    "line": 83,
+    "context": "{ id: 'pdf-meta', title: 'Metadata-analyse', description: 'Kvalitetssjekk av arkivdata' },"
+  },
+  {
+    "term": "behandlingsansvarlig",
+    "file": "frontend/app/personvern/page.tsx",
+    "line": 29,
+    "context": "Bufetat er behandlingsansvarlig for personopplysninger som behandles i BEFS. Mer detaljert"
+  },
+  {
+    "term": "behandlingsgrunnlag",
+    "file": "frontend/app/personvern/page.tsx",
+    "line": 30,
+    "context": "informasjon om behandlingsgrunnlag og rettigheter gis gjennom Bufetats ordinære"
+  },
+  {
+    "term": "metadata",
+    "file": "frontend/app/personvern/page.tsx",
+    "line": 1,
+    "context": "import type { Metadata } from \"next\";"
+  },
+  {
+    "term": "metadata",
+    "file": "frontend/app/personvern/page.tsx",
+    "line": 3,
+    "context": "export const metadata: Metadata = {"
+  },
+  {
+    "term": "personopplysning",
+    "file": "frontend/app/personvern/page.tsx",
+    "line": 13,
+    "context": "Her finner du overordnet informasjon om hvordan BEFS behandler personopplysninger og"
+  },
+  {
+    "term": "personopplysning",
+    "file": "frontend/app/personvern/page.tsx",
+    "line": 29,
+    "context": "Bufetat er behandlingsansvarlig for personopplysninger som behandles i BEFS. Mer detaljert"
+  },
+  {
+    "term": "personvern",
+    "file": "frontend/app/personvern/page.tsx",
+    "line": 4,
+    "context": "title: \"Personvern\","
+  },
+  {
+    "term": "personvern",
+    "file": "frontend/app/personvern/page.tsx",
+    "line": 11,
+    "context": "<h1 className=\"text-3xl font-bold tracking-tight text-foreground\">Personvern i BEFS</h1>"
+  },
+  {
+    "term": "personvern",
+    "file": "frontend/app/personvern/page.tsx",
+    "line": 31,
+    "context": "personverndokumentasjon."
+  },
+  {
+    "term": "metadata",
+    "file": "frontend/app/agresso-csv/page.tsx",
+    "line": 1,
+    "context": "import type { Metadata } from \"next\";"
+  },
+  {
+    "term": "metadata",
+    "file": "frontend/app/agresso-csv/page.tsx",
+    "line": 4,
+    "context": "export const metadata: Metadata = {"
+  },
+  {
+    "term": "internkontroll",
+    "file": "frontend/app/checklists/page.tsx",
+    "line": 95,
+    "context": "if (loading) return <div className=\"p-8 text-center text-slate-500\">Laster internkontroll...</div>;"
+  },
+  {
+    "term": "internkontroll",
+    "file": "frontend/app/checklists/page.tsx",
+    "line": 103,
+    "context": "<p className=\"text-slate-400\">Dine planlagte internkontroll-oppgaver for denne måneden.</p>"
+  },
+  {
+    "term": "internkontroll",
+    "file": "frontend/app/checklists/templates/page.tsx",
+    "line": 47,
+    "context": "Opprett og administrer egne sjekklister. Bruk dem til å opprette internkontroll-saker for eiendommer"
+  },
+  {
+    "term": "internkontroll",
+    "file": "frontend/app/checklists/templates/page.tsx",
+    "line": 87,
+    "context": "<p className=\"text-sm mt-2\">Opprett en mal for å bruke den til internkontroll-saker.</p>"
+  },
+  {
+    "term": "deling",
+    "file": "frontend/app/contracts/[id]/page 2.tsx",
+    "line": 209,
+    "context": "Kostnadsfordeling"
+  },
+  {
+    "term": "metadata",
+    "file": "frontend/app/contracts/[id]/page 2.tsx",
+    "line": 547,
+    "context": "{/* Metadata Debug Info */}"
+  },
+  {
+    "term": "rådata",
+    "file": "frontend/app/contracts/[id]/page 2.tsx",
+    "line": 449,
+    "context": "Vis komplett rådata (JSON)"
+  },
+  {
+    "term": "deling",
+    "file": "frontend/app/contracts/[id]/page.tsx",
+    "line": 209,
+    "context": "Kostnadsfordeling"
+  },
+  {
+    "term": "metadata",
+    "file": "frontend/app/contracts/[id]/page.tsx",
+    "line": 546,
+    "context": "{/* Metadata Debug Info */}"
+  },
+  {
+    "term": "rådata",
+    "file": "frontend/app/contracts/[id]/page.tsx",
+    "line": 448,
+    "context": "Vis komplett rådata (JSON)"
+  },
+  {
+    "term": "deling",
+    "file": "frontend/app/contracts/[id]/ExternalDataSection.tsx",
+    "line": 30,
+    "context": "// Kostnader – vises i Kostnadsfordeling"
+  },
+  {
+    "term": "database",
+    "file": "frontend/app/lab/suggested_text.md",
+    "line": 44,
+    "context": "Oversetter spørsmål på norsk til SQL-spørringer mot PostgreSQL-databasen. Analyserer eiendommer, kon"
+  },
+  {
+    "term": "database",
+    "file": "frontend/app/lab/suggested_text.md",
+    "line": 92,
+    "context": "- **Database** - Eiendommer, kontrakter, parter, komponenter"
+  },
+  {
+    "term": "prosjekt",
+    "file": "frontend/app/lab/suggested_text.md",
+    "line": 59,
+    "context": "Når brukeren ber om å lage en oppgave, registrere et avvik eller opprette en to-do, kan AI-assistent"
+  },
+  {
+    "term": "publisere",
+    "file": "frontend/app/lab/suggested_text.md",
+    "line": 74,
+    "context": "Alle genererte verktøy lagres i et globalt bibliotek med semantisk søk. Verktøy går gjennom automati"
+  },
+  {
+    "term": "tilgang",
+    "file": "frontend/app/lab/suggested_text.md",
+    "line": 74,
+    "context": "Alle genererte verktøy lagres i et globalt bibliotek med semantisk søk. Verktøy går gjennom automati"
+  },
+  {
+    "term": "tilgang",
+    "file": "frontend/app/lab/suggested_text.md",
+    "line": 87,
+    "context": "**Kontekstbevisst AI-assistent med tilgang til alle systemer**"
+  },
+  {
+    "term": "tilgang",
+    "file": "frontend/app/lab/suggested_text.md",
+    "line": 90,
+    "context": "Integrert AI-assistent som forstår brukerens kontekst (hvilken side, eiendom, kontrakt osv.) og har "
+  },
+  {
+    "term": "tilgang",
+    "file": "frontend/app/lab/suggested_text.md",
+    "line": 129,
+    "context": "- **Rollbasert tilgang** - Admin, Regional Manager, Property Manager, Janitor"
+  },
+  {
+    "term": "metadata",
+    "file": "frontend/app/tilgjengelighet/page.tsx",
+    "line": 1,
+    "context": "import type { Metadata } from \"next\";"
+  },
+  {
+    "term": "metadata",
+    "file": "frontend/app/tilgjengelighet/page.tsx",
+    "line": 3,
+    "context": "export const metadata: Metadata = {"
+  },
+  {
+    "term": "tilgjengelighet",
+    "file": "frontend/app/tilgjengelighet/page.tsx",
+    "line": 4,
+    "context": "title: \"Tilgjengelighet\","
+  },
+  {
+    "term": "tilgjengelighet",
+    "file": "frontend/app/tilgjengelighet/page.tsx",
+    "line": 12,
+    "context": "Tilgjengelighetserklæring for BEFS"
+  },
+  {
+    "term": "tilgang",
+    "file": "frontend/app/admin/page.tsx",
+    "line": 583,
+    "context": "<p className=\"text-muted mb-4 text-sm flex-1\">Administrer brukerroller og tilganger for alle brukere"
+  },
+  {
+    "term": "database",
+    "file": "frontend/app/admin/ai-lab/page.tsx",
+    "line": 10,
+    "context": "Database,"
+  },
+  {
+    "term": "database",
+    "file": "frontend/app/admin/ai-lab/page.tsx",
+    "line": 102,
+    "context": "<Database className=\"h-4 w-4 text-green-600\" />"
+  },
+  {
+    "term": "database",
+    "file": "frontend/app/admin/ai-lab/page.tsx",
+    "line": 106,
+    "context": "<p className=\"text-xs text-muted-foreground mt-1\">Vektordatabase: {vitals?.models.data_retrieval.vec"
+  },
+  {
+    "term": "database",
+    "file": "frontend/app/admin/ai-lab/page.tsx",
+    "line": 166,
+    "context": "{ step: \"3. Tools\", desc: \"Utfører valgte verktøy mot database, dokumenter eller Lovdata\" },"
+  },
+  {
+    "term": "internkontroll",
+    "file": "frontend/app/admin/hms-calendar/page.tsx",
+    "line": 168,
+    "context": "Planlagte HMS-aktiviteter og internkontroll"
+  },
+  {
+    "term": "database",
+    "file": "frontend/app/admin/docs/page.tsx",
+    "line": 5,
+    "context": "import { FileText, ArrowLeft, Terminal, Bot, Database, Rocket, RefreshCw, AlertTriangle, Plus, Archi"
+  },
+  {
+    "term": "database",
+    "file": "frontend/app/admin/docs/page.tsx",
+    "line": 68,
+    "context": "1. **Hybrid retrieval**: Søker i både database og dokumenter"
+  },
+  {
+    "term": "database",
+    "file": "frontend/app/admin/docs/page.tsx",
+    "line": 134,
+    "context": "id: 'database',"
+  },
+  {
+    "term": "database",
+    "file": "frontend/app/admin/docs/page.tsx",
+    "line": 135,
+    "context": "title: 'Database',"
+  },
+  {
+    "term": "database",
+    "file": "frontend/app/admin/docs/page.tsx",
+    "line": 136,
+    "context": "description: 'Database-operasjoner og migrasjoner',"
+  },
+  {
+    "term": "database",
+    "file": "frontend/app/admin/docs/page.tsx",
+    "line": 137,
+    "context": "icon: 'database',"
+  },
+  {
+    "term": "database",
+    "file": "frontend/app/admin/docs/page.tsx",
+    "line": 138,
+    "context": "content: `# Database Operasjoner"
+  },
+  {
+    "term": "database",
+    "file": "frontend/app/admin/docs/page.tsx",
+    "line": 140,
+    "context": "PostgreSQL database i skyen (serverless)."
+  },
+  {
+    "term": "database",
+    "file": "frontend/app/admin/docs/page.tsx",
+    "line": 145,
+    "context": "- **Database**: \\`knowme\\`"
+  },
+  {
+    "term": "database",
+    "file": "frontend/app/admin/docs/page.tsx",
+    "line": 244,
+    "context": "- Verifiser miljøvariabler (DATABASE_URL, SECRET_KEY)"
+  },
+  {
+    "term": "database",
+    "file": "frontend/app/admin/docs/page.tsx",
+    "line": 246,
+    "context": "### Database-tilkobling feiler"
+  },
+  {
+    "term": "database",
+    "file": "frontend/app/admin/docs/page.tsx",
+    "line": 247,
+    "context": "1. Sjekk \\`DATABASE_URL\\` miljøvariabel i Railway"
+  },
+  {
+    "term": "database",
+    "file": "frontend/app/admin/docs/page.tsx",
+    "line": 248,
+    "context": "2. Verifiser at databasen kjører og er tilgjengelig"
+  },
+  {
+    "term": "database",
+    "file": "frontend/app/admin/docs/page.tsx",
+    "line": 252,
+    "context": "- Database-tilkoblingsproblem"
+  },
+  {
+    "term": "database",
+    "file": "frontend/app/admin/docs/page.tsx",
+    "line": 253,
+    "context": "- Manglende miljøvariabler (DATABASE_URL, SECRET_KEY)"
+  },
+  {
+    "term": "database",
+    "file": "frontend/app/admin/docs/page.tsx",
+    "line": 290,
+    "context": "'database': Database,"
+  },
+  {
+    "term": "prosjekt",
+    "file": "frontend/app/admin/docs/page.tsx",
+    "line": 298,
+    "context": "Utdatert dokumentasjon er flyttet til mappen **\\`arkiv/\\`** i prosjektet for å holde root og backend"
+  },
+  {
+    "term": "prosjekt",
+    "file": "frontend/app/admin/docs/page.tsx",
+    "line": 312,
+    "context": "Se **\\`arkiv/README.md\\`** i prosjektet for full oversikt over filer. For oppdatert prosedyre: Bruke"
+  },
+  {
+    "term": "metadata",
+    "file": "frontend/app/admin/barnevern-docs/page.tsx",
+    "line": 134,
+    "context": "{t.metadataUrl && ("
+  },
+  {
+    "term": "metadata",
+    "file": "frontend/app/admin/barnevern-docs/page.tsx",
+    "line": 135,
+    "context": "<a className=\"underline\" href={t.metadataUrl} target=\"_blank\" rel=\"noreferrer\">"
+  },
+  {
+    "term": "metadata",
+    "file": "frontend/app/admin/barnevern-docs/page.tsx",
+    "line": 136,
+    "context": "Metadata"
+  },
+  {
+    "term": "database",
+    "file": "frontend/app/admin/governance/page.tsx",
+    "line": 10,
+    "context": "import { Shield, Database, Lock, AlertTriangle, Search, Filter } from 'lucide-react';"
+  },
+  {
+    "term": "database",
+    "file": "frontend/app/admin/governance/page.tsx",
+    "line": 79,
+    "context": "<Database className=\"w-4 h-4\" /> Total Tabeller"
+  },
+  {
+    "term": "datakatalog",
+    "file": "frontend/app/admin/governance/page.tsx",
+    "line": 31,
+    "context": "setError(err instanceof Error ? err.message : 'Kunne ikke hente datakatalog');"
+  },
+  {
+    "term": "datakatalog",
+    "file": "frontend/app/admin/governance/page.tsx",
+    "line": 60,
+    "context": "if (loading) return <div className=\"p-8 text-center\">Laster datakatalog...</div>;"
+  },
+  {
+    "term": "personopplysning",
+    "file": "frontend/app/admin/governance/page.tsx",
+    "line": 124,
+    "context": "<option value=\"PII\">Personopplysninger (PII)</option>"
+  },
+  {
+    "term": "personvern",
+    "file": "frontend/app/admin/governance/page.tsx",
+    "line": 71,
+    "context": "<p className=\"text-gray-500 mt-1\">Oversikt over dataopphav, sensitivitet og personvern (PII).</p>"
+  },
+  {
+    "term": "deling",
+    "file": "frontend/app/admin/economic-data/page.tsx",
+    "line": 371,
+    "context": "Forventet format: semikolon-separert CSV med kolonner som BA, Regioner, Avdeling, Dim 2(T), Konto, K"
+  },
+  {
+    "term": "deling",
+    "file": "frontend/app/admin/contract-costs/page.tsx",
+    "line": 97,
+    "context": "<p className=\"text-muted-foreground mt-1\">Oversikt over alle leiekostnader uavhengig av avdelingsbud"
+  },
+  {
+    "term": "datatype",
+    "file": "frontend/app/admin/import/page.tsx",
+    "line": 108,
+    "context": "<label className=\"block text-sm font-medium text-slate-700 mb-2\">Velg datatype</label>"
+  },
+  {
+    "term": "deling",
+    "file": "frontend/app/welcome/page.tsx",
+    "line": 93,
+    "context": "For support, kontakt IT-avdelingen"
+  },
+  {
+    "term": "internkontroll",
+    "file": "frontend/app/welcome/page.tsx",
+    "line": 81,
+    "context": "description=\"Registrer og følg opp avvik, brannbok og internkontroll.\""
+  },
+  {
+    "term": "prosjekt",
+    "file": "frontend/app/dashboard/financial/forecast/page.tsx",
+    "line": 123,
+    "context": "<p className=\"text-muted-foreground\">Prosjektere fremtidige kostnader basert på historisk regnskap.<"
+  },
+  {
+    "term": "database",
+    "file": "frontend/app/components/ui/Sidebar.tsx",
+    "line": 32,
+    "context": "Database,"
+  },
+  {
+    "term": "database",
+    "file": "frontend/app/components/ui/Sidebar.tsx",
+    "line": 113,
+    "context": "{ icon: Database, label: \"SSB Statistikk\", href: \"/ssb\" },"
+  },
+  {
+    "term": "deling",
+    "file": "frontend/app/components/features/AIInsightsWidget.tsx",
+    "line": 96,
+    "context": "Ansvarsfordeling"
+  },
+  {
+    "term": "database",
+    "file": "frontend/app/components/features/ChatInterface.tsx",
+    "line": 7,
+    "context": "import { ExternalLink, Building, FileText, User, RefreshCw, Sparkles, ShieldCheck, Calendar, Clock, "
+  },
+  {
+    "term": "metadata",
+    "file": "frontend/app/components/features/ChatInterface.tsx",
+    "line": 212,
+    "context": "// Just update final metadata"
+  },
+  {
+    "term": "database",
+    "file": "frontend/app/components/features/NordicDashboard.tsx",
+    "line": 261,
+    "context": "<div className=\"text-xs text-slate-500 mt-2 text-center\">Database Performance</div>"
+  },
+  {
+    "term": "deling",
+    "file": "frontend/app/components/features/NordicDashboard.tsx",
+    "line": 225,
+    "context": "<Card title=\"Vanligste Kostnadskategorier\" className=\"flex-1\" tooltip=\"Fordeling av utgiftskategorie"
+  },
+  {
+    "term": "internkontroll",
+    "file": "frontend/app/components/features/PropertyDashboard.tsx",
+    "line": 117,
+    "context": "<h3 className=\"text-sm font-semibold text-muted-foreground uppercase tracking-wider mb-4 border-b bo"
+  },
+  {
+    "term": "personvern",
+    "file": "frontend/app/components/features/HelpCenter.tsx",
+    "line": 193,
+    "context": "Se også: <a href=\"/tilgjengelighet\" className=\"text-primary hover:underline font-medium\">Tilgjengeli"
+  },
+  {
+    "term": "tilgjengelighet",
+    "file": "frontend/app/components/features/HelpCenter.tsx",
+    "line": 193,
+    "context": "Se også: <a href=\"/tilgjengelighet\" className=\"text-primary hover:underline font-medium\">Tilgjengeli"
+  },
+  {
+    "term": "datakvalitet",
+    "file": "frontend/app/components/features/HealthScoreBadge.tsx",
+    "line": 130,
+    "context": "Datakvalitet: {score.data_quality}"
+  },
+  {
+    "term": "database",
+    "file": "frontend/app/components/features/MinimalistDashboard.tsx",
+    "line": 245,
+    "context": "<div className=\"text-xs text-slate-500 mt-2 text-center\">Database Performance</div>"
+  },
+  {
+    "term": "deling",
+    "file": "frontend/app/components/features/MinimalistDashboard.tsx",
+    "line": 212,
+    "context": "<Card title=\"Vanligste Kostnadskategorier\" className=\"flex-1\" tooltip=\"Fordeling av utgiftskategorie"
+  },
+  {
+    "term": "database",
+    "file": "frontend/app/components/features/RiskPanel.test.tsx",
+    "line": 9,
+    "context": "database: 'online',"
+  },
+  {
+    "term": "database",
+    "file": "frontend/app/components/features/RiskPanel.test.tsx",
+    "line": 19,
+    "context": "// Check for ONLINE badges (there should be 2: Database and API Gateway)"
+  },
+  {
+    "term": "database",
+    "file": "frontend/app/components/features/RiskPanel.test.tsx",
+    "line": 26,
+    "context": "database: 'offline',"
+  },
+  {
+    "term": "deling",
+    "file": "frontend/app/components/features/PropertyList.tsx",
+    "line": 21,
+    "context": "/** Avdelinger gruppert per forelderens unit_id_erp. */"
+  },
+  {
+    "term": "deling",
+    "file": "frontend/app/components/features/PropertyList.tsx",
+    "line": 22,
+    "context": "avdelingerByParentErpId?: Map<string, Property[]>;"
+  },
+  {
+    "term": "deling",
+    "file": "frontend/app/components/features/PropertyList.tsx",
+    "line": 68,
+    "context": "export default function PropertyList({ properties, budgetByProperty, sortBy, sortDir, onSort, avdeli"
+  },
+  {
+    "term": "deling",
+    "file": "frontend/app/components/features/PropertyList.tsx",
+    "line": 108,
+    "context": "<DataTooltip content=\"Avdeling: Avdelingens koststed og navn fra CSV (1:1 med institusjon).\">Avdelin"
+  },
+  {
+    "term": "deling",
+    "file": "frontend/app/components/features/PropertyList.tsx",
+    "line": 111,
+    "context": "<DataTooltip content=\"Ansvarlig: Overordnet institusjon for avdelinger, eller tildelt forvalter for "
+  },
+  {
+    "term": "deling",
+    "file": "frontend/app/components/features/PropertyList.tsx",
+    "line": 130,
+    "context": "? (avdelingerByParentErpId?.get(property.unit_id_erp) ?? [])"
+  },
+  {
+    "term": "deling",
+    "file": "frontend/app/components/features/PropertyList.tsx",
+    "line": 147,
+    "context": "aria-label={isExpanded ? \"Skjul avdelinger\" : \"Vis avdelinger\"}"
+  },
+  {
+    "term": "deling",
+    "file": "frontend/app/components/features/PropertyList.tsx",
+    "line": 181,
+    "context": "{property.unit_short_type === \"Avdeling\" ? ("
+  },
+  {
+    "term": "deling",
+    "file": "frontend/app/components/features/PropertyList.tsx",
+    "line": 242,
+    "context": "{/* ── Avdeling-rader (ekspandert) ── */}"
+  },
+  {
+    "term": "deling",
+    "file": "frontend/app/components/features/PropertyList.tsx",
+    "line": 272,
+    "context": "Avdeling"
+  },
+  {
+    "term": "deling",
+    "file": "frontend/app/components/features/AdminDeviationDashboard.tsx",
+    "line": 194,
+    "context": "<h3 className=\"font-semibold text-foreground mb-6\">Saksstatus Fordeling</h3>"
+  },
+  {
+    "term": "internkontroll",
+    "file": "frontend/app/components/features/AdminDeviationDashboard.tsx",
+    "line": 116,
+    "context": "HMS & Internkontroll"
+  },
+  {
+    "term": "deling",
+    "file": "frontend/app/components/features/PropertySteeringPanel.tsx",
+    "line": 125,
+    "context": "<DataTooltip content=\"Godkjente/kvalitetssikrede institusjonsplasser (GK-plasser) per avdeling. Kild"
+  },
+  {
+    "term": "deling",
+    "file": "frontend/app/components/features/PropertySteeringPanel.tsx",
+    "line": 133,
+    "context": "<DataTooltip content=\"Budsjetterte institusjonsplasser per avdeling. Kilde: BIRK/e-don2.\">"
+  },
+  {
+    "term": "internkontroll",
+    "file": "frontend/app/components/features/PropertySteeringPanel.tsx",
+    "line": 118,
+    "context": "<DataTooltip content=\"Tiltaksstatus: Antall åpne avvik i internkontroll som venter på oppfølging.\">"
+  },
+  {
+    "term": "tillit",
+    "file": "frontend/app/components/features/PropertySteeringPanel.tsx",
+    "line": 93,
+    "context": "<span title={`Delvis data (${Math.round((dataConfidence ?? 0) * 100)}% tillit)`} className=\"text-amb"
+  },
+  {
+    "term": "deling",
+    "file": "frontend/app/components/features/CostAnalysisWidget.tsx",
+    "line": 159,
+    "context": ": \"Manglende husleiedata – ratioer ikke beregnet (unngår deling på null).\","
+  },
+  {
+    "term": "deling",
+    "file": "frontend/app/components/features/CostAnalysisWidget.tsx",
+    "line": 160,
+    "context": "`Oppdeling: Eiendomskostnader ${formatCurrency(summary.property_costs)} (${formatPercent(ratios.prop"
+  },
+  {
+    "term": "database",
+    "file": "frontend/app/components/features/CyberpunkDashboard.tsx",
+    "line": 388,
+    "context": "<div className=\"text-xs text-slate-400 mt-2 text-center\">Database Performance</div>"
+  },
+  {
+    "term": "deling",
+    "file": "frontend/app/components/features/CyberpunkDashboard.tsx",
+    "line": 331,
+    "context": "tooltip=\"Fordeling av utgiftskategorier (f.eks. vedlikehold, strøm, fellesutgifter) på tvers av eien"
+  },
+  {
+    "term": "internkontroll",
+    "file": "frontend/app/components/features/InternalControlWidget.tsx",
+    "line": 77,
+    "context": "<DataTooltip content=\"Avvik: Avvikelse fra krav eller plan (f.eks. manglende dokumentasjon, forfalt "
+  },
+  {
+    "term": "internkontroll",
+    "file": "frontend/app/components/features/InternalControlWidget.tsx",
+    "line": 115,
+    "context": "<DataTooltip content=\"Opprett initiale internkontroll-saker for denne eiendommen basert på maler (RK"
+  },
+  {
+    "term": "internkontroll",
+    "file": "frontend/app/components/features/InternalControlWidget.tsx",
+    "line": 122,
+    "context": "{creating ? \"Oppretter...\" : \"Opprett internkontroll-saker\"}"
+  },
+  {
+    "term": "internkontroll",
+    "file": "frontend/app/components/features/InternalControlWidget.tsx",
+    "line": 126,
+    "context": "<DataTooltip content=\"Opprett en internkontroll-sak fra en sjekklistemal (system eller egendefinert)"
+  },
+  {
+    "term": "internkontroll",
+    "file": "frontend/app/components/features/InternalControlWidget.tsx",
+    "line": 161,
+    "context": "<DataTooltip content=\"Sjekklister: Strukturerte lister for internkontroll (f.eks. brannslukker, rømn"
+  },
+  {
+    "term": "database",
+    "file": "frontend/app/components/features/DataVerificationWidget.tsx",
+    "line": 8,
+    "context": "database: {"
+  },
+  {
+    "term": "database",
+    "file": "frontend/app/components/features/DataVerificationWidget.tsx",
+    "line": 35,
+    "context": "setError(\"Kunne ikke koble til databasen verification service.\");"
+  },
+  {
+    "term": "database",
+    "file": "frontend/app/components/features/DataVerificationWidget.tsx",
+    "line": 68,
+    "context": "Analyserer databasetabeller..."
+  },
+  {
+    "term": "database",
+    "file": "frontend/app/components/features/DataVerificationWidget.tsx",
+    "line": 80,
+    "context": "{/* Database Status */}"
+  },
+  {
+    "term": "database",
+    "file": "frontend/app/components/features/DataVerificationWidget.tsx",
+    "line": 82,
+    "context": "<span className=\"font-medium text-foreground\">Databasekobling</span>"
+  },
+  {
+    "term": "database",
+    "file": "frontend/app/components/features/DataVerificationWidget.tsx",
+    "line": 83,
+    "context": "<span className={`px-3 py-1 rounded-full text-xs font-bold ${report.database.connected ? 'bg-green-1"
+  },
+  {
+    "term": "database",
+    "file": "frontend/app/components/features/DataVerificationWidget.tsx",
+    "line": 85,
+    "context": "{report.database.connected ? 'OK' : 'OFFLINE'}"
+  },
+  {
+    "term": "integritet",
+    "file": "frontend/app/components/features/DataVerificationWidget.tsx",
+    "line": 47,
+    "context": "Dataintegritet & Verifikasjon"
+  },
+  {
+    "term": "integritet",
+    "file": "frontend/app/components/features/DataVerificationWidget.tsx",
+    "line": 101,
+    "context": "<h3 className=\"font-bold text-amber-800 mb-2\">Integritetsvarsler</h3>"
+  },
+  {
+    "term": "integritet",
+    "file": "frontend/app/components/features/DataVerificationWidget.tsx",
+    "line": 111,
+    "context": "Ingen integritetsfeil funnet. Alle relasjoner er intakte."
+  },
+  {
+    "term": "tilgang",
+    "file": "frontend/app/components/features/DataVerificationWidget.tsx",
+    "line": 50,
+    "context": "Her kan du etterprøve at systemet har tilgang til og kontrollerer alle datadomener."
+  },
+  {
+    "term": "internkontroll",
+    "file": "frontend/app/components/features/ActivityWheel.tsx",
+    "line": 78,
+    "context": "<p className=\"text-xs text-muted-foreground\">Internkontroll og HMS-oppgaver</p>"
+  },
+  {
+    "term": "deling",
+    "file": "frontend/app/components/features/TerminalDashboard.tsx",
+    "line": 213,
+    "context": "<Card title=\"KOSTNADSKATEGORIER\" className=\"flex-1\" tooltip=\"Fordeling av utgiftskategorier\">"
+  },
+  {
+    "term": "internkontroll",
+    "file": "frontend/app/components/features/ProcessWizard.tsx",
+    "line": 83,
+    "context": "<h2 className=\"text-xl font-bold text-foreground\">Internkontroll Prosess</h2>"
+  },
+  {
+    "term": "datasett",
+    "file": "frontend/app/components/features/ssb/SSBCombinePanel.tsx",
+    "line": 48,
+    "context": "<label className=\"block text-xs text-muted mb-1\">BEFS datasett</label>"
+  },
+  {
+    "term": "prosjekt",
+    "file": "frontend/app/jira/page.tsx",
+    "line": 12,
+    "context": "Opprett Jira-issues direkte fra BEFS-systemet. Issues opprettes i ditt Jira-prosjekt og kan spores d"
+  },
+  {
+    "term": "prosjekt",
+    "file": "frontend/app/jira/page.tsx",
+    "line": 26,
+    "context": "<li>• Issues opprettes i <strong>KAN (BEFS)</strong> prosjektet</li>"
+  },
+  {
+    "term": "deling",
+    "file": "frontend/app/properties/page.tsx",
+    "line": 5,
+    "context": "import { getProperties, getPropertyTypes, getPropertyUnitShortTypes, getPropertySuggestions, getAvde"
+  },
+  {
+    "term": "deling",
+    "file": "frontend/app/properties/page.tsx",
+    "line": 29,
+    "context": "const [avdelingerByParentErpId, setAvdelingerByParentErpId] = useState<Map<string, Property[]>>(new "
+  },
+  {
+    "term": "deling",
+    "file": "frontend/app/properties/page.tsx",
+    "line": 86,
+    "context": "// Fetch all avdelinger once, group by parent ERP id"
+  },
+  {
+    "term": "deling",
+    "file": "frontend/app/properties/page.tsx",
+    "line": 88,
+    "context": "getAvdelinger().then((avd) => {"
+  },
+  {
+    "term": "deling",
+    "file": "frontend/app/properties/page.tsx",
+    "line": 97,
+    "context": "setAvdelingerByParentErpId(map);"
+  },
+  {
+    "term": "deling",
+    "file": "frontend/app/properties/page.tsx",
+    "line": 182,
+    "context": "<option value=\"Avdeling\">Avdeling (underenhet)</option>"
+  },
+  {
+    "term": "deling",
+    "file": "frontend/app/properties/page.tsx",
+    "line": 211,
+    "context": "avdelingerByParentErpId={avdelingerByParentErpId}"
+  },
+  {
+    "term": "deling",
+    "file": "frontend/app/properties/[id]/page.tsx",
+    "line": 150,
+    "context": "const [subAvdelinger, setSubAvdelinger] = useState<any[]>([]);"
+  },
+  {
+    "term": "deling",
+    "file": "frontend/app/properties/[id]/page.tsx",
+    "line": 152,
+    "context": "// Hent avdelinger som tilhører denne eiendommen (via parent_unit_id_erp)"
+  },
+  {
+    "term": "deling",
+    "file": "frontend/app/properties/[id]/page.tsx",
+    "line": 156,
+    "context": "fetch(`/api/proxy/properties?unit_short_type=Avdeling&limit=50&include_risk=false`)"
+  },
+  {
+    "term": "deling",
+    "file": "frontend/app/properties/[id]/page.tsx",
+    "line": 160,
+    "context": "setSubAvdelinger(children);"
+  },
+  {
+    "term": "deling",
+    "file": "frontend/app/properties/[id]/page.tsx",
+    "line": 458,
+    "context": "<DataTooltip content=\"Tilhørende Avdeling: Den organisatoriske avdelingen (Senteret) som denne eiend"
+  },
+  {
+    "term": "deling",
+    "file": "frontend/app/properties/[id]/page.tsx",
+    "line": 459,
+    "context": "<label className=\"text-label block mb-1\">Tilhørende Avdeling</label>"
+  },
+  {
+    "term": "deling",
+    "file": "frontend/app/properties/[id]/page.tsx",
+    "line": 464,
+    "context": "<DataTooltip content=\"Avdelingens koststed: Koststedskode fra regnskap/CSV. Kobler til GL Dim1.\">"
+  },
+  {
+    "term": "deling",
+    "file": "frontend/app/properties/[id]/page.tsx",
+    "line": 465,
+    "context": "<label className=\"text-label block mb-1\">Avdelingens koststed</label>"
+  },
+  {
+    "term": "deling",
+    "file": "frontend/app/properties/[id]/page.tsx",
+    "line": 470,
+    "context": "<DataTooltip content=\"Navn på avdeling: Avdelingsnavn fra CSV (1:1 med institusjon).\">"
+  },
+  {
+    "term": "deling",
+    "file": "frontend/app/properties/[id]/page.tsx",
+    "line": 471,
+    "context": "<label className=\"text-label block mb-1\">Navn på avdeling</label>"
+  },
+  {
+    "term": "deling",
+    "file": "frontend/app/properties/[id]/page.tsx",
+    "line": 500,
+    "context": "<DataTooltip content=\"Enhetstype fra e-don2 (Enhetskorttype). Skiller avdeling under en institusjon "
+  },
+  {
+    "term": "deling",
+    "file": "frontend/app/properties/[id]/page.tsx",
+    "line": 506,
+    "context": "<DataTooltip content=\"Formål (utledet) fra e-don2: f.eks. Barnevernsinstitusjon, Institusjonsavdelin"
+  },
+  {
+    "term": "deling",
+    "file": "frontend/app/properties/[id]/page.tsx",
+    "line": 1479,
+    "context": "<div className=\"text-[10px] text-primary font-bold uppercase tracking-widest mb-1\">{property.unit_sh"
+  },
+  {
+    "term": "internkontroll",
+    "file": "frontend/app/properties/[id]/page.tsx",
+    "line": 1773,
+    "context": "<DataTooltip content=\"Internkontroll: Avvik fra sjekklister og HMS-tiltak. Et avvik er en avvikelse "
+  },
+  {
+    "term": "internkontroll",
+    "file": "frontend/app/properties/[id]/page.tsx",
+    "line": 1775,
+    "context": "<span className=\"text-xl\">📋</span> Internkontroll"
+  },
+  {
+    "term": "metadata",
+    "file": "frontend/app/properties/[id]/page.tsx",
+    "line": 556,
+    "context": "{/* Metadata */}"
+  },
+  {
+    "term": "rettighetshaver",
+    "file": "frontend/app/properties/[id]/page.tsx",
+    "line": 486,
+    "context": "<DataTooltip content=\"Hjemmelshaver: Eiendomsrettighetshaver fra grunnboken. Fra masterdata/Elements"
+  },
+  {
+    "term": "tilgjengelighet",
+    "file": "frontend/app/properties/[id]/page.tsx",
+    "line": 858,
+    "context": "<th><DataTooltip content=\"UU: Universell Utforming. «OK» = enheten oppfyller tilgjengelighetskrav. «"
+  },
+  {
+    "term": "tilgjengelighet",
+    "file": "frontend/app/properties/[id]/page.tsx",
+    "line": 1544,
+    "context": "<DataTooltip content=\"Nærliggende Tjenester: Skoler, helsetjenester, kollektivtilbud innen reiseavst"
+  },
+  {
+    "term": "tilsyn",
+    "file": "frontend/app/properties/[id]/page.tsx",
+    "line": 437,
+    "context": "<DataTooltip content=\"Godkjente Plasser: Antall plasser godkjent for bruk (f.eks. barnevernsinstitus"
+  },
+  {
+    "term": "deling",
+    "file": "frontend/app/barnevern/page.tsx",
+    "line": 381,
+    "context": "Antall godkjente plasser hentes fra BEFS for alle barnevernsinstitusjoner og avdelinger."
+  },
+  {
+    "term": "database",
+    "file": "frontend/app/api/auth/[...nextauth]/route.ts",
+    "line": 8,
+    "context": "// Using JWT strategy means sessions are stored in cookies, not database"
+  },
+  {
+    "term": "database",
+    "file": "frontend/app/api/auth/[...nextauth]/route.ts",
+    "line": 17,
+    "context": "// Admin users - these are verified against the database"
+  },
+  {
+    "term": "publisere",
+    "file": "frontend/app/activities/hub/page.tsx",
+    "line": 66,
+    "context": "if (!confirm(\"Er du sikker på at du vil publisere denne malen til fellesskapet?\")) return;"
+  },
+  {
+    "term": "tillit",
+    "file": "frontend/app/risk/page.tsx",
+    "line": 207,
+    "context": "<span title={`Delvis data (${Math.round((item.data_confidence ?? 0) * 100)}% tillit) — noen API-kall"
+  },
+  {
+    "term": "deling",
+    "file": "frontend/app/kontroll-2027/page.tsx",
+    "line": 543,
+    "context": "? \"Alle statistiske tester er gjennomført og det er ingen HØY-risiko avvik i GL 2025-dataene. Progno"
+  },
+  {
+    "term": "behandling av personopplysninger",
+    "file": "frontend/app/help/page.tsx",
+    "line": 73,
+    "context": "<p className=\"text-sm text-muted mt-0.5\">Behandling av personopplysninger og informasjonskapsler</p>"
+  },
+  {
+    "term": "personopplysning",
+    "file": "frontend/app/help/page.tsx",
+    "line": 73,
+    "context": "<p className=\"text-sm text-muted mt-0.5\">Behandling av personopplysninger og informasjonskapsler</p>"
+  },
+  {
+    "term": "personvern",
+    "file": "frontend/app/help/page.tsx",
+    "line": 48,
+    "context": "{/* Offentlig informasjon – tilgjengelighet og personvern */}"
+  },
+  {
+    "term": "personvern",
+    "file": "frontend/app/help/page.tsx",
+    "line": 65,
+    "context": "href=\"/personvern\""
+  },
+  {
+    "term": "personvern",
+    "file": "frontend/app/help/page.tsx",
+    "line": 72,
+    "context": "<span className=\"font-semibold text-foreground group-hover:text-primary transition-colors\">Personver"
+  },
+  {
+    "term": "tilgjengelighet",
+    "file": "frontend/app/help/page.tsx",
+    "line": 48,
+    "context": "{/* Offentlig informasjon – tilgjengelighet og personvern */}"
+  },
+  {
+    "term": "tilgjengelighet",
+    "file": "frontend/app/help/page.tsx",
+    "line": 53,
+    "context": "href=\"/tilgjengelighet\""
+  },
+  {
+    "term": "tilgjengelighet",
+    "file": "frontend/app/help/page.tsx",
+    "line": 60,
+    "context": "<span className=\"font-semibold text-foreground group-hover:text-primary transition-colors\">Tilgjenge"
+  },
+  {
+    "term": "tilgjengelighet",
+    "file": "frontend/app/help/page.tsx",
+    "line": 61,
+    "context": "<p className=\"text-sm text-muted mt-0.5\">Tilgjengelighetserklæring og universell utforming (UU)</p>"
+  },
+  {
+    "term": "deling",
+    "file": "frontend/app/institusjoner/page.tsx",
+    "line": 292,
+    "context": "<DataTooltip content=\"Antall godkjente/kvalitetssikrede plasser (GK-plasser) per avdeling pr. 01.01."
+  },
+  {
+    "term": "deling",
+    "file": "frontend/app/institusjoner/page.tsx",
+    "line": 300,
+    "context": "<DataTooltip content=\"Antall budsjetterte institusjonsplasser per avdeling. Kilde: BIRK.\">"
+  }
+]

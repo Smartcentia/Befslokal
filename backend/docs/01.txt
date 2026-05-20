@@ -1,0 +1,1117 @@
+5 Region Midt-Norge 512003 Gilantunet ungdomshjem 151003 Prosjektering og utvikling av eiendom/bygg Regionale fellesfunksjoner Annen kostnad lokaler -172971
+5 Region Midt-Norge 512003 Gilantunet ungdomshjem 53900 Større anskaffelser Barnevernsinstitusjoner Annen kostnad lokaler 172971
+5 Region Midt-Norge 513401 Kollen ungdomsbase Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor -270607
+5 Region Midt-Norge 513401 Kollen ungdomsbase Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor -197070
+5 Region Midt-Norge 513401 Kollen ungdomsbase Barnevernsinstitusjoner Renhold lokaler Europris Butikkdrift AS 285,51
+5 Region Midt-Norge 513401 Kollen ungdomsbase Barnevernsinstitusjoner Renhold lokaler Sivertsen Fargehandel AS 125,1
+5 Region Midt-Norge 513402 Kollen ungdomsbase Barnevernsinstitusjoner Annen kostnad lokaler Sivertsen Fargehandel AS 62,1
+5 Region Midt-Norge 513402 Kollen ungdomsbase Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor -9748
+5 Region Midt-Norge 513402 Kollen ungdomsbase 55080 Selvassuranse Barnevernsinstitusjoner Annen kostnad lokaler Sivertsen Fargehandel AS 1076,4
+5 Region Midt-Norge 513803 Kollen ungdomsbase 55080 Selvassuranse Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Vik Elektro AS 7861,63
+5 Region Midt-Norge 513803 Husafjellheimen ungdomsheim Barnevernsinstitusjoner Renhold lokaler BB Servicesystem Sogn og Fjordane AS 1473,75
+5 Region Midt-Norge 513803 Husafjellheimen, familiehjem Fosterhjem Renhold lokaler BB Servicesystem Sogn og Fjordane AS 1473,75
+5 Region Midt-Norge 513803 Moholt ungdomssenter Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Stiftelsen Kirkens Bymisjon Oslo 3981
+5 Region Midt-Norge 513901 Moholt ungdomssenter Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 376,83
+5 Region Midt-Norge 513902 Moholt ungdomssenter Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 327,39
+5 Region Midt-Norge 513902 Moholt ungdomssenter Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 3915,42
+5 Region Midt-Norge 513902 Moholt ungdomssenter Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 340,32
+5 Region Midt-Norge 513902 Moholt ungdomssenter Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 813,77
+5 Region Midt-Norge 513904 Moholt ungdomssenter Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 581,55
+5 Region Midt-Norge 513904 Moholt ungdomssenter Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 380,62
+5 Region Midt-Norge 513904 Moholt ungdomssenter Barnevernsinstitusjoner Renhold lokaler MASKE AS 311,28
+5 Region Midt-Norge 513904 Moholt ungdomssenter Barnevernsinstitusjoner Vakthold lokaler Sotera AS 481,25
+5 Region Midt-Norge 513904 Moholt ungdomssenter Barnevernsinstitusjoner Vakthold lokaler Sotera AS 512,5
+5 Region Midt-Norge 513904 Moholt ungdomssenter Barnevernsinstitusjoner Vaktmestertjenester DIN VAKTMESTER AS 9703,23
+5 Region Midt-Norge 513905 Moholt ungdomssenter Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Clas Ohlson AS 800
+5 Region Midt-Norge 513905 Moholt ungdomssenter Barnevernsinstitusjoner Reparasjon og vedlikehold av anlegg, også serviceavtaler Stiftelsen Kirkens Bymisjon Oslo 2000
+5 Region Midt-Norge 513905 Skatval ungdomssenter Barnevernsinstitusjoner Leie lokaler andre utleiere Kvarving Ranka 554004,57
+5 Region Midt-Norge 513905 Skatval ungdomssenter Barnevernsinstitusjoner Fellesutgifter andre utleiere Kvarving Ranka 4202,5
+5 Region Midt-Norge 513905 Skatval ungdomssenter 151003 Prosjektering og utvikling av eiendom/bygg Barnevernsinstitusjoner Reparasjon og vedlikehold av anlegg, også serviceavtaler Elman Stjørdal AS 88375
+5 Region Midt-Norge 514401 Skatval ungdomssenter 151006 Drift - Styrking og omstilling av statlige institusjoner Barnevernsinstitusjoner Renhold lokaler 4Service Eir Renhold AS 5533,75
+5 Region Midt-Norge 514401 Skatval ungdomssenter 151006 Drift - Styrking og omstilling av statlige institusjoner Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler BYGGMESTER IVER R. GRESSETH AS 4464
+5 Region Midt-Norge 514401 Sunnmørsheimen ungdomsheim, avd. Nygardsvegen Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Retura Søre Sunnmøre AS 2340
+5 Region Midt-Norge 514401 MST Sunnmøre Hjelpetiltak i hjemmet Renovasjon, vann, avløp o.l. Retura Søre Sunnmøre AS 468
+5 Region Midt-Norge 514401 Tverrfaglig helsekartlegging NABE 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Renovasjon, vann, avløp o.l. 40,61
+5 Region Midt-Norge 514401 Tverrfaglig helsekartlegging NABE 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Renovasjon, vann, avløp o.l. 43,86
+5 Region Midt-Norge 514401 Tverrfaglig helsekartlegging NABE 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Renhold lokaler 1019,03
+5 Region Midt-Norge 514401 Tverrfaglig helsekartlegging NABE 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Renhold lokaler 1053,56
+5 Region Midt-Norge 514401 Tverrfaglig helsekartlegging NABE 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Renhold lokaler 949,76
+5 Region Midt-Norge 520601 Region Midt-Norge felleskostnader barnevern 53770 Utgifter som flg. av brann ved Kollen ungdomsbase Regionale fellesfunksjoner Annen kostnad lokaler Statsbyggs hovedkontor 203542,53
+5 Region Midt-Norge 520601 Regionkontor felleskostnader Regionale fellesfunksjoner Leie lokaler andre utleiere -102508,06
+5 Region Midt-Norge 520601 Regionkontor felleskostnader Regionale fellesfunksjoner Leie lokaler andre utleiere Pirsenteret AS 778561,18
+5 Region Midt-Norge 520601 Regionkontor felleskostnader Regionale fellesfunksjoner Renovasjon, vann, avløp o.l. 637,91
+5 Region Midt-Norge 520601 Regionkontor felleskostnader Regionale fellesfunksjoner Renhold lokaler 11777,8
+5 Region Midt-Norge 520801 Regionkontor felleskostnader Regionale fellesfunksjoner Fellesutgifter andre utleiere Pirsenteret Drift AS 143620,43
+5 Region Midt-Norge 520801 Regionkontor felleskostnader Barnevernsinstitusjoner Leie lokaler andre utleiere Pirsenteret AS 106758,39
+5 Region Midt-Norge 520801 Regionkontor felleskostnader Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. 100,72
+5 Region Midt-Norge 520801 Regionkontor felleskostnader Barnevernsinstitusjoner Renhold lokaler 1859,65
+5 Region Midt-Norge 520801 Regionkontor felleskostnader Barnevernsinstitusjoner Fellesutgifter andre utleiere Pirsenteret Drift AS 22679,71
+5 Region Midt-Norge 521401 Regionkontor felleskostnader Hjelpetiltak i hjemmet Leie lokaler andre utleiere Pirsenteret AS 409282,16
+5 Region Midt-Norge 521401 Regionkontor felleskostnader Hjelpetiltak i hjemmet Renovasjon, vann, avløp o.l. 386,1
+5 Region Midt-Norge 521401 Regionkontor felleskostnader Hjelpetiltak i hjemmet Renhold lokaler 7128,67
+5 Region Midt-Norge 521401 Regionkontor felleskostnader Hjelpetiltak i hjemmet Fellesutgifter andre utleiere Pirsenteret Drift AS 86947,72
+5 Region Midt-Norge 521403 Regionkontor felleskostnader Inntak Leie lokaler andre utleiere Pirsenteret AS 587046,13
+5 Region Midt-Norge 522401 Regionkontor felleskostnader Inntak Renovasjon, vann, avløp o.l. 553,97
+5 Region Midt-Norge 522401 Regionkontor felleskostnader Inntak Renhold lokaler 10228,09
+5 Region Midt-Norge 522401 Regionkontor felleskostnader Inntak Fellesutgifter andre utleiere Pirsenteret Drift AS 124711,82
+5 Region Midt-Norge 522401 Regionkontor felleskostnader Fosterhjemstjenesten Leie lokaler andre utleiere Pirsenteret AS 516040,55
+5 Region Midt-Norge 522401 Regionkontor felleskostnader Fosterhjemstjenesten Renovasjon, vann, avløp o.l. 486,83
+5 Region Midt-Norge 522401 Regionkontor felleskostnader Fosterhjemstjenesten Renhold lokaler 8988,32
+5 Region Midt-Norge 522401 Regionkontor felleskostnader Fosterhjemstjenesten Fellesutgifter andre utleiere Pirsenteret Drift AS 109627,43
+5 Region Midt-Norge 522701 Regionkontor felleskostnader 53500 Regionale felleskostnader Regionale fellesfunksjoner Renovasjon, vann, avløp o.l. -2266,25
+5 Region Midt-Norge 522701 Regionkontor felleskostnader 53500 Regionale felleskostnader Regionale fellesfunksjoner Renovasjon, vann, avløp o.l. Retura TRV AS, Sluppen (86010933066) 2266,25
+5 Region Midt-Norge 522701 Regionkontor felleskostnader 53500 Regionale felleskostnader Regionale fellesfunksjoner Renhold lokaler -41842,19
+5 Region Midt-Norge 522701 Regionkontor felleskostnader 53500 Regionale felleskostnader Regionale fellesfunksjoner Renhold lokaler 4Service Eir Renhold AS 41842,19
+5 Region Midt-Norge 522701 Vikhovlia akuttsenter Fosterhjem Annen kostnad lokaler Elis Norge AS -1041
+5 Region Midt-Norge 522801 Vikhovlia akuttsenter Barnevernsinstitusjoner Leie lokaler andre utleiere Bybroen bolig AS 163701
+5 Region Midt-Norge 522801 Vikhovlia akuttsenter Barnevernsinstitusjoner Renhold lokaler LIJO RENHOLD AS 6937,5
+5 Region Midt-Norge 522801 Vikhovlia akuttsenter Barnevernsinstitusjoner Annen kostnad lokaler Elis Norge AS 1041
+5 Region Midt-Norge 523101 Vikhovlia akuttsenter Barnevernsinstitusjoner Annen kostnad lokaler IKANO BANK AB (PUBL), Coop 863
+5 Region Midt-Norge 523101 Vikhovlia akuttsenter Barnevernsinstitusjoner Fellesutgifter andre utleiere Bybroen bolig AS 9600
+5 Region Midt-Norge 523101 Vikhovlia, beredskapshjem Fosterhjem Leie lokaler andre utleiere Bybroen bolig AS 54567
+5 Region Midt-Norge 523101 Vikhovlia, beredskapshjem Fosterhjem Renhold lokaler LIJO RENHOLD AS 6400
+5 Region Midt-Norge 523101 Vikhovlia, beredskapshjem Fosterhjem Fellesutgifter andre utleiere Bybroen bolig AS 3200
+5 Region Midt-Norge 530501 Kvammen akuttsenter, avdeling Melhus Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 900495
+5 Region Midt-Norge 530501 Kvammen akuttsenter, avdeling Melhus Barnevernsinstitusjoner Renhold lokaler Vekst Melhus AS 1584
+5 Region Midt-Norge 531001 Kvammen akuttsenter, avdeling Melhus Barnevernsinstitusjoner Renhold lokaler Zimmerlund AS 385,5
+5 Region Midt-Norge 531001 Kvammen akuttsenter, avdeling Melhus Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor -1515
+5 Region Midt-Norge 531002 Kvammen akuttsenter, avdeling Melhus Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 122800
+5 Region Midt-Norge 531002 Kvammen akuttsenter, avdeling Melhus Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 66753
+5 Region Midt-Norge 531002 Kvammen akuttsenter, avdeling Melhus Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Buvik Elektro AS 1991,25
+5 Region Midt-Norge 531002 Kvammen akuttsenter, avdeling Melhus Barnevernsinstitusjoner Reparasjon og vedlikehold av anlegg, også serviceavtaler Beslag Konsult AS 4263
+5 Region Midt-Norge 531301 Kvammen akuttsenter, avdeling Melhus 55080 Selvassuranse Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler OLE LIUM MØBELVERKSTED AS 12678
+5 Region Midt-Norge 531301 Kvammen akuttsenter, avdeling Fannrem Barnevernsinstitusjoner Leie lokaler andre utleiere Orkland kommune 307731
+5 Region Midt-Norge 531301 Kvammen akuttsenter, avdeling Fannrem Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Retura Sør-Trøndelag 2330
+5 Region Midt-Norge 531302 Kvammen akuttsenter, avdeling Fannrem Barnevernsinstitusjoner Annen kostnad lokaler Felleskjøpet Agri SA 6455,98
+5 Region Midt-Norge 531302 Kvammen akuttsenter, avdeling Fannrem Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Buvik Elektro AS 6157,66
+5 Region Midt-Norge 531302 Kvammen akuttsenter, avdeling Fannrem 53900 Større anskaffelser Barnevernsinstitusjoner Annen kostnad lokaler Ruta Entreprenør AS 51446,25
+5 Region Midt-Norge 531302 Kvammen akuttsenter, avdeling Fannrem 55080 Selvassuranse Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Bravida Norge AS 5491,43
+5 Region Midt-Norge 532101 Kvammen akuttsenter, avdeling Fannrem 55080 Selvassuranse Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Orkland kommune 36536,31
+5 Region Midt-Norge 532101 Kvammen akuttsenter, avdeling Fannrem 55080 Selvassuranse Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler LINDBAK INTERIØR AS 1757
+5 Region Midt-Norge 532101 Kvammen, avdelig enetiltak Barnevernsinstitusjoner Renhold lokaler Coop Midt-Norge SA 436,76
+5 Region Midt-Norge 532101 Kvammen, avdelig enetiltak Barnevernsinstitusjoner Annen kostnad lokaler Ikano Bank AB (PUBL), Norway Branch (83970500777) 386
+5 Region Midt-Norge 532101 Kvammen, avdelig enetiltak Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Elman As, Verdal 31250
+5 Region Midt-Norge 532101 Kvammen, avdelig enetiltak Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Recover Nordic As, Oslo 42482,86
+5 Region Midt-Norge 532101 Kvammen, avdelig enetiltak 53910 Ekstra innkjøp ut over årets plan Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler SVERRESBORG MALERSERVICE AS 161689
+5 Region Midt-Norge 532101 Humla Akuttsenter Barnevernsinstitusjoner Leie lokaler andre utleiere Løkka Eftf. AS. Ålesund 216530,1
+5 Region Midt-Norge 532101 Humla Akuttsenter Barnevernsinstitusjoner Renhold lokaler Løkka Eftf. AS. Ålesund 22546,13
+5 Region Midt-Norge 532101 Humla Akuttsenter Barnevernsinstitusjoner Annen kostnad lokaler Løkka Eftf. AS. Ålesund 14562,5
+5 Region Midt-Norge 532101 Humla Akuttsenter Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Løkka Eftf. AS. Ålesund 18441,5
+5 Region Midt-Norge 532101 Humla avd. beredskapshjem Fosterhjem Leie lokaler andre utleiere Løkka Eftf. AS. Ålesund 370004,9
+5 Region Midt-Norge 532101 Humla avd. beredskapshjem Fosterhjem Renhold lokaler Løkka Eftf. AS. Ålesund 9662,62
+5 Region Midt-Norge 532101 Humla avd. beredskapshjem Fosterhjem Reparasjon og vedlikehold leide lokaler Løkka Eftf. AS. Ålesund 7903,5
+5 Region Midt-Norge 532101 Enhet for inntak, avdeling Ålesund Inntak Leie lokaler andre utleiere Daaeskogen Eiendom AS 152768
+5 Region Midt-Norge 532101 Enhet for inntak, avdeling Ålesund Inntak Strøm og oppvarming Sameiet Daaeskogen Næringsbygg 5408
+5 Region Midt-Norge 532101 Enhet for inntak, avdeling Ålesund Inntak Renhold lokaler Renex Servicepartner AS 2330
+5 Region Midt-Norge 532501 Enhet for inntak, avdeling Ålesund Inntak Fellesutgifter andre utleiere Sameiet Daaeskogen Næringsbygg 36263
+5 Region Midt-Norge 532501 Fosterhjemstjenesten i Bufetat, region Midt-Norge Fosterhjemstjenesten Leie parkeringsplass Daaeskogen Eiendom AS 2671
+5 Region Midt-Norge 532901 Fosterhjemstjenesten i Bufetat, region Midt-Norge, avd. Steinkjer Fosterhjemstjenesten Leie lokaler andre utleiere BOMVEIEN 3 AS 134138,5
+5 Region Midt-Norge 532901 Fosterhjemstjenesten i Bufetat, region Midt-Norge, avd. Steinkjer Fosterhjemstjenesten Fellesutgifter andre utleiere BOMVEIEN 3 AS 50302
+5 Region Midt-Norge 533201 Fosterhjemstjenesten i Bufetat, region Midt-Norge, avd. Steinkjer Fosterhjemstjenesten Fellesutgifter andre utleiere BOMVEIEN 3 AS 226159
+5 Region Midt-Norge 533201 Fosterhjemstjenesten i Bufetat, region Midt-Norge, avd. Steinkjer Fosterhjemstjenesten Fellesutgifter andre utleiere BOMVEIEN 3 AS -226159
+5 Region Midt-Norge 533202 Fosterhjemstjenesten i Bufetat, region Midt-Norge, avd. Steinkjer Fosterhjemstjenesten Fellesutgifter andre utleiere BOMVEIEN 3 AS 108043
+5 Region Midt-Norge 533202 Fosterhjemstjenesten i Bufetat, region Midt-Norge, avd. Molde Fosterhjemstjenesten Leie lokaler andre utleiere Thon Hotellbygg AS 213837
+5 Region Midt-Norge 540901 Fosterhjemstjenesten i Bufetat, region Midt-Norge, avd. Molde Fosterhjemstjenesten Renhold lokaler Toma Facility Norge AS 4143,75
+5 Region Midt-Norge 540901 Fosterhjemstjenesten i Bufetat, region Midt-Norge, avd. Molde Fosterhjemstjenesten Fellesutgifter andre utleiere Thon Hotellbygg AS 63820
+5 Region Midt-Norge 540901 Fosterhjemstjenesten i Bufetat, region Midt-Norge, avd. Ålesund Fosterhjemstjenesten Leie lokaler andre utleiere Daaeskogen Eiendom AS 171594
+5 Region Midt-Norge 540901 Fosterhjemstjenesten i Bufetat, region Midt-Norge, avd. Ålesund Fosterhjemstjenesten Renhold lokaler MASKE AS 139,59
+5 Region Midt-Norge 541102 Fosterhjemstjenesten i Bufetat, region Midt-Norge, avd. Ålesund Fosterhjemstjenesten Renhold lokaler Renex Servicepartner AS 7257,5
+5 Region Midt-Norge 541102 Fosterhjemstjenesten i Bufetat, region Midt-Norge, avd. Ålesund Fosterhjemstjenesten Leie parkeringsplass Daaeskogen Eiendom AS 2720
+5 Region Midt-Norge 541102 Fosterhjemstjenesten i Bufetat, region Midt-Norge, avd. Ålesund Fosterhjemstjenesten Fellesutgifter andre utleiere Sameiet Daaeskogen Næringsbygg 46859
+5 Region Midt-Norge 541103 Sunnmørsheimen akuttinstitusjon, avd. Klatrevegen Barnevernsinstitusjoner Leie lokaler andre utleiere Aen eiendom AS 295939,71
+5 Region Midt-Norge 541103 Sunnmørsheimen akuttinstitusjon, avd. Klatrevegen Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Retura Søre Sunnmøre AS 783,86
+5 Region Midt-Norge 541103 Sunnmørsheimen akuttinstitusjon, avd. Klatrevegen Barnevernsinstitusjoner Strøm og oppvarming WATTN AS 1597,34
+5 Region Midt-Norge 541103 Sunnmørsheimen akuttinstitusjon, avd. Klatrevegen Barnevernsinstitusjoner Renhold lokaler ISS Facility Services AS 7324,97
+5 Region Midt-Norge 541103 Sunnmørsheimen akuttinstitusjon, avd. Klatrevegen Barnevernsinstitusjoner Annen kostnad lokaler Europris Butikkdrift AS 159,8
+5 Region Midt-Norge 541103 Sunnmørsheimen akuttinstitusjon, avd. Klatrevegen Barnevernsinstitusjoner Fellesutgifter andre utleiere Aen eiendom AS 14611,04
+5 Region Midt-Norge 541103 Sunnmørsheimen akuttinstitusjon, avd. Klatrevegen Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Coop Nordvest SA 304,8
+5 Region Midt-Norge 541103 Sunnmørsheimen akuttinstitusjon, avd. Klatrevegen Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Coop Nordvest SA 478
+5 Region Midt-Norge 541103 Sunnmørsheimen akuttinstitusjon, avd. Klatrevegen Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Coop Nordvest SA 787,9
+5 Region Midt-Norge 541103 Familievernkontoret Namdalen Familieverntjeneste Leie lokaler andre utleiere Forsikringsgården AS 142966,03
+5 Region Midt-Norge 541103 Familievernkontoret Namdalen Familieverntjeneste Strøm og oppvarming Forsikringsgården AS 18567,47
+5 Region Midt-Norge 541103 Familievernkontoret Namdalen Familieverntjeneste Renhold lokaler Midtre Namdal Vekst AS 277
+5 Region Midt-Norge 541103 Familievernkontoret Namdalen Familieverntjeneste Renhold lokaler Insider Facility Solutions AS 10093
+5 Region Midt-Norge 541105 Familievernkontoret Namdalen Familieverntjeneste Fellesutgifter andre utleiere Forsikringsgården AS 23872,5
+5 Region Midt-Norge 541105 Familievernkontoret Namdalen Familieverntjeneste Fellesutgifter andre utleiere Forsikringsgården AS 21665
+5 Region Midt-Norge 541105 Familievernkontoret Innherred Familieverntjeneste Leie lokaler andre utleiere J&S Eiendom AS 110216,39
+5 Region Midt-Norge 541105 Familievernkontoret Innherred Familieverntjeneste Renhold lokaler ISS Facility Services AS 27937,5
+5 Region Midt-Norge 541105 Familievernkontoret Innherred Familieverntjeneste Annen kostnad lokaler IKANO BANK AB (PUBL), Coop 213,1
+5 Region Midt-Norge 541105 Familievernkontoret Innherred Familieverntjeneste Fellesutgifter andre utleiere Jaras Drift AS 45000
+5 Region Midt-Norge 541105 Familievernkontoret Innherred 53910 Ekstra innkjøp ut over årets plan Familieverntjeneste Annen kostnad lokaler Atea AS 74681,25
+5 Region Midt-Norge 541105 Senter for foreldre og barn i Trondheim Sentre for foreldre og barn Leie lokaler fra Statsbygg Statsbyggs hovedkontor 191345
+5 Region Midt-Norge 541105 Senter for foreldre og barn i Trondheim Sentre for foreldre og barn Leie lokaler fra Statsbygg Statsbyggs hovedkontor 339872
+5 Region Midt-Norge 541105 Senter for foreldre og barn i Trondheim Sentre for foreldre og barn Vakthold lokaler Verisure AS 3112,5
+5 Region Midt-Norge 541105 Senter for foreldre og barn i Trondheim Sentre for foreldre og barn Vakthold lokaler Verisure AS 4286,25
+5 Region Midt-Norge 541105 Senter for foreldre og barn i Trondheim Sentre for foreldre og barn Annen kostnad lokaler Mester Grønn AS 600
+5 Region Midt-Norge 541105 Senter for foreldre og barn i Trondheim Sentre for foreldre og barn Annen kostnad lokaler Mester Grønn AS 150
+5 Region Midt-Norge 541105 Senter for foreldre og barn i Trondheim Sentre for foreldre og barn Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 115250
+5 Region Midt-Norge 541105 Senter for foreldre og barn i Trondheim Sentre for foreldre og barn Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 88240
+5 Region Midt-Norge 541105 Senter for foreldre og barn i Trondheim Sentre for foreldre og barn Fellesutgifter Statsbygg - indre vedlikehold 23121
+5 Region Midt-Norge 543301 Senter for foreldre og barn i Trondheim Sentre for foreldre og barn Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 23121
+5 Region Midt-Norge 543301 Senter for foreldre og barn i Trondheim Sentre for foreldre og barn Reparasjon og vedlikehold leide lokaler -23121
+5 Region Midt-Norge 543301 Senter for foreldre og barn i Trondheim Sentre for foreldre og barn Reparasjon og vedlikehold av anlegg, også serviceavtaler Systemsikring AS 9755
+5 Region Midt-Norge 543301 Tverrfaglig helsekartlegging 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Leie lokaler andre utleiere 102508,06
+5 Region Midt-Norge 543301 Tverrfaglig helsekartlegging 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Renovasjon, vann, avløp o.l. 50,36
+5 Region Midt-Norge 543301 Tverrfaglig helsekartlegging 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Renhold lokaler 929,83
+5 Region Midt-Norge 543301 Tverrfaglig helsekartlegging 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Fellesutgifter andre utleiere Pirsenteret Drift AS 21776,77
+5 Region Midt-Norge 543301 Familievernkontoret Nordmøre Familieverntjeneste Leie lokaler andre utleiere H-K INVEST AS 195585
+5 Region Midt-Norge 543301 Familievernkontoret Nordmøre Familieverntjeneste Renhold lokaler Insider Facility Solutions AS 7365
+5 Region Midt-Norge 543301 Familievernkontoret Nordmøre Familieverntjeneste Fellesutgifter andre utleiere H-K INVEST AS 10525
+5 Region Midt-Norge 543301 Senter for foreldre og barn Molde Sentre for foreldre og barn Leie lokaler andre utleiere THON KJØPESENTER MOLDE AS 315669
+5 Region Midt-Norge 543501 Senter for foreldre og barn Molde Sentre for foreldre og barn Leie lokaler fra Statsbygg Statsbyggs hovedkontor 177418
+5 Region Midt-Norge 543501 Senter for foreldre og barn Molde Sentre for foreldre og barn Renhold lokaler Insider Facility Solutions AS 6685
+5 Region Midt-Norge 543501 Senter for foreldre og barn Molde Sentre for foreldre og barn Fellesutgifter andre utleiere THON KJØPESENTER MOLDE AS -1254
+5 Region Midt-Norge 543501 Senter for foreldre og barn Molde Sentre for foreldre og barn Fellesutgifter andre utleiere THON KJØPESENTER MOLDE AS 69208
+5 Region Midt-Norge 500401 Senter for foreldre og barn Molde Sentre for foreldre og barn Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 43350
+5 Region Midt-Norge 500401 Senter for foreldre og barn Molde Sentre for foreldre og barn Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 194493
+5 Region Midt-Norge 500401 Senter for foreldre og barn Molde Sentre for foreldre og barn Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 4478
+5 Region Midt-Norge 500401 Senter for foreldre og barn Molde 53900 Større anskaffelser Sentre for foreldre og barn Annen kostnad lokaler Statsbyggs hovedkontor 28796,17
+5 Region Midt-Norge 500401 Familievernkontoret Romsdal Familieverntjeneste Leie lokaler andre utleiere Thon Hotellbygg AS 87564
+5 Region Midt-Norge 500401 Familievernkontoret Romsdal Familieverntjeneste Renhold lokaler Toma Facility Norge AS 296
+5 Region Midt-Norge 500401 Familievernkontoret Romsdal Familieverntjeneste Fellesutgifter andre utleiere Thon Hotellbygg AS 27983
+5 Region Midt-Norge 500401 Familievernkontoret Sunnmøre Familieverntjeneste Leie lokaler andre utleiere Daaeskogen Eiendom AS 320759
+5 Region Midt-Norge 500401 Familievernkontoret Sunnmøre Familieverntjeneste Renhold lokaler Renex Servicepartner AS 7896,25
+5 Region Midt-Norge 500401 Familievernkontoret Sunnmøre Familieverntjeneste Fellesutgifter andre utleiere Sameiet Daaeskogen Næringsbygg -2812
+5 Region Midt-Norge 500401 Familievernkontoret Sunnmøre Familieverntjeneste Fellesutgifter andre utleiere Sameiet Daaeskogen Næringsbygg 87495
+5 Region Midt-Norge 500401 Familievernkontoret Sunnmøre 53520 Avdelingskontor Familieverntjeneste Leie lokaler andre utleiere AS Terminalbygg 82535
+5 Region Midt-Norge 500401 Familievernkontoret Sunnmøre 53520 Avdelingskontor Familieverntjeneste Renhold lokaler Humberset Reinhald AS 1523
+5 Region Midt-Norge 500401 Spillumheimen ungdomsheim Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 144316
+5 Region Midt-Norge 500401 Spillumheimen ungdomsheim Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 38400
+5 Region Midt-Norge 500401 Spillumheimen ungdomsheim Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor -6812
+5 Region Midt-Norge 500401 Spillumheimen ungdomsheim Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 19467
+5 Region Midt-Norge 500401 Karienborg ungdomsheim Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 318047
+5 Region Midt-Norge 500401 Karienborg ungdomsheim Barnevernsinstitusjoner Renhold lokaler ISS Facility Services AS 16992,23
+5 Region Midt-Norge 500401 Karienborg ungdomsheim Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 73225
+5 Region Midt-Norge 511201 Karienborg ungdomsheim Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 55988
+5 Region Midt-Norge 511201 Karienborg ungdomsheim Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 21303
+5 Region Midt-Norge 511201 Karienborg, familiehjem Fosterhjem Leie lokaler andre utleiere J&S Eiendom AS 26232
+5 Region Midt-Norge 511201 Karienborg, familiehjem Fosterhjem Renhold lokaler ISS Facility Services AS 9491,64
+5 Region Midt-Norge 511201 Karienborg, familiehjem Fosterhjem Fellesutgifter andre utleiere Jaras Drift AS 12500
+5 Region Midt-Norge 511201 Ranheim Vestre Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. MASKE AS 1438,89
+5 Region Midt-Norge 511201 Ranheim Vestre Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. MASKE AS 272,21
+5 Region Midt-Norge 511201 Ranheim Vestre Barnevernsinstitusjoner Renhold lokaler -233,1
+5 Region Midt-Norge 511201 Ranheim Vestre Barnevernsinstitusjoner Renhold lokaler 233,1
+5 Region Midt-Norge 511201 Ranheim Vestre Barnevernsinstitusjoner Renhold lokaler MASKE AS 369,69
+5 Region Midt-Norge 511201 Ranheim Vestre Barnevernsinstitusjoner Renhold lokaler MASKE AS 233,1
+5 Region Midt-Norge 511202 Ranheim Vestre Barnevernsinstitusjoner Renhold lokaler MASKE AS 1570,59
+5 Region Midt-Norge 511202 Ranheim Vestre Barnevernsinstitusjoner Fellesutgifter andre utleiere Bjørnen Eiendom AS, Trondheim 34850,9
+5 Region Midt-Norge 511202 Ranheim Vestre Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler IKANO BANK AB (PUBL), Coop 4089
+5 Region Midt-Norge 511202 Ranheim Vestre, familiehjem Fosterhjem Renhold lokaler MASKE AS 194,39
+5 Region Midt-Norge 511202 Ranheim Vestre, familiehjem Fosterhjem Renhold lokaler 4Service Eir Renhold AS 9236,21
+5 Region Midt-Norge 511202 Ranheim Vestre, familiehjem Fosterhjem Fellesutgifter andre utleiere Bjørnen Eiendom AS, Trondheim 14936,1
+5 Region Midt-Norge 511202 Gilantunet ungdomshjem Barnevernsinstitusjoner Leie lokaler andre utleiere Nils Karl Kulbrandstad 456959,36
+5 Region Midt-Norge 512002 Gilantunet ungdomshjem Barnevernsinstitusjoner Renhold lokaler ISS Facility Services AS 41362,84
+5 Region Midt-Norge 512002 Gilantunet ungdomshjem Barnevernsinstitusjoner Annen kostnad lokaler Jysk AS 23
+5 Region Midt-Norge 512002 Gilantunet ungdomshjem Barnevernsinstitusjoner Annen kostnad lokaler Jysk AS 211,55
+5 Region Midt-Norge 512002 Gilantunet ungdomshjem Barnevernsinstitusjoner Annen kostnad lokaler Europris Butikkdrift AS 259,7
+5 Region Midt-Norge 512002 Gilantunet ungdomshjem Barnevernsinstitusjoner Annen kostnad lokaler Europris Butikkdrift AS 1253,4
+5 Region Midt-Norge 512002 Clausenengen ungdomshjem Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 194347
+5 Region Midt-Norge 512002 Clausenengen ungdomshjem Barnevernsinstitusjoner Renhold lokaler ISS Facility Services AS 13770,48
+5 Region Midt-Norge 512003 Clausenengen ungdomshjem Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 157496
+5 Region Midt-Norge 512003 Clausenengen ungdomshjem Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 66350
+5 Region Midt-Norge 512003 Clausenengen ungdomshjem Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 5782
+5 Region Midt-Norge 512003 Kollen ungdomsbase Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 440432
+5 Region Midt-Norge 512003 Kollen ungdomsbase Barnevernsinstitusjoner Renhold lokaler Rema 1000 Vestnes (15033440445) vismaco 83,7
+5 Region Midt-Norge 512003 Kollen ungdomsbase Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 206265
+5 Region Midt-Norge 512003 Kollen ungdomsbase Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 119150
+5 Region Midt-Norge 512003 Kollen ungdomsbase Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 21787
+5 Region Midt-Norge 512003 Kollen ungdomsbase Hjelpetiltak i hjemmet Annen kostnad lokaler Europris Butikkdrift AS 49,9
+5 Region Midt-Norge 512003 Husafjellheimen ungdomsheim Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 611076,2
+5 Region Midt-Norge 513401 Husafjellheimen ungdomsheim Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 23894
+5 Region Midt-Norge 513401 Husafjellheimen ungdomsheim Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 59570
+5 Region Midt-Norge 513402 Husafjellheimen ungdomsheim Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 20789,3
+5 Region Midt-Norge 513402 Husafjellheimen, familiehjem Fosterhjem Leie lokaler fra Statsbygg Statsbyggs hovedkontor 261889,8
+5 Region Midt-Norge 513803 Husafjellheimen, familiehjem Fosterhjem Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 25530
+5 Region Midt-Norge 513803 Husafjellheimen, familiehjem Fosterhjem Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 8909,7
+5 Region Midt-Norge 513803 MST Trøndelag Nord Hjelpetiltak i hjemmet Leie lokaler andre utleiere J&S Eiendom AS 26232
+5 Region Midt-Norge 513904 MST Trøndelag Nord Hjelpetiltak i hjemmet Renhold lokaler ISS Facility Services AS 9491,65
+5 Region Midt-Norge 513904 MST Trøndelag Nord Hjelpetiltak i hjemmet Fellesutgifter andre utleiere Jaras Drift AS 12500
+5 Region Midt-Norge 513904 Trøndelag behandlingssenter for ungdom Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 86162
+5 Region Midt-Norge 513905 Trøndelag behandlingssenter for ungdom Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 131429
+5 Region Midt-Norge 513905 Trøndelag behandlingssenter for ungdom Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 20308
+5 Region Midt-Norge 513905 Trøndelag behandlingssenter for ungdom Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 27075
+5 Region Midt-Norge 514401 Trøndelag behandlingssenter for ungdom Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 14622
+5 Region Midt-Norge 514401 Trøndelag behandlingssenter for ungdom Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 3783
+5 Region Midt-Norge 514401 Buvika ungdomssenter Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 297644
+5 Region Midt-Norge 514401 Buvika ungdomssenter Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 207911
+5 Region Midt-Norge 514401 Buvika ungdomssenter Barnevernsinstitusjoner Leie parkeringsplass Børsa Båtklubb 2933
+5 Region Midt-Norge 514401 Buvika ungdomssenter Barnevernsinstitusjoner Leie parkeringsplass Elisabeth Espenes 19807,41
+5 Region Midt-Norge 514401 Buvika ungdomssenter Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 81260
+5 Region Midt-Norge 520601 Buvika ungdomssenter Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 75325
+5 Region Midt-Norge 520601 Buvika ungdomssenter Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 4231
+5 Region Midt-Norge 520801 Buvika ungdomssenter Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Buvik Elektro AS 8129,66
+5 Region Midt-Norge 520801 Moholt ungdomssenter Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Stiftelsen Kirkens Bymisjon Oslo 3981
+5 Region Midt-Norge 521401 Moholt ungdomssenter Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Stiftelsen Kirkens Bymisjon Oslo 17367
+5 Region Midt-Norge 521401 Moholt ungdomssenter Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 624,78
+5 Region Midt-Norge 521401 Moholt ungdomssenter Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 3327,27
+5 Region Midt-Norge 521401 Moholt ungdomssenter Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 331,75
+5 Region Midt-Norge 521401 Moholt ungdomssenter Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 380,39
+5 Region Midt-Norge 521401 Moholt ungdomssenter Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 331,95
+5 Region Midt-Norge 521401 Moholt ungdomssenter Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 350,24
+5 Region Midt-Norge 521401 Moholt ungdomssenter Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 515,88
+5 Region Midt-Norge 521403 Moholt ungdomssenter Barnevernsinstitusjoner Renhold lokaler MASKE AS 488,35
+5 Region Midt-Norge 521403 Moholt ungdomssenter Barnevernsinstitusjoner Vaktmestertjenester DIN VAKTMESTER AS 9703,23
+5 Region Midt-Norge 521403 Moholt ungdomssenter Barnevernsinstitusjoner Leie parkeringsplass Børsa Båtklubb 2933
+5 Region Midt-Norge 522401 Moholt ungdomssenter Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Buvik Elektro AS 2343,75
+5 Region Midt-Norge 522401 Moholt ungdomssenter Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Ruta Entreprenør AS 189164,38
+5 Region Midt-Norge 522701 Skatval ungdomssenter Barnevernsinstitusjoner Vaktmestertjenester Utleieselskapet AS 65437,5
+5 Region Midt-Norge 522701 Skatval ungdomssenter 151006 Drift - Styrking og omstilling av statlige institusjoner Barnevernsinstitusjoner Renhold lokaler 4Service Eir Renhold AS 5533,75
+5 Region Midt-Norge 522701 Skatval ungdomssenter 151006 Drift - Styrking og omstilling av statlige institusjoner Barnevernsinstitusjoner Reparasjon og vedlikehold av anlegg, også serviceavtaler SIMEN SALBERG 40000
+5 Region Midt-Norge 522701 Sunnmørsheimen ungdomsheim, avd. Nygardsvegen Barnevernsinstitusjoner Leie lokaler andre utleiere Aen eiendom AS 384158,6
+5 Region Midt-Norge 522701 Sunnmørsheimen ungdomsheim, avd. Nygardsvegen Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Retura Søre Sunnmøre AS 750
+5 Region Midt-Norge 522701 Sunnmørsheimen ungdomsheim, avd. Nygardsvegen Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Retura Søre Sunnmøre AS 2315,95
+5 Region Midt-Norge 522701 Sunnmørsheimen ungdomsheim, avd. Nygardsvegen Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Retura Søre Sunnmøre AS 1088
+5 Region Midt-Norge 522701 Sunnmørsheimen ungdomsheim, avd. Nygardsvegen Barnevernsinstitusjoner Renhold lokaler ISS Facility Services AS 12126,61
+5 Region Midt-Norge 522701 Sunnmørsheimen ungdomsheim, avd. Nygardsvegen Barnevernsinstitusjoner Fellesutgifter andre utleiere Aen eiendom AS 14872,63
+5 Region Midt-Norge 522801 MST Sunnmøre Hjelpetiltak i hjemmet Leie lokaler andre utleiere Aen eiendom AS 76831,72
+5 Region Midt-Norge 522801 MST Sunnmøre Hjelpetiltak i hjemmet Renovasjon, vann, avløp o.l. Retura Søre Sunnmøre AS 463,19
+5 Region Midt-Norge 522801 MST Sunnmøre Hjelpetiltak i hjemmet Renhold lokaler ISS Facility Services AS 5046,63
+5 Region Midt-Norge 522801 MST Sunnmøre Hjelpetiltak i hjemmet Fellesutgifter andre utleiere Aen eiendom AS 2974,53
+5 Region Midt-Norge 522801 Tverrfaglig helsekartlegging NABE 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Leie lokaler andre utleiere Pirsenteret AS 102508,06
+5 Region Midt-Norge 523101 Tverrfaglig helsekartlegging NABE 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Renovasjon, vann, avløp o.l. 50,36
+5 Region Midt-Norge 523101 Tverrfaglig helsekartlegging NABE 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Renhold lokaler 929,83
+5 Region Midt-Norge 523101 Tverrfaglig helsekartlegging NABE 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Fellesutgifter andre utleiere Pirsenteret Drift AS 21776,77
+5 Region Midt-Norge 523101 Region Midt-Norge felleskostnader familievern og mekling 53910 Ekstra innkjøp ut over årets plan Familieverntjeneste Annen kostnad lokaler Innherred entreprenør as 6595,63
+5 Region Midt-Norge 530501 Regionkontor felleskostnader Regionale fellesfunksjoner Renovasjon, vann, avløp o.l. 1275,81
+5 Region Midt-Norge 530501 Regionkontor felleskostnader Regionale fellesfunksjoner Renhold lokaler 13345,06
+5 Region Midt-Norge 530501 Regionkontor felleskostnader Regionale fellesfunksjoner Annen kostnad lokaler 45553,01
+5 Region Midt-Norge 530501 Regionkontor felleskostnader Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. 201,44
+5 Region Midt-Norge 530501 Regionkontor felleskostnader Barnevernsinstitusjoner Renhold lokaler 2107,11
+5 Region Midt-Norge 531001 Regionkontor felleskostnader Barnevernsinstitusjoner Annen kostnad lokaler 7192,58
+5 Region Midt-Norge 531001 Regionkontor felleskostnader Hjelpetiltak i hjemmet Renovasjon, vann, avløp o.l. 772,2
+5 Region Midt-Norge 531001 Regionkontor felleskostnader Hjelpetiltak i hjemmet Renhold lokaler 8077,27
+5 Region Midt-Norge 531001 Regionkontor felleskostnader Hjelpetiltak i hjemmet Annen kostnad lokaler 27571,56
+5 Region Midt-Norge 531301 Regionkontor felleskostnader Inntak Renovasjon, vann, avløp o.l. 1107,94
+5 Region Midt-Norge 531301 Regionkontor felleskostnader Inntak Renhold lokaler 11589,13
+5 Region Midt-Norge 531301 Regionkontor felleskostnader Inntak Annen kostnad lokaler 39559,2
+5 Region Midt-Norge 531302 Regionkontor felleskostnader Fosterhjemstjenesten Renovasjon, vann, avløp o.l. 973,67
+5 Region Midt-Norge 531302 Regionkontor felleskostnader Fosterhjemstjenesten Renhold lokaler 10184,39
+5 Region Midt-Norge 531302 Regionkontor felleskostnader Fosterhjemstjenesten Annen kostnad lokaler 34764,14
+5 Region Midt-Norge 531302 Regionkontor felleskostnader 53500 Regionale felleskostnader Regionale fellesfunksjoner Renovasjon, vann, avløp o.l. -4532,5
+5 Region Midt-Norge 532101 Regionkontor felleskostnader 53500 Regionale felleskostnader Regionale fellesfunksjoner Renovasjon, vann, avløp o.l. Retura TRV AS, Sluppen (86010933066) 2266,25
+5 Region Midt-Norge 532101 Regionkontor felleskostnader 53500 Regionale felleskostnader Regionale fellesfunksjoner Renovasjon, vann, avløp o.l. Retura TRV AS, Sluppen (86010933066) 2266,25
+5 Region Midt-Norge 532101 Regionkontor felleskostnader 53500 Regionale felleskostnader Regionale fellesfunksjoner Renhold lokaler -47410,08
+5 Region Midt-Norge 532101 Regionkontor felleskostnader 53500 Regionale felleskostnader Regionale fellesfunksjoner Renhold lokaler 4Service Eir Renhold AS 41842,19
+5 Region Midt-Norge 532101 Regionkontor felleskostnader 53500 Regionale felleskostnader Regionale fellesfunksjoner Renhold lokaler 4Service Eir Renhold AS 5567,89
+5 Region Midt-Norge 532101 Regionkontor felleskostnader 53500 Regionale felleskostnader Regionale fellesfunksjoner Annen kostnad lokaler -154640,49
+5 Region Midt-Norge 532101 Regionkontor felleskostnader 53500 Regionale felleskostnader Regionale fellesfunksjoner Annen kostnad lokaler Pirsenteret AS 154640,49
+5 Region Midt-Norge 532501 Regionkontor felleskostnader 53770 Utgifter som flg. av brann ved Kollen ungdomsbase Regionale fellesfunksjoner Annen kostnad lokaler Statsbyggs hovedkontor 108136,88
+5 Region Midt-Norge 532501 Vikhovlia akuttsenter Barnevernsinstitusjoner Leie lokaler andre utleiere Bybroen bolig AS 163701
+5 Region Midt-Norge 532501 Vikhovlia akuttsenter Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 27747,3
+5 Region Midt-Norge 532501 Vikhovlia akuttsenter Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 2681,8
+5 Region Midt-Norge 532501 Vikhovlia akuttsenter Barnevernsinstitusjoner Renhold lokaler LIJO RENHOLD AS 5793,75
+5 Region Midt-Norge 532501 Vikhovlia akuttsenter Barnevernsinstitusjoner Annen kostnad lokaler Midt - Norge 110-Sentral IKS 6035
+5 Region Midt-Norge 532901 Vikhovlia akuttsenter Barnevernsinstitusjoner Annen kostnad lokaler LIJO RENHOLD AS 1166
+5 Region Midt-Norge 532901 Vikhovlia akuttsenter Barnevernsinstitusjoner Fellesutgifter andre utleiere Bybroen bolig AS 9600
+5 Region Midt-Norge 532901 Vikhovlia akuttsenter Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Elektriker 1 Trondheim AS 6510,59
+5 Region Midt-Norge 532901 Vikhovlia, beredskapshjem Fosterhjem Leie lokaler andre utleiere Bybroen bolig AS 54567
+5 Region Midt-Norge 532901 Vikhovlia, beredskapshjem Fosterhjem Strøm og oppvarming KINECT ENERGY SPOT AS 1827,47
+5 Region Midt-Norge 532901 Vikhovlia, beredskapshjem Fosterhjem Strøm og oppvarming KINECT ENERGY SPOT AS -62,15
+5 Region Midt-Norge 532901 Vikhovlia, beredskapshjem Fosterhjem Renhold lokaler LIJO RENHOLD AS 5793,75
+5 Region Midt-Norge 532901 Vikhovlia, beredskapshjem Fosterhjem Annen kostnad lokaler Midt - Norge 110-Sentral IKS 3017,5
+5 Region Midt-Norge 533201 Vikhovlia, beredskapshjem Fosterhjem Annen kostnad lokaler LIJO RENHOLD AS 584
+5 Region Midt-Norge 533201 Vikhovlia, beredskapshjem Fosterhjem Fellesutgifter andre utleiere Bybroen bolig AS 3200
+5 Region Midt-Norge 533201 Kvammen akuttsenter, avdeling Melhus Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 31168,53
+5 Region Midt-Norge 533201 Kvammen akuttsenter, avdeling Melhus Barnevernsinstitusjoner Renhold lokaler Vekst Melhus AS 1584
+5 Region Midt-Norge 533201 Kvammen akuttsenter, avdeling Melhus Barnevernsinstitusjoner Renhold lokaler Zimmerlund AS 1198,8
+5 Region Midt-Norge 533201 Kvammen akuttsenter, avdeling Melhus Barnevernsinstitusjoner Annen kostnad lokaler IKANO BANK AB (PUBL), Coop 1008
+5 Region Midt-Norge 533201 Kvammen akuttsenter, avdeling Fannrem Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Retura Sør-Trøndelag 2295
+5 Region Midt-Norge 533202 Kvammen akuttsenter, avdeling Fannrem Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 29839,44
+5 Region Midt-Norge 533202 Kvammen akuttsenter, avdeling Fannrem Barnevernsinstitusjoner Renhold lokaler GRUNNAN DAGLIGVARE AS 1548,9
+5 Region Midt-Norge 533202 Kvammen akuttsenter, avdeling Fannrem Barnevernsinstitusjoner Vaktmestertjenester Stenseth Maskin AS 1937,51
+5 Region Midt-Norge 533202 Kvammen akuttsenter, avdeling Fannrem Barnevernsinstitusjoner Annen kostnad lokaler Midt - Norge 110-Sentral IKS 9052,5
+5 Region Midt-Norge 533202 Kvammen akuttsenter, avdeling Fannrem Barnevernsinstitusjoner Annen kostnad lokaler Coop Nordvest SA 280,4
+5 Region Midt-Norge 541100 Kvammen akuttsenter, avdeling Fannrem Barnevernsinstitusjoner Annen kostnad lokaler GRUNNAN DAGLIGVARE AS 534
+5 Region Midt-Norge 541100 Kvammen, avdelig enetiltak Barnevernsinstitusjoner Renhold lokaler Coop Midt-Norge SA 184
+5 Region Midt-Norge 541100 Kvammen, avdelig enetiltak Barnevernsinstitusjoner Vakthold lokaler Sotera AS 876,25
+5 Region Midt-Norge 541100 Kvammen, avdelig enetiltak Barnevernsinstitusjoner Annen kostnad lokaler Coop Midt-Norge SA 95,84
+5 Region Midt-Norge 541100 Kvammen, avdelig enetiltak Barnevernsinstitusjoner Annen kostnad lokaler Coop Midt-Norge SA 319,2
+5 Region Midt-Norge 541100 Kvammen, avdelig enetiltak Barnevernsinstitusjoner Annen kostnad lokaler Eurocard Norway 2395,5
+5 Region Midt-Norge 541102 Kvammen, avdelig enetiltak Inntak Strøm og oppvarming KINECT ENERGY SPOT AS 59,47
+5 Region Midt-Norge 541102 Humla Akuttsenter Barnevernsinstitusjoner Leie lokaler andre utleiere 195844,4
+5 Region Midt-Norge 541102 Humla Akuttsenter Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 11699,78
+5 Region Midt-Norge 541102 Humla avd. beredskapshjem Fosterhjem Leie lokaler andre utleiere -195844,4
+5 Region Midt-Norge 541102 Humla avd. beredskapshjem Fosterhjem Strøm og oppvarming KINECT ENERGY SPOT AS 6967,35
+5 Region Midt-Norge 541102 Enhet for inntak, avdeling Ålesund Inntak Renhold lokaler Ålesund Vinduspuss AS 1375
+5 Region Midt-Norge 541102 Enhet for inntak, avdeling Ålesund Inntak Renhold lokaler Renex Servicepartner AS 2432,5
+5 Region Midt-Norge 541103 Fosterhjemstjenesten i Bufetat, region Midt-Norge, avd. Molde Fosterhjemstjenesten Strøm og oppvarming KINECT ENERGY SPOT AS 2766,69
+5 Region Midt-Norge 541103 Fosterhjemstjenesten i Bufetat, region Midt-Norge, avd. Molde Fosterhjemstjenesten Strøm og oppvarming KINECT ENERGY SPOT AS 4399,13
+5 Region Midt-Norge 541103 Fosterhjemstjenesten i Bufetat, region Midt-Norge, avd. Molde Fosterhjemstjenesten Renhold lokaler Toma Facility Norge AS 4143,75
+5 Region Midt-Norge 541103 Fosterhjemstjenesten i Bufetat, region Midt-Norge, avd. Molde Fosterhjemstjenesten Fellesutgifter andre utleiere Thon Hotellbygg AS -13545
+5 Region Midt-Norge 541103 Fosterhjemstjenesten i Bufetat, region Midt-Norge, avd. Ålesund Fosterhjemstjenesten Strøm og oppvarming KINECT ENERGY SPOT AS 2756,01
+5 Region Midt-Norge 541103 Fosterhjemstjenesten i Bufetat, region Midt-Norge, avd. Ålesund Fosterhjemstjenesten Strøm og oppvarming KINECT ENERGY SPOT AS 3036,94
+5 Region Midt-Norge 541103 Fosterhjemstjenesten i Bufetat, region Midt-Norge, avd. Ålesund Fosterhjemstjenesten Renhold lokaler Renex Servicepartner AS 7576,25
+5 Region Midt-Norge 541103 Sunnmørsheimen akuttinstitusjon, avd. Klatrevegen Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Retura Søre Sunnmøre AS 783,86
+5 Region Midt-Norge 541103 Sunnmørsheimen akuttinstitusjon, avd. Klatrevegen Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Volda/Ørsta Reinhaldsverk IKS 6588
+5 Region Midt-Norge 541105 Sunnmørsheimen akuttinstitusjon, avd. Klatrevegen Barnevernsinstitusjoner Strøm og oppvarming WATTN AS 1452,24
+5 Region Midt-Norge 541105 Sunnmørsheimen akuttinstitusjon, avd. Klatrevegen Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 8812,96
+5 Region Midt-Norge 541105 Sunnmørsheimen akuttinstitusjon, avd. Klatrevegen Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 2366,29
+5 Region Midt-Norge 543301 Sunnmørsheimen akuttinstitusjon, avd. Klatrevegen Barnevernsinstitusjoner Annen kostnad lokaler Aasebø & Ulvestad Installasjon AS 417,5
+5 Region Midt-Norge 543301 Familievernkontoret Namdalen Familieverntjeneste Renhold lokaler Midtre Namdal Vekst AS 277
+5 Region Midt-Norge 543301 Familievernkontoret Namdalen Familieverntjeneste Renhold lokaler Insider Facility Solutions AS 10093
+5 Region Midt-Norge 543301 Familievernkontoret Innherred Familieverntjeneste Leie lokaler andre utleiere J&S Eiendom AS 312000
+5 Region Midt-Norge 543301 Familievernkontoret Innherred Familieverntjeneste Fellesutgifter andre utleiere Jaras Drift AS 12627,5
+5 Region Midt-Norge 543301 Familievernkontoret Innherred 53910 Ekstra innkjøp ut over årets plan Familieverntjeneste Annen kostnad lokaler Atea AS 77917,5
+5 Region Midt-Norge 543301 Familievernkontoret Innherred 53910 Ekstra innkjøp ut over årets plan Familieverntjeneste Annen kostnad lokaler Jaras Drift AS 227875
+5 Region Midt-Norge 543301 Familievernkontoret Innherred 53910 Ekstra innkjøp ut over årets plan Familieverntjeneste Annen kostnad lokaler Innherred entreprenør as 33130,95
+5 Region Midt-Norge 543301 Familievernkontoret Innherred 53910 Ekstra innkjøp ut over årets plan Familieverntjeneste Annen kostnad lokaler Innherred entreprenør as 20758,5
+5 Region Midt-Norge 543301 Familievernkontoret Innherred 53910 Ekstra innkjøp ut over årets plan Familieverntjeneste Annen kostnad lokaler Innherred entreprenør as 13130
+5 Region Midt-Norge 543301 Familievernkontoret Innherred 53910 Ekstra innkjøp ut over årets plan Familieverntjeneste Annen kostnad lokaler BRUEM FLYTTETRANSPORT AS 32800
+5 Region Midt-Norge 543301 Senter for foreldre og barn i Trondheim Sentre for foreldre og barn Strøm og oppvarming KINECT ENERGY SPOT AS 12770,56
+5 Region Midt-Norge 543301 Senter for foreldre og barn i Trondheim Sentre for foreldre og barn Strøm og oppvarming KINECT ENERGY SPOT AS 15233,91
+5 Region Midt-Norge 543501 Senter for foreldre og barn i Trondheim Sentre for foreldre og barn Strøm og oppvarming KINECT ENERGY SPOT AS 8324,23
+5 Region Midt-Norge 543501 Senter for foreldre og barn i Trondheim Sentre for foreldre og barn Annen kostnad lokaler Barnas Hus Norge AS 1111,5
+5 Region Midt-Norge 544130 Senter for foreldre og barn i Trondheim Sentre for foreldre og barn Reparasjon og vedlikehold leide lokaler IKANO BANK AB (PUBL), Coop 1078
+5 Region Midt-Norge 544130 Tverrfaglig helsekartlegging 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Renovasjon, vann, avløp o.l. 100,72
+5 Region Midt-Norge 544130 Tverrfaglig helsekartlegging 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Renhold lokaler 1053,56
+5 Region Midt-Norge 500401 Familievernkontoret Nordmøre Familieverntjeneste Strøm og oppvarming KINECT ENERGY SPOT AS 18723,65
+5 Region Midt-Norge 500401 Familievernkontoret Nordmøre Familieverntjeneste Renhold lokaler Insider Facility Solutions AS 7365
+5 Region Midt-Norge 500401 Senter for foreldre og barn Molde Sentre for foreldre og barn Renovasjon, vann, avløp o.l. ROMSDALSHALVØYA INTERKOMMUNALE RENOVASJONSSELSKAP IKS 500
+5 Region Midt-Norge 500401 Senter for foreldre og barn Molde Sentre for foreldre og barn Strøm og oppvarming KINECT ENERGY SPOT AS 4306,72
+5 Region Midt-Norge 500401 Senter for foreldre og barn Molde Sentre for foreldre og barn Strøm og oppvarming KINECT ENERGY SPOT AS 4789,29
+5 Region Midt-Norge 500401 Senter for foreldre og barn Molde Sentre for foreldre og barn Strøm og oppvarming KINECT ENERGY SPOT AS 5196,12
+5 Region Midt-Norge 500401 Senter for foreldre og barn Molde Sentre for foreldre og barn Renhold lokaler Insider Facility Solutions AS 6685
+5 Region Midt-Norge 500401 Senter for foreldre og barn Molde Sentre for foreldre og barn Vakthold lokaler Avarn Security AS 1645,88
+5 Region Midt-Norge 500401 Senter for foreldre og barn Molde Sentre for foreldre og barn Annen kostnad lokaler MIFO A/S 13287
+5 Region Midt-Norge 500401 Senter for foreldre og barn Molde Sentre for foreldre og barn Leie parkeringsplass Time Park Service AS 1000
+5 Region Midt-Norge 500401 Senter for foreldre og barn Molde Sentre for foreldre og barn Reparasjon og vedlikehold leide lokaler VÅGEN BYGGSERVICE AS 24175
+5 Region Midt-Norge 500401 Familievernkontoret Romsdal Familieverntjeneste Leie lokaler andre utleiere Thon Hotellbygg AS 87564
+5 Region Midt-Norge 500401 Familievernkontoret Romsdal Familieverntjeneste Strøm og oppvarming KINECT ENERGY SPOT AS 3894,82
+5 Region Midt-Norge 500401 Familievernkontoret Romsdal Familieverntjeneste Renhold lokaler Toma Facility Norge AS 370
+5 Region Midt-Norge 500401 Familievernkontoret Romsdal Familieverntjeneste Fellesutgifter andre utleiere Thon Hotellbygg AS 27983
+5 Region Midt-Norge 500401 Familievernkontoret Romsdal Familieverntjeneste Fellesutgifter andre utleiere Thon Hotellbygg AS -18467
+5 Region Midt-Norge 500401 Familievernkontoret Sunnmøre Familieverntjeneste Strøm og oppvarming KINECT ENERGY SPOT AS 2802,57
+5 Region Midt-Norge 500401 Familievernkontoret Sunnmøre Familieverntjeneste Strøm og oppvarming KINECT ENERGY SPOT AS 3071,01
+5 Region Midt-Norge 500401 Familievernkontoret Sunnmøre Familieverntjeneste Renhold lokaler Renex Servicepartner AS 8243,75
+5 Region Midt-Norge 500401 Familievernkontoret Sunnmøre 53520 Avdelingskontor Familieverntjeneste Strøm og oppvarming KINECT ENERGY SPOT AS 3055,37
+5 Region Midt-Norge 500401 Spillumheimen ungdomsheim Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 28531,29
+5 Region Midt-Norge 500401 Spillumheimen ungdomsheim Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 9726,57
+5 Region Midt-Norge 500401 Karienborg ungdomsheim Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 34574,64
+5 Region Midt-Norge 500401 Karienborg ungdomsheim Barnevernsinstitusjoner Annen kostnad lokaler RETURA IR AS 123,75
+5 Region Midt-Norge 500401 Karienborg, familiehjem Fosterhjem Leie lokaler andre utleiere J&S Eiendom AS 87750
+5 Region Midt-Norge 500401 Karienborg, familiehjem Fosterhjem Fellesutgifter andre utleiere Jaras Drift AS 30780
+5 Region Midt-Norge 500401 Karienborg, familiehjem Fosterhjem Fellesutgifter andre utleiere Jaras Drift AS 9163,12
+5 Region Midt-Norge 500401 Ranheim Vestre Barnevernsinstitusjoner Leie lokaler andre utleiere Bjørnen Eiendom AS, Trondheim 414416,8
+5 Region Midt-Norge 500401 Ranheim Vestre Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 22018
+5 Region Midt-Norge 500401 Ranheim Vestre Barnevernsinstitusjoner Renhold lokaler -369,69
+5 Region Midt-Norge 500401 Ranheim Vestre Barnevernsinstitusjoner Renhold lokaler 462,11
+5 Region Midt-Norge 500401 Ranheim Vestre 53900 Større anskaffelser Barnevernsinstitusjoner Fast bygningsinventar og påkostning, leide bygg Bjørnen Eiendom AS, Trondheim 670000
+5 Region Midt-Norge 500401 Ranheim Vestre 53900 Større anskaffelser Barnevernsinstitusjoner Fast bygningsinventar og påkostning, leide bygg Bjørnen Eiendom AS, Trondheim 670000
+5 Region Midt-Norge 511201 Ranheim Vestre 55080 Selvassuranse Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Bjørnen Eiendom AS, Trondheim 23960
+5 Region Midt-Norge 511201 Ranheim Vestre, familiehjem Fosterhjem Leie lokaler andre utleiere Bjørnen Eiendom AS, Trondheim 177607,2
+5 Region Midt-Norge 511201 Ranheim Vestre, familiehjem Fosterhjem Strøm og oppvarming KINECT ENERGY SPOT AS 11009,1
+5 Region Midt-Norge 511201 Ranheim Vestre, familiehjem Fosterhjem Renhold lokaler 4Service Eir Renhold AS 9236,21
+5 Region Midt-Norge 511201 Ranheim Vestre, familiehjem 53900 Større anskaffelser Fosterhjem Fast bygningsinventar og påkostning, leide bygg Bjørnen Eiendom AS, Trondheim 330000
+5 Region Midt-Norge 511201 Ranheim Vestre, familiehjem 53900 Større anskaffelser Fosterhjem Fast bygningsinventar og påkostning, leide bygg Bjørnen Eiendom AS, Trondheim 330000
+5 Region Midt-Norge 511201 Gilantunet ungdomshjem Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 25179,1
+5 Region Midt-Norge 511201 Gilantunet ungdomshjem Barnevernsinstitusjoner Renhold lokaler Kristian Lorvik AS (15033440445) 1051,5
+5 Region Midt-Norge 511202 Gilantunet ungdomshjem Barnevernsinstitusjoner Vakthold lokaler Crystal Alarm AB 53,63
+5 Region Midt-Norge 511202 Gilantunet ungdomshjem Barnevernsinstitusjoner Vakthold lokaler Crystal Alarm AB -175,7
+5 Region Midt-Norge 511202 Gilantunet ungdomshjem Barnevernsinstitusjoner Vakthold lokaler FedEx Express Norge AS 2257,5
+5 Region Midt-Norge 511202 Gilantunet ungdomshjem Barnevernsinstitusjoner Vakthold lokaler Crystal Alarm AB -3121,29
+5 Region Midt-Norge 511202 Gilantunet ungdomshjem Barnevernsinstitusjoner Vakthold lokaler Crystal Alarm AB 2497,24
+5 Region Midt-Norge 511202 Gilantunet ungdomshjem Barnevernsinstitusjoner Vakthold lokaler Crystal Alarm AB 3957,77
+5 Region Midt-Norge 511202 Gilantunet ungdomshjem Barnevernsinstitusjoner Vakthold lokaler Crystal Alarm AB 8697,11
+5 Region Midt-Norge 512002 Gilantunet ungdomshjem Barnevernsinstitusjoner Vaktmestertjenester Randibu v/ N. Kulbrandstad 148275
+5 Region Midt-Norge 512002 Gilantunet ungdomshjem Barnevernsinstitusjoner Annen kostnad lokaler Ikano Bank AB (PUBL), Norway Branch (83970500777) 1659
+5 Region Midt-Norge 512002 Gilantunet ungdomshjem Barnevernsinstitusjoner Annen kostnad lokaler Kristian Lorvik AS (15033440445) 154,8
+5 Region Midt-Norge 512003 Gilantunet ungdomshjem 55080 Selvassuranse Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Nils Karl Kulbrandstad 16825
+5 Region Midt-Norge 512003 Clausenengen ungdomshjem Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 5978,33
+5 Region Midt-Norge 512003 Clausenengen ungdomshjem Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 15023,91
+5 Region Midt-Norge 512003 Clausenengen ungdomshjem Barnevernsinstitusjoner Annen kostnad lokaler Eurocard Norway 120
+5 Region Midt-Norge 512003 Clausenengen ungdomshjem Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler 3556,25
+5 Region Midt-Norge 512003 Clausenengen ungdomshjem Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Coop Nordvest SA 598
+5 Region Midt-Norge 512003 Clausenengen ungdomshjem Barnevernsinstitusjoner Oppgradering og påkostning leide lokaler - under kr 50 000 -3556,25
+5 Region Midt-Norge 512003 Clausenengen ungdomshjem Barnevernsinstitusjoner Oppgradering og påkostning leide lokaler - under kr 50 000 Selecta Norway AS 3556,25
+5 Region Midt-Norge 512003 Kollen ungdomsbase Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 10460,14
+5 Region Midt-Norge 512003 Kollen ungdomsbase Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 10854,54
+5 Region Midt-Norge 512003 Kollen ungdomsbase Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 4874,29
+5 Region Midt-Norge 512003 Kollen ungdomsbase Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 11226,31
+5 Region Midt-Norge 513803 Kollen ungdomsbase Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 826,06
+5 Region Midt-Norge 513902 Husafjellheimen ungdomsheim Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 13815,93
+5 Region Midt-Norge 513904 Husafjellheimen ungdomsheim Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 3181,38
+5 Region Midt-Norge 513904 Husafjellheimen ungdomsheim Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 1391,93
+5 Region Midt-Norge 513905 Husafjellheimen ungdomsheim Barnevernsinstitusjoner Renhold lokaler BB Servicesystem Sogn og Fjordane AS 1473,75
+5 Region Midt-Norge 514401 Husafjellheimen, familiehjem Fosterhjem Strøm og oppvarming KINECT ENERGY SPOT AS 5921,11
+5 Region Midt-Norge 514401 Husafjellheimen, familiehjem Fosterhjem Renhold lokaler BB Servicesystem Sogn og Fjordane AS 1473,75
+5 Region Midt-Norge 520601 MST Trøndelag Nord Hjelpetiltak i hjemmet Leie lokaler andre utleiere J&S Eiendom AS 87750
+5 Region Midt-Norge 520601 MST Trøndelag Nord Hjelpetiltak i hjemmet Fellesutgifter andre utleiere Jaras Drift AS 30780
+5 Region Midt-Norge 520601 MST Trøndelag Nord Hjelpetiltak i hjemmet Fellesutgifter andre utleiere Jaras Drift AS 9163,13
+5 Region Midt-Norge 520601 MST Trøndelag Nord 53910 Ekstra innkjøp ut over årets plan Hjelpetiltak i hjemmet Annen kostnad lokaler Innherred entreprenør as 17290
+5 Region Midt-Norge 520601 Trøndelag behandlingssenter for ungdom Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 10994,28
+5 Region Midt-Norge 520601 Buvika ungdomssenter Barnevernsinstitusjoner Strøm og oppvarming Tensio TS AS 240,84
+5 Region Midt-Norge 521401 Buvika ungdomssenter Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 19277,77
+5 Region Midt-Norge 521401 Buvika ungdomssenter Barnevernsinstitusjoner Vakthold lokaler Sotera AS 375
+5 Region Midt-Norge 521401 Buvika ungdomssenter Barnevernsinstitusjoner Vakthold lokaler Sotera AS 331,25
+5 Region Midt-Norge 521403 Buvika ungdomssenter Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler 8000
+5 Region Midt-Norge 521403 Buvika ungdomssenter Barnevernsinstitusjoner Oppgradering og påkostning leide lokaler - under kr 50 000 -8000
+5 Region Midt-Norge 521403 Buvika ungdomssenter Barnevernsinstitusjoner Reparasjon og vedlikehold av anlegg, også serviceavtaler Buvik Elektro AS 36964,84
+5 Region Midt-Norge 521403 Moholt ungdomssenter Barnevernsinstitusjoner Leie lokaler andre utleiere Stiftelsen Kirkens Bymisjon Oslo 199776
+5 Region Midt-Norge 521403 Moholt ungdomssenter Barnevernsinstitusjoner Leie lokaler andre utleiere ROTVOLL EIENDOM AS 7200
+5 Region Midt-Norge 522401 Moholt ungdomssenter Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Stiftelsen Kirkens Bymisjon Oslo 23700,81
+5 Region Midt-Norge 522701 Moholt ungdomssenter Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 606,33
+5 Region Midt-Norge 522701 Moholt ungdomssenter Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 411,2
+5 Region Midt-Norge 522701 Moholt ungdomssenter Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 346,4
+5 Region Midt-Norge 522701 Moholt ungdomssenter Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 2912,89
+5 Region Midt-Norge 522701 Moholt ungdomssenter Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 349,25
+5 Region Midt-Norge 522701 Moholt ungdomssenter Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 299,13
+5 Region Midt-Norge 522701 Moholt ungdomssenter Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 315,89
+5 Region Midt-Norge 522801 Moholt ungdomssenter Barnevernsinstitusjoner Vaktmestertjenester DIN VAKTMESTER AS 7700,39
+5 Region Midt-Norge 522801 Moholt ungdomssenter Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Clas Ohlson AS 625
+5 Region Midt-Norge 522801 Skatval ungdomssenter 151006 Drift - Styrking og omstilling av statlige institusjoner Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 27534,25
+5 Region Midt-Norge 523101 Skatval ungdomssenter 151006 Drift - Styrking og omstilling av statlige institusjoner Barnevernsinstitusjoner Renhold lokaler 4Service Eir Renhold AS 5533,75
+5 Region Midt-Norge 523101 Skatval ungdomssenter 151006 Drift - Styrking og omstilling av statlige institusjoner Barnevernsinstitusjoner Reparasjon og vedlikehold av anlegg, også serviceavtaler Midt - Norge 110-Sentral IKS 9052,5
+5 Region Midt-Norge 523101 Sunnmørsheimen ungdomsheim, avd. Nygardsvegen Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Retura Søre Sunnmøre AS 2315,95
+5 Region Midt-Norge 531001 Sunnmørsheimen ungdomsheim, avd. Nygardsvegen Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 2366,29
+5 Region Midt-Norge 531001 Sunnmørsheimen ungdomsheim, avd. Nygardsvegen Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 8841,55
+5 Region Midt-Norge 531001 Sunnmørsheimen ungdomsheim, avd. Nygardsvegen Barnevernsinstitusjoner Annen kostnad lokaler PLANTASJEN NORGE AS 1164
+5 Region Midt-Norge 531301 MST Sunnmøre Hjelpetiltak i hjemmet Renovasjon, vann, avløp o.l. Retura Søre Sunnmøre AS 463,19
+5 Region Midt-Norge 531301 MST Sunnmøre Hjelpetiltak i hjemmet Strøm og oppvarming KINECT ENERGY SPOT AS 1373,98
+5 Region Midt-Norge 531302 Tverrfaglig helsekartlegging NABE 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Renovasjon, vann, avløp o.l. 100,72
+5 Region Midt-Norge 532101 Tverrfaglig helsekartlegging NABE 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Renhold lokaler 1053,56
+5 Region Midt-Norge 532101 Region Midt-Norge felleskostnader barnevern 53770 Utgifter som flg. av brann ved Kollen ungdomsbase Regionale fellesfunksjoner Annen kostnad lokaler Statsbyggs hovedkontor 55660,94
+5 Region Midt-Norge 532101 Regionkontor felleskostnader 53500 Regionale felleskostnader Regionale fellesfunksjoner Renovasjon, vann, avløp o.l. Retura TRV AS, Sluppen (86010933066) 2266,25
+5 Region Midt-Norge 532101 Regionkontor felleskostnader 53500 Regionale felleskostnader Regionale fellesfunksjoner Renhold lokaler 4Service Eir Renhold AS 41842,19
+5 Region Midt-Norge 532101 Regionkontor felleskostnader 53500 Regionale felleskostnader Regionale fellesfunksjoner Vakthold lokaler Pirsenteret Drift AS 1537,5
+5 Region Midt-Norge 532101 Regionkontor felleskostnader 53500 Regionale felleskostnader Regionale fellesfunksjoner Vakthold lokaler Pirsenteret Drift AS 1537,5
+5 Region Midt-Norge 532101 Vikhovlia akuttsenter Fosterhjem Fellesutgifter andre utleiere Bybroen bolig AS 9600
+5 Region Midt-Norge 532101 Vikhovlia akuttsenter Barnevernsinstitusjoner Leie lokaler andre utleiere Bybroen bolig AS 163701
+5 Region Midt-Norge 532101 Vikhovlia akuttsenter Barnevernsinstitusjoner Renhold lokaler LIJO RENHOLD AS 5575
+5 Region Midt-Norge 532101 Vikhovlia akuttsenter Barnevernsinstitusjoner Annen kostnad lokaler LIJO RENHOLD AS 1101,25
+5 Region Midt-Norge 532101 Vikhovlia akuttsenter Barnevernsinstitusjoner Annen kostnad lokaler UNISIGN AS 540,5
+5 Region Midt-Norge 532901 Vikhovlia, beredskapshjem Fosterhjem Leie lokaler andre utleiere Bybroen bolig AS 54567
+5 Region Midt-Norge 532901 Vikhovlia, beredskapshjem Fosterhjem Renhold lokaler LIJO RENHOLD AS 5575
+5 Region Midt-Norge 532901 Vikhovlia, beredskapshjem Fosterhjem Annen kostnad lokaler LIJO RENHOLD AS 1101,25
+5 Region Midt-Norge 532901 Vikhovlia, beredskapshjem Fosterhjem Annen kostnad lokaler UNISIGN AS 540,5
+5 Region Midt-Norge 532901 Vikhovlia, beredskapshjem Barnevernsinstitusjoner Fellesutgifter andre utleiere Bybroen bolig AS 3200
+5 Region Midt-Norge 532901 Kvammen akuttsenter, avdeling Melhus Barnevernsinstitusjoner Renhold lokaler Vekst Melhus AS 1584
+5 Region Midt-Norge 532901 Kvammen akuttsenter, avdeling Melhus Barnevernsinstitusjoner Renhold lokaler Zimmerlund AS 1595,3
+5 Region Midt-Norge 532901 Kvammen akuttsenter, avdeling Melhus Barnevernsinstitusjoner Vakthold lokaler Ascom Norway AS 6515
+5 Region Midt-Norge 533201 Kvammen akuttsenter, avdeling Melhus Barnevernsinstitusjoner Annen kostnad lokaler Eurocard Norway 4120,4
+5 Region Midt-Norge 533202 Kvammen akuttsenter, avdeling Melhus Barnevernsinstitusjoner Annen kostnad lokaler Zimmerlund AS 104,85
+5 Region Midt-Norge 541103 Kvammen akuttsenter, avdeling Melhus Barnevernsinstitusjoner Annen kostnad lokaler RESURS BANK AB NUF 5496,1
+5 Region Midt-Norge 541103 Kvammen akuttsenter, avdeling Fannrem Barnevernsinstitusjoner Renhold lokaler Retura Sør-Trøndelag 2330
+5 Region Midt-Norge 541103 Kvammen akuttsenter, avdeling Fannrem Barnevernsinstitusjoner Renhold lokaler Coop Nordvest SA 111,6
+5 Region Midt-Norge 541103 Kvammen akuttsenter, avdeling Fannrem Barnevernsinstitusjoner Renhold lokaler GRUNNAN DAGLIGVARE AS 553,2
+5 Region Midt-Norge 541103 Kvammen akuttsenter, avdeling Fannrem Barnevernsinstitusjoner Vakthold lokaler Ascom Norway AS 7118,75
+5 Region Midt-Norge 541103 Kvammen akuttsenter, avdeling Fannrem Barnevernsinstitusjoner Fellesutgifter andre utleiere Orkland kommune 2559,1
+5 Region Midt-Norge 541103 Kvammen akuttsenter, avdeling Fannrem 55080 Selvassuranse Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Buvik Elektro AS 5607,05
+5 Region Midt-Norge 541103 Kvammen akuttsenter, avdeling Fannrem 55080 Selvassuranse Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Coop Nordvest SA 930,25
+5 Region Midt-Norge 541103 Kvammen, avdelig enetiltak Barnevernsinstitusjoner Renhold lokaler Coop Midt-Norge SA 115,76
+5 Region Midt-Norge 541103 Humla Akuttsenter Barnevernsinstitusjoner Annen kostnad lokaler ELBRA INSTALLASJON AS 28644
+5 Region Midt-Norge 541103 Humla Akuttsenter Barnevernsinstitusjoner Annen kostnad lokaler EL 24 ENSIKO AS 13725
+5 Region Midt-Norge 541103 Enhet for inntak i Bufetat, region Midt-Norge Inntak Leie lokaler andre utleiere COBRA EIENDOM OPPDAL AS 8075
+5 Region Midt-Norge 541103 Enhet for inntak, avdeling Ålesund Inntak Renhold lokaler Renex Servicepartner AS 2432,5
+5 Region Midt-Norge 541103 Fosterhjemstjenesten i Bufetat, region Midt-Norge, avd. Molde Fosterhjemstjenesten Renovasjon, vann, avløp o.l. MIFO A/S 3045,5
+5 Region Midt-Norge 541105 Fosterhjemstjenesten i Bufetat, region Midt-Norge, avd. Molde Fosterhjemstjenesten Renovasjon, vann, avløp o.l. BORGE & MORSTØL 2300
+5 Region Midt-Norge 541105 Fosterhjemstjenesten i Bufetat, region Midt-Norge, avd. Molde Fosterhjemstjenesten Renhold lokaler Toma Facility Norge AS 4143,75
+5 Region Midt-Norge 541105 Fosterhjemstjenesten i Bufetat, region Midt-Norge, avd. Ålesund Fosterhjemstjenesten Renhold lokaler Renex Servicepartner AS 7576,25
+5 Region Midt-Norge 541105 Fosterhjemstjenesten i Bufetat, region Midt-Norge, avd. Ålesund Fosterhjemstjenesten Annen kostnad lokaler Ålesund Vinduspuss AS 4312,5
+5 Region Midt-Norge 541105 Sunnmørsheimen akuttinstitusjon, avd. Klatrevegen Barnevernsinstitusjoner Leie lokaler andre utleiere Aen eiendom AS 295939,71
+5 Region Midt-Norge 543301 Sunnmørsheimen akuttinstitusjon, avd. Klatrevegen Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Retura Søre Sunnmøre AS 783,86
+5 Region Midt-Norge 543501 Sunnmørsheimen akuttinstitusjon, avd. Klatrevegen Barnevernsinstitusjoner Strøm og oppvarming WATTN AS 1430,82
+5 Region Midt-Norge 544130 Sunnmørsheimen akuttinstitusjon, avd. Klatrevegen Barnevernsinstitusjoner Vakthold lokaler Møre og Romsdal 110-sentral KF 8947,5
+5 Region Midt-Norge 544130 Sunnmørsheimen akuttinstitusjon, avd. Klatrevegen Barnevernsinstitusjoner Annen kostnad lokaler Aen eiendom AS 5033,81
+5 Region Midt-Norge 544130 Sunnmørsheimen akuttinstitusjon, avd. Klatrevegen Barnevernsinstitusjoner Fellesutgifter andre utleiere Aen eiendom AS 9577,23
+5 Region Midt-Norge 544130 Familievernkontoret Namdalen Familieverntjeneste Renhold lokaler Midtre Namdal Vekst AS 277
+5 Region Midt-Norge 544130 Familievernkontoret Namdalen Familieverntjeneste Renhold lokaler Insider Facility Solutions AS 11090
+5 Region Midt-Norge 500201 Familievernkontoret Innherred Familieverntjeneste Renhold lokaler ISS Facility Services AS 5312,5
+5 Region Midt-Norge 500401 Familievernkontoret Innherred Familieverntjeneste Annen kostnad lokaler IKANO BANK AB (PUBL), Coop 91
+5 Region Midt-Norge 500401 Familievernkontoret Innherred Familieverntjeneste Annen kostnad lokaler IKANO BANK AB (PUBL), Coop 179,04
+5 Region Midt-Norge 500401 Familievernkontoret Innherred 53910 Ekstra innkjøp ut over årets plan Familieverntjeneste Annen kostnad lokaler Jysk AS 1206,12
+5 Region Midt-Norge 500401 Familievernkontoret Innherred 53910 Ekstra innkjøp ut over årets plan Familieverntjeneste Annen kostnad lokaler Clas Ohlson AS 2755
+5 Region Midt-Norge 500401 Familievernkontoret Innherred 53910 Ekstra innkjøp ut over årets plan Familieverntjeneste Annen kostnad lokaler Clas Ohlson AS -400
+5 Region Midt-Norge 500401 Familievernkontoret Innherred 53910 Ekstra innkjøp ut over årets plan Familieverntjeneste Annen kostnad lokaler Clas Ohlson AS 1356
+5 Region Midt-Norge 500401 Familievernkontoret Innherred 53910 Ekstra innkjøp ut over årets plan Familieverntjeneste Annen kostnad lokaler Clas Ohlson AS 659
+5 Region Midt-Norge 500401 Familievernkontoret Innherred 53910 Ekstra innkjøp ut over årets plan Familieverntjeneste Annen kostnad lokaler Ikano Bank AB (PUBL), Norway Branch (83970500777) 6381
+5 Region Midt-Norge 500401 Familievernkontoret Innherred 53910 Ekstra innkjøp ut over årets plan Familieverntjeneste Annen kostnad lokaler Ikano Bank AB (PUBL), Norway Branch (83970500777) 2926
+5 Region Midt-Norge 500401 Familievernkontoret Innherred 53910 Ekstra innkjøp ut over årets plan Familieverntjeneste Annen kostnad lokaler Ikano Bank AB (PUBL), Norway Branch (83970500777) 7563
+5 Region Midt-Norge 500401 Senter for foreldre og barn i Trondheim Sentre for foreldre og barn Annen kostnad lokaler Mester Grønn AS 880
+5 Region Midt-Norge 500401 Senter for foreldre og barn i Trondheim Sentre for foreldre og barn Reparasjon og vedlikehold leide lokaler IKANO BANK AB (PUBL), Coop 2109
+5 Region Midt-Norge 500401 Familievernkontoret Nordmøre Familieverntjeneste Renhold lokaler Insider Facility Solutions AS 8344
+5 Region Midt-Norge 500401 Senter for foreldre og barn Molde Sentre for foreldre og barn Renhold lokaler Insider Facility Solutions AS 7379
+5 Region Midt-Norge 500401 Senter for foreldre og barn Molde Sentre for foreldre og barn Leie parkeringsplass Time Park Service AS 1000
+5 Region Midt-Norge 500401 Senter for foreldre og barn Molde 151003 Prosjektering og utvikling av eiendom/bygg Sentre for foreldre og barn Annen kostnad lokaler Statsbyggs hovedkontor 129806,25
+5 Region Midt-Norge 500401 Familievernkontoret Romsdal Familieverntjeneste Leie lokaler andre utleiere Thon Hotellbygg AS 87564
+5 Region Midt-Norge 500401 Familievernkontoret Romsdal Familieverntjeneste Renhold lokaler Toma Facility Norge AS 370
+5 Region Midt-Norge 500401 Familievernkontoret Romsdal Familieverntjeneste Fellesutgifter andre utleiere Thon Hotellbygg AS 27983
+5 Region Midt-Norge 500401 Familievernkontoret Sunnmøre Familieverntjeneste Renhold lokaler Renex Servicepartner AS 8243,75
+5 Region Midt-Norge 500401 Familievernkontoret Sunnmøre Familieverntjeneste Vakthold lokaler SECURITAS TECHNOLOGY AS 1151,25
+5 Region Midt-Norge 500401 Familievernkontoret Sunnmøre 53520 Avdelingskontor Familieverntjeneste Renhold lokaler Humberset Reinhald AS 1579
+5 Region Midt-Norge 500401 Karienborg ungdomsheim Barnevernsinstitusjoner Annen kostnad lokaler Clas Ohlson AS 1798
+5 Region Midt-Norge 500401 Karienborg ungdomsheim Barnevernsinstitusjoner Annen kostnad lokaler Clas Ohlson AS 300
+5 Region Midt-Norge 500401 Karienborg ungdomsheim Barnevernsinstitusjoner Annen kostnad lokaler Europris Butikkdrift AS 258
+5 Region Midt-Norge 511201 Karienborg, familiehjem Fosterhjem Renhold lokaler ISS Facility Services AS 1937,5
+5 Region Midt-Norge 511201 Ranheim Vestre 53900 Større anskaffelser Barnevernsinstitusjoner Fast bygningsinventar og påkostning, leide bygg Bjørnen Eiendom AS, Trondheim 670000
+5 Region Midt-Norge 511201 Ranheim Vestre, familiehjem Fosterhjem Renhold lokaler 9314,43
+5 Region Midt-Norge 511201 Ranheim Vestre, familiehjem Fosterhjem Renhold lokaler 4Service Eir Renhold AS 9236,21
+5 Region Midt-Norge 511201 Ranheim Vestre, familiehjem Barnevernsinstitusjoner Renhold lokaler -9314,43
+5 Region Midt-Norge 511201 Ranheim Vestre, familiehjem 53900 Større anskaffelser Fosterhjem Fast bygningsinventar og påkostning, leide bygg Bjørnen Eiendom AS, Trondheim 330000
+5 Region Midt-Norge 511202 Gilantunet ungdomshjem Barnevernsinstitusjoner Vakthold lokaler -1739,42
+5 Region Midt-Norge 511202 Gilantunet ungdomshjem Barnevernsinstitusjoner Vakthold lokaler Crystal Alarm AB -54,68
+5 Region Midt-Norge 511202 Gilantunet ungdomshjem Barnevernsinstitusjoner Vakthold lokaler Crystal Alarm AB 3615,79
+5 Region Midt-Norge 512002 Gilantunet ungdomshjem Barnevernsinstitusjoner Vaktmestertjenester Randibu v/ N. Kulbrandstad 7125
+5 Region Midt-Norge 512002 Gilantunet ungdomshjem Barnevernsinstitusjoner Annen kostnad lokaler MASKE AS 694,09
+5 Region Midt-Norge 512002 Gilantunet ungdomshjem Barnevernsinstitusjoner Annen kostnad lokaler Clas Ohlson AS 1228
+5 Region Midt-Norge 512002 Gilantunet ungdomshjem Barnevernsinstitusjoner Annen kostnad lokaler Ikano Bank AB (PUBL), Norway Branch (83970500777) 2187,8
+5 Region Midt-Norge 512002 Gilantunet ungdomshjem Barnevernsinstitusjoner Annen kostnad lokaler Kristian Lorvik AS (15033440445) 772,4
+5 Region Midt-Norge 512002 Clausenengen ungdomshjem Barnevernsinstitusjoner Annen kostnad lokaler Clas Ohlson AS 1379
+5 Region Midt-Norge 512002 Clausenengen ungdomshjem Barnevernsinstitusjoner Leie parkeringsplass Statsbyggs hovedkontor 7029
+5 Region Midt-Norge 512002 Kollen ungdomsbase Barnevernsinstitusjoner Renhold lokaler Rema 1000 Vestnes (15033440445) vismaco 178,5
+5 Region Midt-Norge 512002 Kollen ungdomsbase Barnevernsinstitusjoner Renhold lokaler Europris Butikkdrift AS 692,7
+5 Region Midt-Norge 512003 Kollen ungdomsbase Barnevernsinstitusjoner Renhold lokaler Europris Butikkdrift AS 639,21
+5 Region Midt-Norge 512003 Kollen ungdomsbase Barnevernsinstitusjoner Annen kostnad lokaler Power Vestnes 1399
+5 Region Midt-Norge 512003 Kollen ungdomsbase Barnevernsinstitusjoner Annen kostnad lokaler BYGGMARKED SURNADAL AS 6505
+5 Region Midt-Norge 512003 Kollen ungdomsbase 55080 Selvassuranse Barnevernsinstitusjoner Annen kostnad lokaler Låssenteret AS 17251,75
+5 Region Midt-Norge 512003 Kollen ungdomsbase 55080 Selvassuranse Barnevernsinstitusjoner Annen kostnad lokaler Vik Elektro AS 2125
+5 Region Midt-Norge 512003 Husafjellheimen ungdomsheim Barnevernsinstitusjoner Renhold lokaler BB Servicesystem Sogn og Fjordane AS 1550,63
+5 Region Midt-Norge 512003 Husafjellheimen ungdomsheim Barnevernsinstitusjoner Renhold lokaler BB Servicesystem Sogn og Fjordane AS 2171,88
+5 Region Midt-Norge 512003 Husafjellheimen ungdomsheim Barnevernsinstitusjoner Renhold lokaler BB Servicesystem Sogn og Fjordane AS 1550,65
+5 Region Midt-Norge 512004 Husafjellheimen ungdomsheim Barnevernsinstitusjoner Annen kostnad lokaler IKANO BANK AB (PUBL), Coop 622
+5 Region Midt-Norge 512004 Husafjellheimen, familiehjem Fosterhjem Renhold lokaler BB Servicesystem Sogn og Fjordane AS 1550,62
+5 Region Midt-Norge 512004 Husafjellheimen, familiehjem Fosterhjem Renhold lokaler BB Servicesystem Sogn og Fjordane AS 2171,87
+5 Region Midt-Norge 512004 Husafjellheimen, familiehjem Fosterhjem Renhold lokaler BB Servicesystem Sogn og Fjordane AS 1550,6
+5 Region Midt-Norge 512004 Husafjellheimen, familiehjem Fosterhjem Annen kostnad lokaler 1669
+5 Region Midt-Norge 513401 Husafjellheimen, familiehjem Barnevernsinstitusjoner Annen kostnad lokaler -1669
+5 Region Midt-Norge 513401 MST Trøndelag Nord Hjelpetiltak i hjemmet Renhold lokaler ISS Facility Services AS 1937,5
+5 Region Midt-Norge 513401 Buvika ungdomssenter Barnevernsinstitusjoner Strøm og oppvarming Tensio TS AS 236,73
+5 Region Midt-Norge 513401 Buvika ungdomssenter Barnevernsinstitusjoner Vakthold lokaler Sotera AS 443,75
+5 Region Midt-Norge 513402 Moholt ungdomssenter Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 276,67
+5 Region Midt-Norge 513402 Moholt ungdomssenter Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 582,03
+5 Region Midt-Norge 513402 Moholt ungdomssenter Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 2120,69
+5 Region Midt-Norge 513803 Moholt ungdomssenter Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 306,96
+5 Region Midt-Norge 513803 Moholt ungdomssenter Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 367,88
+5 Region Midt-Norge 513803 Moholt ungdomssenter Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 345,04
+5 Region Midt-Norge 513803 Moholt ungdomssenter Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 287,39
+5 Region Midt-Norge 513901 Moholt ungdomssenter Barnevernsinstitusjoner Vaktmestertjenester DIN VAKTMESTER AS 7700,39
+5 Region Midt-Norge 513902 Moholt ungdomssenter Barnevernsinstitusjoner Oppgradering og påkostning leide lokaler - under kr 50 000 Stiftelsen Kirkens Bymisjon Oslo 29638
+5 Region Midt-Norge 513902 Skatval ungdomssenter Barnevernsinstitusjoner Leie lokaler andre utleiere Kvarving Ranka 554004,57
+5 Region Midt-Norge 513902 Skatval ungdomssenter Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Kvarving Ranka 4202,5
+5 Region Midt-Norge 513902 Skatval ungdomssenter 151006 Drift - Styrking og omstilling av statlige institusjoner Barnevernsinstitusjoner Renhold lokaler 4Service Eir Renhold AS 6895,04
+5 Region Midt-Norge 513902 Skatval ungdomssenter 151006 Drift - Styrking og omstilling av statlige institusjoner Barnevernsinstitusjoner Vakthold lokaler Sotera AS 572,5
+5 Region Midt-Norge 513904 Skatval ungdomssenter 151006 Drift - Styrking og omstilling av statlige institusjoner Barnevernsinstitusjoner Vaktmestertjenester Utleieselskapet AS 24375
+5 Region Midt-Norge 513904 Sunnmørsheimen ungdomsheim, avd. Nygardsvegen Barnevernsinstitusjoner Leie lokaler andre utleiere Aen eiendom AS 384158,6
+5 Region Midt-Norge 513904 Sunnmørsheimen ungdomsheim, avd. Nygardsvegen Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Retura Søre Sunnmøre AS 1202
+5 Region Midt-Norge 513905 Sunnmørsheimen ungdomsheim, avd. Nygardsvegen Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Retura Søre Sunnmøre AS 2315,95
+5 Region Midt-Norge 513905 Sunnmørsheimen ungdomsheim, avd. Nygardsvegen Barnevernsinstitusjoner Vakthold lokaler Møre og Romsdal 110-sentral KF 8947,5
+5 Region Midt-Norge 513905 Sunnmørsheimen ungdomsheim, avd. Nygardsvegen Barnevernsinstitusjoner Fellesutgifter andre utleiere Aen eiendom AS 14872,63
+5 Region Midt-Norge 513905 MST Sunnmøre Hjelpetiltak i hjemmet Leie lokaler andre utleiere Aen eiendom AS 76831,72
+5 Region Midt-Norge 513905 MST Sunnmøre Hjelpetiltak i hjemmet Renovasjon, vann, avløp o.l. Retura Søre Sunnmøre AS 463,19
+5 Region Midt-Norge 514401 MST Sunnmøre Hjelpetiltak i hjemmet Fellesutgifter andre utleiere Aen eiendom AS 2974,53
+5 Region Midt-Norge 514401 Region Midt-Norge felleskostnader barnevern 53770 Utgifter som flg. av brann ved Kollen ungdomsbase Regionale fellesfunksjoner Annen kostnad lokaler 315850,95
+5 Region Midt-Norge 514401 Region Midt-Norge felleskostnader barnevern 53770 Utgifter som flg. av brann ved Kollen ungdomsbase Regionale fellesfunksjoner Annen kostnad lokaler -207714,07
+5 Region Midt-Norge 514401 Region Midt-Norge felleskostnader barnevern 53770 Utgifter som flg. av brann ved Kollen ungdomsbase Regionale fellesfunksjoner Annen kostnad lokaler Statsbyggs hovedkontor 207714,07
+5 Region Midt-Norge 514401 Regionkontor felleskostnader Regionale fellesfunksjoner Leie lokaler andre utleiere Pirsenteret AS 677303,23
+5 Region Midt-Norge 514401 Regionkontor felleskostnader Regionale fellesfunksjoner Annen kostnad lokaler Pirsenteret Drift AS 10106,68
+5 Region Midt-Norge 514401 Regionkontor felleskostnader Regionale fellesfunksjoner Fellesutgifter andre utleiere Pirsenteret Drift AS -250,66
+5 Region Midt-Norge 514401 Regionkontor felleskostnader Regionale fellesfunksjoner Fellesutgifter andre utleiere Pirsenteret Drift AS -652,86
+5 Region Midt-Norge 514401 Regionkontor felleskostnader Regionale fellesfunksjoner Fellesutgifter andre utleiere Pirsenteret Drift AS -2737,39
+5 Region Midt-Norge 520601 Regionkontor felleskostnader Regionale fellesfunksjoner Fellesutgifter andre utleiere Pirsenteret Drift AS 143620,43
+5 Region Midt-Norge 520601 Regionkontor felleskostnader Barnevernsinstitusjoner Leie lokaler andre utleiere Pirsenteret AS 107008,41
+5 Region Midt-Norge 520601 Regionkontor felleskostnader Barnevernsinstitusjoner Fellesutgifter andre utleiere Pirsenteret Drift AS -432,49
+5 Region Midt-Norge 520601 Regionkontor felleskostnader Barnevernsinstitusjoner Fellesutgifter andre utleiere Pirsenteret Drift AS 22679,71
+5 Region Midt-Norge 520601 Regionkontor felleskostnader Hjelpetiltak i hjemmet Leie lokaler andre utleiere Pirsenteret AS 410032,22
+5 Region Midt-Norge 520601 Regionkontor felleskostnader Hjelpetiltak i hjemmet Fellesutgifter andre utleiere Pirsenteret Drift AS -1657,19
+5 Region Midt-Norge 520801 Regionkontor felleskostnader Hjelpetiltak i hjemmet Fellesutgifter andre utleiere Pirsenteret Drift AS 86947,72
+5 Region Midt-Norge 520801 Regionkontor felleskostnader Inntak Leie lokaler andre utleiere Pirsenteret AS 588296,23
+5 Region Midt-Norge 520801 Regionkontor felleskostnader Inntak Fellesutgifter andre utleiere Pirsenteret Drift AS -2377,66
+5 Region Midt-Norge 520801 Regionkontor felleskostnader Inntak Fellesutgifter andre utleiere Pirsenteret Drift AS 124711,82
+5 Region Midt-Norge 520801 Regionkontor felleskostnader Fosterhjemstjenesten Leie lokaler andre utleiere Pirsenteret AS 517040,63
+5 Region Midt-Norge 521401 Regionkontor felleskostnader Fosterhjemstjenesten Fellesutgifter andre utleiere Pirsenteret Drift AS -2089,67
+5 Region Midt-Norge 521401 Regionkontor felleskostnader Fosterhjemstjenesten Fellesutgifter andre utleiere Pirsenteret Drift AS 109627,43
+5 Region Midt-Norge 521401 Regionkontor felleskostnader 53500 Regionale felleskostnader Regionale fellesfunksjoner Renovasjon, vann, avløp o.l. Retura TRV AS, Sluppen (86010933066) 2266,25
+5 Region Midt-Norge 521401 Regionkontor felleskostnader 53500 Regionale felleskostnader Regionale fellesfunksjoner Renhold lokaler 4Service Eir Renhold AS 52135,38
+5 Region Midt-Norge 521401 Regionkontor felleskostnader 53500 Regionale felleskostnader Regionale fellesfunksjoner Renhold lokaler 4Service Eir Renhold AS 5567,89
+5 Region Midt-Norge 521401 Regionkontor felleskostnader 53500 Regionale felleskostnader Regionale fellesfunksjoner Renhold lokaler 4Service Eir Renhold AS 45273,25
+5 Region Midt-Norge 521401 Regionkontor felleskostnader 53500 Regionale felleskostnader Regionale fellesfunksjoner Annen kostnad lokaler Pirsenteret Drift AS 69,61
+5 Region Midt-Norge 521401 Regionkontor felleskostnader 53500 Regionale felleskostnader Regionale fellesfunksjoner Annen kostnad lokaler Pirsenteret Drift AS 14000
+5 Region Midt-Norge 521401 Regionkontor felleskostnader 53500 Regionale felleskostnader Regionale fellesfunksjoner Reparasjon og vedlikehold leide lokaler TRYSIL BYGGPRODUKTER AS 11750
+5 Region Midt-Norge 521401 Regionkontor felleskostnader 53770 Utgifter som flg. av brann ved Kollen ungdomsbase Regionale fellesfunksjoner Annen kostnad lokaler -108136,88
+5 Region Midt-Norge 521401 Vikhovlia akuttsenter Barnevernsinstitusjoner Leie lokaler andre utleiere Bybroen bolig AS 163701
+5 Region Midt-Norge 521401 Vikhovlia akuttsenter Barnevernsinstitusjoner Renhold lokaler LIJO RENHOLD AS 6676,25
+5 Region Midt-Norge 521403 Vikhovlia akuttsenter Barnevernsinstitusjoner Fellesutgifter andre utleiere Bybroen bolig AS 16500
+5 Region Midt-Norge 521403 Vikhovlia akuttsenter 55080 Selvassuranse Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Glassmaker'n a/s 54870
+5 Region Midt-Norge 521403 Vikhovlia, beredskapshjem Fosterhjem Leie lokaler andre utleiere Bybroen bolig AS 54567
+5 Region Midt-Norge 521403 Vikhovlia, beredskapshjem Fosterhjem Renhold lokaler LIJO RENHOLD AS 6676,25
+5 Region Midt-Norge 522401 Vikhovlia, beredskapshjem Fosterhjem Fellesutgifter andre utleiere Bybroen bolig AS 5500
+5 Region Midt-Norge 522401 Kvammen akuttsenter, avdeling Melhus Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 900495
+5 Region Midt-Norge 522401 Kvammen akuttsenter, avdeling Melhus Barnevernsinstitusjoner Renhold lokaler Vekst Melhus AS 1584
+5 Region Midt-Norge 522701 Kvammen akuttsenter, avdeling Melhus Barnevernsinstitusjoner Renhold lokaler Zimmerlund AS 441,7
+5 Region Midt-Norge 522701 Kvammen akuttsenter, avdeling Melhus Barnevernsinstitusjoner Vakthold lokaler Beslag Konsult AS 6204
+5 Region Midt-Norge 522701 Kvammen akuttsenter, avdeling Melhus Barnevernsinstitusjoner Annen kostnad lokaler IKANO BANK AB (PUBL), Coop 1590
+5 Region Midt-Norge 522701 Kvammen akuttsenter, avdeling Melhus Barnevernsinstitusjoner Annen kostnad lokaler IKANO BANK AB (PUBL), Coop 1573
+5 Region Midt-Norge 522701 Kvammen akuttsenter, avdeling Melhus Barnevernsinstitusjoner Annen kostnad lokaler Ikano Bank AB (PUBL), Norway Branch (83970500777) 441
+5 Region Midt-Norge 522701 Kvammen akuttsenter, avdeling Melhus Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 122800
+5 Region Midt-Norge 522701 Kvammen akuttsenter, avdeling Melhus Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 66753
+5 Region Midt-Norge 522701 Kvammen akuttsenter, avdeling Melhus Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Statsbyggs hovedkontor 31344,4
+5 Region Midt-Norge 522701 Kvammen akuttsenter, avdeling Melhus Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Statsbyggs hovedkontor 5834,06
+5 Region Midt-Norge 522801 Kvammen akuttsenter, avdeling Fannrem Barnevernsinstitusjoner Leie lokaler andre utleiere Orkland kommune 307731
+5 Region Midt-Norge 522801 Kvammen akuttsenter, avdeling Fannrem Barnevernsinstitusjoner Renhold lokaler Retura Sør-Trøndelag 2330
+5 Region Midt-Norge 522801 Kvammen akuttsenter, avdeling Fannrem Barnevernsinstitusjoner Renhold lokaler GRUNNAN DAGLIGVARE AS 892,8
+5 Region Midt-Norge 523101 Kvammen akuttsenter, avdeling Fannrem Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Coop Nordvest SA 6793,8
+5 Region Midt-Norge 523101 Kvammen akuttsenter, avdeling Fannrem 55080 Selvassuranse Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Clas Ohlson AS 3338
+5 Region Midt-Norge 523101 Kvammen, avdelig enetiltak Barnevernsinstitusjoner Strøm og oppvarming 59,47
+5 Region Midt-Norge 523101 Kvammen, avdelig enetiltak Barnevernsinstitusjoner Annen kostnad lokaler Clas Ohlson AS (60210745583) 586,5
+5 Region Midt-Norge 523101 Kvammen, avdelig enetiltak Inntak Strøm og oppvarming -59,47
+5 Region Midt-Norge 523101 Humla Akuttsenter Barnevernsinstitusjoner Leie lokaler andre utleiere Løkka Eftf. AS. Ålesund 406374,51
+5 Region Midt-Norge 530501 Humla Akuttsenter Barnevernsinstitusjoner Renhold lokaler Løkka Eftf. AS. Ålesund 22546,12
+5 Region Midt-Norge 530501 Humla Akuttsenter Barnevernsinstitusjoner Annen kostnad lokaler Løkka Eftf. AS. Ålesund 4725
+5 Region Midt-Norge 530501 Humla Akuttsenter Barnevernsinstitusjoner Annen kostnad lokaler Rema 1000 Blindheim(15033440445) 485
+5 Region Midt-Norge 530501 Humla Akuttsenter Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Løkka Eftf. AS. Ålesund 18441,5
+5 Region Midt-Norge 531001 Humla avd. beredskapshjem Fosterhjem Leie lokaler andre utleiere Løkka Eftf. AS. Ålesund 174160,5
+5 Region Midt-Norge 531001 Humla avd. beredskapshjem Fosterhjem Renhold lokaler Løkka Eftf. AS. Ålesund 9662,62
+5 Region Midt-Norge 531001 Humla avd. beredskapshjem Fosterhjem Reparasjon og vedlikehold leide lokaler Løkka Eftf. AS. Ålesund 7903,5
+5 Region Midt-Norge 531001 Enhet for inntak, avdeling Ålesund Inntak Leie lokaler andre utleiere Daaeskogen Eiendom AS 152768
+5 Region Midt-Norge 531001 Enhet for inntak, avdeling Ålesund Inntak Strøm og oppvarming Sameiet Daaeskogen Næringsbygg 5408
+5 Region Midt-Norge 531002 Enhet for inntak, avdeling Ålesund Inntak Renhold lokaler MASKE AS 1291,29
+5 Region Midt-Norge 531002 Enhet for inntak, avdeling Ålesund Inntak Renhold lokaler Renex Servicepartner AS 2432,5
+5 Region Midt-Norge 531002 Enhet for inntak, avdeling Ålesund Inntak Fellesutgifter andre utleiere Sameiet Daaeskogen Næringsbygg 36263
+5 Region Midt-Norge 531301 Fosterhjemstjenesten i Bufetat, region Midt-Norge Fosterhjemstjenesten Leie parkeringsplass Daaeskogen Eiendom AS 2671
+5 Region Midt-Norge 531301 Fosterhjemstjenesten i Bufetat, region Midt-Norge, avd. Steinkjer Fosterhjemstjenesten Leie lokaler andre utleiere BOMVEIEN 3 AS 134138,5
+5 Region Midt-Norge 531301 Fosterhjemstjenesten i Bufetat, region Midt-Norge, avd. Steinkjer Fosterhjemstjenesten Fellesutgifter andre utleiere BOMVEIEN 3 AS 50302
+5 Region Midt-Norge 531301 Fosterhjemstjenesten i Bufetat, region Midt-Norge, avd. Steinkjer Fosterhjemstjenesten Fellesutgifter andre utleiere Søren R Thornæs veg 1 AS -1100
+5 Region Midt-Norge 531301 Fosterhjemstjenesten i Bufetat, region Midt-Norge, avd. Molde Fosterhjemstjenesten Leie lokaler andre utleiere Thon Hotellbygg AS 213564
+5 Region Midt-Norge 531301 Fosterhjemstjenesten i Bufetat, region Midt-Norge, avd. Molde Fosterhjemstjenesten Renhold lokaler Toma Facility Norge AS 4143,75
+5 Region Midt-Norge 531301 Fosterhjemstjenesten i Bufetat, region Midt-Norge, avd. Molde Fosterhjemstjenesten Renhold lokaler Toma Facility Norge AS 611,63
+5 Region Midt-Norge 531301 Fosterhjemstjenesten i Bufetat, region Midt-Norge, avd. Molde Fosterhjemstjenesten Fellesutgifter andre utleiere Thon Hotellbygg AS 64093
+5 Region Midt-Norge 531301 Fosterhjemstjenesten i Bufetat, region Midt-Norge, avd. Ålesund Fosterhjemstjenesten Leie lokaler andre utleiere Daaeskogen Eiendom AS 171594
+5 Region Midt-Norge 531302 Fosterhjemstjenesten i Bufetat, region Midt-Norge, avd. Ålesund Fosterhjemstjenesten Strøm og oppvarming Sameiet Daaeskogen Næringsbygg 6081
+5 Region Midt-Norge 531302 Fosterhjemstjenesten i Bufetat, region Midt-Norge, avd. Ålesund Fosterhjemstjenesten Renhold lokaler Renex Servicepartner AS 7576,25
+5 Region Midt-Norge 531302 Fosterhjemstjenesten i Bufetat, region Midt-Norge, avd. Ålesund Fosterhjemstjenesten Leie parkeringsplass Daaeskogen Eiendom AS 2720
+5 Region Midt-Norge 532101 Fosterhjemstjenesten i Bufetat, region Midt-Norge, avd. Ålesund Fosterhjemstjenesten Fellesutgifter andre utleiere Sameiet Daaeskogen Næringsbygg 40778
+5 Region Midt-Norge 532101 Sunnmørsheimen akuttinstitusjon, avd. Klatrevegen Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Retura Søre Sunnmøre AS 473
+5 Region Midt-Norge 532101 Sunnmørsheimen akuttinstitusjon, avd. Klatrevegen Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Retura Søre Sunnmøre AS 783,86
+5 Region Midt-Norge 532101 Sunnmørsheimen akuttinstitusjon, avd. Klatrevegen Barnevernsinstitusjoner Strøm og oppvarming WATTN AS 877,67
+5 Region Midt-Norge 532101 Sunnmørsheimen akuttinstitusjon, avd. Klatrevegen Barnevernsinstitusjoner Renhold lokaler ISS Facility Services AS 8472,06
+5 Region Midt-Norge 532101 Sunnmørsheimen akuttinstitusjon, avd. Klatrevegen Barnevernsinstitusjoner Annen kostnad lokaler Europris Butikkdrift AS 358
+5 Region Midt-Norge 532501 Familievernkontoret Namdalen Familieverntjeneste Leie lokaler andre utleiere Forsikringsgården AS 142966,03
+5 Region Midt-Norge 532501 Familievernkontoret Namdalen Familieverntjeneste Strøm og oppvarming Forsikringsgården AS 18567,47
+5 Region Midt-Norge 532501 Familievernkontoret Namdalen Familieverntjeneste Renhold lokaler Midtre Namdal Vekst AS 277
+5 Region Midt-Norge 532501 Familievernkontoret Namdalen Familieverntjeneste Renhold lokaler Insider Facility Solutions AS 10591
+5 Region Midt-Norge 532501 Familievernkontoret Namdalen Familieverntjeneste Fellesutgifter andre utleiere Forsikringsgården AS 23872,5
+5 Region Midt-Norge 532901 Familievernkontoret Innherred Familieverntjeneste Leie lokaler andre utleiere J&S Eiendom AS 468000
+5 Region Midt-Norge 532901 Familievernkontoret Innherred Familieverntjeneste Renhold lokaler ISS Facility Services AS 27937,5
+5 Region Midt-Norge 532901 Familievernkontoret Innherred Familieverntjeneste Annen kostnad lokaler Clas Ohlson AS (60210745583) 1099,4
+5 Region Midt-Norge 532901 Familievernkontoret Innherred Familieverntjeneste Annen kostnad lokaler LINDAS DEKOR OG DESIGN AS 605
+5 Region Midt-Norge 532901 Familievernkontoret Innherred Familieverntjeneste Fellesutgifter andre utleiere Jaras Drift AS 59097,6
+5 Region Midt-Norge 532901 Familievernkontoret Innherred 53910 Ekstra innkjøp ut over årets plan Familieverntjeneste Fast bygningsinventar og påkostning, leide bygg GV Reklame AS 83965
+5 Region Midt-Norge 533201 Familievernkontoret Innherred 53910 Ekstra innkjøp ut over årets plan Familieverntjeneste Annen kostnad lokaler Jysk AS 2530
+5 Region Midt-Norge 533201 Familievernkontoret Innherred 53910 Ekstra innkjøp ut over årets plan Familieverntjeneste Annen kostnad lokaler Clas Ohlson AS 95
+5 Region Midt-Norge 533201 Senter for foreldre og barn i Trondheim Sentre for foreldre og barn Leie lokaler fra Statsbygg Statsbyggs hovedkontor 339872
+5 Region Midt-Norge 533201 Senter for foreldre og barn i Trondheim Sentre for foreldre og barn Leie lokaler fra Statsbygg Statsbyggs hovedkontor 191345
+5 Region Midt-Norge 533202 Senter for foreldre og barn i Trondheim Sentre for foreldre og barn Leie lokaler fra Statsbygg Statsbyggs hovedkontor -191345
+5 Region Midt-Norge 533202 Senter for foreldre og barn i Trondheim Sentre for foreldre og barn Vakthold lokaler Verisure AS 3112,5
+5 Region Midt-Norge 533202 Senter for foreldre og barn i Trondheim Sentre for foreldre og barn Vakthold lokaler Verisure AS 4286,25
+5 Region Midt-Norge 540901 Senter for foreldre og barn i Trondheim Sentre for foreldre og barn Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 115250
+5 Region Midt-Norge 540901 Senter for foreldre og barn i Trondheim Sentre for foreldre og barn Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 23121
+5 Region Midt-Norge 540901 Senter for foreldre og barn i Trondheim 53910 Ekstra innkjøp ut over årets plan Sentre for foreldre og barn Annen kostnad lokaler Kjeldsberg Eiendomsforvaltning AS 26814,38
+5 Region Midt-Norge 541100 Senter for foreldre og barn i Trondheim 53910 Ekstra innkjøp ut over årets plan Sentre for foreldre og barn Reparasjon og vedlikehold leide lokaler KYMAR SECTECH AS 54247,08
+5 Region Midt-Norge 541100 Senter for foreldre og barn i Trondheim 53910 Ekstra innkjøp ut over årets plan Sentre for foreldre og barn Reparasjon og vedlikehold leide lokaler KYMAR SECTECH AS 3934,68
+5 Region Midt-Norge 541100 Tverrfaglig helsekartlegging 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Leie lokaler andre utleiere Pirsenteret AS 100257,88
+5 Region Midt-Norge 541100 Tverrfaglig helsekartlegging 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Fellesutgifter andre utleiere Pirsenteret Drift AS -405,2
+5 Region Midt-Norge 541100 Tverrfaglig helsekartlegging 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Fellesutgifter andre utleiere Pirsenteret Drift AS 21776,77
+5 Region Midt-Norge 541100 Familievernkontoret Nordmøre Familieverntjeneste Leie lokaler andre utleiere H-K INVEST AS 191467,5
+5 Region Midt-Norge 541102 Familievernkontoret Nordmøre Familieverntjeneste Renhold lokaler Insider Facility Solutions AS 7691
+5 Region Midt-Norge 541102 Familievernkontoret Nordmøre Familieverntjeneste Fellesutgifter andre utleiere H-K INVEST AS 10525
+5 Region Midt-Norge 541102 Senter for foreldre og barn Molde Sentre for foreldre og barn Leie lokaler andre utleiere THON KJØPESENTER MOLDE AS 315669
+5 Region Midt-Norge 541102 Senter for foreldre og barn Molde Sentre for foreldre og barn Leie lokaler fra Statsbygg Statsbyggs hovedkontor 177418
+5 Region Midt-Norge 541102 Senter for foreldre og barn Molde Sentre for foreldre og barn Renhold lokaler Insider Facility Solutions AS 3594
+5 Region Midt-Norge 541102 Senter for foreldre og barn Molde Sentre for foreldre og barn Renhold lokaler Insider Facility Solutions AS 6916
+5 Region Midt-Norge 541102 Senter for foreldre og barn Molde Sentre for foreldre og barn Vakthold lokaler Avarn Security AS 1645,88
+5 Region Midt-Norge 541102 Senter for foreldre og barn Molde Sentre for foreldre og barn Leie parkeringsplass Time Park Service AS 1000
+5 Region Midt-Norge 541103 Senter for foreldre og barn Molde Sentre for foreldre og barn Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 43350
+5 Region Midt-Norge 541103 Senter for foreldre og barn Molde Sentre for foreldre og barn Fellesutgifter (BAD) Statsbygg THON KJØPESENTER MOLDE AS 69208
+5 Region Midt-Norge 541103 Senter for foreldre og barn Molde Sentre for foreldre og barn Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 4478
+5 Region Midt-Norge 541103 Familievernkontoret Romsdal Familieverntjeneste Leie lokaler andre utleiere Thon Hotellbygg AS 87564
+5 Region Midt-Norge 541103 Familievernkontoret Romsdal Familieverntjeneste Renhold lokaler Toma Facility Norge AS 370
+5 Region Midt-Norge 541103 Familievernkontoret Romsdal Familieverntjeneste Fellesutgifter andre utleiere Thon Hotellbygg AS 27983
+5 Region Midt-Norge 541103 Familievernkontoret Sunnmøre Familieverntjeneste Leie lokaler andre utleiere Daaeskogen Eiendom AS 320759
+5 Region Midt-Norge 541103 Familievernkontoret Sunnmøre Familieverntjeneste Renhold lokaler Renex Servicepartner AS 8243,75
+5 Region Midt-Norge 541103 Familievernkontoret Sunnmøre Familieverntjeneste Fellesutgifter andre utleiere Sameiet Daaeskogen Næringsbygg 87495
+5 Region Midt-Norge 541103 Familievernkontoret Sunnmøre 53520 Avdelingskontor Familieverntjeneste Leie lokaler andre utleiere AS Terminalbygg 82535
+5 Region Midt-Norge 541103 Familievernkontoret Sunnmøre 53520 Avdelingskontor Familieverntjeneste Renhold lokaler Humberset Reinhald AS 1579
+5 Region Midt-Norge 541103 Spillumheimen ungdomsheim Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 144316
+5 Region Midt-Norge 541103 Spillumheimen ungdomsheim Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 38400
+5 Region Midt-Norge 541103 Spillumheimen ungdomsheim Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 19467
+5 Region Midt-Norge 541105 Karienborg ungdomsheim Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 318047
+5 Region Midt-Norge 541105 Karienborg ungdomsheim Barnevernsinstitusjoner Renhold lokaler ISS Facility Services AS 16992,23
+5 Region Midt-Norge 541105 Karienborg ungdomsheim Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 73225
+5 Region Midt-Norge 543301 Karienborg ungdomsheim Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 21303
+5 Region Midt-Norge 543301 Karienborg, familiehjem Fosterhjem Leie lokaler andre utleiere J&S Eiendom AS 131625
+5 Region Midt-Norge 543301 Karienborg, familiehjem Fosterhjem Renhold lokaler ISS Facility Services AS 9491,64
+5 Region Midt-Norge 543301 Karienborg, familiehjem Fosterhjem Fellesutgifter andre utleiere Jaras Drift AS 16621,2
+5 Region Midt-Norge 543301 Ranheim Vestre Barnevernsinstitusjoner Leie lokaler andre utleiere Bjørnen Eiendom AS, Trondheim 376650,67
+5 Region Midt-Norge 543301 Ranheim Vestre Barnevernsinstitusjoner Renhold lokaler MASKE AS 510,85
+5 Region Midt-Norge 543501 Ranheim Vestre Barnevernsinstitusjoner Renhold lokaler MASKE AS 924,23
+5 Region Midt-Norge 543501 Ranheim Vestre Barnevernsinstitusjoner Fellesutgifter andre utleiere Bjørnen Eiendom AS, Trondheim 22412,67
+5 Region Midt-Norge 543501 Ranheim Vestre, familiehjem Fosterhjem Leie lokaler andre utleiere Bjørnen Eiendom AS, Trondheim 188325,33
+5 Region Midt-Norge 543501 Ranheim Vestre, familiehjem Fosterhjem Renhold lokaler 4Service Eir Renhold AS 10750,94
+5 Region Midt-Norge 544130 Ranheim Vestre, familiehjem Fosterhjem Renhold lokaler 4Service Eir Renhold AS 9993,58
+5 Region Midt-Norge 544130 Ranheim Vestre, familiehjem Fosterhjem Fellesutgifter andre utleiere Bjørnen Eiendom AS, Trondheim 11206,33
+5 Region Midt-Norge 544130 Gilantunet ungdomshjem Barnevernsinstitusjoner Leie lokaler andre utleiere Nils Karl Kulbrandstad 446694,33
+5 Region Midt-Norge 544130 Gilantunet ungdomshjem Barnevernsinstitusjoner Renhold lokaler ISS Facility Services AS 41362,84
+5 Region Midt-Norge 500203 Gilantunet ungdomshjem Barnevernsinstitusjoner Renhold lokaler Kristian Lorvik AS (15033440445) 2115
+5 Region Midt-Norge 500401 Gilantunet ungdomshjem Barnevernsinstitusjoner Vakthold lokaler Crystal Alarm AB -7,39
+5 Region Midt-Norge 500401 Gilantunet ungdomshjem Barnevernsinstitusjoner Vakthold lokaler Crystal Alarm AB -36,6
+5 Region Midt-Norge 500401 Gilantunet ungdomshjem Barnevernsinstitusjoner Vakthold lokaler Sotera AS 1141,25
+5 Region Midt-Norge 500401 Gilantunet ungdomshjem Barnevernsinstitusjoner Vakthold lokaler Crystal Alarm AB 3182,34
+5 Region Midt-Norge 500401 Gilantunet ungdomshjem Barnevernsinstitusjoner Vakthold lokaler Crystal Alarm AB 3124,41
+5 Region Midt-Norge 500401 Gilantunet ungdomshjem Barnevernsinstitusjoner Annen kostnad lokaler Coop Nordvest SA 149
+5 Region Midt-Norge 500401 Gilantunet ungdomshjem Barnevernsinstitusjoner Annen kostnad lokaler Ikano Bank AB (PUBL), Norway Branch (83970500777) 519,8
+5 Region Midt-Norge 500401 Gilantunet ungdomshjem Barnevernsinstitusjoner Annen kostnad lokaler Ikano Bank AB (PUBL), Norway Branch (83970500777) 257
+5 Region Midt-Norge 500401 Gilantunet ungdomshjem Barnevernsinstitusjoner Annen kostnad lokaler Ikano Bank AB (PUBL), Norway Branch (83970500777) 1314
+5 Region Midt-Norge 500401 Gilantunet ungdomshjem Barnevernsinstitusjoner Annen kostnad lokaler Kristian Lorvik AS (15033440445) 925,2
+5 Region Midt-Norge 500401 Clausenengen ungdomshjem Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 194347
+5 Region Midt-Norge 500401 Clausenengen ungdomshjem Barnevernsinstitusjoner Renhold lokaler ISS Facility Services AS 15926,95
+5 Region Midt-Norge 500401 Clausenengen ungdomshjem Barnevernsinstitusjoner Annen kostnad lokaler Låssenteret AS 8100,33
+5 Region Midt-Norge 500401 Clausenengen ungdomshjem Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 66350
+5 Region Midt-Norge 500401 Clausenengen ungdomshjem Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 5782
+5 Region Midt-Norge 500401 Kollen ungdomsbase Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 440432
+5 Region Midt-Norge 500401 Kollen ungdomsbase Barnevernsinstitusjoner Renhold lokaler Alfa Eiendomsservice AS 245
+5 Region Midt-Norge 500401 Kollen ungdomsbase Barnevernsinstitusjoner Annen kostnad lokaler Clas Ohlson AS 1197
+5 Region Midt-Norge 500401 Kollen ungdomsbase Barnevernsinstitusjoner Annen kostnad lokaler Låssenteret AS 2498,44
+5 Region Midt-Norge 500401 Kollen ungdomsbase Barnevernsinstitusjoner Annen kostnad lokaler Sivertsen Fargehandel AS 404,1
+5 Region Midt-Norge 500401 Kollen ungdomsbase Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 119150
+5 Region Midt-Norge 500401 Kollen ungdomsbase Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Statsbyggs hovedkontor 21787
+5 Region Midt-Norge 500401 Kollen ungdomsbase 53770 Utgifter som flg. av brann ved Kollen ungdomsbase Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Statsbyggs hovedkontor 454791,08
+5 Region Midt-Norge 500401 Kollen ungdomsbase 55080 Selvassuranse Barnevernsinstitusjoner Annen kostnad lokaler VINYLBUA DAUGSTAD 1996,75
+5 Region Midt-Norge 511201 Husafjellheimen ungdomsheim Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 611076,2
+5 Region Midt-Norge 511201 Husafjellheimen ungdomsheim Barnevernsinstitusjoner Renhold lokaler BB Servicesystem Sogn og Fjordane AS 2171,88
+5 Region Midt-Norge 511201 Husafjellheimen ungdomsheim Barnevernsinstitusjoner Renhold lokaler BB Servicesystem Sogn og Fjordane AS 1550,62
+5 Region Midt-Norge 511201 Husafjellheimen ungdomsheim Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 59570
+5 Region Midt-Norge 511201 Husafjellheimen ungdomsheim Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 20789,3
+5 Region Midt-Norge 511201 Husafjellheimen, familiehjem Fosterhjem Leie lokaler fra Statsbygg Statsbyggs hovedkontor 261889,8
+5 Region Midt-Norge 511201 Husafjellheimen, familiehjem Fosterhjem Renhold lokaler BB Servicesystem Sogn og Fjordane AS 2171,87
+5 Region Midt-Norge 511201 Husafjellheimen, familiehjem Fosterhjem Renhold lokaler BB Servicesystem Sogn og Fjordane AS 1550,63
+5 Region Midt-Norge 511202 Husafjellheimen, familiehjem Fosterhjem Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 25530
+5 Region Midt-Norge 511202 Husafjellheimen, familiehjem Fosterhjem Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 8909,7
+5 Region Midt-Norge 511202 MST Trøndelag Nord Hjelpetiltak i hjemmet Leie lokaler andre utleiere J&S Eiendom AS 131625
+5 Region Midt-Norge 511202 MST Trøndelag Nord Hjelpetiltak i hjemmet Renhold lokaler ISS Facility Services AS 9491,65
+5 Region Midt-Norge 511202 MST Trøndelag Nord Hjelpetiltak i hjemmet Fellesutgifter andre utleiere Jaras Drift AS 16621,2
+5 Region Midt-Norge 511202 Trøndelag behandlingssenter for ungdom Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 20308
+5 Region Midt-Norge 511202 Trøndelag behandlingssenter for ungdom Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 86162
+5 Region Midt-Norge 512002 Trøndelag behandlingssenter for ungdom Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 131429
+5 Region Midt-Norge 512002 Trøndelag behandlingssenter for ungdom Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 27075
+5 Region Midt-Norge 512002 Trøndelag behandlingssenter for ungdom Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 3783
+5 Region Midt-Norge 512002 Trøndelag behandlingssenter for ungdom 53475 Ressursmiljø trygghet og sikkerhet Barnevernsinstitusjoner Leie lokaler andre utleiere Kristiansund Kommune 1000
+5 Region Midt-Norge 512003 Buvika ungdomssenter Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 207911
+5 Region Midt-Norge 512003 Buvika ungdomssenter Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 297644
+5 Region Midt-Norge 512003 Buvika ungdomssenter Barnevernsinstitusjoner Strøm og oppvarming Tensio TS AS 229,4
+5 Region Midt-Norge 512003 Buvika ungdomssenter Barnevernsinstitusjoner Renhold lokaler MASKE AS 8441,51
+5 Region Midt-Norge 512003 Buvika ungdomssenter Barnevernsinstitusjoner Vaktmestertjenester Atle Pallin 112500
+5 Region Midt-Norge 512003 Buvika ungdomssenter Barnevernsinstitusjoner Leie parkeringsplass Elisabeth Espenes 20296,3
+5 Region Midt-Norge 512003 Buvika ungdomssenter Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 75325
+5 Region Midt-Norge 512004 Buvika ungdomssenter Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 4231
+5 Region Midt-Norge 512004 Moholt ungdomssenter Barnevernsinstitusjoner Leie lokaler fra Statsbygg Stiftelsen Kirkens Bymisjon Oslo 199776
+5 Region Midt-Norge 512004 Moholt ungdomssenter Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 306,51
+5 Region Midt-Norge 512004 Moholt ungdomssenter Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 427,04
+5 Region Midt-Norge 512004 Moholt ungdomssenter Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 371,34
+5 Region Midt-Norge 512004 Moholt ungdomssenter Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 255,33
+5 Region Midt-Norge 513401 Moholt ungdomssenter Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 1882,07
+5 Region Midt-Norge 513401 Moholt ungdomssenter Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 308,67
+5 Region Midt-Norge 513402 Moholt ungdomssenter Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 341,77
+5 Region Midt-Norge 513402 Moholt ungdomssenter Barnevernsinstitusjoner Vaktmestertjenester DIN VAKTMESTER AS 7700,39
+5 Region Midt-Norge 513803 Moholt ungdomssenter Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Stiftelsen Kirkens Bymisjon Oslo 5686,75
+5 Region Midt-Norge 513803 Skatval ungdomssenter 151006 Drift - Styrking og omstilling av statlige institusjoner Barnevernsinstitusjoner Renhold lokaler 4Service Eir Renhold AS 5987,51
+5 Region Midt-Norge 513904 Sunnmørsheimen ungdomsheim, avd. Nygardsvegen Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Retura Søre Sunnmøre AS 2315,95
+5 Region Midt-Norge 513904 Sunnmørsheimen ungdomsheim, avd. Nygardsvegen Barnevernsinstitusjoner Renhold lokaler ISS Facility Services AS 14025,65
+5 Region Midt-Norge 513904 Sunnmørsheimen ungdomsheim, avd. Nygardsvegen Barnevernsinstitusjoner Annen kostnad lokaler Europris Butikkdrift AS 603
+5 Region Midt-Norge 513904 Sunnmørsheimen ungdomsheim, avd. Nygardsvegen Barnevernsinstitusjoner Annen kostnad lokaler Europris Butikkdrift AS 167,36
+5 Region Midt-Norge 513905 Sunnmørsheimen ungdomsheim, avd. Nygardsvegen Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Coop Nordvest SA 647
+5 Region Midt-Norge 513905 Sunnmørsheimen ungdomsheim, avd. Nygardsvegen Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Coop Nordvest SA 518
+5 Region Midt-Norge 513905 Sunnmørsheimen ungdomsheim, avd. Nygardsvegen Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Coop Nordvest SA 1519,7
+5 Region Midt-Norge 514401 MST Sunnmøre Hjelpetiltak i hjemmet Renovasjon, vann, avløp o.l. Retura Søre Sunnmøre AS 463,19
+5 Region Midt-Norge 514401 MST Sunnmøre Hjelpetiltak i hjemmet Renhold lokaler ISS Facility Services AS 5836,94
+5 Region Midt-Norge 514401 Tverrfaglig helsekartlegging NABE 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Leie lokaler andre utleiere Pirsenteret AS 100257,88
+5 Region Midt-Norge 514401 Tverrfaglig helsekartlegging NABE 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Fellesutgifter andre utleiere Pirsenteret Drift AS -405,2
+5 Region Midt-Norge 514401 Tverrfaglig helsekartlegging NABE 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Fellesutgifter andre utleiere Pirsenteret Drift AS 21776,77
+5 Region Midt-Norge 514401 Region Midt-Norge felleskostnader familievern og mekling 53910 Ekstra innkjøp ut over årets plan Familieverntjeneste Annen kostnad lokaler -6595,63
+5 Region Midt-Norge 520601 Regionkontor felleskostnader Regionale fellesfunksjoner Renovasjon, vann, avløp o.l. 637,91
+5 Region Midt-Norge 520601 Regionkontor felleskostnader Regionale fellesfunksjoner Renovasjon, vann, avløp o.l. 637,91
+5 Region Midt-Norge 520801 Regionkontor felleskostnader Regionale fellesfunksjoner Renhold lokaler 11777,8
+5 Region Midt-Norge 520801 Regionkontor felleskostnader Regionale fellesfunksjoner Renhold lokaler 28985,98
+5 Region Midt-Norge 520801 Regionkontor felleskostnader Regionale fellesfunksjoner Vakthold lokaler 865,56
+5 Region Midt-Norge 520801 Regionkontor felleskostnader Regionale fellesfunksjoner Reparasjon og vedlikehold leide lokaler 3307,41
+5 Region Midt-Norge 520801 Regionkontor felleskostnader Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. 100,72
+5 Region Midt-Norge 520801 Regionkontor felleskostnader Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. 100,72
+5 Region Midt-Norge 520801 Regionkontor felleskostnader Barnevernsinstitusjoner Renhold lokaler 1859,65
+5 Region Midt-Norge 520801 Regionkontor felleskostnader Barnevernsinstitusjoner Renhold lokaler 4576,73
+5 Region Midt-Norge 521401 Regionkontor felleskostnader Barnevernsinstitusjoner Vakthold lokaler 136,67
+5 Region Midt-Norge 521401 Regionkontor felleskostnader Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler 522,22
+5 Region Midt-Norge 521401 Regionkontor felleskostnader Hjelpetiltak i hjemmet Renovasjon, vann, avløp o.l. 386,1
+5 Region Midt-Norge 521401 Regionkontor felleskostnader Hjelpetiltak i hjemmet Renovasjon, vann, avløp o.l. 386,1
+5 Region Midt-Norge 521401 Regionkontor felleskostnader Hjelpetiltak i hjemmet Renhold lokaler 7128,67
+5 Region Midt-Norge 521403 Regionkontor felleskostnader Hjelpetiltak i hjemmet Renhold lokaler 17544,15
+5 Region Midt-Norge 521403 Regionkontor felleskostnader Hjelpetiltak i hjemmet Vakthold lokaler 523,89
+5 Region Midt-Norge 522401 Regionkontor felleskostnader Hjelpetiltak i hjemmet Reparasjon og vedlikehold leide lokaler 2001,85
+5 Region Midt-Norge 522401 Regionkontor felleskostnader Inntak Renovasjon, vann, avløp o.l. 553,97
+5 Region Midt-Norge 522701 Regionkontor felleskostnader Inntak Renovasjon, vann, avløp o.l. 553,97
+5 Region Midt-Norge 522701 Regionkontor felleskostnader Inntak Renhold lokaler 10228,09
+5 Region Midt-Norge 522701 Regionkontor felleskostnader Inntak Renhold lokaler 25172,04
+5 Region Midt-Norge 522701 Regionkontor felleskostnader Inntak Vakthold lokaler 751,67
+5 Region Midt-Norge 522701 Regionkontor felleskostnader Inntak Reparasjon og vedlikehold leide lokaler 2872,22
+5 Region Midt-Norge 522701 Regionkontor felleskostnader Fosterhjemstjenesten Renovasjon, vann, avløp o.l. 486,83
+5 Region Midt-Norge 522701 Regionkontor felleskostnader Fosterhjemstjenesten Renovasjon, vann, avløp o.l. 486,83
+5 Region Midt-Norge 522701 Regionkontor felleskostnader Fosterhjemstjenesten Renhold lokaler 8988,32
+5 Region Midt-Norge 522701 Regionkontor felleskostnader Fosterhjemstjenesten Renhold lokaler 22120,88
+5 Region Midt-Norge 522801 Regionkontor felleskostnader Fosterhjemstjenesten Vakthold lokaler 660,55
+5 Region Midt-Norge 522801 Regionkontor felleskostnader Fosterhjemstjenesten Reparasjon og vedlikehold leide lokaler 2524,08
+5 Region Midt-Norge 522801 Regionkontor felleskostnader 53500 Regionale felleskostnader Regionale fellesfunksjoner Renovasjon, vann, avløp o.l. -2266,25
+5 Region Midt-Norge 522801 Regionkontor felleskostnader 53500 Regionale felleskostnader Regionale fellesfunksjoner Renovasjon, vann, avløp o.l. -2266,25
+5 Region Midt-Norge 522801 Regionkontor felleskostnader 53500 Regionale felleskostnader Regionale fellesfunksjoner Renovasjon, vann, avløp o.l. Retura TRV AS, Sluppen (86010933066) 2266,25
+5 Region Midt-Norge 523101 Regionkontor felleskostnader 53500 Regionale felleskostnader Regionale fellesfunksjoner Renhold lokaler -41842,19
+5 Region Midt-Norge 523101 Regionkontor felleskostnader 53500 Regionale felleskostnader Regionale fellesfunksjoner Renhold lokaler -102976,52
+5 Region Midt-Norge 523101 Regionkontor felleskostnader 53500 Regionale felleskostnader Regionale fellesfunksjoner Vakthold lokaler -3075
+5 Region Midt-Norge 523101 Regionkontor felleskostnader 53500 Regionale felleskostnader Regionale fellesfunksjoner Reparasjon og vedlikehold leide lokaler -11750
+5 Region Midt-Norge 530501 Vikhovlia akuttsenter Barnevernsinstitusjoner Leie lokaler andre utleiere Bybroen bolig AS 163701
+5 Region Midt-Norge 530501 Vikhovlia akuttsenter Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 34424,78
+5 Region Midt-Norge 531001 Vikhovlia akuttsenter Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 2376,1
+5 Region Midt-Norge 531001 Vikhovlia akuttsenter Barnevernsinstitusjoner Renhold lokaler Nær Engros Trondheim AS (Konto 24803754442) 2422,26
+5 Region Midt-Norge 531002 Vikhovlia akuttsenter Barnevernsinstitusjoner Renhold lokaler LIJO RENHOLD AS 6676,25
+5 Region Midt-Norge 531002 Vikhovlia akuttsenter Barnevernsinstitusjoner Fellesutgifter andre utleiere Bybroen bolig AS 16500
+5 Region Midt-Norge 531002 Vikhovlia akuttsenter Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Elektriker 1 Trondheim AS 1525
+5 Region Midt-Norge 531301 Vikhovlia akuttsenter Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Elektriker 1 Trondheim AS 3551,09
+5 Region Midt-Norge 531301 Vikhovlia, beredskapshjem Fosterhjem Leie lokaler andre utleiere Bybroen bolig AS 54567
+5 Region Midt-Norge 531301 Vikhovlia, beredskapshjem Fosterhjem Strøm og oppvarming KINECT ENERGY SPOT AS 5665,55
+5 Region Midt-Norge 531301 Vikhovlia, beredskapshjem Fosterhjem Strøm og oppvarming KINECT ENERGY SPOT AS 6659,02
+5 Region Midt-Norge 531301 Vikhovlia, beredskapshjem Fosterhjem Renhold lokaler LIJO RENHOLD AS 6676,25
+5 Region Midt-Norge 531301 Vikhovlia, beredskapshjem Fosterhjem Fellesutgifter andre utleiere Bybroen bolig AS 5500
+5 Region Midt-Norge 531301 Kvammen akuttsenter, avdeling Melhus Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 44964,27
+5 Region Midt-Norge 531302 Kvammen akuttsenter, avdeling Melhus Barnevernsinstitusjoner Renhold lokaler Vekst Melhus AS 1839
+5 Region Midt-Norge 531302 Kvammen akuttsenter, avdeling Melhus Barnevernsinstitusjoner Renhold lokaler IKANO BANK AB (PUBL), Coop 736,3
+5 Region Midt-Norge 531302 Kvammen akuttsenter, avdeling Melhus Barnevernsinstitusjoner Renhold lokaler Zimmerlund AS 1988,2
+5 Region Midt-Norge 531302 Kvammen akuttsenter, avdeling Melhus Barnevernsinstitusjoner Annen kostnad lokaler IKANO BANK AB (PUBL), Coop 367,05
+5 Region Midt-Norge 531302 Kvammen akuttsenter, avdeling Melhus Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler IKANO BANK AB (PUBL), Coop 2210,2
+5 Region Midt-Norge 532101 Kvammen akuttsenter, avdeling Fannrem Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Retura Sør-Trøndelag 2295
+5 Region Midt-Norge 532101 Kvammen akuttsenter, avdeling Fannrem Barnevernsinstitusjoner Renhold lokaler Coop Nordvest SA 241,6
+5 Region Midt-Norge 532101 Kvammen akuttsenter, avdeling Fannrem Barnevernsinstitusjoner Renhold lokaler GRUNNAN DAGLIGVARE AS 895,4
+5 Region Midt-Norge 532101 Kvammen akuttsenter, avdeling Fannrem Barnevernsinstitusjoner Vakthold lokaler Bravida Norge AS 19615,75
+5 Region Midt-Norge 532101 Kvammen akuttsenter, avdeling Fannrem Barnevernsinstitusjoner Annen kostnad lokaler GRUNNAN DAGLIGVARE AS 573,4
+5 Region Midt-Norge 532101 Kvammen akuttsenter, avdeling Fannrem Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Coop Nordvest SA 3534
+5 Region Midt-Norge 532101 Kvammen, avdelig enetiltak Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 6719,74
+5 Region Midt-Norge 532101 Kvammen, avdelig enetiltak Barnevernsinstitusjoner Renhold lokaler Coop Midt-Norge SA 207,68
+5 Region Midt-Norge 532101 Kvammen, avdelig enetiltak Barnevernsinstitusjoner Renhold lokaler Coop Midt-Norge SA 55,84
+5 Region Midt-Norge 532101 Kvammen, avdelig enetiltak Barnevernsinstitusjoner Renhold lokaler Coop Midt-Norge SA 111,12
+5 Region Midt-Norge 532101 Kvammen, avdelig enetiltak Barnevernsinstitusjoner Renhold lokaler Coop Midt-Norge SA 62,8
+5 Region Midt-Norge 532101 Kvammen, avdelig enetiltak Barnevernsinstitusjoner Annen kostnad lokaler Coop Midt-Norge SA 159,2
+5 Region Midt-Norge 532101 Kvammen, avdelig enetiltak Barnevernsinstitusjoner Annen kostnad lokaler Coop Midt-Norge SA 58,32
+5 Region Midt-Norge 532501 Kvammen, avdelig enetiltak Barnevernsinstitusjoner Annen kostnad lokaler Power Norge AS 229
+5 Region Midt-Norge 532501 Enhet for inntak, avdeling Ålesund Inntak Strøm og oppvarming Sameiet Daaeskogen Næringsbygg 159
+5 Region Midt-Norge 532501 Enhet for inntak, avdeling Ålesund Inntak Renhold lokaler Ålesund Vinduspuss AS 1375
+5 Region Midt-Norge 532501 Enhet for inntak, avdeling Ålesund Inntak Renhold lokaler Renex Servicepartner AS 2432,5
+5 Region Midt-Norge 532501 Enhet for inntak, avdeling Ålesund Inntak Fellesutgifter andre utleiere Sameiet Daaeskogen Næringsbygg 4136
+5 Region Midt-Norge 532501 Fosterhjemstjenesten i Bufetat, region Midt-Norge, avd. Molde Fosterhjemstjenesten Strøm og oppvarming KINECT ENERGY SPOT AS 2853,26
+5 Region Midt-Norge 532501 Fosterhjemstjenesten i Bufetat, region Midt-Norge, avd. Molde Fosterhjemstjenesten Strøm og oppvarming KINECT ENERGY SPOT AS 5922,05
+5 Region Midt-Norge 532901 Fosterhjemstjenesten i Bufetat, region Midt-Norge, avd. Molde Fosterhjemstjenesten Renhold lokaler Toma Facility Norge AS 4347,63
+5 Region Midt-Norge 532901 Fosterhjemstjenesten i Bufetat, region Midt-Norge, avd. Ålesund Fosterhjemstjenesten Strøm og oppvarming Sameiet Daaeskogen Næringsbygg 179
+5 Region Midt-Norge 532901 Fosterhjemstjenesten i Bufetat, region Midt-Norge, avd. Ålesund Fosterhjemstjenesten Renhold lokaler Renex Servicepartner AS 7576,25
+5 Region Midt-Norge 532901 Fosterhjemstjenesten i Bufetat, region Midt-Norge, avd. Ålesund Fosterhjemstjenesten Renhold lokaler Renex Servicepartner AS 986,38
+5 Region Midt-Norge 532901 Fosterhjemstjenesten i Bufetat, region Midt-Norge, avd. Ålesund Fosterhjemstjenesten Fellesutgifter andre utleiere Sameiet Daaeskogen Næringsbygg 4650
+5 Region Midt-Norge 533201 Sunnmørsheimen akuttinstitusjon, avd. Klatrevegen Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Retura Søre Sunnmøre AS 761,75
+5 Region Midt-Norge 533201 Sunnmørsheimen akuttinstitusjon, avd. Klatrevegen Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Volda/Ørsta Reinhaldsverk IKS 6588
+5 Region Midt-Norge 533201 Sunnmørsheimen akuttinstitusjon, avd. Klatrevegen Barnevernsinstitusjoner Vakthold lokaler Addsecure AS -7500
+5 Region Midt-Norge 533201 Sunnmørsheimen akuttinstitusjon, avd. Klatrevegen Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Coop Nordvest SA 1288
+5 Region Midt-Norge 533202 Sunnmørsheimen akuttinstitusjon, avd. Klatrevegen Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Coop Nordvest SA 1601,5
+5 Region Midt-Norge 533202 Sunnmørsheimen akuttinstitusjon, avd. Klatrevegen Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Coop Nordvest SA 889
+5 Region Midt-Norge 540901 Familievernkontoret Namdalen Familieverntjeneste Renhold lokaler Midtre Namdal Vekst AS 277
+5 Region Midt-Norge 540901 Familievernkontoret Namdalen Familieverntjeneste Renhold lokaler Insider Facility Solutions AS 10591
+5 Region Midt-Norge 540901 Familievernkontoret Innherred 53910 Ekstra innkjøp ut over årets plan Familieverntjeneste Fast bygningsinventar og påkostning, leide bygg Beslag Konsult AS 65759
+5 Region Midt-Norge 540901 Familievernkontoret Innherred 53910 Ekstra innkjøp ut over årets plan Familieverntjeneste Fast bygningsinventar og påkostning, leide bygg Beslag Konsult AS 9216
+5 Region Midt-Norge 541100 Familievernkontoret Innherred 53910 Ekstra innkjøp ut over årets plan Familieverntjeneste Fast bygningsinventar og påkostning, leide bygg Beslag Konsult AS 17554
+5 Region Midt-Norge 541102 Familievernkontoret Innherred 53910 Ekstra innkjøp ut over årets plan Familieverntjeneste Annen kostnad lokaler 6595,63
+5 Region Midt-Norge 541102 Familievernkontoret Innherred 53910 Ekstra innkjøp ut over årets plan Familieverntjeneste Annen kostnad lokaler NTE Elektro 150697,5
+5 Region Midt-Norge 541102 Familievernkontoret Innherred 53910 Ekstra innkjøp ut over årets plan Familieverntjeneste Annen kostnad lokaler GV Reklame AS 6028
+5 Region Midt-Norge 541102 Familievernkontoret Innherred 53910 Ekstra innkjøp ut over årets plan Familieverntjeneste Annen kostnad lokaler Clas Ohlson AS (60210745583) 1786,1
+5 Region Midt-Norge 541102 Senter for foreldre og barn i Trondheim Sentre for foreldre og barn Strøm og oppvarming KINECT ENERGY SPOT AS 15345,76
+5 Region Midt-Norge 541102 Senter for foreldre og barn i Trondheim Sentre for foreldre og barn Strøm og oppvarming KINECT ENERGY SPOT AS 3593,55
+5 Region Midt-Norge 541102 Senter for foreldre og barn i Trondheim Sentre for foreldre og barn Renhold lokaler IKANO BANK AB (PUBL), Coop 1358,8
+5 Region Midt-Norge 541103 Senter for foreldre og barn i Trondheim Hjelpetiltak i hjemmet Strøm og oppvarming KINECT ENERGY SPOT AS 17224,42
+5 Region Midt-Norge 541103 Tverrfaglig helsekartlegging 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Renovasjon, vann, avløp o.l. 50,36
+5 Region Midt-Norge 541103 Tverrfaglig helsekartlegging 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Renovasjon, vann, avløp o.l. 50,36
+5 Region Midt-Norge 541103 Tverrfaglig helsekartlegging 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Renhold lokaler 929,83
+5 Region Midt-Norge 541103 Tverrfaglig helsekartlegging 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Renhold lokaler 2288,37
+5 Region Midt-Norge 541103 Tverrfaglig helsekartlegging 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Vakthold lokaler 68,33
+5 Region Midt-Norge 541103 Tverrfaglig helsekartlegging 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Reparasjon og vedlikehold leide lokaler 261,11
+5 Region Midt-Norge 541103 Familievernkontoret Nordmøre Familieverntjeneste Strøm og oppvarming KINECT ENERGY SPOT AS 19650,81
+5 Region Midt-Norge 541103 Familievernkontoret Nordmøre Familieverntjeneste Renhold lokaler Insider Facility Solutions AS 7691
+5 Region Midt-Norge 541103 Senter for foreldre og barn Molde Sentre for foreldre og barn Strøm og oppvarming KINECT ENERGY SPOT AS 5122,65
+5 Region Midt-Norge 541103 Senter for foreldre og barn Molde Sentre for foreldre og barn Strøm og oppvarming KINECT ENERGY SPOT AS 1181,09
+5 Region Midt-Norge 541103 Senter for foreldre og barn Molde Sentre for foreldre og barn Strøm og oppvarming KINECT ENERGY SPOT AS 4512,63
+5 Region Midt-Norge 541105 Senter for foreldre og barn Molde Sentre for foreldre og barn Renhold lokaler Insider Facility Solutions AS 6916
+5 Region Midt-Norge 541105 Senter for foreldre og barn Molde Sentre for foreldre og barn Fellesutgifter andre utleiere 69208
+5 Region Midt-Norge 541105 Senter for foreldre og barn Molde Sentre for foreldre og barn Fellesutgifter (BAD) Statsbygg -69208
+5 Region Midt-Norge 543301 Familievernkontoret Romsdal Familieverntjeneste Leie lokaler andre utleiere Thon Hotellbygg AS 87564
+5 Region Midt-Norge 543301 Familievernkontoret Romsdal Familieverntjeneste Strøm og oppvarming KINECT ENERGY SPOT AS 4593,49
+5 Region Midt-Norge 543301 Familievernkontoret Romsdal Familieverntjeneste Renhold lokaler Toma Facility Norge AS 2333,75
+5 Region Midt-Norge 543301 Familievernkontoret Romsdal Familieverntjeneste Renhold lokaler Toma Facility Norge AS 8961,88
+5 Region Midt-Norge 543501 Familievernkontoret Romsdal Familieverntjeneste Fellesutgifter andre utleiere Thon Hotellbygg AS 27983
+5 Region Midt-Norge 543501 Familievernkontoret Sunnmøre Familieverntjeneste Strøm og oppvarming Sameiet Daaeskogen Næringsbygg 8682
+5 Region Midt-Norge 544130 Familievernkontoret Sunnmøre Familieverntjeneste Strøm og oppvarming KINECT ENERGY SPOT AS 3122,41
+5 Region Midt-Norge 544130 Familievernkontoret Sunnmøre Familieverntjeneste Strøm og oppvarming KINECT ENERGY SPOT AS 4186,38
+5 Region Midt-Norge 500201 Familievernkontoret Sunnmøre Familieverntjeneste Renhold lokaler Renex Servicepartner AS 8243,75
+5 Region Midt-Norge 500401 Familievernkontoret Sunnmøre Familieverntjeneste Fellesutgifter andre utleiere Sameiet Daaeskogen Næringsbygg 334
+5 Region Midt-Norge 500401 Familievernkontoret Sunnmøre 53520 Avdelingskontor Familieverntjeneste Strøm og oppvarming KINECT ENERGY SPOT AS 4362,42
+5 Region Midt-Norge 500401 Spillumheimen ungdomsheim Regionale fellesfunksjoner Strøm og oppvarming -16582,73
+5 Region Midt-Norge 500401 Spillumheimen ungdomsheim Regionale fellesfunksjoner Strøm og oppvarming KINECT ENERGY SPOT AS 11351,31
+5 Region Midt-Norge 511201 Spillumheimen ungdomsheim Regionale fellesfunksjoner Strøm og oppvarming KINECT ENERGY SPOT AS 5231,42
+5 Region Midt-Norge 511201 Spillumheimen ungdomsheim Barnevernsinstitusjoner Strøm og oppvarming 16582,73
+5 Region Midt-Norge 511201 Karienborg ungdomsheim Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 30603,46
+5 Region Midt-Norge 511201 Ranheim Vestre Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 24834,28
+5 Region Midt-Norge 511201 Ranheim Vestre Barnevernsinstitusjoner Renhold lokaler MASKE AS 346,08
+5 Region Midt-Norge 511202 Ranheim Vestre 55080 Selvassuranse Fosterhjem Reparasjon og vedlikehold leide lokaler Glassmaker'n a/s 6255
+5 Region Midt-Norge 511202 Ranheim Vestre, familiehjem Fosterhjem Strøm og oppvarming KINECT ENERGY SPOT AS 12417,14
+5 Region Midt-Norge 511202 Ranheim Vestre, familiehjem Fosterhjem Renhold lokaler MASKE AS 617,14
+5 Region Midt-Norge 511202 Gilantunet ungdomshjem Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 28113,97
+5 Region Midt-Norge 511202 Gilantunet ungdomshjem Barnevernsinstitusjoner Renhold lokaler Kristian Lorvik AS (15033440445) 258,9
+5 Region Midt-Norge 512002 Gilantunet ungdomshjem Barnevernsinstitusjoner Vakthold lokaler Sotera AS 631,25
+5 Region Midt-Norge 512002 Gilantunet ungdomshjem Barnevernsinstitusjoner Annen kostnad lokaler Clas Ohlson AS (60210745583) 656,4
+5 Region Midt-Norge 512002 Gilantunet ungdomshjem Barnevernsinstitusjoner Annen kostnad lokaler Ikano Bank AB (PUBL), Norway Branch (83970500777) 4633
+5 Region Midt-Norge 512002 Clausenengen ungdomshjem Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 4773,15
+5 Region Midt-Norge 512002 Clausenengen ungdomshjem Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 14876,52
+5 Region Midt-Norge 512002 Kollen ungdomsbase Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Europris Butikkdrift AS 139
+5 Region Midt-Norge 512003 Kollen ungdomsbase Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Vik Elektro AS 2577,25
+5 Region Midt-Norge 512003 Husafjellheimen ungdomsheim Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 4244,43
+5 Region Midt-Norge 512003 Husafjellheimen ungdomsheim Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 2581,15
+5 Region Midt-Norge 512003 Husafjellheimen ungdomsheim Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 20750,02
+5 Region Midt-Norge 512003 Husafjellheimen ungdomsheim Barnevernsinstitusjoner Annen kostnad lokaler Biltema Norge AS 599,7
+5 Region Midt-Norge 512003 Husafjellheimen ungdomsheim Barnevernsinstitusjoner Annen kostnad lokaler Biltema Norge AS 342,9
+5 Region Midt-Norge 512003 MST Trøndelag Nord 53910 Ekstra innkjøp ut over årets plan Hjelpetiltak i hjemmet Annen kostnad lokaler NTE Elektro 150697,5
+5 Region Midt-Norge 512004 Trøndelag behandlingssenter for ungdom Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 6719,74
+5 Region Midt-Norge 513401 Buvika ungdomssenter Barnevernsinstitusjoner Strøm og oppvarming Tensio TS AS 226,74
+5 Region Midt-Norge 513401 Buvika ungdomssenter Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 17487,56
+5 Region Midt-Norge 513801 Buvika ungdomssenter Barnevernsinstitusjoner Vaktmestertjenester Hanskleiva Grendalag 37000
+5 Region Midt-Norge 513803 Moholt ungdomssenter Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 280,62
+5 Region Midt-Norge 513904 Moholt ungdomssenter Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 314,15
+5 Region Midt-Norge 513904 Moholt ungdomssenter Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 363,48
+5 Region Midt-Norge 513904 Moholt ungdomssenter Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 383,13
+5 Region Midt-Norge 513905 Moholt ungdomssenter Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 1658,54
+5 Region Midt-Norge 513905 Moholt ungdomssenter Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 352,13
+5 Region Midt-Norge 514401 Moholt ungdomssenter Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 258,24
+5 Region Midt-Norge 514401 Moholt ungdomssenter Barnevernsinstitusjoner Vaktmestertjenester DIN VAKTMESTER AS 7700,39
+5 Region Midt-Norge 514401 Moholt ungdomssenter Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Buvik Elektro AS 5778,13
+5 Region Midt-Norge 514401 Skatval ungdomssenter 151006 Drift - Styrking og omstilling av statlige institusjoner Barnevernsinstitusjoner Renhold lokaler MASKE AS 662,25
+5 Region Midt-Norge 514401 Skatval ungdomssenter 151006 Drift - Styrking og omstilling av statlige institusjoner Barnevernsinstitusjoner Renhold lokaler 4Service Eir Renhold AS 5987,51
+5 Region Midt-Norge 514401 Skatval ungdomssenter 151006 Drift - Styrking og omstilling av statlige institusjoner Barnevernsinstitusjoner Vakthold lokaler Sotera AS 543,75
+5 Region Midt-Norge 520601 Skatval ungdomssenter 151006 Drift - Styrking og omstilling av statlige institusjoner Barnevernsinstitusjoner Vakthold lokaler Sotera AS 412,5
+5 Region Midt-Norge 520601 Skatval ungdomssenter 151006 Drift - Styrking og omstilling av statlige institusjoner Barnevernsinstitusjoner Vakthold lokaler Sotera AS 543,75
+5 Region Midt-Norge 520801 Skatval ungdomssenter 151006 Drift - Styrking og omstilling av statlige institusjoner Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Abra Beslag AS 8422,25
+5 Region Midt-Norge 520801 Sunnmørsheimen ungdomsheim, avd. Nygardsvegen Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Retura Søre Sunnmøre AS 2250,63
+5 Region Midt-Norge 520801 Sunnmørsheimen ungdomsheim, avd. Nygardsvegen Barnevernsinstitusjoner Strøm og oppvarming WATTN AS 542,13
+5 Region Midt-Norge 520801 Sunnmørsheimen ungdomsheim, avd. Nygardsvegen Barnevernsinstitusjoner Renhold lokaler VASKE AS 6107,5
+5 Region Midt-Norge 520801 Sunnmørsheimen ungdomsheim, avd. Nygardsvegen Barnevernsinstitusjoner Vakthold lokaler Addsecure AS -7500
+5 Region Midt-Norge 520801 Sunnmørsheimen ungdomsheim, avd. Nygardsvegen Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Coop Nordvest SA 419
+5 Region Midt-Norge 520801 Sunnmørsheimen ungdomsheim, avd. Nygardsvegen Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Coop Nordvest SA 594,9
+5 Region Midt-Norge 520801 MST Sunnmøre Hjelpetiltak i hjemmet Renovasjon, vann, avløp o.l. Retura Søre Sunnmøre AS 450,13
+5 Region Midt-Norge 520801 Tverrfaglig helsekartlegging NABE 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Renovasjon, vann, avløp o.l. 50,36
+5 Region Midt-Norge 520801 Tverrfaglig helsekartlegging NABE 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Renovasjon, vann, avløp o.l. 50,36
+5 Region Midt-Norge 520801 Tverrfaglig helsekartlegging NABE 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Renhold lokaler 929,83
+5 Region Midt-Norge 521401 Tverrfaglig helsekartlegging NABE 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Renhold lokaler 2288,37
+5 Region Midt-Norge 521401 Tverrfaglig helsekartlegging NABE 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Vakthold lokaler 68,33
+5 Region Midt-Norge 522401 Tverrfaglig helsekartlegging NABE 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Reparasjon og vedlikehold leide lokaler 261,11
+5 Region Midt-Norge 522701 Region Midt-Norge felleskostnader barnevern 53770 Utgifter som flg. av brann ved Kollen ungdomsbase Regionale fellesfunksjoner Annen kostnad lokaler Statsbyggs hovedkontor 195402,82
+5 Region Midt-Norge 522701 Regionkontor felleskostnader Regionale fellesfunksjoner Renovasjon, vann, avløp o.l. 555,57
+5 Region Midt-Norge 522701 Regionkontor felleskostnader Regionale fellesfunksjoner Renhold lokaler 12743,58
+5 Region Midt-Norge 522801 Regionkontor felleskostnader Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. 87,72
+5 Region Midt-Norge 522801 Regionkontor felleskostnader Barnevernsinstitusjoner Renhold lokaler 2012,14
+5 Region Midt-Norge 522801 Regionkontor felleskostnader Hjelpetiltak i hjemmet Renovasjon, vann, avløp o.l. 336,27
+5 Region Midt-Norge 523101 Regionkontor felleskostnader Hjelpetiltak i hjemmet Renhold lokaler 7713,22
+5 Region Midt-Norge 523101 Regionkontor felleskostnader Inntak Renovasjon, vann, avløp o.l. 482,47
+5 Region Midt-Norge 523101 Regionkontor felleskostnader Inntak Renhold lokaler 11066,79
+5 Region Midt-Norge 531001 Regionkontor felleskostnader Fosterhjemstjenesten Renovasjon, vann, avløp o.l. 424
+5 Region Midt-Norge 531001 Regionkontor felleskostnader Fosterhjemstjenesten Renhold lokaler 9725,38
+5 Region Midt-Norge 531001 Regionkontor felleskostnader 53500 Regionale felleskostnader Regionale fellesfunksjoner Renovasjon, vann, avløp o.l. -1973,75
+5 Region Midt-Norge 531002 Regionkontor felleskostnader 53500 Regionale felleskostnader Regionale fellesfunksjoner Renovasjon, vann, avløp o.l. Retura TRV AS, Sluppen (86010933066) 1973,75
+5 Region Midt-Norge 531301 Regionkontor felleskostnader 53500 Regionale felleskostnader Regionale fellesfunksjoner Renhold lokaler -45273,25
+5 Region Midt-Norge 531302 Regionkontor felleskostnader 53500 Regionale felleskostnader Regionale fellesfunksjoner Renhold lokaler 4Service Eir Renhold AS 45273,25
+5 Region Midt-Norge 531302 Vikhovlia akuttsenter Fosterhjem Fellesutgifter andre utleiere -26100
+5 Region Midt-Norge 531302 Vikhovlia akuttsenter Fosterhjem Fellesutgifter andre utleiere Bybroen bolig AS 16500
+5 Region Midt-Norge 531302 Vikhovlia akuttsenter Barnevernsinstitusjoner Leie lokaler andre utleiere Bybroen bolig AS 163701
+5 Region Midt-Norge 532101 Vikhovlia akuttsenter Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 41860,56
+5 Region Midt-Norge 532101 Vikhovlia akuttsenter Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 1748,85
+5 Region Midt-Norge 532101 Vikhovlia akuttsenter Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS -34424,78
+5 Region Midt-Norge 532101 Vikhovlia akuttsenter Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS -2376,1
+5 Region Midt-Norge 532101 Vikhovlia akuttsenter Barnevernsinstitusjoner Renhold lokaler Nær Engros Trondheim AS (Konto 24803754442) 230
+5 Region Midt-Norge 532101 Vikhovlia akuttsenter Barnevernsinstitusjoner Renhold lokaler LIJO RENHOLD AS 6676,25
+5 Region Midt-Norge 532101 Vikhovlia akuttsenter Barnevernsinstitusjoner Fellesutgifter andre utleiere 26100
+5 Region Midt-Norge 532101 Vikhovlia akuttsenter Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Eurocard Norway 1260,8
+5 Region Midt-Norge 532501 Vikhovlia akuttsenter Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Bybroen bolig AS 2125
+5 Region Midt-Norge 532501 Vikhovlia, beredskapshjem Fosterhjem Leie lokaler andre utleiere Bybroen bolig AS 54567
+5 Region Midt-Norge 532901 Vikhovlia, beredskapshjem Fosterhjem Strøm og oppvarming KINECT ENERGY SPOT AS -6659,02
+5 Region Midt-Norge 532901 Vikhovlia, beredskapshjem Fosterhjem Strøm og oppvarming KINECT ENERGY SPOT AS -5665,55
+5 Region Midt-Norge 532901 Vikhovlia, beredskapshjem Fosterhjem Strøm og oppvarming KINECT ENERGY SPOT AS 5931,77
+5 Region Midt-Norge 532901 Vikhovlia, beredskapshjem Fosterhjem Strøm og oppvarming KINECT ENERGY SPOT AS 4995,91
+5 Region Midt-Norge 532901 Vikhovlia, beredskapshjem Fosterhjem Renhold lokaler LIJO RENHOLD AS 6676,25
+5 Region Midt-Norge 532901 Vikhovlia, beredskapshjem Fosterhjem Fellesutgifter andre utleiere 3200
+5 Region Midt-Norge 532901 Vikhovlia, beredskapshjem Fosterhjem Fellesutgifter andre utleiere Bybroen bolig AS 5500
+5 Region Midt-Norge 533201 Vikhovlia, beredskapshjem Barnevernsinstitusjoner Fellesutgifter andre utleiere -3200
+5 Region Midt-Norge 533201 Kvammen akuttsenter, avdeling Melhus Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Odin Miljø AS 3894,5
+5 Region Midt-Norge 533201 Kvammen akuttsenter, avdeling Melhus Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS -44964,27
+5 Region Midt-Norge 533201 Kvammen akuttsenter, avdeling Melhus Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 59080,86
+5 Region Midt-Norge 533202 Kvammen akuttsenter, avdeling Melhus Barnevernsinstitusjoner Renhold lokaler Vekst Melhus AS 2657
+5 Region Midt-Norge 533202 Kvammen akuttsenter, avdeling Melhus Barnevernsinstitusjoner Renhold lokaler Zimmerlund AS 1692,24
+5 Region Midt-Norge 533202 Kvammen akuttsenter, avdeling Melhus Barnevernsinstitusjoner Annen kostnad lokaler Zimmerlund AS 204,2
+5 Region Midt-Norge 533202 Kvammen akuttsenter, avdeling Fannrem Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Retura Sør-Trøndelag 2330
+5 Region Midt-Norge 533202 Kvammen akuttsenter, avdeling Fannrem Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 34083,42
+5 Region Midt-Norge 540901 Kvammen akuttsenter, avdeling Fannrem Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS -34083,42
+5 Region Midt-Norge 541102 Kvammen akuttsenter, avdeling Fannrem Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 38567,4
+5 Region Midt-Norge 541102 Kvammen akuttsenter, avdeling Fannrem Barnevernsinstitusjoner Renhold lokaler Magne Staveli & Co AS (Power Orkanger) 229
+5 Region Midt-Norge 541103 Kvammen akuttsenter, avdeling Fannrem Barnevernsinstitusjoner Renhold lokaler Coop Nordvest SA 1241
+5 Region Midt-Norge 541103 Kvammen akuttsenter, avdeling Fannrem Barnevernsinstitusjoner Renhold lokaler GRUNNAN DAGLIGVARE AS 1048,14
+5 Region Midt-Norge 541103 Kvammen akuttsenter, avdeling Fannrem Barnevernsinstitusjoner Fellesutgifter andre utleiere Orkland kommune 2354,38
+5 Region Midt-Norge 541103 Kvammen, avdelig enetiltak Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS -6719,74
+5 Region Midt-Norge 541103 Kvammen, avdelig enetiltak Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 6150,28
+5 Region Midt-Norge 541103 Kvammen, avdelig enetiltak Barnevernsinstitusjoner Renhold lokaler Coop Midt-Norge SA 107,2
+5 Region Midt-Norge 541103 Kvammen, avdelig enetiltak Barnevernsinstitusjoner Renhold lokaler Coop Midt-Norge SA 28,16
+5 Region Midt-Norge 541103 Kvammen, avdelig enetiltak Barnevernsinstitusjoner Renhold lokaler Coop Midt-Norge SA 293,2
+5 Region Midt-Norge 541103 Kvammen, avdelig enetiltak Barnevernsinstitusjoner Renhold lokaler Coop Midt-Norge SA 17,52
+5 Region Midt-Norge 541105 Kvammen, avdelig enetiltak Barnevernsinstitusjoner Renhold lokaler Coop Midt-Norge SA 67,36
+5 Region Midt-Norge 541105 Kvammen, avdelig enetiltak Barnevernsinstitusjoner Annen kostnad lokaler Coop Midt-Norge SA 319,2
+5 Region Midt-Norge 541105 Kvammen, avdelig enetiltak Barnevernsinstitusjoner Annen kostnad lokaler Eurocard Norway 458
+5 Region Midt-Norge 541105 Kvammen, avdelig enetiltak Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Buvik Elektro AS 8899,1
+5 Region Midt-Norge 541105 Humla Akuttsenter Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS -11462
+5 Region Midt-Norge 543301 Humla Akuttsenter Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS -20353,99
+5 Region Midt-Norge 543301 Humla Akuttsenter Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 12452,65
+5 Region Midt-Norge 543301 Humla Akuttsenter Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 23089,88
+5 Region Midt-Norge 543301 Humla Akuttsenter Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 11462
+5 Region Midt-Norge 543301 Humla Akuttsenter Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 20353,99
+5 Region Midt-Norge 543501 Enhet for inntak, avdeling Ålesund Inntak Strøm og oppvarming KINECT ENERGY SPOT AS -3277,02
+5 Region Midt-Norge 543501 Enhet for inntak, avdeling Ålesund Inntak Strøm og oppvarming KINECT ENERGY SPOT AS 2727,2
+5 Region Midt-Norge 543501 Enhet for inntak, avdeling Ålesund Inntak Strøm og oppvarming KINECT ENERGY SPOT AS 3277,02
+5 Region Midt-Norge 500201 Enhet for inntak, avdeling Ålesund Inntak Renhold lokaler Renex Servicepartner AS 2432,5
+5 Region Midt-Norge 500201 Fosterhjemstjenesten i Bufetat, region Midt-Norge, avd. Molde Fosterhjemstjenesten Strøm og oppvarming KINECT ENERGY SPOT AS -5922,05
+5 Region Midt-Norge 500201 Fosterhjemstjenesten i Bufetat, region Midt-Norge, avd. Molde Fosterhjemstjenesten Strøm og oppvarming KINECT ENERGY SPOT AS -2853,26
+5 Region Midt-Norge 500401 Fosterhjemstjenesten i Bufetat, region Midt-Norge, avd. Molde Fosterhjemstjenesten Strøm og oppvarming KINECT ENERGY SPOT AS 2557,83
+5 Region Midt-Norge 500401 Fosterhjemstjenesten i Bufetat, region Midt-Norge, avd. Molde Fosterhjemstjenesten Strøm og oppvarming KINECT ENERGY SPOT AS 5894,77
+5 Region Midt-Norge 500401 Fosterhjemstjenesten i Bufetat, region Midt-Norge, avd. Molde Fosterhjemstjenesten Renhold lokaler Toma Facility Norge AS 4347,63
+5 Region Midt-Norge 500401 Fosterhjemstjenesten i Bufetat, region Midt-Norge, avd. Ålesund Fosterhjemstjenesten Strøm og oppvarming KINECT ENERGY SPOT AS 3546,37
+5 Region Midt-Norge 500401 Fosterhjemstjenesten i Bufetat, region Midt-Norge, avd. Ålesund Fosterhjemstjenesten Strøm og oppvarming KINECT ENERGY SPOT AS -3546,37
+5 Region Midt-Norge 500401 Fosterhjemstjenesten i Bufetat, region Midt-Norge, avd. Ålesund Fosterhjemstjenesten Strøm og oppvarming KINECT ENERGY SPOT AS 2950
+5 Region Midt-Norge 500401 Fosterhjemstjenesten i Bufetat, region Midt-Norge, avd. Ålesund Fosterhjemstjenesten Renhold lokaler Renex Servicepartner AS 7576,25
+5 Region Midt-Norge 500401 Sunnmørsheimen akuttinstitusjon, avd. Klatrevegen Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Retura Søre Sunnmøre AS 785,18
+5 Region Midt-Norge 500401 Sunnmørsheimen akuttinstitusjon, avd. Klatrevegen Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 12457,91
+5 Region Midt-Norge 500401 Sunnmørsheimen akuttinstitusjon, avd. Klatrevegen Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 3429,94
+5 Region Midt-Norge 500401 Sunnmørsheimen akuttinstitusjon, avd. Klatrevegen Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS -12457,91
+5 Region Midt-Norge 500401 Sunnmørsheimen akuttinstitusjon, avd. Klatrevegen Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS -3429,94
+5 Region Midt-Norge 500401 Sunnmørsheimen akuttinstitusjon, avd. Klatrevegen Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 13031,98
+5 Region Midt-Norge 500401 Sunnmørsheimen akuttinstitusjon, avd. Klatrevegen Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 3724,1
+5 Region Midt-Norge 500401 Sunnmørsheimen akuttinstitusjon, avd. Klatrevegen Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Coop Nordvest SA 1149
+5 Region Midt-Norge 500401 Familievernkontoret Namdalen Familieverntjeneste Renhold lokaler Midtre Namdal Vekst AS 277
+5 Region Midt-Norge 500401 Familievernkontoret Namdalen Familieverntjeneste Renhold lokaler Insider Facility Solutions AS 10591
+5 Region Midt-Norge 500401 Familievernkontoret Innherred Familieverntjeneste Renhold lokaler -2100
+5 Region Midt-Norge 500401 Familievernkontoret Innherred 53910 Ekstra innkjøp ut over årets plan Familieverntjeneste Annen kostnad lokaler J&S Eiendom AS 224384,39
+5 Region Midt-Norge 500401 Senter for foreldre og barn i Trondheim Sentre for foreldre og barn Strøm og oppvarming KINECT ENERGY SPOT AS -15345,76
+5 Region Midt-Norge 500401 Senter for foreldre og barn i Trondheim Sentre for foreldre og barn Strøm og oppvarming KINECT ENERGY SPOT AS -3593,55
+5 Region Midt-Norge 500401 Senter for foreldre og barn i Trondheim Sentre for foreldre og barn Strøm og oppvarming KINECT ENERGY SPOT AS 17174,85
+5 Region Midt-Norge 500401 Senter for foreldre og barn i Trondheim Sentre for foreldre og barn Strøm og oppvarming KINECT ENERGY SPOT AS 19459,69
+5 Region Midt-Norge 500401 Senter for foreldre og barn i Trondheim Sentre for foreldre og barn Strøm og oppvarming KINECT ENERGY SPOT AS 10412,32
+5 Region Midt-Norge 500401 Senter for foreldre og barn i Trondheim Sentre for foreldre og barn Renhold lokaler Rema 1000 Lade Arena(15033440445) 523,5
+5 Region Midt-Norge 500401 Senter for foreldre og barn i Trondheim Sentre for foreldre og barn Annen kostnad lokaler Kid Interiør AS 3234,79
+5 Region Midt-Norge 511201 Senter for foreldre og barn i Trondheim Hjelpetiltak i hjemmet Strøm og oppvarming KINECT ENERGY SPOT AS -17224,42
+5 Region Midt-Norge 511201 Senter for foreldre og barn i Trondheim 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Renovasjon, vann, avløp o.l. 43,86
+5 Region Midt-Norge 511201 Senter for foreldre og barn i Trondheim 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Renovasjon, vann, avløp o.l. -43,86
+5 Region Midt-Norge 511201 Tverrfaglig helsekartlegging 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Renovasjon, vann, avløp o.l. 43,86
+5 Region Midt-Norge 511202 Tverrfaglig helsekartlegging 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Renhold lokaler 1006,07
+5 Region Midt-Norge 511202 Familievernkontoret Nordmøre Familieverntjeneste Strøm og oppvarming KINECT ENERGY SPOT AS -19650,81
+5 Region Midt-Norge 511202 Familievernkontoret Nordmøre Familieverntjeneste Strøm og oppvarming KINECT ENERGY SPOT AS 21310,24
+5 Region Midt-Norge 512002 Familievernkontoret Nordmøre Familieverntjeneste Renhold lokaler Insider Facility Solutions AS 7691
+5 Region Midt-Norge 512002 Senter for foreldre og barn Molde Sentre for foreldre og barn Leie lokaler andre utleiere THON KJØPESENTER MOLDE AS 7254

@@ -1,0 +1,79 @@
+# Kravspesifikasjon: Integrasjon mot Brønnøysundregistrene (BRREG) og Maskinporten
+
+Dette dokumentet oppsummerer hva som kreves for å få tilgang til **alle** data fra BRREG, inkludert beskyttede datasett som *Reelle Rettighetshavere (RRH)*.
+
+---
+
+## 1. Enhetsregisteret (Åpne Data) - ✅ FUNGERER
+Dette API-et er åpent og krever ingen autentisering. Vi bruker dette i dag.
+
+*   **URL:** `https://data.brreg.no/enhetsregisteret/api/`
+*   **Hva vi får:**
+    *   Grunndata om selskaper (Navn, OrgNr, Adresse).
+    *   Næringskoder (Bransje).
+    *   Konkursstatus.
+    *   Slettedato.
+*   **Krav:** Ingen (Åpent).
+
+---
+
+## 2. Reelle Rettighetshavere (Beskyttede Data) - ❌ MANGLER TILGANG
+Dette API-et krever autentisering via **Maskinporten**. Det er ikke mulig å bruke enkelt brukernavn/passord (som "bufdir"/"3vtDgDK7Ys") direkte mot API-et.
+
+*   **URL:** `https://data.brreg.no/reelle-rettighetshavere/api/`
+*   **Hva vi mangler for å få tilgang:**
+
+### Sjekkliste for full tilgang:
+
+1.  **Virksomhetssertifikat (Enterprise Certificate):**
+    *   Organisasjonen (Bufdir/Bufetat) må ha et gyldig virksomhetssertifikat fra en utsteder som Commfides eller Buypass.
+    *   Dette sertifikatet brukes til å signere forespørsler mot Maskinporten.
+
+2.  **Maskinporten Integrasjon (Digdir):**
+    *   En administrator med tilgang til Altinn må logge inn på [Samarbeidsportalen](https://samarbeid.digdir.no/).
+    *   Det må opprettes en **Maskinporten-integrasjon (Client)**.
+    *   Denne klienten må gis tilgang (Scope) til: `brreg:reelle/offentlig` (eller utvidet tilgang hvis nødvendig).
+
+3.  **Teknisk Oppsett (OAuth2 JWT Grant):**
+    *   Vår applikasjon må bruke sertifikatet til å generere en **JWT (JSON Web Token)**.
+    *   Denne JWT-en sendes til Maskinporten (`https://maskinporten.no/token`).
+    *   Maskinporten returnerer et **Access Token**.
+    *   Dette Access Tokenet sendes til BRREG API-et i `Authorization: Bearer <token>`-headeren.
+
+---
+
+## 3. Matrikkel og Grunnbok (Kartverket) - ❌ MANGLER TILGANG
+I dag bruker vi kun åpne API-er (Adresse-søk og Kommune-info). Vi mangler "Dype Matrikkeldata" som eierhistorikk, bygningsdata og pant/heftelser.
+
+*   **API:** [Matrikkel API](https://kartverket.no/til-lands/matrikkel/matrikkel-api) og [Grunnbok API](https://kartverket.no/til-lands/grunnbok/grunnbok-api)
+*   **Hva vi mangler:**
+    *   **Bygningsdata:** Bygningsnummer, bygningsstatus, bruksareal (BRA) fra offisielt register.
+    *   **Eierinformasjon:** Hvem som står som hjemmelshaver (Tinglyst eier).
+    *   **Heftelser:** Pantedokumenter og servitutter.
+    *   **Teig-grenser:** Nøyaktige eiendomsgrenser (vektordata).
+
+### Sjekkliste for full tilgang:
+1.  **Avtale med Geonorge/Kartverket:** Organisasjonen må ha en databehandleravtale (Norge Digitalt part).
+2.  **Maskinporten:** Samme oppsett som for BRREG (Sertifikat + Klient).
+3.  **Scope:** Klienten trenger tilgang til scopene:
+    *   `kartverket:matrikkel/les` (Matrikkelen)
+    *   `kartverket:grunnbok/les` (Grunnboken - krever særskilt godkjenning pga. GDPR/sensitivitet).
+
+---
+
+## Oppsummering av Status
+
+| Tjeneste | Status | Autentisering | Merknad |
+| :--- | :--- | :--- | :--- |
+| **Enhetsregisteret** | 🟢 OK | Ingen | Virker i dag. |
+| **Reelle Rettighetshavere** | 🔴 Mangler | Maskinporten | Krever virksomhetssertifikat. |
+| **Matrikkelen (Bygg/Eier)** | 🔴 Mangler | Maskinporten | Krever avtale + sertifikat. |
+| **Kartverket (Adresse)** | 🟢 OK | Ingen | Virker i dag. |
+
+
+## Anbefaling
+
+For å få tilgang til Reelle Rettighetshavere, må IT-avdelingen:
+1.  Skaffe et virksomhetssertifikat.
+2.  Registrere en API-klient i Maskinporten med scope `brreg:reelle/offentlig`.
+3.  Gi oss `Client ID` og selve sertifikatet (Key/Certificate fil).

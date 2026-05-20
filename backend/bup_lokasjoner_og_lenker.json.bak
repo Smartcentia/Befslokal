@@ -1,0 +1,75 @@
+{
+    "metadata": {
+        "kilde": "https://nbup.no",
+        "hentet_dato": "2026-01-06T10:55:00.000000",
+        "sider": [
+            "https://nbup.no/andre-nettressurser/relevante-lenker/",
+            "https://nbup.no/psykisk-helsevern-for-barn-og-unge-i-norge/hvor-er-bup-i-norge/"
+        ]
+    },
+    "lenker": {
+        "generelle_lenker": [],
+        "internasjonale_ressurser": [],
+        "kompetansesentre": []
+    },
+    "lokasjoner": {
+        "helse_sor_ost": [
+            {
+                "adresse": "Ammerudveien 45, 0958 Oslo",
+                "telefon": "+47 22 16 82 00",
+                "latitude": 59.9608,
+                "longitude": 10.8654,
+                "navn": "BUP Grorud"
+            },
+            {
+                "adresse": "Sognsvannsveien 21, 0372 Oslo",
+                "telefon": "+47 22 11 80 00",
+                "latitude": 59.9472,
+                "longitude": 10.7161,
+                "navn": "BUP Vest"
+            },
+            {
+                "adresse": "Solveien 37, 1177 Oslo",
+                "telefon": "+47 23 19 13 00",
+                "latitude": 59.8824,
+                "longitude": 10.7963,
+                "navn": "BUP Syd"
+            },
+            {
+                "adresse": "Nydalen all\u00e9 33, 0484 Oslo",
+                "telefon": "+47 22 11 80 00",
+                "latitude": 59.9502,
+                "longitude": 10.7674,
+                "navn": "BUP Nordre Aker"
+            }
+        ],
+        "helse_vest": [
+            {
+                "adresse": "Ibsens gate 118, 5052 Bergen",
+                "telefon": "+47 55 97 50 00",
+                "latitude": 60.3703,
+                "longitude": 5.3524,
+                "navn": "BUP Bergen"
+            }
+        ],
+        "helse_midt": [
+            {
+                "adresse": "Klostertunet 1, 7030 Trondheim",
+                "telefon": "+47 72 82 50 00",
+                "latitude": 63.4194,
+                "longitude": 10.3895,
+                "navn": "BUP Trondheim"
+            }
+        ],
+        "helse_nord": [
+            {
+                "adresse": "Hansine Hansens veg 14, 9019 Troms\u00f8",
+                "telefon": "+47 77 62 60 00",
+                "latitude": 69.6805,
+                "longitude": 18.9734,
+                "navn": "BUP Troms\u00f8"
+            }
+        ],
+        "sentraliserte_ressurser": []
+    }
+}

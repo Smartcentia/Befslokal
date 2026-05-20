@@ -1,0 +1,36 @@
+Unmapped koststed with GL data: 229
+Active properties without prediction: 446
+
+Name matches (score>=0.55): 44
+  Driftsavdeling region vest               ← Anleggsføring region Vest                score=0.67  gl25=41.61M
+  Sogn og Fjordane ungdomssenter Meltune   ← Sogn og fjordane ungdomssenter behandl   score=0.60  gl25=1.24M
+  Ringerike omsorgssenter for barn         ← Ringerike omsorgssenter  Avdeling Egge   score=0.67  gl25=0.18M
+  Rena ungdoms- og familiesenter, Øst      ← Hedmark ungdoms- og familiesenter - ak   score=0.67  gl25=0.15M
+  Ringerike omsorgssenter for barn         ← Ringerike omsorgssenter  Avdeling Snyt   score=0.67  gl25=0.14M
+  Rena ungdoms- og familiesenter, Øst      ← Hedmark ungdoms- og familiesenter - ak   score=0.67  gl25=0.07M
+  Ringerike omsorgssenter for barn         ← Ringerike omsorgssenter  Avdeling Bred   score=0.67  gl25=0.05M
+  Jong ungdoms- og familiesenter, Åsen     ← Jong ungdoms- og familiesenter, adm      score=0.75  gl25=0.01M
+  Akershus ungdoms- og familiesenter, So   ← Akershus ungdoms- og familiesenter - a   score=0.75  gl25=0.01M
+  Driftsavdeling region vest               ← Region vest - Adferd høy                 score=0.67  gl25=0.00M
+  Kvæfjord Ungdomssenter avdeling 1        ← Silsand ungdomssenter avdeling 1         score=0.67  gl25=0.00M
+  Kvæfjord Ungdomssenter avdeling 1        ← Vadsø ungdomssenter avdeling 1           score=0.67  gl25=0.00M
+  Rena ungdoms- og familiesenter, Øst      ← Hedmark ungdoms- og  familiesenter - a   score=0.67  gl25=0.00M
+  Rena ungdoms- og familiesenter, Øst      ← Hedmark ungdoms- og  familiesenter - a   score=0.67  gl25=0.00M
+  Rena ungdoms- og familiesenter, Øst      ← Hedmark ungdoms- og  familiesenter - a   score=0.67  gl25=0.00M
+  Rena ungdoms- og familiesenter, Øst      ← Hedmark ungdoms- og familiesenter - ak   score=0.67  gl25=0.00M
+  Rena ungdoms- og familiesenter, Øst      ← Hedmark ungdoms- og familiesenter - ak   score=0.67  gl25=0.00M
+  Akershus ungdoms- og familiesenter, So   ← Akershus ungdoms- og familiesenter - a   score=1.00  gl25=0.00M
+  Akershus ungdoms- og familiesenter, So   ← Akershus ungdoms- og familiesenter Avd   score=0.75  gl25=0.00M
+  Akershus ungdoms- og familiesenter, So   ← Akershus ungdoms- og familiesenter - a   score=0.75  gl25=0.00M
+  Akershus ungdoms- og familiesenter, So   ← Akershus ungdoms- og familiesenter - a   score=0.75  gl25=0.00M
+  Akershus ungdoms- og familiesenter, So   ← Akershus ungdoms- og familiesenter - a   score=0.75  gl25=0.00M
+  Akershus ungdoms- og familiesenter, So   ← Akershus ungdoms- og familiesenter - a   score=0.75  gl25=0.00M
+  Rena ungdoms- og familiesenter, Øst      ← Follo ungdoms- og familiesenter - akut   score=0.67  gl25=0.00M
+  Rena ungdoms- og familiesenter, Øst      ← Follo ungdoms- og familiesenter - akut   score=0.67  gl25=0.00M
+  Rena ungdoms- og familiesenter, Øst      ← Follo ungdoms- og familiesenter - akut   score=0.67  gl25=0.00M
+  Ringerike omsorgssenter for barn         ← Ringerike omsorgssenter  Avdeling Sokn   score=0.67  gl25=0.00M
+  Kvæfjord Ungdomssenter avdeling 1        ← Ås ungdomssenter  - MulitifunC-behandl   score=0.67  gl25=0.00M
+  Kvæfjord Ungdomssenter avdeling 1        ← Ås ungdomssenter  - MulitifunC-behandl   score=0.67  gl25=0.00M
+  Rena ungdoms- og familiesenter, Øst      ← Sarpsborg ungdoms og familiesenter - b   score=0.67  gl25=0.00M
+
+Total reachable if matched: 199

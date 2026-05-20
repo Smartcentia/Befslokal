@@ -1,0 +1,10 @@
+# Railway config for backend (striking-insight).
+# For monorepo: set Root Directory to "backend" in Railway Dashboard → Service → Settings.
+# Then Railway will use this Dockerfile and avoid "Error creating build plan with Railpack".
+
+[build]
+builder = "DOCKERFILE"
+dockerfilePath = "Dockerfile"
+
+[deploy]
+healthcheckPath = "/api/v1/health"

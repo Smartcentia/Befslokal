@@ -1,0 +1,1202 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+/// This model or at least one of its fields has comments in the database, and requires an additional setup for migrations: Read more: https://pris.ly/d/database-comments
+/// This model contains row level security and requires additional setup for migrations. Visit https://pris.ly/d/row-level-security for more info.
+model action_recommendations {
+  recommendation_id    String    @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  recommendation_type  String    @db.VarChar(50)
+  target_entity_type   String    @db.VarChar(50)
+  target_entity_id     String    @db.Uuid
+  priority             Int
+  estimated_impact_nok Decimal   @db.Decimal(15, 2)
+  description          String
+  ai_rationale         String?
+  status               String    @db.VarChar(20)
+  created_at           DateTime? @default(now()) @db.Timestamptz(6)
+  updated_at           DateTime? @db.Timestamptz(6)
+
+  @@index([created_at], map: "idx_recommendations_created")
+  @@index([target_entity_type, target_entity_id], map: "idx_recommendations_entity")
+  @@index([estimated_impact_nok], map: "idx_recommendations_impact")
+  @@index([priority], map: "idx_recommendations_priority")
+  @@index([status], map: "idx_recommendations_status")
+}
+
+/// This model contains row level security and requires additional setup for migrations. Visit https://pris.ly/d/row-level-security for more info.
+model activity_templates {
+  template_id            String    @id @db.Uuid
+  title                  String    @db.VarChar
+  description            String?   @db.VarChar
+  category               String    @db.VarChar
+  priority               String    @db.VarChar
+  activity_type          String    @db.VarChar
+  recurrence_pattern     Json
+  responsible_role       String    @db.VarChar
+  property_tags_required Json?
+  property_tags_excluded Json?
+  enabled                Boolean
+  version                Int
+  created_at             DateTime? @default(now()) @db.Timestamptz(6)
+  updated_at             DateTime? @db.Timestamptz(6)
+  created_by_user_id     String?   @db.Uuid
+  scope                  String?   @default("system") @db.VarChar
+  adoption_count         Int?      @default(0)
+}
+
+/// This model contains row level security and requires additional setup for migrations. Visit https://pris.ly/d/row-level-security for more info.
+model ai_tools {
+  id               String      @id @db.Uuid
+  name             String      @db.VarChar
+  description      String
+  code             String
+  dependencies     String?
+  requires_real_sk Boolean?
+  qa_status        qastatus?
+  qa_report        String?
+  status           toolstatus?
+  is_public        Boolean?
+  is_pinned        Boolean?
+  created_at       DateTime?   @db.Timestamp(6)
+  usage_count      Int?
+  last_used_at     DateTime?   @db.Timestamp(6)
+  vector_id        String?     @db.VarChar
+
+  @@index([name], map: "ix_ai_tools_name")
+}
+
+/// This model contains row level security and requires additional setup for migrations. Visit https://pris.ly/d/row-level-security for more info.
+model alembic_version {
+  version_num String @id(map: "alembic_version_pkc") @db.VarChar(32)
+}
+
+/// This model contains row level security and requires additional setup for migrations. Visit https://pris.ly/d/row-level-security for more info.
+model api_call_logs {
+  call_id          String    @id @db.Uuid
+  service_name     String?   @db.VarChar(50)
+  endpoint         String?   @db.VarChar(200)
+  request_count    Int?
+  cost_estimate    Float?
+  timestamp        DateTime? @default(now()) @db.Timestamptz(6)
+  response_time_ms Int?
+  status_code      Int?
+  error_message    String?   @db.VarChar(500)
+
+  @@index([service_name], map: "ix_api_call_logs_service_name")
+  @@index([timestamp], map: "ix_api_call_logs_timestamp")
+}
+
+/// This model contains row level security and requires additional setup for migrations. Visit https://pris.ly/d/row-level-security for more info.
+model audit_logs {
+  log_id      String    @id @db.Uuid
+  timestamp   DateTime? @default(now()) @db.Timestamptz(6)
+  action      String    @db.VarChar
+  actor       String?   @db.VarChar
+  entity_type String?   @db.VarChar
+  entity_id   String?   @db.VarChar
+  details     Json?     @db.Json
+  severity    String?   @db.VarChar
+}
+
+/// This table contains check constraints and requires additional setup for migrations. Visit https://pris.ly/d/check-constraints for more info.
+/// This model contains row level security and requires additional setup for migrations. Visit https://pris.ly/d/row-level-security for more info.
+model batch_jobs {
+  job_id          String    @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  job_type        String    @db.VarChar(50)
+  status          String    @default("pending") @db.VarChar(20)
+  progress        Int       @default(0)
+  total_items     Int       @default(0)
+  processed_items Int       @default(0)
+  success_count   Int       @default(0)
+  failed_count    Int       @default(0)
+  config          Json
+  property_ids    Json?
+  results         Json?
+  errors          Json?
+  created_at      DateTime? @default(now()) @db.Timestamptz(6)
+  started_at      DateTime? @db.Timestamptz(6)
+  completed_at    DateTime? @db.Timestamptz(6)
+  updated_at      DateTime? @default(now()) @db.Timestamptz(6)
+  error_message   String?   @db.VarChar(1000)
+  error_details   Json?
+  worker_id       String?   @db.VarChar(100)
+
+  @@index([created_at], map: "ix_batch_jobs_created_at")
+  @@index([job_type], map: "ix_batch_jobs_job_type")
+  @@index([status], map: "ix_batch_jobs_status")
+  @@index([worker_id], map: "ix_batch_jobs_worker_id")
+}
+
+/// This model contains row level security and requires additional setup for migrations. Visit https://pris.ly/d/row-level-security for more info.
+model bim_models {
+  model_id    String        @id @db.Uuid
+  property_id String        @db.Uuid
+  filename    String        @db.VarChar
+  format      String?       @db.VarChar(10)
+  upload_date DateTime?     @default(now()) @db.Timestamptz(6)
+  file_path   String?       @db.VarChar
+  status      String?       @db.VarChar(20)
+  properties  properties    @relation(fields: [property_id], references: [property_id], onDelete: NoAction, onUpdate: NoAction)
+  bim_objects bim_objects[]
+}
+
+/// This model contains row level security and requires additional setup for migrations. Visit https://pris.ly/d/row-level-security for more info.
+model bim_objects {
+  object_id           String               @id @db.Uuid
+  model_id            String               @db.Uuid
+  ifc_guid            String?              @db.VarChar(50)
+  name                String?              @db.VarChar
+  type                String?              @db.VarChar(50)
+  pos_x               Float?
+  pos_y               Float?
+  pos_z               Float?
+  properties          Json?                @db.Json
+  linked_component_id String?              @db.Uuid
+  building_components building_components? @relation(fields: [linked_component_id], references: [component_id], onDelete: NoAction, onUpdate: NoAction)
+  bim_models          bim_models           @relation(fields: [model_id], references: [model_id], onDelete: NoAction, onUpdate: NoAction)
+}
+
+/// This model contains row level security and requires additional setup for migrations. Visit https://pris.ly/d/row-level-security for more info.
+model building_components {
+  component_id              String                @id @db.Uuid
+  property_id               String                @db.Uuid
+  name                      String                @db.VarChar
+  type                      String?               @db.VarChar(50)
+  location                  String?               @db.VarChar
+  install_date              DateTime?             @db.Timestamptz(6)
+  lifecycle_years           Int?
+  status                    String?               @db.VarChar(20)
+  technical_data            Json?                 @db.Json
+  created_at                DateTime?             @default(now()) @db.Timestamptz(6)
+  updated_at                DateTime?             @db.Timestamptz(6)
+  parent_id                 String?               @db.Uuid
+  brick_class               String?               @db.VarChar
+  system_code               String?               @db.VarChar
+  ns3451_code               String?               @db.VarChar(20)
+  bim_objects               bim_objects[]
+  ns3451_codes              ns3451_codes?         @relation(fields: [ns3451_code], references: [code], onDelete: NoAction, onUpdate: NoAction)
+  building_components       building_components?  @relation("building_componentsTobuilding_components", fields: [parent_id], references: [component_id], onDelete: NoAction, onUpdate: NoAction)
+  other_building_components building_components[] @relation("building_componentsTobuilding_components")
+  properties                properties            @relation(fields: [property_id], references: [property_id], onDelete: NoAction, onUpdate: NoAction)
+  maintenance_records       maintenance_records[]
+}
+
+/// This model contains row level security and requires additional setup for migrations. Visit https://pris.ly/d/row-level-security for more info.
+model centers {
+  center_id          String       @id @db.VarChar
+  name               String       @db.VarChar
+  description        String?
+  region             String?      @db.VarChar
+  emergency_contacts Json?
+  created_at         DateTime?    @default(now()) @db.Timestamptz(6)
+  updated_at         DateTime?    @db.Timestamptz(6)
+  properties         properties[]
+}
+
+/// This model contains row level security and requires additional setup for migrations. Visit https://pris.ly/d/row-level-security for more info.
+model checklist_executions {
+  execution_id        String              @id @db.Uuid
+  template_id         String              @db.Uuid
+  property_id         String              @db.Uuid
+  user_id             String              @db.Uuid
+  status              String?             @db.VarChar
+  responses           Json?               @db.Json
+  completed_at        DateTime?           @db.Timestamptz(6)
+  created_at          DateTime?           @default(now()) @db.Timestamptz(6)
+  properties          properties          @relation(fields: [property_id], references: [property_id], onDelete: NoAction, onUpdate: NoAction)
+  checklist_templates checklist_templates @relation(fields: [template_id], references: [template_id], onDelete: NoAction, onUpdate: NoAction)
+  users               users               @relation(fields: [user_id], references: [user_id], onDelete: NoAction, onUpdate: NoAction)
+
+  @@index([property_id], map: "ix_checklist_executions_property_id")
+  @@index([template_id], map: "ix_checklist_executions_template_id")
+  @@index([user_id], map: "ix_checklist_executions_user_id")
+}
+
+/// This model contains row level security and requires additional setup for migrations. Visit https://pris.ly/d/row-level-security for more info.
+model checklist_templates {
+  template_id          String                 @id @db.Uuid
+  title                String                 @db.VarChar
+  description          String?                @db.VarChar
+  items                Json                   @db.Json
+  category             String                 @db.VarChar
+  frequency            String?                @db.VarChar
+  created_at           DateTime?              @default(now()) @db.Timestamptz(6)
+  created_by_user_id   String?                @db.Uuid
+  scope                String?                @default("system") @db.VarChar
+  checklist_executions checklist_executions[]
+}
+
+/// This model contains row level security and requires additional setup for migrations. Visit https://pris.ly/d/row-level-security for more info.
+model context_history {
+  context_id       String    @id @db.Uuid
+  session_id       String?   @db.VarChar
+  user_id          String?   @db.VarChar
+  interaction_type String?   @db.VarChar(50)
+  content          Json?     @db.Json
+  embedding        Json?     @db.Json
+  created_at       DateTime? @default(now()) @db.Timestamptz(6)
+}
+
+/// This model contains row level security and requires additional setup for migrations. Visit https://pris.ly/d/row-level-security for more info.
+/// This model contains an expression index which requires additional setup for migrations. Visit https://pris.ly/d/expression-indexes for more info.
+model contracts {
+  contract_id        String          @id @db.Uuid
+  unit_id            String?         @db.Uuid
+  party_id           String?         @db.Uuid
+  status             contractstatus?
+  category           String?         @db.VarChar
+  start_date         DateTime?       @db.Date
+  end_date           DateTime?       @db.Date
+  periods            Json?
+  amount             Json?
+  has_option         Boolean?
+  option_deadline    DateTime?       @db.Date
+  option_count_total Int?
+  option_count_used  Int?
+  external_data      Json?
+  caretaker_cost     Float?
+  cleaning_cost      Float?
+  parking_cost       Float?
+  card_reader_cost   Float?
+  signed_at          DateTime?       @db.Timestamptz(6)
+  terminated_at      DateTime?       @db.Timestamptz(6)
+  created_at         DateTime?       @default(now()) @db.Timestamptz(6)
+  updated_at         DateTime?       @db.Timestamptz(6)
+  filename_region    String?         @db.VarChar(10)
+  filename_type      String?         @db.VarChar(10)
+  filename_number    Int?
+  elements           String?
+  parties            parties?        @relation(fields: [party_id], references: [party_id], onDelete: NoAction, onUpdate: NoAction)
+  units              units?          @relation(fields: [unit_id], references: [unit_id], onDelete: NoAction, onUpdate: NoAction)
+  file_meta          file_meta[]
+
+  @@index([category], map: "ix_contracts_category")
+  @@index([elements], map: "ix_contracts_elements")
+  @@index([end_date], map: "ix_contracts_end_date")
+  @@index([party_id], map: "ix_contracts_party_id")
+  @@index([start_date], map: "ix_contracts_start_date")
+  @@index([status], map: "ix_contracts_status")
+  @@index([unit_id], map: "ix_contracts_unit_id")
+}
+
+/// This model contains row level security and requires additional setup for migrations. Visit https://pris.ly/d/row-level-security for more info.
+model crisis_centers {
+  center_id  String    @id @db.Uuid
+  name       String    @db.VarChar
+  location   String?   @db.VarChar
+  url        String?   @db.VarChar
+  latitude   Float?
+  longitude  Float?
+  created_at DateTime? @default(now()) @db.Timestamptz(6)
+  updated_at DateTime? @db.Timestamptz(6)
+
+  @@index([name], map: "ix_crisis_centers_name")
+}
+
+/// This model contains row level security and requires additional setup for migrations. Visit https://pris.ly/d/row-level-security for more info.
+model dashboard_metrics {
+  metric_id              Int       @id @default(autoincrement())
+  properties_count       Int?
+  contracts_count        Int?
+  risks_count            Int?
+  total_annual_rent      Float?
+  total_maintenance_cost Float?
+  last_updated           DateTime? @default(now()) @db.Timestamptz(6)
+  critical_deviations    Int?      @default(0)
+  expiring_contracts     Int?      @default(0)
+  overdue_tasks          Int?      @default(0)
+
+  @@index([metric_id], map: "ix_dashboard_metrics_metric_id")
+}
+
+/// This model contains row level security and requires additional setup for migrations. Visit https://pris.ly/d/row-level-security for more info.
+model data_field_metadata {
+  id                      Int       @id @default(autoincrement())
+  table_name              String    @db.VarChar
+  column_name             String    @db.VarChar
+  description             String?
+  classification_override String?   @db.VarChar
+  created_at              DateTime? @default(now()) @db.Timestamptz(6)
+  updated_at              DateTime? @db.Timestamptz(6)
+
+  @@index([column_name], map: "ix_data_field_metadata_column_name")
+  @@index([id], map: "ix_data_field_metadata_id")
+  @@index([table_name], map: "ix_data_field_metadata_table_name")
+}
+
+/// This model contains row level security and requires additional setup for migrations. Visit https://pris.ly/d/row-level-security for more info.
+model email_verification_codes {
+  id         String   @id @db.VarChar
+  email      String   @db.VarChar
+  code_hash  String   @db.VarChar
+  expires_at DateTime @db.Timestamptz(6)
+  used       Boolean  @default(false)
+  created_at DateTime @default(now()) @db.Timestamptz(6)
+
+  @@index([email], map: "ix_email_verification_codes_email")
+  @@index([email, expires_at], map: "ix_email_verification_codes_email_expires")
+}
+
+/// This model contains row level security and requires additional setup for migrations. Visit https://pris.ly/d/row-level-security for more info.
+model environmental_data {
+  env_data_id               String     @id @db.Uuid
+  property_id               String     @db.Uuid
+  air_quality_index         Float?
+  noise_level_db            Float?
+  pollution_sources         Json?      @db.Json
+  contaminated_sites_nearby Json?      @db.Json
+  data_source               String?    @db.VarChar(50)
+  fetched_at                DateTime?  @db.Timestamptz(6)
+  expires_at                DateTime?  @db.Timestamptz(6)
+  properties                properties @relation(fields: [property_id], references: [property_id], onDelete: NoAction, onUpdate: NoAction)
+
+  @@index([property_id], map: "ix_environmental_data_property_id")
+}
+
+/// This model contains row level security and requires additional setup for migrations. Visit https://pris.ly/d/row-level-security for more info.
+model external_api_data {
+  api_data_id String    @id @db.Uuid
+  source_api  String?   @db.VarChar(50)
+  entity_type String?   @db.VarChar(50)
+  entity_id   String?   @db.VarChar(100)
+  data        Json?     @db.Json
+  fetched_at  DateTime? @default(now()) @db.Timestamptz(6)
+  expires_at  DateTime? @db.Timestamptz(6)
+
+  @@index([entity_type, entity_id], map: "ix_external_api_data_entity")
+  @@index([fetched_at], map: "ix_external_api_data_fetched_at")
+  @@index([source_api], map: "ix_external_api_data_source")
+}
+
+/// This model contains row level security and requires additional setup for migrations. Visit https://pris.ly/d/row-level-security for more info.
+model external_risk_errors {
+  error_id         String     @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  property_id      String     @db.Uuid
+  source           String     @db.VarChar(50)
+  error_type       String     @db.VarChar(50)
+  error_message    String     @db.VarChar(1000)
+  error_details    Json?
+  http_status_code Int?
+  url              String?    @db.VarChar(500)
+  latitude         Float?
+  longitude        Float?
+  retry_count      Int        @default(0)
+  resolved         String     @default("false") @db.VarChar(10)
+  resolved_at      DateTime?  @db.Timestamptz(6)
+  resolved_by      String?    @db.VarChar(100)
+  created_at       DateTime?  @default(now()) @db.Timestamptz(6)
+  properties       properties @relation(fields: [property_id], references: [property_id], onDelete: NoAction, onUpdate: NoAction)
+
+  @@index([created_at], map: "ix_external_risk_errors_created_at")
+  @@index([error_type], map: "ix_external_risk_errors_error_type")
+  @@index([property_id], map: "ix_external_risk_errors_property_id")
+  @@index([resolved], map: "ix_external_risk_errors_resolved")
+  @@index([source], map: "ix_external_risk_errors_source")
+}
+
+/// This model contains row level security and requires additional setup for migrations. Visit https://pris.ly/d/row-level-security for more info.
+model file_meta {
+  file_id      String     @id @db.Uuid
+  contract_id  String?    @db.Uuid
+  path         String     @db.VarChar
+  sha256       String?    @unique(map: "ix_file_meta_sha256") @db.VarChar(64)
+  file_type    String?    @db.VarChar(20)
+  content_type String?    @db.VarChar(100)
+  tags         String[]   @db.VarChar
+  created_at   DateTime?  @default(now()) @db.Timestamptz(6)
+  contracts    contracts? @relation(fields: [contract_id], references: [contract_id], onDelete: NoAction, onUpdate: NoAction)
+
+  @@index([contract_id], map: "ix_file_meta_contract_id")
+}
+
+/// This model or at least one of its fields has comments in the database, and requires an additional setup for migrations: Read more: https://pris.ly/d/database-comments
+/// This model contains row level security and requires additional setup for migrations. Visit https://pris.ly/d/row-level-security for more info.
+model forecast_cache {
+  forecast_id   String      @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  property_id   String?     @db.Uuid
+  forecast_type String      @db.VarChar(50)
+  parameters    Json
+  result        Json
+  created_at    DateTime?   @default(now()) @db.Timestamptz(6)
+  expires_at    DateTime    @db.Timestamptz(6)
+  properties    properties? @relation(fields: [property_id], references: [property_id], onDelete: Cascade, onUpdate: NoAction)
+  scenarios     scenarios[]
+
+  @@index([created_at], map: "idx_forecast_created")
+  @@index([expires_at], map: "idx_forecast_expiry")
+  @@index([property_id], map: "idx_forecast_property")
+  @@index([forecast_type], map: "idx_forecast_type")
+}
+
+/// This model contains row level security and requires additional setup for migrations. Visit https://pris.ly/d/row-level-security for more info.
+model gdpr_anonymization_logs {
+  log_id            String    @id @db.Uuid
+  entity_type       String?   @db.VarChar(50)
+  entity_id         String?   @db.VarChar
+  original_pii_type String?   @db.VarChar(50)
+  action            String?   @db.VarChar(20)
+  timestamp         DateTime? @default(now()) @db.Timestamptz(6)
+}
+
+/// This model contains row level security and requires additional setup for migrations. Visit https://pris.ly/d/row-level-security for more info.
+model gdpr_requests {
+  request_id   String    @id @db.Uuid
+  user_id      String    @db.VarChar
+  request_type String    @db.VarChar(50)
+  status       String?   @db.VarChar(20)
+  details      Json?     @db.Json
+  created_at   DateTime? @default(now()) @db.Timestamptz(6)
+  completed_at DateTime? @db.Timestamptz(6)
+
+  @@index([user_id], map: "ix_gdpr_requests_user_id")
+}
+
+/// This model contains row level security and requires additional setup for migrations. Visit https://pris.ly/d/row-level-security for more info.
+model generated_tools {
+  tool_id        String    @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  name           String    @unique @db.VarChar(255)
+  description    String?
+  python_code    String
+  sql_pattern    String?
+  status         String?   @db.VarChar(50)
+  source_log_ids Json?
+  created_at     DateTime? @default(now()) @db.Timestamptz(6)
+  updated_at     DateTime? @default(now()) @db.Timestamptz(6)
+  version        Int?
+
+  @@index([name], map: "idx_generated_tools_name")
+  @@index([status], map: "idx_generated_tools_status")
+}
+
+/// This model contains row level security and requires additional setup for migrations. Visit https://pris.ly/d/row-level-security for more info.
+model geological_data {
+  geo_data_id       String     @id @db.Uuid
+  property_id       String     @db.Uuid
+  bedrock_type      String?    @db.VarChar(100)
+  soil_type         String?    @db.VarChar(100)
+  groundwater_depth Float?
+  landslide_risk    String?    @db.VarChar(20)
+  quickclay_risk    Int?
+  seismic_zone      Int?
+  data_source       String?    @db.VarChar(50)
+  raw_data          Json?      @db.Json
+  fetched_at        DateTime?  @db.Timestamptz(6)
+  expires_at        DateTime?  @db.Timestamptz(6)
+  properties        properties @relation(fields: [property_id], references: [property_id], onDelete: NoAction, onUpdate: NoAction)
+
+  @@index([landslide_risk], map: "ix_geological_data_landslide_risk")
+  @@index([property_id], map: "ix_geological_data_property_id")
+}
+
+/// This model contains row level security and requires additional setup for migrations. Visit https://pris.ly/d/row-level-security for more info.
+model gl_transactions {
+  transaction_id  String      @id @db.Uuid
+  property_id     String?     @db.Uuid
+  region_code     String?     @db.VarChar(10)
+  region_name     String?     @db.VarChar(100)
+  department_code String?     @db.VarChar(20)
+  department_name String?     @db.VarChar(200)
+  dim2_code       String?     @db.VarChar(20)
+  dim2_name       String?     @db.VarChar(200)
+  purpose_code    String?     @db.VarChar(20)
+  purpose_name    String?     @db.VarChar(200)
+  account_code    String?     @db.VarChar(20)
+  account_name    String?     @db.VarChar(200)
+  ba_code         String?     @db.VarChar(10)
+  ba_name         String?     @db.VarChar(100)
+  supplier_id     String?     @db.VarChar(20)
+  supplier_name   String?     @db.VarChar(200)
+  invoice_number  String?     @db.VarChar(50)
+  amount          Decimal?    @db.Decimal(15, 2)
+  period          String?     @db.VarChar(6)
+  state_account   String?     @db.VarChar(20)
+  created_at      DateTime?   @default(now()) @db.Timestamp(6)
+  updated_at      DateTime?   @default(now()) @db.Timestamp(6)
+  is_synthetic    Boolean     @default(false)
+  data_source     String?     @db.VarChar(100)
+  properties      properties? @relation(fields: [property_id], references: [property_id], onUpdate: NoAction)
+
+  @@index([account_code], map: "idx_gl_account")
+  @@index([amount], map: "idx_gl_amount")
+  @@index([department_code], map: "idx_gl_dept_code")
+  @@index([period], map: "idx_gl_period")
+  @@index([period, amount], map: "idx_gl_period_amount")
+  @@index([period], map: "idx_gl_period_v2")
+  @@index([property_id], map: "idx_gl_property")
+  @@index([property_id, period], map: "idx_gl_property_period")
+  @@index([supplier_id], map: "idx_gl_supplier")
+  @@index([supplier_id], map: "idx_gl_supplier_v2")
+}
+
+/// This model contains row level security and requires additional setup for migrations. Visit https://pris.ly/d/row-level-security for more info.
+model graph_entities {
+  id          String                 @id @db.Uuid
+  name        String                 @db.VarChar
+  label       String                 @db.VarChar
+  description String?
+  metadata    Json                   @default("{}")
+  embedding   Unsupported("vector")?
+  created_at  DateTime               @default(now()) @db.Timestamptz(6)
+
+  @@index([label], map: "ix_graph_entities_label")
+  @@index([name], map: "ix_graph_entities_name")
+}
+
+/// This model contains row level security and requires additional setup for migrations. Visit https://pris.ly/d/row-level-security for more info.
+model infrastructure_costs {
+  id                  Int       @id @default(autoincrement())
+  service_name        String    @db.VarChar(50)
+  collection_date     DateTime  @default(now()) @db.Timestamp(6)
+  raw_metrics         Json?
+  estimated_cost_usd  Decimal?  @db.Decimal(10, 2)
+  active_time_seconds Int?
+  cpu_used_seconds    Int?
+  storage_gb          Decimal?  @db.Decimal(10, 2)
+  bandwidth_gb        Decimal?  @db.Decimal(10, 2)
+  notes               String?
+  created_at          DateTime? @default(now()) @db.Timestamp(6)
+
+  @@index([collection_date], map: "idx_costs_collection_date")
+  @@index([service_name, collection_date], map: "idx_costs_service_date")
+}
+
+/// This model contains row level security and requires additional setup for migrations. Visit https://pris.ly/d/row-level-security for more info.
+model internal_control_cases {
+  case_id            String            @id @db.Uuid
+  property_id        String            @db.Uuid
+  risk_assessment_id String?           @db.Uuid
+  assigned_user_id   String?           @db.Uuid
+  title              String            @db.VarChar
+  description        String?           @db.VarChar
+  case_type          String            @db.VarChar
+  status             String?           @db.VarChar
+  priority           String?           @db.VarChar
+  due_date           DateTime?         @db.Timestamptz(6)
+  completed_at       DateTime?         @db.Timestamptz(6)
+  notes              String?           @db.VarChar
+  process_state      String?           @db.VarChar
+  process_data       Json?             @db.Json
+  process_history    Json?             @db.Json
+  created_at         DateTime?         @default(now()) @db.Timestamptz(6)
+  updated_at         DateTime?         @db.Timestamptz(6)
+  follow_up_status   String?           @default("none") @db.VarChar
+  last_reminder_at   DateTime?         @db.Timestamptz(6)
+  escalated_at       DateTime?         @db.Timestamptz(6)
+  users              users?            @relation(fields: [assigned_user_id], references: [user_id], onDelete: NoAction, onUpdate: NoAction)
+  properties         properties        @relation(fields: [property_id], references: [property_id], onDelete: NoAction, onUpdate: NoAction)
+  risk_assessments   risk_assessments? @relation(fields: [risk_assessment_id], references: [assessment_id], onDelete: NoAction, onUpdate: NoAction)
+
+  @@index([property_id], map: "ix_internal_control_cases_property_id")
+}
+
+/// This model contains row level security and requires additional setup for migrations. Visit https://pris.ly/d/row-level-security for more info.
+model maintenance_records {
+  record_id            String              @id @db.Uuid
+  component_id         String              @db.Uuid
+  date_performed       DateTime?           @default(now()) @db.Timestamptz(6)
+  performed_by         String?             @db.VarChar
+  description          String?             @db.VarChar
+  cost                 Int?
+  linked_work_order_id String?             @db.Uuid
+  created_at           DateTime?           @default(now()) @db.Timestamptz(6)
+  building_components  building_components @relation(fields: [component_id], references: [component_id], onDelete: NoAction, onUpdate: NoAction)
+}
+
+/// This model contains row level security and requires additional setup for migrations. Visit https://pris.ly/d/row-level-security for more info.
+model mfa_tokens {
+  token      String   @id @db.VarChar
+  user_email String   @db.VarChar
+  expires_at DateTime @db.Timestamptz(6)
+  used       Boolean  @default(false)
+  created_at DateTime @default(now()) @db.Timestamptz(6)
+
+  @@index([user_email], map: "ix_mfa_tokens_user_email")
+  @@index([user_email, expires_at], map: "ix_mfa_tokens_user_email_expires")
+}
+
+/// This model contains row level security and requires additional setup for migrations. Visit https://pris.ly/d/row-level-security for more info.
+model natural_hazard_events {
+  event_id               String    @id @db.Uuid
+  latitude               Float?
+  longitude              Float?
+  event_type             String?   @db.VarChar(50)
+  event_date             DateTime? @db.Timestamptz(6)
+  severity               String?   @db.VarChar(20)
+  description            String?   @db.VarChar
+  casualties             Int?
+  property_damage        Float?
+  radius_affected_meters Float?
+  data_source            String?   @db.VarChar(50)
+  created_at             DateTime? @default(now()) @db.Timestamptz(6)
+
+  @@index([event_date], map: "ix_natural_hazard_events_date")
+  @@index([latitude, longitude], map: "ix_natural_hazard_events_location")
+  @@index([severity], map: "ix_natural_hazard_events_severity")
+  @@index([event_type], map: "ix_natural_hazard_events_type")
+}
+
+/// This model contains row level security and requires additional setup for migrations. Visit https://pris.ly/d/row-level-security for more info.
+model nextauth_accounts {
+  id                String         @id
+  userId            String
+  type              String
+  provider          String
+  providerAccountId String
+  refresh_token     String?
+  access_token      String?
+  expires_at        Int?
+  token_type        String?
+  scope             String?
+  id_token          String?
+  session_state     String?
+  expires_in        Int?
+  ext_expires_in    Int?
+  nextauth_users    nextauth_users @relation(fields: [userId], references: [id], onDelete: Cascade, onUpdate: NoAction, map: "nextauth_accounts_userid_fkey")
+
+  @@unique([provider, providerAccountId])
+}
+
+/// This model contains row level security and requires additional setup for migrations. Visit https://pris.ly/d/row-level-security for more info.
+model nextauth_sessions {
+  id             String         @id
+  sessionToken   String         @unique
+  userId         String
+  expires        DateTime       @db.Timestamptz(6)
+  nextauth_users nextauth_users @relation(fields: [userId], references: [id], onDelete: Cascade, onUpdate: NoAction, map: "nextauth_sessions_userid_fkey")
+}
+
+/// This model contains row level security and requires additional setup for migrations. Visit https://pris.ly/d/row-level-security for more info.
+model nextauth_users {
+  id                String              @id
+  name              String?
+  email             String?             @unique
+  emailVerified     DateTime?           @db.Timestamptz(6)
+  image             String?
+  nextauth_accounts nextauth_accounts[]
+  nextauth_sessions nextauth_sessions[]
+}
+
+/// This model contains row level security and requires additional setup for migrations. Visit https://pris.ly/d/row-level-security for more info.
+model nextauth_verification_tokens {
+  identifier String
+  token      String   @unique
+  expires    DateTime @db.Timestamptz(6)
+
+  @@unique([identifier, token])
+}
+
+/// This model contains row level security and requires additional setup for migrations. Visit https://pris.ly/d/row-level-security for more info.
+model notifications {
+  notification_id     String    @id @db.Uuid
+  user_id             String    @db.Uuid
+  title               String    @db.VarChar
+  message             String    @db.VarChar
+  notification_type   String?   @db.VarChar
+  related_entity_type String?   @db.VarChar
+  related_entity_id   String?   @db.Uuid
+  is_read             Boolean?
+  read_at             DateTime? @db.Timestamptz(6)
+  created_at          DateTime? @default(now()) @db.Timestamptz(6)
+  users               users     @relation(fields: [user_id], references: [user_id], onDelete: NoAction, onUpdate: NoAction)
+}
+
+/// This model contains row level security and requires additional setup for migrations. Visit https://pris.ly/d/row-level-security for more info.
+model ns3451_codes {
+  code                String                @id @db.VarChar(20)
+  name                String                @db.VarChar(255)
+  level               Int
+  parent_code         String?               @db.VarChar(20)
+  building_components building_components[]
+  ns3451_codes        ns3451_codes?         @relation("ns3451_codesTons3451_codes", fields: [parent_code], references: [code], onDelete: NoAction, onUpdate: NoAction)
+  other_ns3451_codes  ns3451_codes[]        @relation("ns3451_codesTons3451_codes")
+
+  @@index([code], map: "ix_ns3451_codes_code")
+}
+
+/// This model contains row level security and requires additional setup for migrations. Visit https://pris.ly/d/row-level-security for more info.
+model parties {
+  party_id      String      @id @db.Uuid
+  name          String      @db.VarChar
+  orgnr         String?     @unique(map: "ix_parties_orgnr") @db.VarChar(9)
+  contact_email String?     @db.VarChar
+  contact_phone String?     @db.VarChar
+  external_data Json?       @db.Json
+  created_at    DateTime?   @default(now()) @db.Timestamptz(6)
+  updated_at    DateTime?   @db.Timestamptz(6)
+  contracts     contracts[]
+}
+
+/// This model contains row level security and requires additional setup for migrations. Visit https://pris.ly/d/row-level-security for more info.
+model properties {
+  property_id               String                      @id @unique(map: "ix_properties_property_id") @db.Uuid
+  address                   String?                     @db.VarChar
+  postal_code               String?                     @db.VarChar(4)
+  city                      String?                     @db.VarChar
+  latitude                  Float?
+  longitude                 Float?
+  name                      String?                     @db.VarChar
+  usage                     String?                     @db.VarChar
+  total_area                Float?
+  land_area                 Float?
+  construction_year         Int?
+  energy_label              String?                     @db.VarChar
+  municipality              String?                     @db.VarChar
+  municipality_code         String?                     @db.VarChar
+  gnr                       Int?
+  bnr                       Int?
+  approved_places           Int?
+  region                    String?                     @db.VarChar
+  owner_name                String?                     @db.VarChar
+  org_number                String?                     @db.VarChar
+  regulation_type           String?                     @db.VarChar
+  project_phase             String?                     @db.VarChar
+  project_comments          String?                     @db.VarChar
+  full_address              Json?
+  center_id                 String?                     @db.VarChar
+  crisis_contacts           Json?
+  external_data             Json?
+  created_at                DateTime?                   @default(now()) @db.Timestamptz(6)
+  updated_at                DateTime?                   @default(now()) @db.Timestamptz(6)
+  geom                      Unsupported("geometry")?
+  id                        String?                     @default(dbgenerated("('befs_'::text || replace((gen_random_uuid())::text, '-'::text, ''::text))"))
+  organization_id           String?
+  bim_models                bim_models[]
+  building_components       building_components[]
+  checklist_executions      checklist_executions[]
+  environmental_data        environmental_data[]
+  external_risk_errors      external_risk_errors[]
+  forecast_cache            forecast_cache[]
+  geological_data           geological_data[]
+  gl_transactions           gl_transactions[]
+  internal_control_cases    internal_control_cases[]
+  centers                   centers?                    @relation(fields: [center_id], references: [center_id], onDelete: NoAction, onUpdate: NoAction, map: "fk_properties_center_id")
+  proximity_services        proximity_services[]
+  risk_assessments          risk_assessments[]
+  scheduled_activities      scheduled_activities[]
+  sensors                   sensors[]
+  socioeconomic_data        socioeconomic_data[]
+  units                     units[]
+  user_property_association user_property_association[] @ignore
+  work_orders               work_orders[]
+
+  @@index([geom], map: "idx_properties_geom", type: Gist)
+  @@index([name], map: "idx_properties_name")
+  @@index([region], map: "idx_properties_region")
+}
+
+/// This model contains row level security and requires additional setup for migrations. Visit https://pris.ly/d/row-level-security for more info.
+model proximity_services {
+  service_id          String     @id @db.Uuid
+  property_id         String     @db.Uuid
+  service_type        String?    @db.VarChar(50)
+  service_name        String?    @db.VarChar(255)
+  distance_meters     Float?
+  travel_time_minutes Float?
+  latitude            Float?
+  longitude           Float?
+  rating              Float?
+  address             String?    @db.VarChar(500)
+  phone               String?    @db.VarChar(50)
+  data_source         String?    @db.VarChar(50)
+  fetched_at          DateTime?  @db.Timestamptz(6)
+  expires_at          DateTime?  @db.Timestamptz(6)
+  properties          properties @relation(fields: [property_id], references: [property_id], onDelete: NoAction, onUpdate: NoAction)
+
+  @@index([distance_meters], map: "ix_proximity_services_distance")
+  @@index([expires_at], map: "ix_proximity_services_expires_at")
+  @@index([property_id, expires_at], map: "ix_proximity_services_property_expires")
+  @@index([property_id], map: "ix_proximity_services_property_id")
+  @@index([service_type], map: "ix_proximity_services_service_type")
+}
+
+/// This model or at least one of its fields has comments in the database, and requires an additional setup for migrations: Read more: https://pris.ly/d/database-comments
+/// This model contains row level security and requires additional setup for migrations. Visit https://pris.ly/d/row-level-security for more info.
+/// This model contains an expression index which requires additional setup for migrations. Visit https://pris.ly/d/expression-indexes for more info.
+model query_library {
+  query_id              String    @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  query_name            String    @unique @db.VarChar(255)
+  user_question_pattern String
+  sql_template          String
+  description           String?
+  usage_count           Int
+  success_rate          Float
+  avg_execution_time_ms Int?
+  created_at            DateTime? @default(now()) @db.Timestamptz(6)
+  updated_at            DateTime? @db.Timestamptz(6)
+  created_by            String    @db.VarChar(50)
+
+  @@index([created_at], map: "idx_query_library_created")
+  @@index([success_rate], map: "idx_query_library_success")
+  @@index([usage_count], map: "idx_query_library_usage")
+}
+
+/// This model contains row level security and requires additional setup for migrations. Visit https://pris.ly/d/row-level-security for more info.
+model query_logs {
+  log_id            String       @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  user_question     String
+  generated_sql     String?
+  query_type        String?      @db.VarChar(50)
+  execution_success Boolean?
+  result_count      Int?
+  execution_time_ms Int?
+  error_message     String?
+  context_data      Json?
+  timestamp         DateTime?    @default(now()) @db.Timestamptz(6)
+  user_id           String?      @db.VarChar(255)
+  conversation_id   String?      @db.VarChar(255)
+  confidence_score  Float?
+  model_used        String?      @db.VarChar(50)
+  cache_hit         Boolean      @default(false)
+  retry_count       Int          @default(0)
+  parent_log_id     String?      @db.Uuid
+  query_logs        query_logs?  @relation("query_logsToquery_logs", fields: [parent_log_id], references: [log_id], onUpdate: NoAction, map: "fk_query_logs_parent")
+  other_query_logs  query_logs[] @relation("query_logsToquery_logs")
+
+  @@index([confidence_score], map: "idx_query_logs_confidence")
+  @@index([model_used], map: "idx_query_logs_model")
+  @@index([query_type], map: "idx_query_logs_query_type")
+  @@index([execution_success], map: "idx_query_logs_success")
+  @@index([timestamp], map: "idx_query_logs_timestamp")
+}
+
+/// This model contains row level security and requires additional setup for migrations. Visit https://pris.ly/d/row-level-security for more info.
+model risk_assessments {
+  assessment_id          String                   @id @db.Uuid
+  property_id            String                   @db.Uuid
+  assessment_date        DateTime?                @default(now()) @db.Timestamptz(6)
+  methodology            String?                  @db.VarChar(50)
+  overall_risk_score     Float?
+  risk_category          String?                  @db.VarChar(20)
+  assessed_by            String?                  @db.VarChar
+  notes                  String?                  @db.VarChar
+  created_at             DateTime?                @default(now()) @db.Timestamptz(6)
+  updated_at             DateTime?                @db.Timestamptz(6)
+  internal_control_cases internal_control_cases[]
+  properties             properties               @relation(fields: [property_id], references: [property_id], onDelete: NoAction, onUpdate: NoAction)
+  risk_factors           risk_factors[]
+
+  @@index([assessment_date], map: "ix_risk_assessments_assessment_date")
+  @@index([property_id, assessment_date(sort: Desc)], map: "ix_risk_assessments_property_date")
+  @@index([property_id], map: "ix_risk_assessments_property_id")
+  @@index([risk_category], map: "ix_risk_assessments_risk_category")
+}
+
+/// This model contains row level security and requires additional setup for migrations. Visit https://pris.ly/d/row-level-security for more info.
+model risk_factors {
+  factor_id        String           @id @db.Uuid
+  assessment_id    String           @db.Uuid
+  category         String?          @db.VarChar(50)
+  factor_name      String?          @db.VarChar(100)
+  severity         Float?
+  probability      Float?
+  weight           Float?
+  data_source      String?          @db.VarChar(100)
+  raw_data         Json?            @db.Json
+  calculated_score Float?
+  created_at       DateTime?        @default(now()) @db.Timestamptz(6)
+  risk_assessments risk_assessments @relation(fields: [assessment_id], references: [assessment_id], onDelete: NoAction, onUpdate: NoAction)
+
+  @@index([assessment_id], map: "ix_risk_factors_assessment_id")
+  @@index([category], map: "ix_risk_factors_category")
+  @@index([factor_name], map: "ix_risk_factors_factor_name")
+}
+
+/// This model or at least one of its fields has comments in the database, and requires an additional setup for migrations: Read more: https://pris.ly/d/database-comments
+/// This model contains row level security and requires additional setup for migrations. Visit https://pris.ly/d/row-level-security for more info.
+model scenarios {
+  scenario_id      String          @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  name             String          @db.VarChar(200)
+  description      String?
+  base_forecast_id String?         @db.Uuid
+  modifications    Json
+  result_forecast  Json
+  created_by       String?         @db.VarChar(100)
+  created_at       DateTime?       @default(now()) @db.Timestamptz(6)
+  forecast_cache   forecast_cache? @relation(fields: [base_forecast_id], references: [forecast_id], onUpdate: NoAction)
+
+  @@index([base_forecast_id], map: "idx_scenarios_base_forecast")
+  @@index([created_at], map: "idx_scenarios_created_at")
+  @@index([created_by], map: "idx_scenarios_created_by")
+}
+
+/// This model contains row level security and requires additional setup for migrations. Visit https://pris.ly/d/row-level-security for more info.
+model scheduled_activities {
+  activity_id            String     @id @db.Uuid
+  property_id            String     @db.Uuid
+  title                  String     @db.VarChar
+  description            String?    @db.VarChar
+  activity_type          String     @db.VarChar
+  category               String     @db.VarChar
+  priority               String     @db.VarChar
+  responsible_role       String     @db.VarChar
+  assigned_user_id       String?    @db.Uuid
+  recurrence_rule        Json
+  next_due_date          DateTime   @db.Timestamptz(6)
+  last_generated_at      DateTime?  @db.Timestamptz(6)
+  enabled                Boolean
+  property_tags_required Json?
+  property_tags_excluded Json?
+  created_at             DateTime?  @default(now()) @db.Timestamptz(6)
+  updated_at             DateTime?  @db.Timestamptz(6)
+  created_by             String?    @db.VarChar
+  users                  users?     @relation(fields: [assigned_user_id], references: [user_id], onDelete: NoAction, onUpdate: NoAction)
+  properties             properties @relation(fields: [property_id], references: [property_id], onDelete: NoAction, onUpdate: NoAction)
+
+  @@index([next_due_date], map: "ix_scheduled_activities_next_due_date")
+  @@index([property_id], map: "ix_scheduled_activities_property_id")
+}
+
+/// This model contains row level security and requires additional setup for migrations. Visit https://pris.ly/d/row-level-security for more info.
+model sensor_anomalies {
+  anomaly_id  String    @id @db.Uuid
+  sensor_id   String    @db.Uuid
+  detected_at DateTime? @default(now()) @db.Timestamptz(6)
+  description String    @db.VarChar
+  severity    String?   @db.VarChar(20)
+  status      String?   @db.VarChar(20)
+  resolution  String?   @db.VarChar
+  sensors     sensors   @relation(fields: [sensor_id], references: [sensor_id], onDelete: NoAction, onUpdate: NoAction)
+}
+
+/// This model contains row level security and requires additional setup for migrations. Visit https://pris.ly/d/row-level-security for more info.
+model sensor_readings {
+  reading_id String    @id @db.Uuid
+  sensor_id  String    @db.Uuid
+  timestamp  DateTime? @default(now()) @db.Timestamptz(6)
+  value      Float
+  unit       String?   @db.VarChar(20)
+  raw_data   Json?     @db.Json
+  sensors    sensors   @relation(fields: [sensor_id], references: [sensor_id], onDelete: NoAction, onUpdate: NoAction)
+}
+
+/// This model contains row level security and requires additional setup for migrations. Visit https://pris.ly/d/row-level-security for more info.
+model sensors {
+  sensor_id        String             @id @db.Uuid
+  property_id      String             @db.Uuid
+  name             String             @db.VarChar
+  type             String             @db.VarChar(50)
+  location         String?            @db.VarChar
+  status           String?            @db.VarChar(20)
+  config           Json?              @db.Json
+  created_at       DateTime?          @default(now()) @db.Timestamptz(6)
+  sensor_anomalies sensor_anomalies[]
+  sensor_readings  sensor_readings[]
+  properties       properties         @relation(fields: [property_id], references: [property_id], onDelete: NoAction, onUpdate: NoAction)
+}
+
+/// This model contains row level security and requires additional setup for migrations. Visit https://pris.ly/d/row-level-security for more info.
+model sessions {
+  session_id    String    @id @db.Uuid
+  user_email    String    @db.VarChar
+  access_token  String
+  id_token      String?
+  refresh_token String?
+  expires_at    DateTime  @db.Timestamp(6)
+  created_at    DateTime? @default(now()) @db.Timestamp(6)
+  updated_at    DateTime? @default(now()) @db.Timestamp(6)
+
+  @@index([user_email], map: "ix_sessions_user_email")
+}
+
+/// This model contains row level security and requires additional setup for migrations. Visit https://pris.ly/d/row-level-security for more info.
+model socioeconomic_data {
+  socio_data_id       String     @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  property_id         String     @db.Uuid
+  municipality_code   String?    @db.VarChar(10)
+  crime_rate_per_1000 Float?
+  unemployment_rate   Float?
+  median_income       Decimal?   @db.Decimal(15, 2)
+  population_density  Float?
+  demographic_profile Json?
+  data_source         String?    @db.VarChar(50)
+  year                Int?
+  fetched_at          DateTime?  @default(now()) @db.Timestamptz(6)
+  expires_at          DateTime?  @db.Timestamptz(6)
+  properties          properties @relation(fields: [property_id], references: [property_id], onDelete: Cascade, onUpdate: NoAction)
+
+  @@index([municipality_code], map: "ix_socioeconomic_data_municipality")
+  @@index([property_id], map: "ix_socioeconomic_data_property_id")
+  @@index([year], map: "ix_socioeconomic_data_year")
+}
+
+/// This table contains check constraints and requires additional setup for migrations. Visit https://pris.ly/d/check-constraints for more info.
+model spatial_ref_sys {
+  srid      Int     @id
+  auth_name String? @db.VarChar(256)
+  auth_srid Int?
+  srtext    String? @db.VarChar(2048)
+  proj4text String? @db.VarChar(2048)
+}
+
+/// This model contains row level security and requires additional setup for migrations. Visit https://pris.ly/d/row-level-security for more info.
+model tasks {
+  task_id      String       @id @db.Uuid
+  order_id     String?      @db.Uuid
+  title        String       @db.VarChar
+  action_type  String?      @db.VarChar(50)
+  payload      Json?        @db.Json
+  status       String?      @db.VarChar(50)
+  result       Json?        @db.Json
+  created_at   DateTime?    @default(now()) @db.Timestamptz(6)
+  completed_at DateTime?    @db.Timestamptz(6)
+  work_orders  work_orders? @relation(fields: [order_id], references: [order_id], onDelete: NoAction, onUpdate: NoAction)
+}
+
+/// This model contains row level security and requires additional setup for migrations. Visit https://pris.ly/d/row-level-security for more info.
+model text_content {
+  text_id             String                   @id @db.Uuid
+  source_type         String?                  @db.VarChar(50)
+  content             String?
+  additional_metadata Json?                    @db.Json
+  contract_id         String?                  @db.Uuid
+  unit_id             String?                  @db.Uuid
+  property_id         String?                  @db.Uuid
+  source_index_id     String?                  @unique @db.VarChar(255)
+  source_file         String?                  @db.VarChar(500)
+  chunk_index         Int?
+  category            String?                  @db.VarChar(100)
+  search_vector       Unsupported("tsvector")?
+  embedding           Unsupported("vector")?
+  created_at          DateTime?                @default(now()) @db.Timestamptz(6)
+  updated_at          DateTime?                @default(now()) @db.Timestamptz(6)
+
+  @@index([contract_id], map: "idx_text_content_contract_id")
+  @@index([embedding], map: "idx_text_content_embedding")
+  @@index([search_vector], map: "idx_text_content_search_vector", type: Gin)
+  @@index([source_index_id], map: "idx_text_content_source_index_id")
+  @@index([contract_id], map: "ix_text_content_contract_id")
+  @@index([created_at], map: "ix_text_content_created_at")
+  @@index([property_id], map: "ix_text_content_property_id")
+  @@index([source_type], map: "ix_text_content_source_type")
+  @@index([unit_id], map: "ix_text_content_unit_id")
+}
+
+/// This model contains row level security and requires additional setup for migrations. Visit https://pris.ly/d/row-level-security for more info.
+model units {
+  unit_id       String      @id @db.Uuid
+  property_id   String      @db.Uuid
+  purpose       String?     @db.VarChar
+  area_sqm      Float?
+  floor         Int?
+  zone_type     String?     @db.VarChar
+  uu_compliant  Boolean?
+  uu_notes      String?     @db.VarChar
+  external_data Json?       @db.Json
+  created_at    DateTime?   @default(now()) @db.Timestamptz(6)
+  updated_at    DateTime?   @db.Timestamptz(6)
+  contracts     contracts[]
+  properties    properties  @relation(fields: [property_id], references: [property_id], onDelete: NoAction, onUpdate: NoAction)
+
+  @@index([property_id], map: "ix_units_property_id")
+}
+
+/// This model contains row level security and requires additional setup for migrations. Visit https://pris.ly/d/row-level-security for more info.
+model user_preferences {
+  preference_id String    @id @db.Uuid
+  user_id       String    @unique @db.VarChar
+  language      String?   @db.VarChar(10)
+  notifications Json?     @db.Json
+  ui_settings   Json?     @db.Json
+  created_at    DateTime? @default(now()) @db.Timestamptz(6)
+  updated_at    DateTime? @db.Timestamptz(6)
+}
+
+/// The underlying table does not contain a valid unique identifier and can therefore currently not be handled by Prisma Client.
+/// This model contains row level security and requires additional setup for migrations. Visit https://pris.ly/d/row-level-security for more info.
+model user_property_association {
+  user_id     String?     @db.Uuid
+  property_id String?     @db.Uuid
+  properties  properties? @relation(fields: [property_id], references: [property_id], onDelete: NoAction, onUpdate: NoAction)
+  users       users?      @relation(fields: [user_id], references: [user_id], onDelete: NoAction, onUpdate: NoAction)
+
+  @@ignore
+}
+
+/// This model contains row level security and requires additional setup for migrations. Visit https://pris.ly/d/row-level-security for more info.
+model users {
+  user_id                   String                      @id @unique(map: "ix_users_user_id") @db.Uuid
+  email                     String                      @unique(map: "ix_users_email") @db.VarChar
+  name                      String?                     @db.VarChar
+  role                      String?                     @db.VarChar(16)
+  region                    String?                     @db.VarChar
+  email_verified            Boolean                     @default(false)
+  mfa_enabled               Boolean                     @default(true)
+  mfa_verified_at           DateTime?                   @db.Timestamptz(6)
+  is_active                 Boolean                     @default(true)
+  id                        String?                     @default(dbgenerated("('befs_'::text || replace((gen_random_uuid())::text, '-'::text, ''::text))"))
+  organization_id           String?
+  updated_at                DateTime?                   @default(now()) @db.Timestamptz(6)
+  hashed_password           String?                     @db.VarChar
+  checklist_executions      checklist_executions[]
+  internal_control_cases    internal_control_cases[]
+  notifications             notifications[]
+  scheduled_activities      scheduled_activities[]
+  user_property_association user_property_association[] @ignore
+}
+
+/// This model contains row level security and requires additional setup for migrations. Visit https://pris.ly/d/row-level-security for more info.
+model work_orders {
+  order_id    String     @id @db.Uuid
+  property_id String     @db.Uuid
+  description String     @db.VarChar
+  status      String?    @db.VarChar(50)
+  priority    String?    @db.VarChar(20)
+  assigned_to String?    @db.VarChar
+  created_at  DateTime?  @default(now()) @db.Timestamptz(6)
+  updated_at  DateTime?  @db.Timestamptz(6)
+  tasks       tasks[]
+  properties  properties @relation(fields: [property_id], references: [property_id], onDelete: NoAction, onUpdate: NoAction)
+}
+
+enum contractstatus {
+  active
+  terminated
+}
+
+enum qastatus {
+  PENDING
+  PASS
+  FAIL
+}
+
+enum toolstatus {
+  EXPERIMENTAL
+  VERIFIED
+  DEPRECATED
+}
+
+
+model master_data_crosswalk {
+  id               String      @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  relation_type    String      @db.VarChar(50) // LOCATED_AT | FUNDS | BOOKED_ON | GOVERNED_BY
+  source_type      String      @db.VarChar(50) // DIM1 | BIRK | PROPERTY | CONTRACT
+  source_id        String      @db.VarChar(100)
+  target_type      String      @db.VarChar(50)
+  target_id        String      @db.VarChar(100)
+  status           String      @default("pending") @db.VarChar(20) // pending | approved | rejected
+  collision_flag   Boolean     @default(false)
+  match_method     String      @db.VarChar(50) // exact | heuristic | fuzzy | manual
+  score            Decimal?    @db.Decimal(5, 2)
+  confidence       String      @db.VarChar(20) // HIGH | MEDIUM | LOW
+  run_id           String?     @db.VarChar(50)
+  valid_from       DateTime    @default(now()) @db.Timestamptz(6)
+  valid_to         DateTime?   @db.Timestamptz(6)
+  approved_by      String?     @db.VarChar(100)
+  approved_at      DateTime?   @db.Timestamptz(6)
+  audit_metadata   Json?       @db.Json
+  created_at       DateTime?   @default(now()) @db.Timestamptz(6)
+  updated_at       DateTime?   @default(now()) @db.Timestamptz(6)
+
+  @@index([source_id], map: "idx_crosswalk_source")
+  @@index([target_id], map: "idx_crosswalk_target")
+  @@index([source_type], map: "idx_crosswalk_source_type")
+  @@index([relation_type], map: "idx_crosswalk_relation")
+  @@index([status], map: "idx_crosswalk_status")
+  @@index([run_id], map: "idx_crosswalk_run")
+}

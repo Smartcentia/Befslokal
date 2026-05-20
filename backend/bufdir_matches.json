@@ -1,0 +1,173 @@
+[
+  {
+    "institution": {
+      "name": "Bergen akuttsenter",
+      "address": "Postadresse \\n Postboks 2233, 3103 Tønsberg",
+      "description": "",
+      "legal_bases": [
+        "Akutt §§ 4-1 og 4-2",
+        "Akutt § 4-4",
+        "Atferd §§ 6-1 og 6-2",
+        "Omsorg §§ 3-2 og 5-1"
+      ],
+      "image_url": "https://cms.bufdir.no//contentassets/7d4ab115ab56455c9e38afac2a3314a5/toppe---bufetat---espen-mills-27.jpg",
+      "bufdir_url": "https://www.bufdir.no/barnevern/finn-institusjon/bergen-akuttsenter/",
+      "owner_type": "Statlig",
+      "id": 35892,
+      "email": "bergen.akuttsenter@bufetat.no",
+      "phone": "466 19 508",
+      "location": "Bergen"
+    },
+    "property": {
+      "id": "438c4047-1861-47f4-b655-1b8f283f86cc",
+      "name": "Nedre Nattland 69",
+      "address": "Nedre Nattland 69",
+      "city": "BERGEN"
+    },
+    "score": 0.6199999999999999
+  },
+  {
+    "institution": {
+      "name": "Bergen akuttsenter, Nattland",
+      "address": "Besøksadresse Nedre Nattland 69, 5099 Bergen \\n Postadresse Postboks 2233, 3103 Tønsberg",
+      "description": "",
+      "legal_bases": [
+        "Akutt §§ 4-1 og 4-2"
+      ],
+      "image_url": "https://cms.bufdir.no//contentassets/c7b5aa11dd4046f080ad7aa3465e9174/nattland---bufetat---espen-mills-106.jpg",
+      "bufdir_url": "https://www.bufdir.no/barnevern/finn-institusjon/bergen-akuttsenter-nattland/",
+      "owner_type": "Statlig",
+      "id": 27930,
+      "email": "bergen.akuttsenter@bufetat.no",
+      "phone": "466 19 508",
+      "location": "Bergen"
+    },
+    "property": {
+      "id": "438c4047-1861-47f4-b655-1b8f283f86cc",
+      "name": "Nedre Nattland 69",
+      "address": "Nedre Nattland 69",
+      "city": "BERGEN"
+    },
+    "score": 0.6733333333333333
+  },
+  {
+    "institution": {
+      "name": "BevisstUng",
+      "address": "",
+      "description": "",
+      "legal_bases": [
+        "Atferd §§ 6-1 og 6-2"
+      ],
+      "image_url": null,
+      "bufdir_url": "https://www.bevisstung.no/",
+      "owner_type": "Privat",
+      "id": 53594,
+      "email": null,
+      "phone": null,
+      "location": "Hokksund"
+    },
+    "property": {
+      "id": "f0831c60-192d-4f41-9863-520dbe471caa",
+      "name": "Baneveien  19",
+      "address": "Baneveien  19",
+      "city": "HOKKSUND"
+    },
+    "score": 0.6043478260869565
+  },
+  {
+    "institution": {
+      "name": "Bjørgvin ungdomssenter, Bønesskogen",
+      "address": "Besøksadresse Bønesskogen 333, 5154 Bønes \\n Postadresse Postboks 2233 3103 Tønsberg",
+      "description": "",
+      "legal_bases": [
+        "Atferd §§ 6-1 og 6-2"
+      ],
+      "image_url": "https://cms.bufdir.no//contentassets/44205c30b2524bb8b27527d94aac610d/bjorgvin-ungdomssenter---bonesskogen---espen-mills-29.jpg",
+      "bufdir_url": "https://www.bufdir.no/barnevern/finn-institusjon/bjorgvin-ungdomssenter-bonesskogen/",
+      "owner_type": "Statlig",
+      "id": 27940,
+      "email": "bjorgvin.ungdomssenter@bufetat.no",
+      "phone": "466 19 080",
+      "location": "Bønes"
+    },
+    "property": {
+      "id": "3ca20ffa-667b-40e5-abac-9366b80c6400",
+      "name": "Bønesskogen 333",
+      "address": "Bønesskogen 333",
+      "city": "BØNES"
+    },
+    "score": 0.608
+  },
+  {
+    "institution": {
+      "name": "Bjørgvin ungdomssenter, Bønesstølen",
+      "address": "Besøksadresse Bønesstølen 13, 5154 Bønes \\n Postadresse Postboks 2233, 3103 Tønsberg",
+      "description": "",
+      "legal_bases": [
+        "Atferd §§ 6-1 og 6-2"
+      ],
+      "image_url": "https://cms.bufdir.no//contentassets/f4c4395f891c4cd48e99094f29a193fa/bjorgvin-ungdomssenter---bonesstolen---espen-mills-18.jpg",
+      "bufdir_url": "https://www.bufdir.no/barnevern/finn-institusjon/bjorgvin-ungdomssenter-bonesstolen/",
+      "owner_type": "Statlig",
+      "id": 27993,
+      "email": "bjorgvin.ungdomssenter@bufetat.no",
+      "phone": "466 19 080",
+      "location": "Bønes"
+    },
+    "property": {
+      "id": "d9f6be50-917e-4854-be89-bc3692d90027",
+      "name": "Bønesstølen 13",
+      "address": "Bønesstølen 13",
+      "city": "BØNES"
+    },
+    "score": 0.6142857142857143
+  },
+  {
+    "institution": {
+      "name": "Skjoldvegen barnevernsenter, Skjold",
+      "address": "Besøksadresse Skjoldvegen 51/55, 5221 Nesttun \\n Postadresse Postboks 2233, 3103 Tønsberg \\n",
+      "description": "",
+      "legal_bases": [
+        "Omsorg §§ 3-2 og 5-1"
+      ],
+      "image_url": "https://cms.bufdir.no//contentassets/ba319f37ed0144e3a1daeaf71248b5a3/skjold---drone---06---espen-mills.red.jpg",
+      "bufdir_url": "https://www.bufdir.no/barnevern/finn-institusjon/skjoldvegen-barnevernsenter-skjold/",
+      "owner_type": "Statlig",
+      "id": 27950,
+      "email": "skjoldvegen.barnevernsenter@bufetat.no",
+      "phone": "466 19 376 (betjent hele døgnet)",
+      "location": "Nesttun"
+    },
+    "property": {
+      "id": "b8fcd912-7c52-4294-907c-8ada717c9268",
+      "name": "Skjoldvegen 51",
+      "address": "Skjoldvegen 51",
+      "city": "NESTTUN"
+    },
+    "score": 0.6428571428571428
+  },
+  {
+    "institution": {
+      "name": "Sti omsorg AS",
+      "address": "",
+      "description": "",
+      "legal_bases": [
+        "Omsorg §§ 3-2 og 5-1"
+      ],
+      "image_url": null,
+      "bufdir_url": "http://www.sti-omsorg.no/",
+      "owner_type": "Privat",
+      "id": 25057,
+      "email": null,
+      "phone": null,
+      "location": "Lillehammer"
+    },
+    "property": {
+      "id": "59094e20-a3a1-402b-bd96-20ff1da242c3",
+      "name": "Storgata 56-58",
+      "address": "Storgata 56-58",
+      "city": "LILLEHAMMER"
+    },
+    "score": 0.611111111111111
+  }
+]

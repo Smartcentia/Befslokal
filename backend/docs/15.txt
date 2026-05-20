@@ -1,0 +1,1042 @@
+4 Region Vest 421701 Sandnes ungdomssenter - Minde1 Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Renovasjon Næring AS 1623,75
+4 Region Vest 432101 Sandnes ungdomssenter - Minde1 Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 51490,74
+4 Region Vest 432103 Sandnes ungdomssenter - Minde1 Barnevernsinstitusjoner Annen kostnad lokaler Eurocard Norway 358,9
+4 Region Vest 432104 Sandnes ungdomssenter - Minde 2 Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Renovasjon Næring AS 1623,75
+4 Region Vest 432104 Sandnes ungdomssenter - Minde 2 Barnevernsinstitusjoner Strøm og oppvarming Europris Butikkdrift AS 349,6
+4 Region Vest 432104 Sandnes ungdomssenter - Minde 2 Barnevernsinstitusjoner Strøm og oppvarming Europris Butikkdrift AS 657,8
+4 Region Vest 432104 Sandnes ungdomssenter - Minde 2 Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 9030,56
+4 Region Vest 432203 Sandnes ungdomssenter - Minde 2 Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 32558,7
+4 Region Vest 432203 MST Bergen team 1 Hjelpetiltak i hjemmet Leie parkeringsplass GC Rieber Eiendom Pluss AS(15030825141) 2410,71
+4 Region Vest 432203 MST Bergen team 1 Hjelpetiltak i hjemmet Leie parkeringsplass GC Rieber Eiendom Pluss AS(15030825141) 5000
+4 Region Vest 432204 MST Bergen team 2 Hjelpetiltak i hjemmet Leie parkeringsplass GC Rieber Eiendom Pluss AS(15030825141) 2410,71
+4 Region Vest 432204 MST Bergen team 2 Hjelpetiltak i hjemmet Leie parkeringsplass GC Rieber Eiendom Pluss AS(15030825141) 2500
+4 Region Vest 432204 Bjørgvin Ungdomssenter, administrasjon Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 154168
+4 Region Vest 432204 Bjørgvin Ungdomssenter, administrasjon Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 38142,9
+4 Region Vest 432204 Bjørgvin Ungdomssenter, administrasjon Barnevernsinstitusjoner Renhold lokaler Effektiv Renhold Haugaland AS 1805
+4 Region Vest 432204 Bjørgvin Ungdomssenter, administrasjon Barnevernsinstitusjoner Renhold lokaler Effektiv Renhold Haugaland AS 2510
+4 Region Vest 432401 Bjørgvin Ungdomssenter, administrasjon Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 36737,5
+4 Region Vest 432401 Bjørgvin Ungdomssenter, administrasjon Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 10307
+4 Region Vest 432402 Bjørgvin Ungdomssenter, Bønesstølen Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 154168
+4 Region Vest 432402 Bjørgvin Ungdomssenter, Bønesstølen Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 38142,89
+4 Region Vest 432403 Bjørgvin Ungdomssenter, Bønesstølen Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 36737,5
+4 Region Vest 432403 Bjørgvin Ungdomssenter, Bønesstølen Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 10307
+4 Region Vest 432403 Bjørgvin Ungdomssenter, Bønesskogen Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 199843
+4 Region Vest 432403 Bjørgvin Ungdomssenter, Bønesskogen Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. 100
+4 Region Vest 432403 Bjørgvin Ungdomssenter, Bønesskogen Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 34823,6
+4 Region Vest 432403 Bjørgvin Ungdomssenter, Bønesskogen Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 45725
+4 Region Vest 432403 Bjørgvin Ungdomssenter, Bønesskogen Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 13367
+4 Region Vest 432403 Bjørgvin Ungdomssenter, Bønesskogen Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Jula Norge AS 3320,25
+4 Region Vest 432403 Bjørgvin Ungdomssenter, Bønesskogen Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler CERTEGO AS, Bergen 2632
+4 Region Vest 432403 Sogn og fjordane ungdomssenter behandling høy Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 12480,59
+4 Region Vest 432403 Sogn og fjordane ungdomssenter avdeling Bregnetunet behandling høy Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Sum Næring AS 500
+4 Region Vest 432804 Sogn og fjordane ungdomssenter avdeling Bregnetunet behandling høy Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 29121,39
+4 Region Vest 432804 Eikelund ungdomssenter behandling høy Barnevernsinstitusjoner Leie lokaler fra Statsbygg -89773
+4 Region Vest 432901 Eikelund ungdomssenter behandling høy Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 89773
+4 Region Vest 432901 Eikelund ungdomssenter behandling høy Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg -57850
+4 Region Vest 432901 Eikelund ungdomssenter behandling høy Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 57850
+4 Region Vest 433102 Eikelund ungdomssenter behandling høy Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold -5800
+4 Region Vest 433102 Eikelund ungdomssenter behandling høy Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 5800
+4 Region Vest 433102 Eikelund ungdomssenter behandling høy 151006 Drift - Styrking og omstilling av statlige institusjoner Barnevernsinstitusjoner Leie lokaler fra Statsbygg 89773
+4 Region Vest 433102 Eikelund ungdomssenter behandling høy 151006 Drift - Styrking og omstilling av statlige institusjoner Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg 57850
+4 Region Vest 433103 Eikelund ungdomssenter behandling høy 151006 Drift - Styrking og omstilling av statlige institusjoner Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold 5800
+4 Region Vest 433103 Driftsavdelingen Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Franzefoss Gjenvinning AS 2004,66
+4 Region Vest 442604 Driftsavdelingen Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Franzefoss Gjenvinning AS 2237,48
+4 Region Vest 442701 Driftsavdelingen 151003 Prosjektering og utvikling av eiendom/bygg Barnevernsinstitusjoner Fast bygningsinventar og påkostning, leide bygg 5179830,77
+4 Region Vest 442701 Driftsavdelingen 151003 Prosjektering og utvikling av eiendom/bygg Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler -5179830,77
+4 Region Vest 442701 Driftsavdelingen 151003 Prosjektering og utvikling av eiendom/bygg Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Statsbyggs hovedkontor 1670451,12
+4 Region Vest 442701 Driftsavdelingen 44305 Branntiltak region vest Barnevernsinstitusjoner Oppgradering og påkostning leide lokaler - under kr 50 000 Megaflis AS 2712
+4 Region Vest 442703 Fellestjenester Haraldsgata, Haugesund Regionale fellesfunksjoner Renovasjon, vann, avløp o.l. Norsk Gjenvinning AS(15060314648) 284,97
+4 Region Vest 442703 Fellestjenester Haraldsgata, Haugesund Regionale fellesfunksjoner Renovasjon, vann, avløp o.l. NORSK GJENVINNING AS 112,47
+4 Region Vest 442703 Fellestjenester Haraldsgata, Haugesund Regionale fellesfunksjoner Renhold lokaler Effektiv Renhold Haugaland AS 2094,61
+4 Region Vest 442703 Fellestjenester Haraldsgata, Haugesund Regionale fellesfunksjoner Renhold lokaler Effektiv Renhold Haugaland AS 2094,69
+4 Region Vest 442703 Fellestjenester Haraldsgata, Haugesund Fosterhjem Renovasjon, vann, avløp o.l. Norsk Gjenvinning AS(15060314648) 823,24
+4 Region Vest 442703 Fellestjenester Haraldsgata, Haugesund Fosterhjem Renovasjon, vann, avløp o.l. NORSK GJENVINNING AS 324,9
+4 Region Vest 442703 Fellestjenester Haraldsgata, Haugesund Fosterhjem Renhold lokaler Effektiv Renhold Haugaland AS 6051,1
+4 Region Vest 442703 Fellestjenester Haraldsgata, Haugesund Fosterhjem Renhold lokaler Effektiv Renhold Haugaland AS 6050,47
+4 Region Vest 442703 Fellestjenester Haraldsgata, Haugesund Hjelpetiltak i hjemmet Renovasjon, vann, avløp o.l. Norsk Gjenvinning AS(15060314648) 335,63
+4 Region Vest 442703 Fellestjenester Haraldsgata, Haugesund Hjelpetiltak i hjemmet Renovasjon, vann, avløp o.l. NORSK GJENVINNING AS 132,46
+4 Region Vest 445102 Fellestjenester Haraldsgata, Haugesund Hjelpetiltak i hjemmet Renhold lokaler Effektiv Renhold Haugaland AS 2466,99
+4 Region Vest 445102 Fellestjenester Haraldsgata, Haugesund Hjelpetiltak i hjemmet Renhold lokaler Effektiv Renhold Haugaland AS 2467,21
+4 Region Vest 403208 Fellestjenester Haraldsgata, Haugesund Fosterhjemstjenesten Renovasjon, vann, avløp o.l. Norsk Gjenvinning AS(15060314648) 633,27
+4 Region Vest 403208 Fellestjenester Haraldsgata, Haugesund Fosterhjemstjenesten Renovasjon, vann, avløp o.l. NORSK GJENVINNING AS 249,92
+4 Region Vest 403208 Fellestjenester Haraldsgata, Haugesund Fosterhjemstjenesten Renhold lokaler Effektiv Renhold Haugaland AS 4654,7
+4 Region Vest 403208 Fellestjenester Haraldsgata, Haugesund Fosterhjemstjenesten Renhold lokaler Effektiv Renhold Haugaland AS 4655,03
+4 Region Vest 403208 Fellestjeneste Statens hus, Stavanger Regionale fellesfunksjoner Leie lokaler andre utleiere Caverion Norge AS 106647,35
+4 Region Vest 403208 Fellestjeneste Statens hus, Stavanger Regionale fellesfunksjoner Vakthold lokaler Caverion Norge AS 1870
+4 Region Vest 403208 Fellestjeneste Statens hus, Stavanger Regionale fellesfunksjoner Vakthold lokaler Caverion Norge AS 1496,15
+4 Region Vest 403208 Fellestjeneste Statens hus, Stavanger Regionale fellesfunksjoner Leie parkeringsplass Aimo Park Norway AS(15030825141) 780,53
+4 Region Vest 403208 Fellestjeneste Statens hus, Stavanger Regionale fellesfunksjoner Fellesutgifter andre utleiere Caverion Norge AS 26297
+4 Region Vest 403208 Fellestjeneste Statens hus, Stavanger Fosterhjem Leie lokaler andre utleiere Caverion Norge AS 97298,3
+4 Region Vest 403208 Fellestjeneste Statens hus, Stavanger Fosterhjem Vakthold lokaler Caverion Norge AS 8650
+4 Region Vest 403208 Fellestjeneste Statens hus, Stavanger Fosterhjem Vakthold lokaler Caverion Norge AS 6949,7
+4 Region Vest 403208 Fellestjeneste Statens hus, Stavanger Fosterhjem Leie parkeringsplass Aimo Park Norway AS(15030825141) 3612,49
+4 Region Vest 403208 Fellestjeneste Statens hus, Stavanger Fosterhjem Fellesutgifter andre utleiere Caverion Norge AS 121623
+4 Region Vest 403208 Fellestjeneste Statens hus, Stavanger Barnevernsinstitusjoner Leie lokaler andre utleiere Caverion Norge AS 5259,37
+4 Region Vest 403208 Fellestjeneste Statens hus, Stavanger Barnevernsinstitusjoner Vakthold lokaler Caverion Norge AS 468
+4 Region Vest 403208 Fellestjeneste Statens hus, Stavanger Barnevernsinstitusjoner Vakthold lokaler Caverion Norge AS 374,04
+4 Region Vest 403208 Fellestjeneste Statens hus, Stavanger Barnevernsinstitusjoner Leie parkeringsplass Aimo Park Norway AS(15030825141) 195,86
+4 Region Vest 403208 Fellestjeneste Statens hus, Stavanger Barnevernsinstitusjoner Fellesutgifter andre utleiere Caverion Norge AS 6574
+4 Region Vest 403208 Fellestjeneste Statens hus, Stavanger Hjelpetiltak i hjemmet Leie lokaler andre utleiere Caverion Norge AS 47334,31
+4 Region Vest 403208 Fellestjeneste Statens hus, Stavanger Hjelpetiltak i hjemmet Vakthold lokaler Caverion Norge AS 4208
+4 Region Vest 403208 Fellestjeneste Statens hus, Stavanger Hjelpetiltak i hjemmet Vakthold lokaler Caverion Norge AS 3366,34
+4 Region Vest 403208 Fellestjeneste Statens hus, Stavanger Hjelpetiltak i hjemmet Leie parkeringsplass Aimo Park Norway AS(15030825141) 1756,92
+4 Region Vest 403208 Fellestjeneste Statens hus, Stavanger Hjelpetiltak i hjemmet Fellesutgifter andre utleiere Caverion Norge AS 59168
+4 Region Vest 403209 Fellestjeneste Statens hus, Stavanger Inntak Leie lokaler andre utleiere Caverion Norge AS 96246,42
+4 Region Vest 403209 Fellestjeneste Statens hus, Stavanger Inntak Vakthold lokaler Caverion Norge AS 8556
+4 Region Vest 403209 Fellestjeneste Statens hus, Stavanger Inntak Vakthold lokaler Caverion Norge AS 6844,89
+4 Region Vest 403209 Fellestjeneste Statens hus, Stavanger Inntak Leie parkeringsplass Aimo Park Norway AS(15030825141) 3573,32
+4 Region Vest 403209 Fellestjeneste Statens hus, Stavanger Inntak Fellesutgifter andre utleiere Caverion Norge AS 120308
+4 Region Vest 403209 Fellestjeneste Statens hus, Stavanger Fosterhjemstjenesten Leie lokaler andre utleiere Caverion Norge AS 123595,13
+4 Region Vest 403209 Fellestjeneste Statens hus, Stavanger Fosterhjemstjenesten Vakthold lokaler Caverion Norge AS 10987
+4 Region Vest 403209 Fellestjeneste Statens hus, Stavanger Fosterhjemstjenesten Vakthold lokaler Caverion Norge AS 27791
+4 Region Vest 403209 Fellestjeneste Statens hus, Stavanger Fosterhjemstjenesten Leie parkeringsplass Aimo Park Norway AS(15030825141) 4588,88
+4 Region Vest 403209 Fellestjeneste Statens hus, Stavanger Fosterhjemstjenesten Fellesutgifter andre utleiere Caverion Norge AS 154494
+4 Region Vest 403209 Fellestjenester, Solheimsviken 11, Bergen Regionale fellesfunksjoner Renovasjon, vann, avløp o.l. BIR Privat AS 253,24
+4 Region Vest 403209 Fellestjenester, Solheimsviken 11, Bergen Regionale fellesfunksjoner Renovasjon, vann, avløp o.l. BIR Privat AS 168,83
+4 Region Vest 403209 Fellestjenester, Solheimsviken 11, Bergen Regionale fellesfunksjoner Renovasjon, vann, avløp o.l. GC Rieber Eiendom Drift AS 1688,04
+4 Region Vest 403209 Fellestjenester, Solheimsviken 11, Bergen Regionale fellesfunksjoner Vakthold lokaler Securitas AS 1083,47
+4 Region Vest 403209 Fellestjenester, Solheimsviken 11, Bergen Regionale fellesfunksjoner Leie parkeringsplass GC Rieber Eiendom Pluss AS(15030825141) 5717,13
+4 Region Vest 403209 Fellestjenester, Solheimsviken 11, Bergen Regionale fellesfunksjoner Reparasjon og vedlikehold leide lokaler Bravida Norge AS 1068,42
+4 Region Vest 403210 Fellestjenester, Solheimsviken 11, Bergen Regionale fellesfunksjoner Reparasjon og vedlikehold leide lokaler AKSELL AS 9742,94
+4 Region Vest 403210 Fellestjenester, Solheimsviken 11, Bergen Sentre for foreldre og barn Renovasjon, vann, avløp o.l. BIR Privat AS 24,16
+4 Region Vest 403210 Fellestjenester, Solheimsviken 11, Bergen Sentre for foreldre og barn Renovasjon, vann, avløp o.l. BIR Privat AS 16,1
+4 Region Vest 403210 Fellestjenester, Solheimsviken 11, Bergen Sentre for foreldre og barn Renovasjon, vann, avløp o.l. GC Rieber Eiendom Drift AS 161,02
+4 Region Vest 403210 Fellestjenester, Solheimsviken 11, Bergen Sentre for foreldre og barn Vakthold lokaler Securitas AS 103,35
+4 Region Vest 403210 Fellestjenester, Solheimsviken 11, Bergen Sentre for foreldre og barn Leie parkeringsplass GC Rieber Eiendom Pluss AS(15030825141) 545,34
+4 Region Vest 403210 Fellestjenester, Solheimsviken 11, Bergen Sentre for foreldre og barn Reparasjon og vedlikehold leide lokaler Bravida Norge AS 101,98
+4 Region Vest 403210 Fellestjenester, Solheimsviken 11, Bergen Sentre for foreldre og barn Reparasjon og vedlikehold leide lokaler AKSELL AS 929,35
+4 Region Vest 403210 Fellestjenester, Solheimsviken 11, Bergen Fosterhjem Renovasjon, vann, avløp o.l. BIR Privat AS 96,62
+4 Region Vest 403210 Fellestjenester, Solheimsviken 11, Bergen Fosterhjem Renovasjon, vann, avløp o.l. BIR Privat AS 64,42
+4 Region Vest 403210 Fellestjenester, Solheimsviken 11, Bergen Fosterhjem Renovasjon, vann, avløp o.l. GC Rieber Eiendom Drift AS 644,07
+4 Region Vest 403210 Fellestjenester, Solheimsviken 11, Bergen Fosterhjem Vakthold lokaler Securitas AS 413,4
+4 Region Vest 403211 Fellestjenester, Solheimsviken 11, Bergen Fosterhjem Leie parkeringsplass GC Rieber Eiendom Pluss AS(15030825141) 2181,36
+4 Region Vest 403211 Fellestjenester, Solheimsviken 11, Bergen Fosterhjem Reparasjon og vedlikehold leide lokaler Bravida Norge AS 407,94
+4 Region Vest 403211 Fellestjenester, Solheimsviken 11, Bergen Fosterhjem Reparasjon og vedlikehold leide lokaler AKSELL AS 3717,4
+4 Region Vest 403211 Fellestjenester, Solheimsviken 11, Bergen Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. BIR Privat AS 4,82
+4 Region Vest 403211 Fellestjenester, Solheimsviken 11, Bergen Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. BIR Privat AS 3,21
+4 Region Vest 403211 Fellestjenester, Solheimsviken 11, Bergen Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. GC Rieber Eiendom Drift AS 32,12
+4 Region Vest 403211 Fellestjenester, Solheimsviken 11, Bergen Barnevernsinstitusjoner Vakthold lokaler Securitas AS 20,61
+4 Region Vest 403211 Fellestjenester, Solheimsviken 11, Bergen Barnevernsinstitusjoner Leie parkeringsplass GC Rieber Eiendom Pluss AS(15030825141) 108,77
+4 Region Vest 403211 Fellestjenester, Solheimsviken 11, Bergen Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Bravida Norge AS 20,4
+4 Region Vest 403211 Fellestjenester, Solheimsviken 11, Bergen Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler AKSELL AS 185,36
+4 Region Vest 403211 Fellestjenester, Solheimsviken 11, Bergen Hjelpetiltak i hjemmet Renovasjon, vann, avløp o.l. BIR Privat AS 48,31
+4 Region Vest 403211 Fellestjenester, Solheimsviken 11, Bergen Hjelpetiltak i hjemmet Renovasjon, vann, avløp o.l. BIR Privat AS 32,21
+4 Region Vest 403211 Fellestjenester, Solheimsviken 11, Bergen Hjelpetiltak i hjemmet Renovasjon, vann, avløp o.l. GC Rieber Eiendom Drift AS 322,04
+4 Region Vest 403211 Fellestjenester, Solheimsviken 11, Bergen Hjelpetiltak i hjemmet Vakthold lokaler Securitas AS 206,7
+4 Region Vest 403211 Fellestjenester, Solheimsviken 11, Bergen Hjelpetiltak i hjemmet Leie parkeringsplass GC Rieber Eiendom Pluss AS(15030825141) 1090,68
+4 Region Vest 403211 Fellestjenester, Solheimsviken 11, Bergen Hjelpetiltak i hjemmet Reparasjon og vedlikehold leide lokaler Bravida Norge AS 203,97
+4 Region Vest 403211 Fellestjenester, Solheimsviken 11, Bergen Hjelpetiltak i hjemmet Reparasjon og vedlikehold leide lokaler AKSELL AS 1858,7
+4 Region Vest 403211 Fellestjenester, Solheimsviken 11, Bergen Inntak Renovasjon, vann, avløp o.l. BIR Privat AS 113,98
+4 Region Vest 403211 Fellestjenester, Solheimsviken 11, Bergen Inntak Renovasjon, vann, avløp o.l. BIR Privat AS 75,99
+4 Region Vest 403211 Fellestjenester, Solheimsviken 11, Bergen Inntak Renovasjon, vann, avløp o.l. GC Rieber Eiendom Drift AS 759,77
+4 Region Vest 403211 Fellestjenester, Solheimsviken 11, Bergen Inntak Vakthold lokaler Securitas AS 487,66
+4 Region Vest 403211 Fellestjenester, Solheimsviken 11, Bergen Inntak Leie parkeringsplass GC Rieber Eiendom Pluss AS(15030825141) 2573,23
+4 Region Vest 403211 Fellestjenester, Solheimsviken 11, Bergen Inntak Reparasjon og vedlikehold leide lokaler Bravida Norge AS 481,16
+4 Region Vest 403211 Fellestjenester, Solheimsviken 11, Bergen Inntak Reparasjon og vedlikehold leide lokaler AKSELL AS 4385,21
+4 Region Vest 403211 Fellestjenester, Solheimsviken 11, Bergen Fosterhjemstjenesten Renovasjon, vann, avløp o.l. BIR Privat AS 114,05
+4 Region Vest 403211 Fellestjenester, Solheimsviken 11, Bergen Fosterhjemstjenesten Renovasjon, vann, avløp o.l. BIR Privat AS 76,03
+4 Region Vest 403211 Fellestjenester, Solheimsviken 11, Bergen Fosterhjemstjenesten Renovasjon, vann, avløp o.l. GC Rieber Eiendom Drift AS 760,21
+4 Region Vest 403211 Fellestjenester, Solheimsviken 11, Bergen Fosterhjemstjenesten Vakthold lokaler Securitas AS 487,94
+4 Region Vest 403211 Fellestjenester, Solheimsviken 11, Bergen Fosterhjemstjenesten Leie parkeringsplass GC Rieber Eiendom Pluss AS(15030825141) 2574,72
+4 Region Vest 403211 Fellestjenester, Solheimsviken 11, Bergen Fosterhjemstjenesten Reparasjon og vedlikehold leide lokaler Bravida Norge AS 481,36
+4 Region Vest 403211 Fellestjenester, Solheimsviken 11, Bergen Fosterhjemstjenesten Reparasjon og vedlikehold leide lokaler AKSELL AS 4387,75
+4 Region Vest 403211 Fellestjenester, Solheimsviken 11, Bergen Adopsjon Renovasjon, vann, avløp o.l. BIR Privat AS 4,82
+4 Region Vest 403211 Fellestjenester, Solheimsviken 11, Bergen Adopsjon Renovasjon, vann, avløp o.l. BIR Privat AS 3,21
+4 Region Vest 403211 Fellestjenester, Solheimsviken 11, Bergen Adopsjon Renovasjon, vann, avløp o.l. GC Rieber Eiendom Drift AS 32,12
+4 Region Vest 403211 Fellestjenester, Solheimsviken 11, Bergen Adopsjon Vakthold lokaler Securitas AS 20,61
+4 Region Vest 403211 Fellestjenester, Solheimsviken 11, Bergen Adopsjon Leie parkeringsplass GC Rieber Eiendom Pluss AS(15030825141) 108,77
+4 Region Vest 403211 Fellestjenester, Solheimsviken 11, Bergen Adopsjon Reparasjon og vedlikehold leide lokaler Bravida Norge AS 20,4
+4 Region Vest 403211 Fellestjenester, Solheimsviken 11, Bergen Adopsjon Reparasjon og vedlikehold leide lokaler AKSELL AS 185,36
+4 Region Vest 403211 Fellestjenester Storehagen, Førde Fosterhjem Renhold lokaler ISS Facility Services AS 2051,09
+4 Region Vest 403211 Fellestjenester Storehagen, Førde Fosterhjem Renhold lokaler ISS Facility Services AS 2051,09
+4 Region Vest 403211 Fellestjenester Storehagen, Førde Fosterhjemstjenesten Renhold lokaler ISS Facility Services AS 3690,84
+4 Region Vest 403211 Fellestjenester Storehagen, Førde Fosterhjemstjenesten Renhold lokaler ISS Facility Services AS 3690,84
+4 Region Vest 403211 Bergen Akutts. avd. Toppe Barnevernsinstitusjoner Renhold lokaler MASKE AS 726,7
+4 Region Vest 403211 Bergen Akutts. avd. Toppe Barnevernsinstitusjoner Renhold lokaler Nor Tekstil AS 4056,38
+4 Region Vest 403211 Bergen Akutts. avd. Toppe Barnevernsinstitusjoner Renhold lokaler Nor Tekstil AS 4056,38
+4 Region Vest 403211 Bergen Akutts. avd. Nattland Barnevernsinstitusjoner Renhold lokaler Nor Tekstil AS 1617
+4 Region Vest 403211 Bergen Akutts. avd. Nattland Barnevernsinstitusjoner Renhold lokaler Nor Tekstil AS 1617
+4 Region Vest 403211 Førde senter for foreldre og barn Sentre for foreldre og barn Strøm og oppvarming BKK AS 3700
+4 Region Vest 403211 Førde senter for foreldre og barn Sentre for foreldre og barn Renhold lokaler BB Servicesystem Sogn og Fjordane AS 4128,75
+4 Region Vest 403211 Førde senter for foreldre og barn Sentre for foreldre og barn Renhold lokaler Nor Tekstil AS 908,74
+4 Region Vest 403211 Førde senter for foreldre og barn Sentre for foreldre og barn Annen kostnad lokaler Jysk AS 678,96
+4 Region Vest 403211 Stavanger senter for foreldre og barn Sentre for foreldre og barn Vakthold lokaler SECURITAS TECHNOLOGY AS 656,25
+4 Region Vest 403211 Familievernkontoret for Bergen og omland Familieverntjeneste Leie lokaler andre utleiere AAS EIGEDOM AS 12774
+4 Region Vest 403211 Familievernkontoret for Bergen og omland Familieverntjeneste Renhold lokaler Effektiv Renhold Haugaland AS 5152,15
+4 Region Vest 403211 Familievernkontoret for Bergen og omland Familieverntjeneste Renhold lokaler Effektiv Renhold Haugaland AS 4739,53
+4 Region Vest 403211 Familievernkontoret for Bergen og omland Familieverntjeneste Renhold lokaler Effektiv Renhold Haugaland AS 5152,15
+4 Region Vest 403211 Familievernkontoret for Bergen og omland Familieverntjeneste Renhold lokaler Effektiv Renhold Haugaland AS 4739,53
+4 Region Vest 403211 Familievernkontoret for Bergen og omland Familieverntjeneste Renhold lokaler Effektiv Renhold Haugaland AS 7812,5
+4 Region Vest 403211 Familievernkontoret for Bergen og omland Familieverntjeneste Vakthold lokaler Securitas AS 2186,25
+4 Region Vest 403211 Familiekontora for Sunnfjord og Sogn Familieverntjeneste Renhold lokaler ISS Facility Services AS 8201,55
+4 Region Vest 403211 Familiekontora for Sunnfjord og Sogn Familieverntjeneste Renhold lokaler ISS Facility Services AS 8201,55
+4 Region Vest 403211 Skjoldvegen Skjold Barnevernsinstitusjoner Annen kostnad lokaler IKANO BANK AB (PUBL), Coop 566,7
+4 Region Vest 403211 Stavanger ungdomssenter - avd. Lindøy Barnevernsinstitusjoner Annen kostnad lokaler Sensio AS 267,25
+4 Region Vest 403211 Stavanger ungdomssenter - avd. Våland Barnevernsinstitusjoner Strøm og oppvarming LYSE MARKED AS 18396,19
+4 Region Vest 403212 Stavanger ungdomssenter - avd. Våland Barnevernsinstitusjoner Strøm og oppvarming ANTON HETLAND 5950
+4 Region Vest 403212 Stavanger ungdomssenter - avd. Våland Barnevernsinstitusjoner Annen kostnad lokaler Sensio AS 267,25
+4 Region Vest 403212 SFU avd.Meltunet Barnevernsinstitusjoner Leie lokaler andre utleiere DNK EIENDOM AS 10467,88
+4 Region Vest 403212 SFU avd Bregnetunet Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Sum Næring AS 500
+4 Region Vest 403212 SFU avd Bregnetunet 151003 Prosjektering og utvikling av eiendom/bygg Barnevernsinstitusjoner Fast bygningsinventar og påkostning, leide bygg 375925,8
+4 Region Vest 403212 SFU avd Bregnetunet 151003 Prosjektering og utvikling av eiendom/bygg Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler -1817,39
+4 Region Vest 403212 SFU avd Bregnetunet 151003 Prosjektering og utvikling av eiendom/bygg Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler -50876,48
+4 Region Vest 403212 SFU avd Bregnetunet 151003 Prosjektering og utvikling av eiendom/bygg Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler -325049,32
+4 Region Vest 403212 SFU avd Bregnetunet 151003 Prosjektering og utvikling av eiendom/bygg Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler -375925,8
+4 Region Vest 403212 SFU avd Bregnetunet 151003 Prosjektering og utvikling av eiendom/bygg Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler CERTEGO AS, Bergen 1817,39
+4 Region Vest 403212 Kasa Ungdomssenter avd. Sandsli Barnevernsinstitusjoner Annen kostnad lokaler Biltema Norge AS 1950
+4 Region Vest 410206 Kasa Ungdomssenter avd. Flatøy Barnevernsinstitusjoner Annen kostnad lokaler Power Norge AS -3779,95
+4 Region Vest 410206 Sogndal ungdomsenter-adm. Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Sirkla Ressurs AS 3368,75
+4 Region Vest 410206 Sogndal ungdomsenter-adm. Barnevernsinstitusjoner Strøm og oppvarming Ishavskraft AS 1467,93
+4 Region Vest 410206 Sandnes ungdomssenter - Minde1 Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Renovasjon Næring AS 1810,75
+4 Region Vest 410602 Sandnes ungdomssenter - Minde1 Barnevernsinstitusjoner Annen kostnad lokaler Eurocard Norway 495
+4 Region Vest 410602 Sandnes ungdomssenter - Minde 2 Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Renovasjon Næring AS 1810,75
+4 Region Vest 410602 Sandnes ungdomssenter - Minde 2 Barnevernsinstitusjoner Annen kostnad lokaler Europris Butikkdrift AS 399
+4 Region Vest 410602 MST Bergen team 1 Hjelpetiltak i hjemmet Leie parkeringsplass GC Rieber Eiendom Pluss AS(15030825141) 5000
+4 Region Vest 410604 MST Bergen team 2 Hjelpetiltak i hjemmet Leie parkeringsplass GC Rieber Eiendom Pluss AS(15030825141) 2500
+4 Region Vest 410604 Bjørgvin Ungdomssenter, administrasjon Barnevernsinstitusjoner Renhold lokaler Effektiv Renhold Haugaland AS 1805
+4 Region Vest 410604 Bjørgvin Ungdomssenter, Bønesskogen Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Jula Norge AS 391,85
+4 Region Vest 410604 Bjørgvin Ungdomssenter, Bønesskogen Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Jula Norge AS 189,05
+4 Region Vest 410604 Bjørgvin Ungdomssenter, Bønesskogen Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler OHE Trading AS 549
+4 Region Vest 410605 Sogn og fjordane ungdomssenter behandling høy Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 15000
+4 Region Vest 410605 Sogn og fjordane ungdomssenter avdeling Bregnetunet behandling høy Barnevernsinstitusjoner Renhold lokaler IKANO BANK AB (PUBL), Coop 66,2
+4 Region Vest 410605 Sogn og fjordane ungdomssenter avdeling Bregnetunet behandling høy Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 35000
+4 Region Vest 410605 Sogn og fjordane ungdomssenter avdeling Bregnetunet behandling høy 151003 Prosjektering og utvikling av eiendom/bygg Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler 1817,39
+4 Region Vest 410606 Sogn og fjordane ungdomssenter avdeling Bregnetunet behandling høy 151003 Prosjektering og utvikling av eiendom/bygg Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler 50876,48
+4 Region Vest 410606 Sogn og fjordane ungdomssenter avdeling Bregnetunet behandling høy 151003 Prosjektering og utvikling av eiendom/bygg Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler 325049,32
+4 Region Vest 410607 Driftsavdelingen Barnevernsinstitusjoner Leie lokaler andre utleiere NEDRE NØTTVEIT EIENDOM AS 191332
+4 Region Vest 410607 Driftsavdelingen Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Franzefoss Gjenvinning AS 1863,51
+4 Region Vest 410704 Driftsavdelingen Barnevernsinstitusjoner Renhold lokaler POINTING POINT SERVICE JACOB 2125
+4 Region Vest 410704 Driftsavdelingen 151003 Prosjektering og utvikling av eiendom/bygg Barnevernsinstitusjoner Fast bygningsinventar og påkostning, leide bygg Statsbyggs hovedkontor 2554972,5
+4 Region Vest 410704 Fellestjenester Haraldsgata, Haugesund Regionale fellesfunksjoner Leie lokaler andre utleiere Dorado AS 55746,08
+4 Region Vest 420802 Fellestjenester Haraldsgata, Haugesund Regionale fellesfunksjoner Renhold lokaler Effektiv Renhold Haugaland AS 2094,61
+4 Region Vest 421001 Fellestjenester Haraldsgata, Haugesund Regionale fellesfunksjoner Fellesutgifter andre utleiere Dorado AS 12064,66
+4 Region Vest 421001 Fellestjenester Haraldsgata, Haugesund Regionale fellesfunksjoner Fellesutgifter andre utleiere Dorado AS 29096,48
+4 Region Vest 421201 Fellestjenester Haraldsgata, Haugesund Fosterhjem Leie lokaler andre utleiere Dorado AS 161044,24
+4 Region Vest 421201 Fellestjenester Haraldsgata, Haugesund Fosterhjem Renhold lokaler Effektiv Renhold Haugaland AS 6051,1
+4 Region Vest 421201 Fellestjenester Haraldsgata, Haugesund Fosterhjem Fellesutgifter andre utleiere Dorado AS 34853,48
+4 Region Vest 421201 Fellestjenester Haraldsgata, Haugesund Fosterhjem Fellesutgifter andre utleiere Dorado AS 84056,49
+4 Region Vest 421201 Fellestjenester Haraldsgata, Haugesund Hjelpetiltak i hjemmet Leie lokaler andre utleiere Dorado AS 65656,5
+4 Region Vest 421201 Fellestjenester Haraldsgata, Haugesund Hjelpetiltak i hjemmet Renhold lokaler Effektiv Renhold Haugaland AS 2466,99
+4 Region Vest 421201 Fellestjenester Haraldsgata, Haugesund Hjelpetiltak i hjemmet Fellesutgifter andre utleiere Dorado AS 14209,49
+4 Region Vest 421201 Fellestjenester Haraldsgata, Haugesund Hjelpetiltak i hjemmet Fellesutgifter andre utleiere Dorado AS 34269,19
+4 Region Vest 421201 Fellestjenester Haraldsgata, Haugesund Fosterhjemstjenesten Leie lokaler andre utleiere Dorado AS 123880,18
+4 Region Vest 421201 Fellestjenester Haraldsgata, Haugesund Fosterhjemstjenesten Renhold lokaler Effektiv Renhold Haugaland AS 4654,7
+4 Region Vest 421201 Fellestjenester Haraldsgata, Haugesund Fosterhjemstjenesten Fellesutgifter andre utleiere Dorado AS 26810,37
+4 Region Vest 421201 Fellestjenester Haraldsgata, Haugesund Fosterhjemstjenesten Fellesutgifter andre utleiere Dorado AS 64658,84
+4 Region Vest 421201 Fellestjeneste Statens hus, Stavanger Regionale fellesfunksjoner Leie lokaler andre utleiere LAGÅRDSVEIEN 44 AS 87975,98
+4 Region Vest 421201 Fellestjeneste Statens hus, Stavanger Regionale fellesfunksjoner Leie parkeringsplass Aimo Park Norway AS(15030825141) 780,53
+4 Region Vest 421201 Fellestjeneste Statens hus, Stavanger Regionale fellesfunksjoner Fellesutgifter andre utleiere STATSFORVALTAREN I ROGALAND 1558,44
+4 Region Vest 421201 Fellestjeneste Statens hus, Stavanger Fosterhjem Leie lokaler andre utleiere LAGÅRDSVEIEN 44 AS 406888,95
+4 Region Vest 421201 Fellestjeneste Statens hus, Stavanger Fosterhjem Leie parkeringsplass Aimo Park Norway AS(15030825141) 3612,49
+4 Region Vest 421201 Fellestjeneste Statens hus, Stavanger Fosterhjem Fellesutgifter andre utleiere STATSFORVALTAREN I ROGALAND 7207,8
+4 Region Vest 421201 Fellestjeneste Statens hus, Stavanger Barnevernsinstitusjoner Leie lokaler andre utleiere LAGÅRDSVEIEN 44 AS 21994
+4 Region Vest 421201 Fellestjeneste Statens hus, Stavanger Barnevernsinstitusjoner Leie parkeringsplass Aimo Park Norway AS(15030825141) 195,86
+4 Region Vest 421201 Fellestjeneste Statens hus, Stavanger Barnevernsinstitusjoner Fellesutgifter andre utleiere STATSFORVALTAREN I ROGALAND 389,61
+4 Region Vest 421701 Fellestjeneste Statens hus, Stavanger Hjelpetiltak i hjemmet Leie lokaler andre utleiere LAGÅRDSVEIEN 44 AS 197945,98
+4 Region Vest 421701 Fellestjeneste Statens hus, Stavanger Hjelpetiltak i hjemmet Leie parkeringsplass Aimo Park Norway AS(15030825141) 1756,92
+4 Region Vest 421701 Fellestjeneste Statens hus, Stavanger Hjelpetiltak i hjemmet Fellesutgifter andre utleiere STATSFORVALTAREN I ROGALAND 3506,5
+4 Region Vest 421701 Fellestjeneste Statens hus, Stavanger Inntak Leie lokaler andre utleiere LAGÅRDSVEIEN 44 AS 402490,15
+4 Region Vest 421701 Fellestjeneste Statens hus, Stavanger Inntak Leie parkeringsplass Aimo Park Norway AS(15030825141) 3573,32
+4 Region Vest 421701 Fellestjeneste Statens hus, Stavanger Inntak Fellesutgifter andre utleiere STATSFORVALTAREN I ROGALAND 7129,88
+4 Region Vest 432101 Fellestjeneste Statens hus, Stavanger Fosterhjemstjenesten Leie lokaler andre utleiere LAGÅRDSVEIEN 44 AS 516858,94
+4 Region Vest 432203 Fellestjeneste Statens hus, Stavanger Fosterhjemstjenesten Leie parkeringsplass Aimo Park Norway AS(15030825141) 4588,88
+4 Region Vest 432203 Fellestjeneste Statens hus, Stavanger Fosterhjemstjenesten Fellesutgifter andre utleiere STATSFORVALTAREN I ROGALAND 9155,85
+4 Region Vest 432204 Fellestjenester, Solheimsviken 11, Bergen Regionale fellesfunksjoner Leie lokaler andre utleiere Skipsbyggerhallen AS 960393,52
+4 Region Vest 432204 Fellestjenester, Solheimsviken 11, Bergen Regionale fellesfunksjoner Leie lokaler andre utleiere GC Rieber Eiendom Drift AS 414,32
+4 Region Vest 432204 Fellestjenester, Solheimsviken 11, Bergen Regionale fellesfunksjoner Leie lokaler andre utleiere Motorhallen AS 2225,44
+4 Region Vest 432204 Fellestjenester, Solheimsviken 11, Bergen Regionale fellesfunksjoner Strøm og oppvarming GC Rieber Eiendom Drift AS 47661,61
+4 Region Vest 432402 Fellestjenester, Solheimsviken 11, Bergen Regionale fellesfunksjoner Strøm og oppvarming GC Rieber Eiendom Drift AS 46692,1
+4 Region Vest 432403 Fellestjenester, Solheimsviken 11, Bergen Regionale fellesfunksjoner Renhold lokaler Effektiv Renhold Haugaland AS 14194,68
+4 Region Vest 432403 Fellestjenester, Solheimsviken 11, Bergen Regionale fellesfunksjoner Renhold lokaler Effektiv Renhold Haugaland AS 14194,68
+4 Region Vest 432502 Fellestjenester, Solheimsviken 11, Bergen Regionale fellesfunksjoner Fellesutgifter andre utleiere GC Rieber Eiendom Drift AS 119040,35
+4 Region Vest 432502 Fellestjenester, Solheimsviken 11, Bergen Sentre for foreldre og barn Leie lokaler andre utleiere Skipsbyggerhallen AS 91640,6
+4 Region Vest 432802 Fellestjenester, Solheimsviken 11, Bergen Sentre for foreldre og barn Leie lokaler andre utleiere GC Rieber Eiendom Drift AS 39,53
+4 Region Vest 432802 Fellestjenester, Solheimsviken 11, Bergen Sentre for foreldre og barn Leie lokaler andre utleiere Motorhallen AS 212,35
+4 Region Vest 432805 Fellestjenester, Solheimsviken 11, Bergen Sentre for foreldre og barn Strøm og oppvarming GC Rieber Eiendom Drift AS 4548
+4 Region Vest 432805 Fellestjenester, Solheimsviken 11, Bergen Sentre for foreldre og barn Strøm og oppvarming GC Rieber Eiendom Drift AS 4455,5
+4 Region Vest 432805 Fellestjenester, Solheimsviken 11, Bergen Sentre for foreldre og barn Renhold lokaler Effektiv Renhold Haugaland AS 1354,46
+4 Region Vest 432806 Fellestjenester, Solheimsviken 11, Bergen Sentre for foreldre og barn Renhold lokaler Effektiv Renhold Haugaland AS 1354,46
+4 Region Vest 432807 Fellestjenester, Solheimsviken 11, Bergen Sentre for foreldre og barn Fellesutgifter andre utleiere GC Rieber Eiendom Drift AS 11358,81
+4 Region Vest 432901 Fellestjenester, Solheimsviken 11, Bergen Fosterhjem Leie lokaler andre utleiere Skipsbyggerhallen AS 366562,41
+4 Region Vest 432901 Fellestjenester, Solheimsviken 11, Bergen Fosterhjem Leie lokaler andre utleiere GC Rieber Eiendom Drift AS 158,14
+4 Region Vest 433102 Fellestjenester, Solheimsviken 11, Bergen Fosterhjem Leie lokaler andre utleiere Motorhallen AS 849,4
+4 Region Vest 433102 Fellestjenester, Solheimsviken 11, Bergen Fosterhjem Strøm og oppvarming GC Rieber Eiendom Drift AS 18191
+4 Region Vest 433102 Fellestjenester, Solheimsviken 11, Bergen Fosterhjem Strøm og oppvarming GC Rieber Eiendom Drift AS 17822
+4 Region Vest 433103 Fellestjenester, Solheimsviken 11, Bergen Fosterhjem Renhold lokaler Effektiv Renhold Haugaland AS 5417,82
+4 Region Vest 442604 Fellestjenester, Solheimsviken 11, Bergen Fosterhjem Renhold lokaler Effektiv Renhold Haugaland AS 5417,82
+4 Region Vest 442701 Fellestjenester, Solheimsviken 11, Bergen Fosterhjem Fellesutgifter andre utleiere GC Rieber Eiendom Drift AS 45435,24
+4 Region Vest 442701 Fellestjenester, Solheimsviken 11, Bergen Barnevernsinstitusjoner Leie lokaler andre utleiere Skipsbyggerhallen AS 18328,12
+4 Region Vest 442701 Fellestjenester, Solheimsviken 11, Bergen Barnevernsinstitusjoner Leie lokaler andre utleiere GC Rieber Eiendom Drift AS 7,91
+4 Region Vest 442703 Fellestjenester, Solheimsviken 11, Bergen Barnevernsinstitusjoner Leie lokaler andre utleiere Motorhallen AS 42,47
+4 Region Vest 442703 Fellestjenester, Solheimsviken 11, Bergen Barnevernsinstitusjoner Strøm og oppvarming GC Rieber Eiendom Drift AS 909,5
+4 Region Vest 445102 Fellestjenester, Solheimsviken 11, Bergen Barnevernsinstitusjoner Strøm og oppvarming GC Rieber Eiendom Drift AS 891
+4 Region Vest 445102 Fellestjenester, Solheimsviken 11, Bergen Barnevernsinstitusjoner Renhold lokaler Effektiv Renhold Haugaland AS 270,89
+4 Region Vest 445102 Fellestjenester, Solheimsviken 11, Bergen Barnevernsinstitusjoner Renhold lokaler Effektiv Renhold Haugaland AS 270,89
+4 Region Vest 445401 Fellestjenester, Solheimsviken 11, Bergen Barnevernsinstitusjoner Fellesutgifter andre utleiere GC Rieber Eiendom Drift AS 2271,76
+4 Region Vest 445401 Fellestjenester, Solheimsviken 11, Bergen Hjelpetiltak i hjemmet Leie lokaler andre utleiere Skipsbyggerhallen AS 183281,21
+4 Region Vest 445401 Fellestjenester, Solheimsviken 11, Bergen Hjelpetiltak i hjemmet Leie lokaler andre utleiere GC Rieber Eiendom Drift AS 79,07
+4 Region Vest 445401 Fellestjenester, Solheimsviken 11, Bergen Hjelpetiltak i hjemmet Leie lokaler andre utleiere Motorhallen AS 424,7
+4 Region Vest 445401 Fellestjenester, Solheimsviken 11, Bergen Hjelpetiltak i hjemmet Strøm og oppvarming GC Rieber Eiendom Drift AS 9095,5
+4 Region Vest 445401 Fellestjenester, Solheimsviken 11, Bergen Hjelpetiltak i hjemmet Strøm og oppvarming GC Rieber Eiendom Drift AS 8911
+4 Region Vest 445401 Fellestjenester, Solheimsviken 11, Bergen Hjelpetiltak i hjemmet Renhold lokaler Effektiv Renhold Haugaland AS 2708,9
+4 Region Vest 445401 Fellestjenester, Solheimsviken 11, Bergen Hjelpetiltak i hjemmet Renhold lokaler Effektiv Renhold Haugaland AS 2708,91
+4 Region Vest 445401 Fellestjenester, Solheimsviken 11, Bergen Hjelpetiltak i hjemmet Fellesutgifter andre utleiere GC Rieber Eiendom Drift AS 22717,62
+4 Region Vest 445401 Fellestjenester, Solheimsviken 11, Bergen Inntak Leie lokaler andre utleiere Skipsbyggerhallen AS 432360,37
+4 Region Vest 445401 Fellestjenester, Solheimsviken 11, Bergen Inntak Leie lokaler andre utleiere GC Rieber Eiendom Drift AS 186,52
+4 Region Vest 445401 Fellestjenester, Solheimsviken 11, Bergen Inntak Leie lokaler andre utleiere Motorhallen AS 1001,87
+4 Region Vest 403208 Fellestjenester, Solheimsviken 11, Bergen Inntak Strøm og oppvarming GC Rieber Eiendom Drift AS 21456,5
+4 Region Vest 403208 Fellestjenester, Solheimsviken 11, Bergen Inntak Strøm og oppvarming GC Rieber Eiendom Drift AS 21021
+4 Region Vest 403208 Fellestjenester, Solheimsviken 11, Bergen Inntak Renhold lokaler Effektiv Renhold Haugaland AS 6390,32
+4 Region Vest 403208 Fellestjenester, Solheimsviken 11, Bergen Inntak Renhold lokaler Effektiv Renhold Haugaland AS 6390,32
+4 Region Vest 403208 Fellestjenester, Solheimsviken 11, Bergen Inntak Fellesutgifter andre utleiere GC Rieber Eiendom Drift AS 53590,87
+4 Region Vest 403208 Fellestjenester, Solheimsviken 11, Bergen Fosterhjemstjenesten Leie lokaler andre utleiere Skipsbyggerhallen AS 432543,65
+4 Region Vest 403208 Fellestjenester, Solheimsviken 11, Bergen Fosterhjemstjenesten Leie lokaler andre utleiere Motorhallen AS 1002,3
+4 Region Vest 403208 Fellestjenester, Solheimsviken 11, Bergen Fosterhjemstjenesten Strøm og oppvarming GC Rieber Eiendom Drift AS 21465,5
+4 Region Vest 403209 Fellestjenester, Solheimsviken 11, Bergen Fosterhjemstjenesten Strøm og oppvarming GC Rieber Eiendom Drift AS 21030
+4 Region Vest 403209 Fellestjenester, Solheimsviken 11, Bergen Fosterhjemstjenesten Renhold lokaler Effektiv Renhold Haugaland AS 6393,02
+4 Region Vest 403209 Fellestjenester, Solheimsviken 11, Bergen Fosterhjemstjenesten Renhold lokaler Effektiv Renhold Haugaland AS 6393,02
+4 Region Vest 403209 Fellestjenester, Solheimsviken 11, Bergen Fosterhjemstjenesten Fellesutgifter andre utleiere GC Rieber Eiendom Drift AS 53613,59
+4 Region Vest 403209 Fellestjenester, Solheimsviken 11, Bergen Adopsjon Leie lokaler andre utleiere Skipsbyggerhallen AS 18328,12
+4 Region Vest 403209 Fellestjenester, Solheimsviken 11, Bergen Adopsjon Leie lokaler andre utleiere Motorhallen AS 42,47
+4 Region Vest 403209 Fellestjenester, Solheimsviken 11, Bergen Adopsjon Strøm og oppvarming GC Rieber Eiendom Drift AS 909,5
+4 Region Vest 403209 Fellestjenester, Solheimsviken 11, Bergen Adopsjon Strøm og oppvarming GC Rieber Eiendom Drift AS 891
+4 Region Vest 403210 Fellestjenester, Solheimsviken 11, Bergen Adopsjon Renhold lokaler Effektiv Renhold Haugaland AS 270,89
+4 Region Vest 403210 Fellestjenester, Solheimsviken 11, Bergen Adopsjon Renhold lokaler Effektiv Renhold Haugaland AS 271,75
+4 Region Vest 403210 Fellestjenester, Solheimsviken 11, Bergen Adopsjon Fellesutgifter andre utleiere GC Rieber Eiendom Drift AS 2271,76
+4 Region Vest 403210 Fellestjenester Storehagen, Førde Familieverntjeneste Leie lokaler andre utleiere Futurum AS 322585,3
+4 Region Vest 403210 Fellestjenester Storehagen, Førde Familieverntjeneste Strøm og oppvarming Futurum AS 27397,06
+4 Region Vest 403210 Fellestjenester Storehagen, Førde Familieverntjeneste Fellesutgifter andre utleiere Futurum AS 44530
+4 Region Vest 403211 Fellestjenester Storehagen, Førde Familieverntjeneste Fellesutgifter andre utleiere Futurum AS 17940
+4 Region Vest 403211 Fellestjenester Storehagen, Førde Fosterhjem Leie lokaler andre utleiere Futurum AS 80646,32
+4 Region Vest 403211 Fellestjenester Storehagen, Førde Fosterhjem Strøm og oppvarming Futurum AS 6849,26
+4 Region Vest 403211 Fellestjenester Storehagen, Førde Fosterhjem Renhold lokaler ISS Facility Services AS 1738,1
+4 Region Vest 403211 Fellestjenester Storehagen, Førde Fosterhjem Renhold lokaler ISS Facility Services AS 2466,41
+4 Region Vest 403211 Fellestjenester Storehagen, Førde Fosterhjem Fellesutgifter andre utleiere Futurum AS 11132,5
+4 Region Vest 403211 Fellestjenester Storehagen, Førde Fosterhjem Fellesutgifter andre utleiere Futurum AS 4485
+4 Region Vest 403211 Fellestjenester Storehagen, Førde Fosterhjemstjenesten Leie lokaler andre utleiere Futurum AS 145163,38
+4 Region Vest 403211 Fellestjenester Storehagen, Førde Fosterhjemstjenesten Strøm og oppvarming Futurum AS 12328,68
+4 Region Vest 403211 Fellestjenester Storehagen, Førde Fosterhjemstjenesten Renhold lokaler ISS Facility Services AS 3128,57
+4 Region Vest 403211 Fellestjenester Storehagen, Førde Fosterhjemstjenesten Renhold lokaler ISS Facility Services AS 4438,19
+4 Region Vest 403211 Fellestjenester Storehagen, Førde Fosterhjemstjenesten Fellesutgifter andre utleiere Futurum AS 20038,5
+4 Region Vest 403211 Fellestjenester Storehagen, Førde Fosterhjemstjenesten Fellesutgifter andre utleiere Futurum AS 8073
+4 Region Vest 403211 Bergen Akutts. avd. Toppe Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 816834
+4 Region Vest 403211 Bergen Akutts. avd. Toppe Barnevernsinstitusjoner Renhold lokaler Europris Butikkdrift AS 149
+4 Region Vest 403211 Bergen Akutts. avd. Toppe Barnevernsinstitusjoner Renhold lokaler Nor Tekstil AS 1653,75
+4 Region Vest 410602 Bergen Akutts. avd. Toppe Barnevernsinstitusjoner Renhold lokaler Nor Tekstil AS 1653,75
+4 Region Vest 410602 Bergen Akutts. avd. Toppe Barnevernsinstitusjoner Renhold lokaler Effektiv Renhold Haugaland AS 5825,64
+4 Region Vest 410602 Bergen Akutts. avd. Toppe Barnevernsinstitusjoner Renhold lokaler Effektiv Renhold Haugaland AS 5825,64
+4 Region Vest 410602 Bergen Akutts. avd. Toppe Barnevernsinstitusjoner Annen kostnad lokaler Clas Ohlson AS 1277
+4 Region Vest 410602 Bergen Akutts. avd. Toppe Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 128626
+4 Region Vest 410602 Bergen Akutts. avd. Toppe Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 161425
+4 Region Vest 410602 Bergen Akutts. avd. Toppe Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 14933
+4 Region Vest 410602 Bergen Akutts. avd. Toppe Barnevernsinstitusjoner Reparasjon og vedlikehold av anlegg, også serviceavtaler Dustin Norway AS 1118,04
+4 Region Vest 410604 Bergen Akutts. avd. Nattland Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 477901,14
+4 Region Vest 410604 Bergen Akutts. avd. Nattland Barnevernsinstitusjoner Renhold lokaler Nor Tekstil AS 1837,5
+4 Region Vest 410604 Bergen Akutts. avd. Nattland Barnevernsinstitusjoner Renhold lokaler Effektiv Renhold Haugaland AS 11401,25
+4 Region Vest 410604 Bergen Akutts. avd. Nattland Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 36050
+4 Region Vest 410604 Bergen Akutts. avd. Nattland Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor -30517,5
+4 Region Vest 410604 Bergen Akutts. avd. Nattland Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 9007,5
+4 Region Vest 410604 Bergen Akutts. avd. Nattland Barnevernsinstitusjoner Reparasjon og vedlikehold av anlegg, også serviceavtaler DE LAGE LANDEN FINANS NORGE 2675
+4 Region Vest 410604 Tverrfaglig helsekartlegging avd Vestland - Team 1 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Leie lokaler fra Statsbygg Statsbyggs hovedkontor 76646,73
+4 Region Vest 410606 Tverrfaglig helsekartlegging avd Vestland - Team 1 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Renhold lokaler Effektiv Renhold Haugaland AS 438,75
+4 Region Vest 410606 Tverrfaglig helsekartlegging avd Vestland - Team 1 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 9012,5
+4 Region Vest 410606 Tverrfaglig helsekartlegging avd Vestland - Team 1 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor -15258,75
+4 Region Vest 410606 Tverrfaglig helsekartlegging avd Vestland - Team 1 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 1501,25
+4 Region Vest 410606 Tverrfaglig helsekartlegging avd Vestland - Team 2 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Leie lokaler fra Statsbygg Statsbyggs hovedkontor 76646,13
+4 Region Vest 410606 Tverrfaglig helsekartlegging avd Vestland - Team 2 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Renhold lokaler Effektiv Renhold Haugaland AS 438,75
+4 Region Vest 410606 Tverrfaglig helsekartlegging avd Vestland - Team 2 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 9012,5
+4 Region Vest 410606 Tverrfaglig helsekartlegging avd Vestland - Team 2 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor -15258,75
+4 Region Vest 410606 Tverrfaglig helsekartlegging avd Vestland - Team 2 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 1501,25
+4 Region Vest 410606 Stavanger akuttsenter - Madla Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 395336
+4 Region Vest 410606 Stavanger akuttsenter - Madla Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 265825
+4 Region Vest 410606 Stavanger akuttsenter - Madla Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 328366
+4 Region Vest 410606 Stavanger akuttsenter - Madla Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 36663
+4 Region Vest 410607 Stavanger akuttsenter - Røyneberg Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 216956
+4 Region Vest 410607 Stavanger akuttsenter - Røyneberg Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 8596
+4 Region Vest 410607 Stavanger akuttsenter - Røyneberg Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 64350
+4 Region Vest 410607 Stavanger akuttsenter - Røyneberg Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 8927
+4 Region Vest 410607 Sudmannske senter for foreldre og barn Sentre for foreldre og barn Leie lokaler andre utleiere Sudmannske Stiftelse 379213
+4 Region Vest 410607 Sudmannske senter for foreldre og barn Sentre for foreldre og barn Renhold lokaler Effektiv Renhold Haugaland AS 11614,58
+4 Region Vest 410607 Sudmannske senter for foreldre og barn Sentre for foreldre og barn Renhold lokaler Effektiv Renhold Haugaland AS 11614,58
+4 Region Vest 410607 Sudmannske senter for foreldre og barn Sentre for foreldre og barn Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 67750
+4 Region Vest 410607 Sudmannske senter for foreldre og barn Sentre for foreldre og barn Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor -27736
+4 Region Vest 410607 Sudmannske senter for foreldre og barn Sentre for foreldre og barn Reparasjon og vedlikehold leide lokaler Statsbyggs hovedkontor 97138
+4 Region Vest 410607 Førde senter for foreldre og barn Sentre for foreldre og barn Leie lokaler fra Statsbygg Statsbyggs hovedkontor 315008
+4 Region Vest 410607 Førde senter for foreldre og barn Sentre for foreldre og barn Strøm og oppvarming BKK AS 2989,79
+4 Region Vest 410607 Førde senter for foreldre og barn Sentre for foreldre og barn Renhold lokaler Nor Tekstil AS 908,74
+4 Region Vest 410702 Førde senter for foreldre og barn Sentre for foreldre og barn Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 112700
+4 Region Vest 410702 Førde senter for foreldre og barn Sentre for foreldre og barn Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 4453
+4 Region Vest 410702 Førde senter for foreldre og barn Sentre for foreldre og barn Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 11319
+4 Region Vest 410702 Stavanger senter for foreldre og barn Sentre for foreldre og barn Leie lokaler fra Statsbygg Statsbyggs hovedkontor 177293
+4 Region Vest 410704 Stavanger senter for foreldre og barn Sentre for foreldre og barn Renhold lokaler Elite Vinduspuss AS 1633,75
+4 Region Vest 410704 Stavanger senter for foreldre og barn Sentre for foreldre og barn Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 51325
+4 Region Vest 410704 Stavanger senter for foreldre og barn Sentre for foreldre og barn Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 199677
+4 Region Vest 410704 Stavanger senter for foreldre og barn Sentre for foreldre og barn Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 14728
+4 Region Vest 410704 Familievernkontoret for Bergen og omland Familieverntjeneste Leie lokaler andre utleiere Torget 10 AS 72797
+4 Region Vest 420802 Familievernkontoret for Bergen og omland Familieverntjeneste Leie lokaler andre utleiere GC Rieber Eiendom Drift AS 68433,26
+4 Region Vest 420802 Familievernkontoret for Bergen og omland Familieverntjeneste Leie lokaler andre utleiere Almerket As 83506,73
+4 Region Vest 420802 Familievernkontoret for Bergen og omland Familieverntjeneste Leie lokaler andre utleiere Motorhallen AS 547558
+4 Region Vest 420802 Familievernkontoret for Bergen og omland Familieverntjeneste Leie lokaler andre utleiere Motorhallen AS 257718
+4 Region Vest 420802 Familievernkontoret for Bergen og omland Familieverntjeneste Leie lokaler andre utleiere AAS EIGEDOM AS 13898
+4 Region Vest 420802 Familievernkontoret for Bergen og omland Familieverntjeneste Strøm og oppvarming GC Rieber Eiendom Drift AS 10251,58
+4 Region Vest 420802 Familievernkontoret for Bergen og omland Familieverntjeneste Strøm og oppvarming GC Rieber Eiendom Drift AS 23139,69
+4 Region Vest 421001 Familievernkontoret for Bergen og omland Familieverntjeneste Strøm og oppvarming GC Rieber Eiendom Drift AS 10213,23
+4 Region Vest 421001 Familievernkontoret for Bergen og omland Familieverntjeneste Strøm og oppvarming GC Rieber Eiendom Drift AS 23071
+4 Region Vest 421001 Familievernkontoret for Bergen og omland Familieverntjeneste Renhold lokaler Effektiv Renhold Haugaland AS 17580,5
+4 Region Vest 421001 Familievernkontoret for Bergen og omland Familieverntjeneste Renhold lokaler Effektiv Renhold Haugaland AS 5152,15
+4 Region Vest 421001 Familievernkontoret for Bergen og omland Familieverntjeneste Renhold lokaler Effektiv Renhold Haugaland AS 4739,53
+4 Region Vest 421001 Familievernkontoret for Bergen og omland Familieverntjeneste Renhold lokaler Effektiv Renhold Haugaland AS 17580,5
+4 Region Vest 421001 Familievernkontoret for Bergen og omland Familieverntjeneste Annen kostnad lokaler Effektiv Renhold Haugaland AS 103,38
+4 Region Vest 421001 Familievernkontoret for Bergen og omland Familieverntjeneste Fellesutgifter andre utleiere GC Rieber Eiendom Drift AS 31991,25
+4 Region Vest 421104 Familievernkontoret for Bergen og omland Familieverntjeneste Fellesutgifter andre utleiere Almerket As 6883,95
+4 Region Vest 421104 Familiekontora for Sunnfjord og Sogn Familieverntjeneste Leie lokaler andre utleiere -24133
+4 Region Vest 421104 Familiekontora for Sunnfjord og Sogn Familieverntjeneste Leie lokaler andre utleiere Parkveien 5 AS 83964
+4 Region Vest 421104 Familiekontora for Sunnfjord og Sogn Familieverntjeneste Renhold lokaler ISS Facility Services AS 6952,39
+4 Region Vest 421201 Familiekontora for Sunnfjord og Sogn Familieverntjeneste Renhold lokaler ISS Facility Services AS 9862,28
+4 Region Vest 421201 Familiekontora for Sunnfjord og Sogn Familieverntjeneste Fellesutgifter andre utleiere -6780
+4 Region Vest 421201 Familiekontora for Sunnfjord og Sogn Familieverntjeneste Fellesutgifter andre utleiere -6780
+4 Region Vest 421201 Familiekontora for Sunnfjord og Sogn Familieverntjeneste Fellesutgifter andre utleiere Parkveien 5 AS 21732
+4 Region Vest 421701 Familiekontora for Sunnfjord og Sogn Familieverntjeneste Fellesutgifter andre utleiere Parkveien 5 AS -11704
+4 Region Vest 432101 Skjoldvegen barnevernsenter Barnevernsinstitusjoner Renhold lokaler Effektiv Renhold Haugaland AS 1899,78
+4 Region Vest 432103 Skjoldvegen barnevernsenter Barnevernsinstitusjoner Renhold lokaler Effektiv Renhold Haugaland AS 1899,78
+4 Region Vest 432103 Skjoldvegen Søfteland Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 118201
+4 Region Vest 432103 Skjoldvegen Søfteland Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 3138
+4 Region Vest 432103 Skjoldvegen Søfteland Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 24050
+4 Region Vest 432103 Skjoldvegen Søfteland Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 4212
+4 Region Vest 432104 Skjoldvegen Skjold Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 267905
+4 Region Vest 432104 Skjoldvegen Skjold Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 48100
+4 Region Vest 432104 Skjoldvegen Skjold Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 10873
+4 Region Vest 432104 Skjoldvegen Skjold Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 17175
+4 Region Vest 432104 Skjoldvegen Skjold 43044 Hærverk Region Vest Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler OHE Trading AS 2052
+4 Region Vest 432104 Skjoldvegen barnevernsenter avd. Fyllingsdalen Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 131267
+4 Region Vest 432106 Skjoldvegen barnevernsenter avd. Fyllingsdalen Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 52725
+4 Region Vest 432106 Skjoldvegen barnevernsenter avd. Fyllingsdalen Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor -33252
+4 Region Vest 432106 Skjoldvegen barnevernsenter avd. Fyllingsdalen Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 9273
+4 Region Vest 432106 Stavanger ungdomssenter - avd. Lindøy Barnevernsinstitusjoner Annen kostnad lokaler Sensio AS 267,25
+4 Region Vest 432106 Stavanger ungdomssenter - avd. Lindøy Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 38850
+4 Region Vest 432203 Stavanger ungdomssenter - avd. Lindøy Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 207692
+4 Region Vest 432203 Stavanger ungdomssenter - avd. Lindøy Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 160659
+4 Region Vest 432203 Stavanger ungdomssenter - avd. Lindøy Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Statsbyggs hovedkontor 19546
+4 Region Vest 432203 Stavanger ungdomssenter - avd. Våland Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 186792
+4 Region Vest 432203 Stavanger ungdomssenter - avd. Våland Barnevernsinstitusjoner Strøm og oppvarming LYSE MARKED AS 18694,52
+4 Region Vest 432203 Stavanger ungdomssenter - avd. Våland Barnevernsinstitusjoner Annen kostnad lokaler Sensio AS 267,25
+4 Region Vest 432203 Stavanger ungdomssenter - avd. Våland Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 54850
+4 Region Vest 432203 Stavanger ungdomssenter - avd. Våland Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 112477
+4 Region Vest 432203 Stavanger ungdomssenter - avd. Våland Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 10563
+4 Region Vest 432204 SFU avd.Meltunet Barnevernsinstitusjoner Leie lokaler andre utleiere DNK EIENDOM AS 10713,72
+4 Region Vest 432204 SFU avd.Meltunet Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 122986
+4 Region Vest 432204 SFU avd.Meltunet Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 106337
+4 Region Vest 432204 SFU avd.Meltunet Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor -123479
+4 Region Vest 432204 SFU avd.Meltunet Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 52062
+4 Region Vest 432401 SFU avd.Meltunet Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 11450
+4 Region Vest 432401 SFU avd.Meltunet Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 2317
+4 Region Vest 432401 Spesialiserte fosterhjem Vestland Fosterhjem Leie lokaler andre utleiere 24133
+4 Region Vest 432402 Spesialiserte fosterhjem Vestland Fosterhjem Fellesutgifter andre utleiere 6780
+4 Region Vest 432402 Spesialiserte fosterhjem Vestland Fosterhjem Fellesutgifter andre utleiere 6780
+4 Region Vest 432402 Kasa Ungdomssenter avd. Sandsli Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 155139
+4 Region Vest 432402 Kasa Ungdomssenter avd. Sandsli Barnevernsinstitusjoner Annen kostnad lokaler Eurocard Norway 278
+4 Region Vest 432402 Kasa Ungdomssenter avd. Sandsli Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor -18424
+4 Region Vest 432402 Kasa Ungdomssenter avd. Sandsli Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 25050
+4 Region Vest 432402 Kasa Ungdomssenter avd. Sandsli Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 5678
+4 Region Vest 432402 Kasa Ungdomssenter avd. Flatøy Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 136458
+4 Region Vest 432402 Kasa Ungdomssenter avd. Flatøy Barnevernsinstitusjoner Renhold lokaler MASKE AS 8472,34
+4 Region Vest 432403 Kasa Ungdomssenter avd. Flatøy Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 31786
+4 Region Vest 432403 Kasa Ungdomssenter avd. Flatøy Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 22050
+4 Region Vest 432403 Kasa Ungdomssenter avd. Flatøy Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 5597
+4 Region Vest 432403 Kasa Ungdomssenter avd. Hop Barnevernsinstitusjoner Leie lokaler andre utleiere Kjell Aga, Nesttun (husl) 139559
+4 Region Vest 432403 Kasa Ungdomssenter avd. Hop Barnevernsinstitusjoner Fellesutgifter andre utleiere Kjell Aga, Nesttun (husl) 10546
+4 Region Vest 432502 Kasa Ungdomssenter avd. Hop Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Kjell Aga, Nesttun (husl) 5250
+4 Region Vest 432802 Kasa Ungdomssenter avd. Morvik Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 109508
+4 Region Vest 432802 Kasa Ungdomssenter avd. Morvik Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 23800
+4 Region Vest 432802 Kasa Ungdomssenter avd. Morvik Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 77057
+4 Region Vest 432802 Kasa Ungdomssenter avd. Morvik Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 6684
+4 Region Vest 432802 Kasa Ungdomssenter avd. Tertnes Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 102842
+4 Region Vest 432804 Kasa Ungdomssenter avd. Tertnes Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor -17086
+4 Region Vest 432804 Kasa Ungdomssenter avd. Tertnes Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 26050
+4 Region Vest 432804 Kasa Ungdomssenter avd. Tertnes Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 8207
+4 Region Vest 432804 Sogndal ungdomsenter-adm. Barnevernsinstitusjoner Leie lokaler andre utleiere Sogndal Røde Kors Hjelpekorps 1900
+4 Region Vest 432805 Sogndal ungdomsenter-adm. Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 130499
+4 Region Vest 432805 Sogndal ungdomsenter-adm. Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Sirkla Ressurs AS 3262,5
+4 Region Vest 432806 Sogndal ungdomsenter-adm. Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 80200
+4 Region Vest 432806 Sogndal ungdomsenter-adm. Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 75642
+4 Region Vest 432806 Sogndal ungdomsenter-adm. Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 12139
+4 Region Vest 432806 Sogndal ungdomsenter-adm. Barnevernsinstitusjoner Reparasjon og vedlikehold av anlegg, også serviceavtaler ECOSOGN AS 9068
+4 Region Vest 432807 Sandnes ungdomssenter - adm Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 614315
+4 Region Vest 432807 Sandnes ungdomssenter - adm Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 158925
+4 Region Vest 432807 Sandnes ungdomssenter - adm Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 576112
+4 Region Vest 432807 Sandnes ungdomssenter - adm Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 32047
+4 Region Vest 432807 Sandnes ungdomssenter - Minde1 Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Renovasjon Næring AS 1476,25
+4 Region Vest 432901 Sandnes ungdomssenter - Minde1 Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Ivar IKS 760
+4 Region Vest 432901 Sandnes ungdomssenter - Minde1 Barnevernsinstitusjoner Annen kostnad lokaler Eurocard Norway 797,2
+4 Region Vest 432901 Sandnes ungdomssenter - Minde1 Barnevernsinstitusjoner Annen kostnad lokaler Ikano Bank AB (PUBL), Norway Branch (83970500777) 651
+4 Region Vest 432901 Sandnes ungdomssenter - Minde 2 Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Renovasjon Næring AS 1476,25
+4 Region Vest 432901 MST Bergen team 1 Hjelpetiltak i hjemmet Leie parkeringsplass GC Rieber Eiendom Pluss AS(15030825141) 5000
+4 Region Vest 432901 MST Bergen team 2 Hjelpetiltak i hjemmet Leie parkeringsplass GC Rieber Eiendom Pluss AS(15030825141) 2500
+4 Region Vest 432901 Bjørgvin Ungdomssenter, administrasjon Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 154168
+4 Region Vest 432901 Bjørgvin Ungdomssenter, administrasjon Barnevernsinstitusjoner Renhold lokaler Effektiv Renhold Haugaland AS 2510
+4 Region Vest 433101 Bjørgvin Ungdomssenter, administrasjon Barnevernsinstitusjoner Renhold lokaler Effektiv Renhold Haugaland AS 1805
+4 Region Vest 433101 Bjørgvin Ungdomssenter, administrasjon Barnevernsinstitusjoner Renhold lokaler Effektiv Renhold Haugaland AS 2298,75
+4 Region Vest 433101 Bjørgvin Ungdomssenter, administrasjon Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 36737,5
+4 Region Vest 433102 Bjørgvin Ungdomssenter, administrasjon Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 24160
+4 Region Vest 433102 Bjørgvin Ungdomssenter, administrasjon Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 10307
+4 Region Vest 433102 Bjørgvin Ungdomssenter, Bønesstølen Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 154168
+4 Region Vest 433103 Bjørgvin Ungdomssenter, Bønesstølen Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 36737,5
+4 Region Vest 433103 Bjørgvin Ungdomssenter, Bønesstølen Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 24160
+4 Region Vest 433103 Bjørgvin Ungdomssenter, Bønesstølen Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 10307
+4 Region Vest 433103 Bjørgvin Ungdomssenter, Bønesskogen Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 199843
+4 Region Vest 433103 Bjørgvin Ungdomssenter, Bønesskogen Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 233895
+4 Region Vest 442604 Bjørgvin Ungdomssenter, Bønesskogen Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 45725
+4 Region Vest 442604 Bjørgvin Ungdomssenter, Bønesskogen Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 13367
+4 Region Vest 442605 Sogn og fjordane ungdomssenter behandling høy Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 167496,4
+4 Region Vest 442605 Sogn og fjordane ungdomssenter behandling høy Barnevernsinstitusjoner Annen kostnad lokaler Statsbyggs hovedkontor -66893,7
+4 Region Vest 442701 Sogn og fjordane ungdomssenter behandling høy Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 68325
+4 Region Vest 442701 Sogn og fjordane ungdomssenter behandling høy Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 5361,3
+4 Region Vest 442701 Sogn og fjordane ungdomssenter avdeling Bregnetunet behandling høy Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 116786,6
+4 Region Vest 442701 Sogn og fjordane ungdomssenter avdeling Bregnetunet behandling høy Barnevernsinstitusjoner Annen kostnad lokaler Statsbyggs hovedkontor -156085,3
+4 Region Vest 442701 Sogn og fjordane ungdomssenter avdeling Bregnetunet behandling høy Barnevernsinstitusjoner Annen kostnad lokaler IKANO BANK AB (PUBL), Coop 1758,8
+4 Region Vest 442701 Sogn og fjordane ungdomssenter avdeling Bregnetunet behandling høy Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 159425
+4 Region Vest 442702 Sogn og fjordane ungdomssenter avdeling Bregnetunet behandling høy Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 12509,7
+4 Region Vest 442702 Eikelund ungdomssenter behandling høy Barnevernsinstitusjoner Renhold lokaler MASKE AS 5697,31
+4 Region Vest 442702 Eikelund ungdomssenter behandling høy Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 5469
+4 Region Vest 442702 Eikelund ungdomssenter behandling høy 151006 Drift - Styrking og omstilling av statlige institusjoner Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 89773
+4 Region Vest 442703 Eikelund ungdomssenter behandling høy 151006 Drift - Styrking og omstilling av statlige institusjoner Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 57850
+4 Region Vest 442703 Eikelund ungdomssenter behandling høy 151006 Drift - Styrking og omstilling av statlige institusjoner Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 5800
+4 Region Vest 442703 Regionkontor-stab Regionale fellesfunksjoner Strøm og oppvarming Dustin Norway AS -157,03
+4 Region Vest 442703 Regionkontor-stab 43043 Bufetathus Stavanger Regionale fellesfunksjoner Renovasjon, vann, avløp o.l. FIRST MOVER GROUP NORGE AS (64010635002) 12153,94
+4 Region Vest 442703 Driftsavdelingen Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Franzefoss Gjenvinning AS 2752,7
+4 Region Vest 442703 Driftsavdelingen Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 16195,06
+4 Region Vest 442703 Driftsavdelingen Barnevernsinstitusjoner Renhold lokaler POINTING POINT SERVICE JACOB 2125
+4 Region Vest 445101 Driftsavdelingen 151003 Prosjektering og utvikling av eiendom/bygg Barnevernsinstitusjoner Fast bygningsinventar og påkostning, leide bygg Statsbyggs hovedkontor 4402219,35
+4 Region Vest 445102 Driftsavdelingen 44305 Branntiltak region vest Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler 2712
+4 Region Vest 445102 Driftsavdelingen 44305 Branntiltak region vest Barnevernsinstitusjoner Oppgradering og påkostning leide lokaler - under kr 50 000 -2712
+4 Region Vest 445401 Fellestjenester Haraldsgata, Haugesund Regionale fellesfunksjoner Strøm og oppvarming KINECT ENERGY SPOT AS 903,77
+4 Region Vest 445401 Fellestjenester Haraldsgata, Haugesund Regionale fellesfunksjoner Strøm og oppvarming KINECT ENERGY SPOT AS 1707,93
+4 Region Vest 445401 Fellestjenester Haraldsgata, Haugesund Regionale fellesfunksjoner Renhold lokaler Effektiv Renhold Haugaland AS 2094,69
+4 Region Vest 445401 Fellestjenester Haraldsgata, Haugesund Fosterhjem Strøm og oppvarming KINECT ENERGY SPOT AS 2610,3
+4 Region Vest 445401 Fellestjenester Haraldsgata, Haugesund Fosterhjem Strøm og oppvarming KINECT ENERGY SPOT AS 4933,26
+4 Region Vest 445401 Fellestjenester Haraldsgata, Haugesund Fosterhjem Renhold lokaler Effektiv Renhold Haugaland AS 6050,47
+4 Region Vest 445401 Fellestjenester Haraldsgata, Haugesund Hjelpetiltak i hjemmet Strøm og oppvarming KINECT ENERGY SPOT AS 1064,2
+4 Region Vest 445401 Fellestjenester Haraldsgata, Haugesund Hjelpetiltak i hjemmet Strøm og oppvarming KINECT ENERGY SPOT AS 2011,25
+4 Region Vest 445401 Fellestjenester Haraldsgata, Haugesund Hjelpetiltak i hjemmet Renhold lokaler Effektiv Renhold Haugaland AS 2467,21
+4 Region Vest 403208 Fellestjenester Haraldsgata, Haugesund Fosterhjemstjenesten Strøm og oppvarming KINECT ENERGY SPOT AS 2007,93
+4 Region Vest 403208 Fellestjenester Haraldsgata, Haugesund Fosterhjemstjenesten Strøm og oppvarming KINECT ENERGY SPOT AS 3794,82
+4 Region Vest 403208 Fellestjenester Haraldsgata, Haugesund Fosterhjemstjenesten Renhold lokaler Effektiv Renhold Haugaland AS 4655,03
+4 Region Vest 403208 Fellestjeneste Statens hus, Stavanger Regionale fellesfunksjoner Leie parkeringsplass Aimo Park Norway AS(15030825141) 782,4
+4 Region Vest 403208 Fellestjeneste Statens hus, Stavanger Fosterhjem Leie parkeringsplass Aimo Park Norway AS(15030825141) 3621,16
+4 Region Vest 403208 Fellestjeneste Statens hus, Stavanger Barnevernsinstitusjoner Leie parkeringsplass Aimo Park Norway AS(15030825141) 196,33
+4 Region Vest 403209 Fellestjeneste Statens hus, Stavanger Hjelpetiltak i hjemmet Leie parkeringsplass Aimo Park Norway AS(15030825141) 1761,13
+4 Region Vest 403209 Fellestjeneste Statens hus, Stavanger Inntak Leie parkeringsplass Aimo Park Norway AS(15030825141) 3581,89
+4 Region Vest 403209 Fellestjeneste Statens hus, Stavanger Fosterhjemstjenesten Leie parkeringsplass Aimo Park Norway AS(15030825141) 4599,89
+4 Region Vest 403209 Fellestjenester, Solheimsviken 11, Bergen Regionale fellesfunksjoner Strøm og oppvarming -37654,08
+4 Region Vest 403209 Fellestjenester, Solheimsviken 11, Bergen Regionale fellesfunksjoner Strøm og oppvarming GC Rieber Eiendom Drift AS 36334,79
+4 Region Vest 403209 Fellestjenester, Solheimsviken 11, Bergen Regionale fellesfunksjoner Leie parkeringsplass GC Rieber Eiendom Pluss AS(15030825141) 5717,13
+4 Region Vest 403209 Fellestjenester, Solheimsviken 11, Bergen Regionale fellesfunksjoner Fellesutgifter andre utleiere 37654,08
+4 Region Vest 403209 Fellestjenester, Solheimsviken 11, Bergen Sentre for foreldre og barn Strøm og oppvarming -2936
+4 Region Vest 403209 Fellestjenester, Solheimsviken 11, Bergen Sentre for foreldre og barn Strøm og oppvarming GC Rieber Eiendom Drift AS 3467
+4 Region Vest 403209 Fellestjenester, Solheimsviken 11, Bergen Sentre for foreldre og barn Leie parkeringsplass GC Rieber Eiendom Pluss AS(15030825141) 545,34
+4 Region Vest 403209 Fellestjenester, Solheimsviken 11, Bergen Sentre for foreldre og barn Fellesutgifter andre utleiere 2936
+4 Region Vest 403209 Fellestjenester, Solheimsviken 11, Bergen Fosterhjem Strøm og oppvarming -15266,5
+4 Region Vest 403209 Fellestjenester, Solheimsviken 11, Bergen Fosterhjem Strøm og oppvarming GC Rieber Eiendom Drift AS 13868,5
+4 Region Vest 403209 Fellestjenester, Solheimsviken 11, Bergen Fosterhjem Leie parkeringsplass GC Rieber Eiendom Pluss AS(15030825141) 2181,36
+4 Region Vest 403209 Fellestjenester, Solheimsviken 11, Bergen Fosterhjem Fellesutgifter andre utleiere 15266,5
+4 Region Vest 403209 Fellestjenester, Solheimsviken 11, Bergen Barnevernsinstitusjoner Strøm og oppvarming -1761,5
+4 Region Vest 403210 Fellestjenester, Solheimsviken 11, Bergen Barnevernsinstitusjoner Strøm og oppvarming GC Rieber Eiendom Drift AS 693,5
+4 Region Vest 403210 Fellestjenester, Solheimsviken 11, Bergen Barnevernsinstitusjoner Leie parkeringsplass GC Rieber Eiendom Pluss AS(15030825141) 108,77
+4 Region Vest 403210 Fellestjenester, Solheimsviken 11, Bergen Barnevernsinstitusjoner Fellesutgifter andre utleiere 1761,5
+4 Region Vest 403210 Fellestjenester, Solheimsviken 11, Bergen Hjelpetiltak i hjemmet Strøm og oppvarming GC Rieber Eiendom Drift AS 6934
+4 Region Vest 403210 Fellestjenester, Solheimsviken 11, Bergen Hjelpetiltak i hjemmet Leie parkeringsplass GC Rieber Eiendom Pluss AS(15030825141) 1090,68
+4 Region Vest 403210 Fellestjenester, Solheimsviken 11, Bergen Hjelpetiltak i hjemmet Fellesutgifter andre utleiere 9248
+4 Region Vest 403210 Fellestjenester, Solheimsviken 11, Bergen Inntak Strøm og oppvarming -25608,5
+4 Region Vest 403210 Fellestjenester, Solheimsviken 11, Bergen Inntak Strøm og oppvarming GC Rieber Eiendom Drift AS 16358
+4 Region Vest 403210 Fellestjenester, Solheimsviken 11, Bergen Inntak Leie parkeringsplass GC Rieber Eiendom Pluss AS(15030825141) 2573,23
+4 Region Vest 403210 Fellestjenester, Solheimsviken 11, Bergen Inntak Fellesutgifter andre utleiere 16360,5
+4 Region Vest 403210 Fellestjenester, Solheimsviken 11, Bergen Fosterhjemstjenesten Strøm og oppvarming -18936,5
+4 Region Vest 403210 Fellestjenester, Solheimsviken 11, Bergen Fosterhjemstjenesten Strøm og oppvarming GC Rieber Eiendom Drift AS 16364,5
+4 Region Vest 403210 Fellestjenester, Solheimsviken 11, Bergen Fosterhjemstjenesten Leie parkeringsplass GC Rieber Eiendom Pluss AS(15030825141) 2574,72
+4 Region Vest 403210 Fellestjenester, Solheimsviken 11, Bergen Fosterhjemstjenesten Fellesutgifter andre utleiere 18936,5
+4 Region Vest 403210 Fellestjenester, Solheimsviken 11, Bergen Adopsjon Strøm og oppvarming -1027,5
+4 Region Vest 403210 Fellestjenester, Solheimsviken 11, Bergen Adopsjon Strøm og oppvarming GC Rieber Eiendom Drift AS 693,5
+4 Region Vest 403210 Fellestjenester, Solheimsviken 11, Bergen Adopsjon Leie parkeringsplass GC Rieber Eiendom Pluss AS(15030825141) 108,77
+4 Region Vest 403210 Fellestjenester, Solheimsviken 11, Bergen Adopsjon Fellesutgifter andre utleiere 1027,5
+4 Region Vest 403210 Fellestjenester Storehagen, Førde Familieverntjeneste Leie lokaler andre utleiere -322585,3
+4 Region Vest 403210 Fellestjenester Storehagen, Førde Familieverntjeneste Strøm og oppvarming -27397,06
+4 Region Vest 403210 Fellestjenester Storehagen, Førde Familieverntjeneste Fellesutgifter andre utleiere -17940
+4 Region Vest 403210 Fellestjenester Storehagen, Førde Fosterhjem Renhold lokaler ISS Facility Services AS 2466,41
+4 Region Vest 403210 Fellestjenester Storehagen, Førde Fosterhjemstjenesten Renhold lokaler ISS Facility Services AS 4438,19
+4 Region Vest 403210 Bergen Akutts. avd. Toppe Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 47226,96
+4 Region Vest 403210 Bergen Akutts. avd. Toppe Barnevernsinstitusjoner Renhold lokaler Nor Tekstil AS 1653,75
+4 Region Vest 403210 Bergen Akutts. avd. Toppe Barnevernsinstitusjoner Renhold lokaler Nor Tekstil AS 1653,75
+4 Region Vest 403210 Bergen Akutts. avd. Toppe Barnevernsinstitusjoner Annen kostnad lokaler Europris Butikkdrift AS 74,9
+4 Region Vest 403210 Bergen Akutts. avd. Nattland Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 31097,42
+4 Region Vest 403210 Bergen Akutts. avd. Nattland Barnevernsinstitusjoner Renhold lokaler Nor Tekstil AS 1837,5
+4 Region Vest 403210 Bergen Akutts. avd. Nattland Barnevernsinstitusjoner Renhold lokaler Effektiv Renhold Haugaland AS 11401,25
+4 Region Vest 403211 Bergen Akutts. avd. Nattland Barnevernsinstitusjoner Reparasjon og vedlikehold av anlegg, også serviceavtaler Clas Ohlson AS 330
+4 Region Vest 403211 Tverrfaglig helsekartlegging avd Vestland - Team 1 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Strøm og oppvarming KINECT ENERGY SPOT AS 5182,9
+4 Region Vest 403211 Tverrfaglig helsekartlegging avd Vestland - Team 1 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Renhold lokaler Effektiv Renhold Haugaland AS 438,75
+4 Region Vest 403211 Tverrfaglig helsekartlegging avd Vestland - Team 2 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Strøm og oppvarming KINECT ENERGY SPOT AS 5182,9
+4 Region Vest 403211 Tverrfaglig helsekartlegging avd Vestland - Team 2 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Renhold lokaler Effektiv Renhold Haugaland AS 438,75
+4 Region Vest 403211 Stavanger akuttsenter - Madla Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 91351,3
+4 Region Vest 403211 Stavanger akuttsenter - Madla Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 2417,97
+4 Region Vest 403211 Stavanger akuttsenter - Røyneberg Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 11969,39
+4 Region Vest 403211 Stavanger akuttsenter - Røyneberg Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 14896,91
+4 Region Vest 403211 Sudmannske senter for foreldre og barn Sentre for foreldre og barn Strøm og oppvarming KINECT ENERGY SPOT AS 20135,4
+4 Region Vest 403211 Sudmannske senter for foreldre og barn Sentre for foreldre og barn Fellesutgifter andre utleiere Sudmannske Stiftelse 9864,98
+4 Region Vest 403211 Førde senter for foreldre og barn Sentre for foreldre og barn Strøm og oppvarming BKK AS 4404,74
+4 Region Vest 403211 Førde senter for foreldre og barn Sentre for foreldre og barn Strøm og oppvarming KINECT ENERGY SPOT AS -1546,34
+4 Region Vest 403211 Førde senter for foreldre og barn Sentre for foreldre og barn Renhold lokaler BB Servicesystem Sogn og Fjordane AS 4128,75
+4 Region Vest 403211 Førde senter for foreldre og barn Sentre for foreldre og barn Renhold lokaler Nor Tekstil AS 908,74
+4 Region Vest 403211 Stavanger senter for foreldre og barn Sentre for foreldre og barn Annen kostnad lokaler Statsbyggs hovedkontor 22998,51
+4 Region Vest 403211 Stavanger senter for foreldre og barn Sentre for foreldre og barn Annen kostnad lokaler KINECT ENERGY SPOT AS 34574,34
+4 Region Vest 403211 Familievernkontoret for Bergen og omland Familieverntjeneste Leie lokaler andre utleiere AAS EIGEDOM AS 13055
+4 Region Vest 403211 Familievernkontoret for Bergen og omland Familieverntjeneste Strøm og oppvarming GC Rieber Eiendom Drift AS 8901,38
+4 Region Vest 403211 Familievernkontoret for Bergen og omland Familieverntjeneste Strøm og oppvarming GC Rieber Eiendom Drift AS 20222,1
+4 Region Vest 403211 Familievernkontoret for Bergen og omland Familieverntjeneste Strøm og oppvarming KINECT ENERGY SPOT AS 29084,64
+4 Region Vest 403211 Familievernkontoret for Bergen og omland Familieverntjeneste Renhold lokaler Effektiv Renhold Haugaland AS 5152,15
+4 Region Vest 403211 Familievernkontoret for Bergen og omland Familieverntjeneste Renhold lokaler Effektiv Renhold Haugaland AS 4739,53
+4 Region Vest 403211 Familiekontora for Sunnfjord og Sogn Familieverntjeneste Leie lokaler andre utleiere -24133
+4 Region Vest 403211 Familiekontora for Sunnfjord og Sogn Familieverntjeneste Leie lokaler andre utleiere 322585,3
+4 Region Vest 403211 Familiekontora for Sunnfjord og Sogn Familieverntjeneste Strøm og oppvarming 27397,06
+4 Region Vest 403211 Familiekontora for Sunnfjord og Sogn Familieverntjeneste Strøm og oppvarming KINECT ENERGY SPOT AS 10538,4
+4 Region Vest 403211 Familiekontora for Sunnfjord og Sogn Familieverntjeneste Renhold lokaler ISS Facility Services AS 9862,28
+4 Region Vest 403211 Familiekontora for Sunnfjord og Sogn Familieverntjeneste Fellesutgifter andre utleiere 17940
+4 Region Vest 403211 Skjoldvegen barnevernsenter Barnevernsinstitusjoner Renhold lokaler Effektiv Renhold Haugaland AS 1899,78
+4 Region Vest 403211 Skjoldvegen Søfteland Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 16378,17
+4 Region Vest 403211 Skjoldvegen Skjold Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 46067,69
+4 Region Vest 403211 Skjoldvegen Skjold Barnevernsinstitusjoner Vaktmestertjenester IKANO BANK AB (PUBL), Coop 2591
+4 Region Vest 403211 Skjoldvegen barnevernsenter avd. Fyllingsdalen Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 36340,71
+4 Region Vest 403211 Stavanger ungdomssenter - avd. Lindøy Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 3135,42
+4 Region Vest 403211 Stavanger ungdomssenter - avd. Lindøy Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 11876,74
+4 Region Vest 403211 Stavanger ungdomssenter - avd. Lindøy Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 7115,72
+4 Region Vest 403211 Stavanger ungdomssenter - avd. Lindøy Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 6138,02
+4 Region Vest 403211 Stavanger ungdomssenter - avd. Lindøy Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 52922,82
+4 Region Vest 403211 Stavanger ungdomssenter - avd. Lindøy Barnevernsinstitusjoner Annen kostnad lokaler Sensio AS 267,25
+4 Region Vest 403211 Stavanger ungdomssenter - avd. Lindøy Barnevernsinstitusjoner Annen kostnad lokaler Sensio AS 267,25
+4 Region Vest 403211 Stavanger ungdomssenter - avd. Våland Barnevernsinstitusjoner Strøm og oppvarming LYSE MARKED AS 12017,76
+4 Region Vest 403211 Stavanger ungdomssenter - avd. Våland Barnevernsinstitusjoner Annen kostnad lokaler Sensio AS 267,25
+4 Region Vest 403211 Stavanger ungdomssenter - avd. Våland Barnevernsinstitusjoner Annen kostnad lokaler Sensio AS 267,25
+4 Region Vest 403211 SFU avd.Meltunet Barnevernsinstitusjoner Leie lokaler andre utleiere DNK EIENDOM AS 10713,72
+4 Region Vest 403211 SFU avd.Meltunet Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 17975,69
+4 Region Vest 403211 SFU avd.Meltunet Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 5664,36
+4 Region Vest 403211 SFU avd.Meltunet Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler NESBAKK RØR AS 1840
+4 Region Vest 403211 Spesialiserte fosterhjem Vestland Fosterhjem Leie lokaler andre utleiere 24133
+4 Region Vest 403211 Kasa Ungdomssenter avd. adm. Barnevernsinstitusjoner Annen kostnad lokaler Sotera AS 481,25
+4 Region Vest 403211 Kasa Ungdomssenter avd. Sandsli Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 21591,01
+4 Region Vest 403211 Kasa Ungdomssenter avd. Sandsli Barnevernsinstitusjoner Annen kostnad lokaler Europris Butikkdrift AS 461,12
+4 Region Vest 403211 Kasa Ungdomssenter avd. Flatøy Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 15191,46
+4 Region Vest 403211 Kasa Ungdomssenter avd. Flatøy Barnevernsinstitusjoner Annen kostnad lokaler POSTEN BRING AS 1539
+4 Region Vest 403211 Kasa Ungdomssenter avd. Flatøy Barnevernsinstitusjoner Annen kostnad lokaler Felleskjøpet Agri SA 578
+4 Region Vest 403211 Kasa Ungdomssenter avd. Morvik Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 18358,91
+4 Region Vest 403212 Kasa Ungdomssenter avd. Tertnes Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 18148,73
+4 Region Vest 403212 Kasa Ungdomssenter avd. Tertnes Barnevernsinstitusjoner Annen kostnad lokaler POSTEN BRING AS 1539
+4 Region Vest 403212 Sogndal ungdomsenter-adm. Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Sirkla Ressurs AS 4075
+4 Region Vest 403212 Sogndal ungdomsenter-adm. Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 42559,81
+4 Region Vest 410602 Sogndal ungdomsenter-adm. Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 4643,96
+4 Region Vest 410602 Sogndal ungdomsenter-adm. Barnevernsinstitusjoner Renhold lokaler MASKE AS 1292,83
+4 Region Vest 410602 Sandnes ungdomssenter - adm Barnevernsinstitusjoner Strøm og oppvarming 5636,92
+4 Region Vest 410604 Sandnes ungdomssenter - Minde1 Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Renovasjon Næring AS 1476,25
+4 Region Vest 410604 Sandnes ungdomssenter - Minde1 Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 39762,2
+4 Region Vest 421001 Sandnes ungdomssenter - Minde1 Barnevernsinstitusjoner Annen kostnad lokaler Europris Butikkdrift AS 399,6
+4 Region Vest 421001 Sandnes ungdomssenter - Minde1 Barnevernsinstitusjoner Annen kostnad lokaler Europris Butikkdrift AS 89,7
+4 Region Vest 421001 Sandnes ungdomssenter - Minde1 Barnevernsinstitusjoner Annen kostnad lokaler Europris Butikkdrift AS 383,8
+4 Region Vest 421001 Sandnes ungdomssenter - Minde1 Barnevernsinstitusjoner Annen kostnad lokaler REMA 1000 STANGELAND 18691,96
+4 Region Vest 421104 Sandnes ungdomssenter - Minde1 Barnevernsinstitusjoner Annen kostnad lokaler Ikano Bank AB (PUBL), Norway Branch (83970500777) 1492
+4 Region Vest 421201 Sandnes ungdomssenter - Minde 2 Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Renovasjon Næring AS 1476,25
+4 Region Vest 421201 Sandnes ungdomssenter - Minde 2 Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 23472,19
+4 Region Vest 421201 Sandnes Ungdomssenter, Boligen Barnevernsinstitusjoner Strøm og oppvarming -5636,92
+4 Region Vest 421201 Sandnes Ungdomssenter, Boligen Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 5636,92
+4 Region Vest 421201 MST Bergen team 1 Hjelpetiltak i hjemmet Leie parkeringsplass GC Rieber Eiendom Pluss AS(15030825141) 5000
+4 Region Vest 421201 MST Bergen team 2 Hjelpetiltak i hjemmet Leie parkeringsplass GC Rieber Eiendom Pluss AS(15030825141) 2500
+4 Region Vest 421201 Bjørgvin Ungdomssenter, administrasjon Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 31598,38
+4 Region Vest 421701 Bjørgvin Ungdomssenter, administrasjon Barnevernsinstitusjoner Renhold lokaler MASKE AS 2802,76
+4 Region Vest 421701 Bjørgvin Ungdomssenter, administrasjon Barnevernsinstitusjoner Renhold lokaler Effektiv Renhold Haugaland AS 1805
+4 Region Vest 432104 Bjørgvin Ungdomssenter, administrasjon Barnevernsinstitusjoner Renhold lokaler Effektiv Renhold Haugaland AS 2510
+4 Region Vest 432203 Bjørgvin Ungdomssenter, Bønesstølen Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 31598,39
+4 Region Vest 432204 Bjørgvin Ungdomssenter, Bønesskogen Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 24271,2
+4 Region Vest 432204 Sogn og fjordane ungdomssenter avdeling Bregnetunet behandling høy Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Sum Næring AS 2000
+4 Region Vest 432204 Sogn og fjordane ungdomssenter avdeling Bregnetunet behandling høy Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Sum Næring AS 500
+4 Region Vest 432402 Sogn og fjordane ungdomssenter avdeling Bregnetunet behandling høy Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 21205,58
+4 Region Vest 432403 Sogn og fjordane ungdomssenter avdeling Bregnetunet behandling høy Barnevernsinstitusjoner Annen kostnad lokaler Biltema Norge AS 264
+4 Region Vest 432403 Eikelund ungdomssenter behandling høy Barnevernsinstitusjoner Renhold lokaler MASKE AS 3865
+4 Region Vest 432403 Eikelund ungdomssenter behandling høy Barnevernsinstitusjoner Renhold lokaler MORTEN IVERSEN AS 628
+4 Region Vest 432403 Driftsavdelingen Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Franzefoss Gjenvinning AS 2123,96
+4 Region Vest 432403 Driftsavdelingen Barnevernsinstitusjoner Renhold lokaler POINTING POINT SERVICE JACOB 2125
+4 Region Vest 432403 Driftsavdelingen 151003 Prosjektering og utvikling av eiendom/bygg Barnevernsinstitusjoner Fast bygningsinventar og påkostning, leide bygg Statsbyggs hovedkontor 2059767,24
+4 Region Vest 432403 Driftsavdelingen 43039 Vedlikehold bygg Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Statsbyggs hovedkontor 19320,17
+4 Region Vest 432802 Driftsavdelingen 44305 Branntiltak region vest Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Statsbyggs hovedkontor 2765,05
+4 Region Vest 432804 Fellestjenester Haraldsgata, Haugesund Regionale fellesfunksjoner Renhold lokaler Effektiv Renhold Haugaland AS 2094,69
+4 Region Vest 432901 Fellestjenester Haraldsgata, Haugesund Fosterhjem Renhold lokaler Effektiv Renhold Haugaland AS 6050,47
+4 Region Vest 432901 Fellestjenester Haraldsgata, Haugesund Hjelpetiltak i hjemmet Renhold lokaler Effektiv Renhold Haugaland AS 2467,21
+4 Region Vest 433102 Fellestjenester Haraldsgata, Haugesund Fosterhjemstjenesten Renhold lokaler Effektiv Renhold Haugaland AS 4655,03
+4 Region Vest 433102 Fellestjeneste Statens hus, Stavanger Regionale fellesfunksjoner Leie parkeringsplass Aimo Park Norway AS(15030825141) 780,53
+4 Region Vest 433103 Fellestjeneste Statens hus, Stavanger Fosterhjem Leie parkeringsplass Aimo Park Norway AS(15030825141) 3612,49
+4 Region Vest 433103 Fellestjeneste Statens hus, Stavanger Barnevernsinstitusjoner Leie parkeringsplass Aimo Park Norway AS(15030825141) 195,86
+4 Region Vest 442604 Fellestjeneste Statens hus, Stavanger Hjelpetiltak i hjemmet Leie parkeringsplass Aimo Park Norway AS(15030825141) 1756,92
+4 Region Vest 442605 Fellestjeneste Statens hus, Stavanger Inntak Leie parkeringsplass Aimo Park Norway AS(15030825141) 3573,32
+4 Region Vest 442701 Fellestjeneste Statens hus, Stavanger Fosterhjemstjenesten Leie parkeringsplass Aimo Park Norway AS(15030825141) 4588,88
+4 Region Vest 442703 Fellestjenester, Solheimsviken 11, Bergen Regionale fellesfunksjoner Strøm og oppvarming GC Rieber Eiendom Drift AS 34510,43
+4 Region Vest 442703 Fellestjenester, Solheimsviken 11, Bergen Regionale fellesfunksjoner Strøm og oppvarming GC Rieber Eiendom Drift AS 31709,11
+4 Region Vest 442703 Fellestjenester, Solheimsviken 11, Bergen Regionale fellesfunksjoner Renhold lokaler Effektiv Renhold Haugaland AS 14194,68
+4 Region Vest 445101 Fellestjenester, Solheimsviken 11, Bergen Regionale fellesfunksjoner Renhold lokaler Effektiv Renhold Haugaland AS 14194,68
+4 Region Vest 445102 Fellestjenester, Solheimsviken 11, Bergen Regionale fellesfunksjoner Vakthold lokaler Securitas AS 1143,91
+4 Region Vest 445102 Fellestjenester, Solheimsviken 11, Bergen Regionale fellesfunksjoner Reparasjon og vedlikehold leide lokaler GC Rieber Eiendom Drift AS 292,24
+4 Region Vest 445102 Fellestjenester, Solheimsviken 11, Bergen Sentre for foreldre og barn Strøm og oppvarming GC Rieber Eiendom Drift AS 3293
+4 Region Vest 445102 Fellestjenester, Solheimsviken 11, Bergen Sentre for foreldre og barn Strøm og oppvarming GC Rieber Eiendom Drift AS 3025,62
+4 Region Vest 445102 Fellestjenester, Solheimsviken 11, Bergen Sentre for foreldre og barn Renhold lokaler Effektiv Renhold Haugaland AS 1354,46
+4 Region Vest 403208 Fellestjenester, Solheimsviken 11, Bergen Sentre for foreldre og barn Renhold lokaler Effektiv Renhold Haugaland AS 1354,46
+4 Region Vest 403208 Fellestjenester, Solheimsviken 11, Bergen Sentre for foreldre og barn Vakthold lokaler Securitas AS 109,11
+4 Region Vest 403208 Fellestjenester, Solheimsviken 11, Bergen Sentre for foreldre og barn Reparasjon og vedlikehold leide lokaler GC Rieber Eiendom Drift AS 27,88
+4 Region Vest 403208 Fellestjenester, Solheimsviken 11, Bergen Fosterhjem Strøm og oppvarming GC Rieber Eiendom Drift AS 13172
+4 Region Vest 403209 Fellestjenester, Solheimsviken 11, Bergen Fosterhjem Strøm og oppvarming GC Rieber Eiendom Drift AS 12102,5
+4 Region Vest 403209 Fellestjenester, Solheimsviken 11, Bergen Fosterhjem Renhold lokaler Effektiv Renhold Haugaland AS 5417,82
+4 Region Vest 403209 Fellestjenester, Solheimsviken 11, Bergen Fosterhjem Renhold lokaler Effektiv Renhold Haugaland AS 5417,82
+4 Region Vest 403209 Fellestjenester, Solheimsviken 11, Bergen Fosterhjem Vakthold lokaler Securitas AS 436,46
+4 Region Vest 403209 Fellestjenester, Solheimsviken 11, Bergen Fosterhjem Reparasjon og vedlikehold leide lokaler GC Rieber Eiendom Drift AS 111,5
+4 Region Vest 403209 Fellestjenester, Solheimsviken 11, Bergen Barnevernsinstitusjoner Strøm og oppvarming GC Rieber Eiendom Drift AS 659
+4 Region Vest 403209 Fellestjenester, Solheimsviken 11, Bergen Barnevernsinstitusjoner Strøm og oppvarming GC Rieber Eiendom Drift AS 605,12
+4 Region Vest 403209 Fellestjenester, Solheimsviken 11, Bergen Barnevernsinstitusjoner Renhold lokaler Effektiv Renhold Haugaland AS 270,89
+4 Region Vest 403209 Fellestjenester, Solheimsviken 11, Bergen Barnevernsinstitusjoner Renhold lokaler Effektiv Renhold Haugaland AS 270,89
+4 Region Vest 403209 Fellestjenester, Solheimsviken 11, Bergen Barnevernsinstitusjoner Vakthold lokaler Securitas AS 21,76
+4 Region Vest 403209 Fellestjenester, Solheimsviken 11, Bergen Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler GC Rieber Eiendom Drift AS 5,56
+4 Region Vest 403209 Fellestjenester, Solheimsviken 11, Bergen Hjelpetiltak i hjemmet Strøm og oppvarming GC Rieber Eiendom Drift AS 6586
+4 Region Vest 403209 Fellestjenester, Solheimsviken 11, Bergen Hjelpetiltak i hjemmet Strøm og oppvarming GC Rieber Eiendom Drift AS 6051,25
+4 Region Vest 403209 Fellestjenester, Solheimsviken 11, Bergen Hjelpetiltak i hjemmet Renhold lokaler Effektiv Renhold Haugaland AS 2708,91
+4 Region Vest 403209 Fellestjenester, Solheimsviken 11, Bergen Hjelpetiltak i hjemmet Renhold lokaler Effektiv Renhold Haugaland AS 2708,91
+4 Region Vest 403209 Fellestjenester, Solheimsviken 11, Bergen Hjelpetiltak i hjemmet Vakthold lokaler Securitas AS 218,23
+4 Region Vest 403210 Fellestjenester, Solheimsviken 11, Bergen Hjelpetiltak i hjemmet Reparasjon og vedlikehold leide lokaler GC Rieber Eiendom Drift AS 55,75
+4 Region Vest 403210 Fellestjenester, Solheimsviken 11, Bergen Inntak Strøm og oppvarming GC Rieber Eiendom Drift AS 15536,5
+4 Region Vest 403210 Fellestjenester, Solheimsviken 11, Bergen Inntak Strøm og oppvarming GC Rieber Eiendom Drift AS 14275
+4 Region Vest 403210 Fellestjenester, Solheimsviken 11, Bergen Inntak Renhold lokaler Effektiv Renhold Haugaland AS 6390,32
+4 Region Vest 403210 Fellestjenester, Solheimsviken 11, Bergen Inntak Renhold lokaler Effektiv Renhold Haugaland AS 6390,32
+4 Region Vest 403210 Fellestjenester, Solheimsviken 11, Bergen Inntak Vakthold lokaler Securitas AS 514,86
+4 Region Vest 403210 Fellestjenester, Solheimsviken 11, Bergen Inntak Reparasjon og vedlikehold leide lokaler GC Rieber Eiendom Drift AS 131,53
+4 Region Vest 403210 Fellestjenester, Solheimsviken 11, Bergen Fosterhjemstjenesten Strøm og oppvarming GC Rieber Eiendom Drift AS 15543,5
+4 Region Vest 403210 Fellestjenester, Solheimsviken 11, Bergen Fosterhjemstjenesten Strøm og oppvarming GC Rieber Eiendom Drift AS 14281
+4 Region Vest 403210 Fellestjenester, Solheimsviken 11, Bergen Fosterhjemstjenesten Renhold lokaler Effektiv Renhold Haugaland AS 6393,02
+4 Region Vest 403210 Fellestjenester, Solheimsviken 11, Bergen Fosterhjemstjenesten Renhold lokaler Effektiv Renhold Haugaland AS 6393,02
+4 Region Vest 403210 Fellestjenester, Solheimsviken 11, Bergen Fosterhjemstjenesten Vakthold lokaler Securitas AS 515,16
+4 Region Vest 403210 Fellestjenester, Solheimsviken 11, Bergen Fosterhjemstjenesten Reparasjon og vedlikehold leide lokaler GC Rieber Eiendom Drift AS 131,61
+4 Region Vest 403210 Fellestjenester, Solheimsviken 11, Bergen Adopsjon Strøm og oppvarming GC Rieber Eiendom Drift AS 659
+4 Region Vest 403210 Fellestjenester, Solheimsviken 11, Bergen Adopsjon Strøm og oppvarming GC Rieber Eiendom Drift AS 605
+4 Region Vest 403210 Fellestjenester, Solheimsviken 11, Bergen Adopsjon Renhold lokaler Effektiv Renhold Haugaland AS 270,92
+4 Region Vest 403210 Fellestjenester, Solheimsviken 11, Bergen Adopsjon Renhold lokaler Effektiv Renhold Haugaland AS 270,92
+4 Region Vest 403210 Fellestjenester, Solheimsviken 11, Bergen Adopsjon Vakthold lokaler Securitas AS 21,76
+4 Region Vest 403211 Fellestjenester, Solheimsviken 11, Bergen Adopsjon Reparasjon og vedlikehold leide lokaler GC Rieber Eiendom Drift AS 5,56
+4 Region Vest 403211 Fellestjenester Storehagen, Førde Fosterhjem Renhold lokaler ISS Facility Services AS 2466,41
+4 Region Vest 403211 Fellestjenester Storehagen, Førde Fosterhjem Renhold lokaler ISS Facility Services AS 305,23
+4 Region Vest 403211 Fellestjenester Storehagen, Førde Fosterhjemstjenesten Renhold lokaler ISS Facility Services AS 4438,19
+4 Region Vest 403211 Fellestjenester Storehagen, Førde Fosterhjemstjenesten Renhold lokaler ISS Facility Services AS 549,25
+4 Region Vest 403211 Bergen Akutts. avd. Toppe Barnevernsinstitusjoner Renhold lokaler Nor Tekstil AS 1746,03
+4 Region Vest 403211 Bergen Akutts. avd. Toppe Barnevernsinstitusjoner Renhold lokaler Nor Tekstil AS 1746,03
+4 Region Vest 403211 Bergen Akutts. avd. Toppe Barnevernsinstitusjoner Renhold lokaler Effektiv Renhold Haugaland AS 5825,64
+4 Region Vest 403211 Bergen Akutts. avd. Toppe Barnevernsinstitusjoner Renhold lokaler Effektiv Renhold Haugaland AS 5825,64
+4 Region Vest 403211 Bergen Akutts. avd. Toppe Barnevernsinstitusjoner Annen kostnad lokaler Clas Ohlson AS 400
+4 Region Vest 403211 Bergen Akutts. avd. Toppe Barnevernsinstitusjoner Annen kostnad lokaler PLANTASJEN NORGE AS 2249,1
+4 Region Vest 403211 Bergen Akutts. avd. Toppe Barnevernsinstitusjoner Annen kostnad lokaler PLANTASJEN NORGE AS 1196,91
+4 Region Vest 403211 Bergen Akutts. avd. Toppe Barnevernsinstitusjoner Annen kostnad lokaler Skinflorbakkane Vel 1500
+4 Region Vest 403211 Bergen Akutts. avd. Nattland Barnevernsinstitusjoner Renhold lokaler MASKE AS 877,78
+4 Region Vest 403211 Bergen Akutts. avd. Nattland Barnevernsinstitusjoner Renhold lokaler Nor Tekstil AS 1940,03
+4 Region Vest 403211 Bergen Akutts. avd. Nattland Barnevernsinstitusjoner Renhold lokaler Effektiv Renhold Haugaland AS 11401,25
+4 Region Vest 403211 Bergen Akutts. avd. Nattland Barnevernsinstitusjoner Renhold lokaler Effektiv Renhold Haugaland AS 11401,25
+4 Region Vest 403211 Bergen Akutts. avd. Nattland Barnevernsinstitusjoner Reparasjon og vedlikehold av anlegg, også serviceavtaler Clas Ohlson AS 440
+4 Region Vest 403211 Tverrfaglig helsekartlegging avd Vestland - Team 1 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Renhold lokaler Effektiv Renhold Haugaland AS 438,75
+4 Region Vest 403211 Tverrfaglig helsekartlegging avd Vestland - Team 1 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Renhold lokaler Effektiv Renhold Haugaland AS 438,75
+4 Region Vest 403211 Tverrfaglig helsekartlegging avd Vestland - Team 2 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Renhold lokaler Effektiv Renhold Haugaland AS 438,75
+4 Region Vest 403211 Tverrfaglig helsekartlegging avd Vestland - Team 2 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Renhold lokaler Effektiv Renhold Haugaland AS 438,75
+4 Region Vest 403211 Stavanger akuttsenter - Administrasjon Barnevernsinstitusjoner Annen kostnad lokaler Sotera AS 487,5
+4 Region Vest 403211 Sudmannske senter for foreldre og barn Sentre for foreldre og barn Renhold lokaler Effektiv Renhold Haugaland AS 11614,58
+4 Region Vest 403211 Sudmannske senter for foreldre og barn Sentre for foreldre og barn Renhold lokaler Effektiv Renhold Haugaland AS 11614,58
+4 Region Vest 403211 Førde senter for foreldre og barn Sentre for foreldre og barn Strøm og oppvarming BKK AS 2752,26
+4 Region Vest 403211 Førde senter for foreldre og barn Sentre for foreldre og barn Renhold lokaler BB Servicesystem Sogn og Fjordane AS 4343,75
+4 Region Vest 403211 Førde senter for foreldre og barn Sentre for foreldre og barn Renhold lokaler Nor Tekstil AS 952,53
+4 Region Vest 403211 Familievernkontoret for Bergen og omland Familieverntjeneste Leie lokaler andre utleiere AAS EIGEDOM AS 13055
+4 Region Vest 403211 Familievernkontoret for Bergen og omland Familieverntjeneste Strøm og oppvarming GC Rieber Eiendom Drift AS 6476,16
+4 Region Vest 403211 Familievernkontoret for Bergen og omland Familieverntjeneste Strøm og oppvarming GC Rieber Eiendom Drift AS 15027,86
+4 Region Vest 403211 Familievernkontoret for Bergen og omland Familieverntjeneste Strøm og oppvarming GC Rieber Eiendom Drift AS 15180,64
+4 Region Vest 403211 Familievernkontoret for Bergen og omland Familieverntjeneste Strøm og oppvarming GC Rieber Eiendom Drift AS 6549,05
+4 Region Vest 403211 Familievernkontoret for Bergen og omland Familieverntjeneste Renhold lokaler Effektiv Renhold Haugaland AS 17580,5
+4 Region Vest 403211 Familievernkontoret for Bergen og omland Familieverntjeneste Renhold lokaler Effektiv Renhold Haugaland AS 17580,5
+4 Region Vest 403211 Familievernkontoret for Bergen og omland Familieverntjeneste Renhold lokaler Effektiv Renhold Haugaland AS 5152,15
+4 Region Vest 403211 Familievernkontoret for Bergen og omland Familieverntjeneste Renhold lokaler Effektiv Renhold Haugaland AS 4739,53
+4 Region Vest 403211 Familievernkontoret for Bergen og omland Familieverntjeneste Vakthold lokaler Securitas AS 2306,25
+4 Region Vest 403211 Familievernkontoret for Bergen og omland Familieverntjeneste Reparasjon og vedlikehold leide lokaler GC Rieber Eiendom Drift AS 824,13
+4 Region Vest 403211 Familiekontora for Sunnfjord og Sogn Familieverntjeneste Renhold lokaler ISS Facility Services AS 9862,28
+4 Region Vest 403211 Familiekontora for Sunnfjord og Sogn Familieverntjeneste Renhold lokaler ISS Facility Services AS 1220,52
+4 Region Vest 403211 Skjoldvegen barnevernsenter Barnevernsinstitusjoner Renhold lokaler Effektiv Renhold Haugaland AS 1899,78
+4 Region Vest 403211 Stavanger ungdomssenter - avd. Lindøy Barnevernsinstitusjoner Annen kostnad lokaler Anticimex AS 70335
+4 Region Vest 403211 Stavanger ungdomssenter - avd. Lindøy Barnevernsinstitusjoner Annen kostnad lokaler Sensio AS 267,25
+4 Region Vest 403211 Stavanger ungdomssenter - avd. Våland Barnevernsinstitusjoner Strøm og oppvarming LYSE MARKED AS 10128,28
+4 Region Vest 403211 Stavanger ungdomssenter - avd. Våland Barnevernsinstitusjoner Annen kostnad lokaler Sensio AS 267,25
+4 Region Vest 403211 SFU avd.Meltunet Barnevernsinstitusjoner Leie lokaler andre utleiere DNK EIENDOM AS 10713,72
+4 Region Vest 403211 SFU avd.Meltunet Barnevernsinstitusjoner Renhold lokaler MASKE AS 2495,9
+4 Region Vest 403211 SFU avd.Meltunet Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Europris Butikkdrift AS 89,8
+4 Region Vest 403211 SFU avd.Meltunet Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Biltema Norge AS 433
+4 Region Vest 403211 Kasa Ungdomssenter avd. Sandsli Barnevernsinstitusjoner Renhold lokaler MASKE AS 6547,48
+4 Region Vest 403211 Kasa Ungdomssenter avd. Flatøy Barnevernsinstitusjoner Annen kostnad lokaler BIR Privat AS 660
+4 Region Vest 403211 Kasa Ungdomssenter avd. Flatøy Barnevernsinstitusjoner Annen kostnad lokaler Knarvik Lavpris AS 1104,7
+4 Region Vest 403211 Kasa Ungdomssenter avd. Hop Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 17629,29
+4 Region Vest 403211 Kasa Ungdomssenter avd. Hop Barnevernsinstitusjoner Strøm og oppvarming KINECT ENERGY SPOT AS 4056,07
+4 Region Vest 403211 Kasa Ungdomssenter avd. Morvik Barnevernsinstitusjoner Annen kostnad lokaler BIR Privat AS 1320
+4 Region Vest 403211 Kasa Ungdomssenter avd. Morvik Barnevernsinstitusjoner Annen kostnad lokaler BIR Privat AS 440
+4 Region Vest 403211 Kasa Ungdomssenter avd. Morvik Barnevernsinstitusjoner Annen kostnad lokaler BIR Privat AS 1320
+4 Region Vest 403211 Kasa Ungdomssenter avd. Tertnes Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. BIR Privat AS 440
+4 Region Vest 403211 Kasa Ungdomssenter avd. Tertnes Barnevernsinstitusjoner Annen kostnad lokaler Åsane Hagesenter AS 1258
+4 Region Vest 403211 Sogndal ungdomsenter-adm. Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Sirkla Ressurs AS 3368,75
+4 Region Vest 403211 Sogndal ungdomsenter-adm. Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 10696,88
+4 Region Vest 403212 Sandnes ungdomssenter - Minde1 Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Renovasjon Næring AS 1562,5
+4 Region Vest 403212 Sandnes ungdomssenter - Minde1 Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Ivar IKS 760
+4 Region Vest 403212 Sandnes ungdomssenter - Minde1 Barnevernsinstitusjoner Annen kostnad lokaler Europris Butikkdrift AS 684,1
+4 Region Vest 403212 Sandnes ungdomssenter - Minde1 Barnevernsinstitusjoner Annen kostnad lokaler Europris Butikkdrift AS 499,2
+4 Region Vest 403212 Sandnes ungdomssenter - Minde1 Barnevernsinstitusjoner Annen kostnad lokaler IKANO BANK AB (PUBL), Coop 856,13
+4 Region Vest 403212 Sandnes ungdomssenter - Minde1 Barnevernsinstitusjoner Annen kostnad lokaler IKANO BANK AB (PUBL), Coop 706,9
+4 Region Vest 403212 Sandnes ungdomssenter - Minde1 Barnevernsinstitusjoner Annen kostnad lokaler Ikano Bank AB (PUBL), Norway Branch (83970500777) 258
+4 Region Vest 403212 Sandnes ungdomssenter - Minde 2 Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Renovasjon Næring AS 1562,5
+4 Region Vest 403212 MST Bergen team 1 Hjelpetiltak i hjemmet Leie parkeringsplass GC Rieber Eiendom Pluss AS(15030825141) 5000
+4 Region Vest 403212 MST Bergen team 2 Hjelpetiltak i hjemmet Leie parkeringsplass GC Rieber Eiendom Pluss AS(15030825141) 2500
+4 Region Vest 403212 Bjørgvin Ungdomssenter, administrasjon Barnevernsinstitusjoner Renhold lokaler Effektiv Renhold Haugaland AS 2510
+4 Region Vest 403212 Bjørgvin Ungdomssenter, administrasjon Barnevernsinstitusjoner Renhold lokaler Effektiv Renhold Haugaland AS 1805
+4 Region Vest 403212 Sogn og fjordane ungdomssenter avdeling Bregnetunet behandling høy Barnevernsinstitusjoner Annen kostnad lokaler REMA 1000 Vie(15033440445) visma 92,25
+4 Region Vest 403212 Driftsavdelingen Regionale fellesfunksjoner Leie lokaler andre utleiere NEDRE NØTTVEIT EIENDOM AS 191332
+4 Region Vest 403212 Driftsavdelingen Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Franzefoss Gjenvinning AS 2477,11
+4 Region Vest 403212 Driftsavdelingen Barnevernsinstitusjoner Renhold lokaler POINTING POINT SERVICE JACOB 2125
+4 Region Vest 410602 Driftsavdelingen 151003 Prosjektering og utvikling av eiendom/bygg Barnevernsinstitusjoner Fast bygningsinventar og påkostning, leide bygg Statsbyggs hovedkontor 802808,67
+4 Region Vest 410602 Driftsavdelingen 151014 Pilot- ny innreting av institusjonstilbudet Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. BIR Privat AS 440
+4 Region Vest 410602 Driftsavdelingen 151014 Pilot- ny innreting av institusjonstilbudet Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. BIR Privat AS 660
+4 Region Vest 410602 Driftsavdelingen 43046 Eikelund Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 765818
+4 Region Vest 410602 Driftsavdelingen 43046 Eikelund Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 765818
+4 Region Vest 410602 Driftsavdelingen 43046 Eikelund Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 168979
+4 Region Vest 410602 Driftsavdelingen 43046 Eikelund Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 168979
+4 Region Vest 410602 Driftsavdelingen 43046 Eikelund Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 49488
+4 Region Vest 410602 Driftsavdelingen 43046 Eikelund Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 49488
+4 Region Vest 410602 Fellestjenester Haraldsgata, Haugesund Regionale fellesfunksjoner Leie lokaler andre utleiere Dorado AS 37568
+4 Region Vest 410602 Fellestjenester Haraldsgata, Haugesund Regionale fellesfunksjoner Renhold lokaler Tekstil-Vask AS 859,05
+4 Region Vest 410604 Fellestjenester Haraldsgata, Haugesund Regionale fellesfunksjoner Renhold lokaler Effektiv Renhold Haugaland AS 2094,69
+4 Region Vest 410604 Fellestjenester Haraldsgata, Haugesund Regionale fellesfunksjoner Fellesutgifter andre utleiere Dorado AS 12064,5
+4 Region Vest 410604 Fellestjenester Haraldsgata, Haugesund Fosterhjem Leie lokaler andre utleiere Dorado AS 108530
+4 Region Vest 410604 Fellestjenester Haraldsgata, Haugesund Fosterhjem Renhold lokaler Tekstil-Vask AS 2481,37
+4 Region Vest 410604 Fellestjenester Haraldsgata, Haugesund Fosterhjem Renhold lokaler Effektiv Renhold Haugaland AS 6050,47
+4 Region Vest 410604 Fellestjenester Haraldsgata, Haugesund Fosterhjem Fellesutgifter andre utleiere Dorado AS 34853,5
+4 Region Vest 410604 Fellestjenester Haraldsgata, Haugesund Hjelpetiltak i hjemmet Leie lokaler andre utleiere Dorado AS 44246,5
+4 Region Vest 410606 Fellestjenester Haraldsgata, Haugesund Hjelpetiltak i hjemmet Renhold lokaler Tekstil-Vask AS 1011,83
+4 Region Vest 410606 Fellestjenester Haraldsgata, Haugesund Hjelpetiltak i hjemmet Renhold lokaler Effektiv Renhold Haugaland AS 2467,21
+4 Region Vest 410606 Fellestjenester Haraldsgata, Haugesund Hjelpetiltak i hjemmet Fellesutgifter andre utleiere Dorado AS 14209,5
+4 Region Vest 410606 Fellestjenester Haraldsgata, Haugesund Fosterhjemstjenesten Leie lokaler andre utleiere Dorado AS 83484,5
+4 Region Vest 410606 Fellestjenester Haraldsgata, Haugesund Fosterhjemstjenesten Renhold lokaler Tekstil-Vask AS 1909,08
+4 Region Vest 410607 Fellestjenester Haraldsgata, Haugesund Fosterhjemstjenesten Renhold lokaler Effektiv Renhold Haugaland AS 4655,03
+4 Region Vest 410607 Fellestjenester Haraldsgata, Haugesund Fosterhjemstjenesten Fellesutgifter andre utleiere Dorado AS 26810,5
+4 Region Vest 410607 Fellestjeneste Statens hus, Stavanger Regionale fellesfunksjoner Leie lokaler andre utleiere LAGÅRDSVEIEN 44 AS 87976
+4 Region Vest 410607 Fellestjeneste Statens hus, Stavanger Regionale fellesfunksjoner Vakthold lokaler Caverion Norge AS 1869,8
+4 Region Vest 410607 Fellestjeneste Statens hus, Stavanger Regionale fellesfunksjoner Leie parkeringsplass Aimo Park Norway AS(15030825141) 945,17
+4 Region Vest 410702 Fellestjeneste Statens hus, Stavanger Regionale fellesfunksjoner Fellesutgifter andre utleiere Caverion Norge AS 5443,77
+4 Region Vest 410702 Fellestjeneste Statens hus, Stavanger Regionale fellesfunksjoner Fellesutgifter andre utleiere Caverion Norge AS 26297
+4 Region Vest 410702 Fellestjeneste Statens hus, Stavanger Regionale fellesfunksjoner Fellesutgifter andre utleiere STATSFORVALTAREN I ROGALAND 1558,44
+4 Region Vest 410702 Fellestjeneste Statens hus, Stavanger Fosterhjem Leie lokaler andre utleiere LAGÅRDSVEIEN 44 AS 406889
+4 Region Vest 410704 Fellestjeneste Statens hus, Stavanger Fosterhjem Vakthold lokaler Caverion Norge AS 8649,7
+4 Region Vest 410704 Fellestjeneste Statens hus, Stavanger Fosterhjem Leie parkeringsplass Aimo Park Norway AS(15030825141) 3569,17
+4 Region Vest 410704 Fellestjeneste Statens hus, Stavanger Fosterhjem Fellesutgifter andre utleiere Caverion Norge AS 25177,43
+4 Region Vest 410704 Fellestjeneste Statens hus, Stavanger Fosterhjem Fellesutgifter andre utleiere Caverion Norge AS 121623
+4 Region Vest 420802 Fellestjeneste Statens hus, Stavanger Fosterhjem Fellesutgifter andre utleiere STATSFORVALTAREN I ROGALAND 7207,8
+4 Region Vest 420802 Fellestjeneste Statens hus, Stavanger Barnevernsinstitusjoner Leie lokaler andre utleiere LAGÅRDSVEIEN 44 AS 21994
+4 Region Vest 420802 Fellestjeneste Statens hus, Stavanger Barnevernsinstitusjoner Vakthold lokaler Caverion Norge AS 467,6
+4 Region Vest 420802 Fellestjeneste Statens hus, Stavanger Barnevernsinstitusjoner Leie parkeringsplass Aimo Park Norway AS(15030825141) 193,51
+4 Region Vest 420802 Fellestjeneste Statens hus, Stavanger Barnevernsinstitusjoner Fellesutgifter andre utleiere Caverion Norge AS 1360,94
+4 Region Vest 420802 Fellestjeneste Statens hus, Stavanger Barnevernsinstitusjoner Fellesutgifter andre utleiere Caverion Norge AS 6574,2
+4 Region Vest 421001 Fellestjeneste Statens hus, Stavanger Barnevernsinstitusjoner Fellesutgifter andre utleiere STATSFORVALTAREN I ROGALAND 389,61
+4 Region Vest 421001 Fellestjeneste Statens hus, Stavanger Hjelpetiltak i hjemmet Leie lokaler andre utleiere LAGÅRDSVEIEN 44 AS 197946
+4 Region Vest 421001 Fellestjeneste Statens hus, Stavanger Hjelpetiltak i hjemmet Vakthold lokaler Caverion Norge AS 4208
+4 Region Vest 421001 Fellestjeneste Statens hus, Stavanger Hjelpetiltak i hjemmet Leie parkeringsplass Aimo Park Norway AS(15030825141) 1735,85
+4 Region Vest 421001 Fellestjeneste Statens hus, Stavanger Hjelpetiltak i hjemmet Fellesutgifter andre utleiere Caverion Norge AS 12248,48
+4 Region Vest 421001 Fellestjeneste Statens hus, Stavanger Hjelpetiltak i hjemmet Fellesutgifter andre utleiere Caverion Norge AS 59168
+4 Region Vest 421104 Fellestjeneste Statens hus, Stavanger Hjelpetiltak i hjemmet Fellesutgifter andre utleiere STATSFORVALTAREN I ROGALAND 3506,5
+4 Region Vest 421104 Fellestjeneste Statens hus, Stavanger Inntak Leie lokaler andre utleiere LAGÅRDSVEIEN 44 AS 402490
+4 Region Vest 421104 Fellestjeneste Statens hus, Stavanger Inntak Vakthold lokaler Caverion Norge AS 8556,2
+4 Region Vest 421104 Fellestjeneste Statens hus, Stavanger Inntak Leie parkeringsplass Aimo Park Norway AS(15030825141) 3530,46
+4 Region Vest 421104 Fellestjeneste Statens hus, Stavanger Inntak Fellesutgifter andre utleiere Caverion Norge AS 24905,24
+4 Region Vest 421201 Fellestjeneste Statens hus, Stavanger Inntak Fellesutgifter andre utleiere Caverion Norge AS 120308
+4 Region Vest 421201 Fellestjeneste Statens hus, Stavanger Inntak Fellesutgifter andre utleiere STATSFORVALTAREN I ROGALAND 7129,88
+4 Region Vest 421201 Fellestjeneste Statens hus, Stavanger Fosterhjemstjenesten Leie lokaler andre utleiere LAGÅRDSVEIEN 44 AS 516859
+4 Region Vest 421201 Fellestjeneste Statens hus, Stavanger Fosterhjemstjenesten Vakthold lokaler Caverion Norge AS 10987,5
+4 Region Vest 421201 Fellestjeneste Statens hus, Stavanger Fosterhjemstjenesten Leie parkeringsplass Aimo Park Norway AS(15030825141) 4533,84
+4 Region Vest 421201 Fellestjeneste Statens hus, Stavanger Fosterhjemstjenesten Fellesutgifter andre utleiere Caverion Norge AS 31982,14
+4 Region Vest 421201 Fellestjeneste Statens hus, Stavanger Fosterhjemstjenesten Fellesutgifter andre utleiere Caverion Norge AS 154494
+4 Region Vest 421201 Fellestjeneste Statens hus, Stavanger Fosterhjemstjenesten Fellesutgifter andre utleiere STATSFORVALTAREN I ROGALAND 9155,85
+4 Region Vest 421201 Fellestjenester, Solheimsviken 11, Bergen Regionale fellesfunksjoner Leie lokaler andre utleiere Skipsbyggerhallen AS 960393,52
+4 Region Vest 421201 Fellestjenester, Solheimsviken 11, Bergen Regionale fellesfunksjoner Leie lokaler andre utleiere GC Rieber Eiendom Drift AS 517,9
+4 Region Vest 421201 Fellestjenester, Solheimsviken 11, Bergen Regionale fellesfunksjoner Leie lokaler andre utleiere Motorhallen AS 2225,31
+4 Region Vest 421201 Fellestjenester, Solheimsviken 11, Bergen Regionale fellesfunksjoner Strøm og oppvarming GC Rieber Eiendom Drift AS 29188,22
+4 Region Vest 421201 Fellestjenester, Solheimsviken 11, Bergen Regionale fellesfunksjoner Leie parkeringsplass GC Rieber Eiendom Pluss AS(15030825141) 5717,13
+4 Region Vest 421201 Fellestjenester, Solheimsviken 11, Bergen Regionale fellesfunksjoner Fellesutgifter andre utleiere GC Rieber Eiendom Drift AS 119040,35
+4 Region Vest 421201 Fellestjenester, Solheimsviken 11, Bergen Sentre for foreldre og barn Leie lokaler andre utleiere Skipsbyggerhallen AS 91640,6
+4 Region Vest 421201 Fellestjenester, Solheimsviken 11, Bergen Sentre for foreldre og barn Leie lokaler andre utleiere GC Rieber Eiendom Drift AS 49,42
+4 Region Vest 421201 Fellestjenester, Solheimsviken 11, Bergen Sentre for foreldre og barn Leie lokaler andre utleiere Motorhallen AS 212,35
+4 Region Vest 421701 Fellestjenester, Solheimsviken 11, Bergen Sentre for foreldre og barn Strøm og oppvarming GC Rieber Eiendom Drift AS 2785
+4 Region Vest 421701 Fellestjenester, Solheimsviken 11, Bergen Sentre for foreldre og barn Leie parkeringsplass GC Rieber Eiendom Pluss AS(15030825141) 545,34
+4 Region Vest 421701 Fellestjenester, Solheimsviken 11, Bergen Sentre for foreldre og barn Fellesutgifter andre utleiere GC Rieber Eiendom Drift AS 11358,81
+4 Region Vest 421701 Fellestjenester, Solheimsviken 11, Bergen Fosterhjem Leie lokaler andre utleiere Skipsbyggerhallen AS 366562,41
+4 Region Vest 421701 Fellestjenester, Solheimsviken 11, Bergen Fosterhjem Leie lokaler andre utleiere GC Rieber Eiendom Drift AS 197,67
+4 Region Vest 421701 Fellestjenester, Solheimsviken 11, Bergen Fosterhjem Leie lokaler andre utleiere Motorhallen AS 849,4
+4 Region Vest 421701 Fellestjenester, Solheimsviken 11, Bergen Fosterhjem Strøm og oppvarming GC Rieber Eiendom Drift AS 11140,35
+4 Region Vest 421701 Fellestjenester, Solheimsviken 11, Bergen Fosterhjem Leie parkeringsplass GC Rieber Eiendom Pluss AS(15030825141) 2181,36
+4 Region Vest 432101 Fellestjenester, Solheimsviken 11, Bergen Fosterhjem Fellesutgifter andre utleiere GC Rieber Eiendom Drift AS 45435,24
+4 Region Vest 432101 Fellestjenester, Solheimsviken 11, Bergen Barnevernsinstitusjoner Leie lokaler andre utleiere Skipsbyggerhallen AS 18328,12
+4 Region Vest 432103 Fellestjenester, Solheimsviken 11, Bergen Barnevernsinstitusjoner Leie lokaler andre utleiere GC Rieber Eiendom Drift AS 9,88
+4 Region Vest 432103 Fellestjenester, Solheimsviken 11, Bergen Barnevernsinstitusjoner Leie lokaler andre utleiere Motorhallen AS 42,47
+4 Region Vest 432103 Fellestjenester, Solheimsviken 11, Bergen Barnevernsinstitusjoner Strøm og oppvarming GC Rieber Eiendom Drift AS 557
+4 Region Vest 432103 Fellestjenester, Solheimsviken 11, Bergen Barnevernsinstitusjoner Leie parkeringsplass GC Rieber Eiendom Pluss AS(15030825141) 108,77
+4 Region Vest 432104 Fellestjenester, Solheimsviken 11, Bergen Barnevernsinstitusjoner Fellesutgifter andre utleiere GC Rieber Eiendom Drift AS 2271,76
+4 Region Vest 432104 Fellestjenester, Solheimsviken 11, Bergen Hjelpetiltak i hjemmet Leie lokaler andre utleiere Skipsbyggerhallen AS 183281,21
+4 Region Vest 432104 Fellestjenester, Solheimsviken 11, Bergen Hjelpetiltak i hjemmet Leie lokaler andre utleiere GC Rieber Eiendom Drift AS 98,84
+4 Region Vest 432104 Fellestjenester, Solheimsviken 11, Bergen Hjelpetiltak i hjemmet Leie lokaler andre utleiere Motorhallen AS 424,7
+4 Region Vest 432104 Fellestjenester, Solheimsviken 11, Bergen Hjelpetiltak i hjemmet Strøm og oppvarming GC Rieber Eiendom Drift AS 5570,17
+4 Region Vest 432106 Fellestjenester, Solheimsviken 11, Bergen Hjelpetiltak i hjemmet Leie parkeringsplass GC Rieber Eiendom Pluss AS(15030825141) 1090,68
+4 Region Vest 432106 Fellestjenester, Solheimsviken 11, Bergen Hjelpetiltak i hjemmet Fellesutgifter andre utleiere GC Rieber Eiendom Drift AS 22717,62
+4 Region Vest 432106 Fellestjenester, Solheimsviken 11, Bergen Inntak Leie lokaler andre utleiere Skipsbyggerhallen AS 432360,37
+4 Region Vest 432106 Fellestjenester, Solheimsviken 11, Bergen Inntak Leie lokaler andre utleiere GC Rieber Eiendom Drift AS 233,15
+4 Region Vest 432203 Fellestjenester, Solheimsviken 11, Bergen Inntak Leie lokaler andre utleiere Motorhallen AS 1002
+4 Region Vest 432203 Fellestjenester, Solheimsviken 11, Bergen Inntak Strøm og oppvarming GC Rieber Eiendom Drift AS 13140
+4 Region Vest 432203 Fellestjenester, Solheimsviken 11, Bergen Inntak Leie parkeringsplass GC Rieber Eiendom Pluss AS(15030825141) 2573,23
+4 Region Vest 432203 Fellestjenester, Solheimsviken 11, Bergen Inntak Fellesutgifter andre utleiere GC Rieber Eiendom Drift AS 53590,87
+4 Region Vest 432203 Fellestjenester, Solheimsviken 11, Bergen Fosterhjemstjenesten Leie lokaler andre utleiere Skipsbyggerhallen AS 432543,65
+4 Region Vest 432204 Fellestjenester, Solheimsviken 11, Bergen Fosterhjemstjenesten Leie lokaler andre utleiere GC Rieber Eiendom Drift AS 233,25
+4 Region Vest 432204 Fellestjenester, Solheimsviken 11, Bergen Fosterhjemstjenesten Leie lokaler andre utleiere Motorhallen AS 1002,3
+4 Region Vest 432204 Fellestjenester, Solheimsviken 11, Bergen Fosterhjemstjenesten Strøm og oppvarming GC Rieber Eiendom Drift AS 13145,61
+4 Region Vest 432204 Fellestjenester, Solheimsviken 11, Bergen Fosterhjemstjenesten Leie parkeringsplass GC Rieber Eiendom Pluss AS(15030825141) 2574,72
+4 Region Vest 432204 Fellestjenester, Solheimsviken 11, Bergen Fosterhjemstjenesten Fellesutgifter andre utleiere GC Rieber Eiendom Drift AS 53613,59
+4 Region Vest 432204 Fellestjenester, Solheimsviken 11, Bergen Adopsjon Leie lokaler andre utleiere Skipsbyggerhallen AS 18328,12
+4 Region Vest 432402 Fellestjenester, Solheimsviken 11, Bergen Adopsjon Leie lokaler andre utleiere GC Rieber Eiendom Drift AS 9,88
+4 Region Vest 432402 Fellestjenester, Solheimsviken 11, Bergen Adopsjon Leie lokaler andre utleiere Motorhallen AS 42,47
+4 Region Vest 432402 Fellestjenester, Solheimsviken 11, Bergen Adopsjon Strøm og oppvarming GC Rieber Eiendom Drift AS 557
+4 Region Vest 432402 Fellestjenester, Solheimsviken 11, Bergen Adopsjon Leie parkeringsplass GC Rieber Eiendom Pluss AS(15030825141) 108,77
+4 Region Vest 432402 Fellestjenester, Solheimsviken 11, Bergen Adopsjon Fellesutgifter andre utleiere GC Rieber Eiendom Drift AS 2271,76
+4 Region Vest 432402 Fellestjenester Storehagen, Førde Fosterhjem Leie lokaler andre utleiere Futurum AS 80646,5
+4 Region Vest 432402 Fellestjenester Storehagen, Førde Fosterhjem Strøm og oppvarming Futurum AS 6849,5
+4 Region Vest 432502 Fellestjenester Storehagen, Førde Fosterhjem Fellesutgifter andre utleiere Futurum AS 4485
+4 Region Vest 432502 Fellestjenester Storehagen, Førde Fosterhjemstjenesten Leie lokaler andre utleiere Futurum AS 322585
+4 Region Vest 432502 Fellestjenester Storehagen, Førde Fosterhjemstjenesten Strøm og oppvarming Futurum AS 12328,5
+4 Region Vest 432802 Fellestjenester Storehagen, Førde Fosterhjemstjenesten Fellesutgifter andre utleiere Futurum AS 8073
+4 Region Vest 432802 Bergen Akutts. avd. Toppe Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 816834
+4 Region Vest 432802 Bergen Akutts. avd. Toppe Barnevernsinstitusjoner Renhold lokaler Nor Tekstil AS 1746,03
+4 Region Vest 432802 Bergen Akutts. avd. Toppe Barnevernsinstitusjoner Renhold lokaler Nor Tekstil AS 1746,03
+4 Region Vest 432802 Bergen Akutts. avd. Toppe Barnevernsinstitusjoner Renhold lokaler Effektiv Renhold Haugaland AS 5825,64
+4 Region Vest 432804 Bergen Akutts. avd. Toppe Barnevernsinstitusjoner Annen kostnad lokaler Clas Ohlson AS 709
+4 Region Vest 432804 Bergen Akutts. avd. Toppe Barnevernsinstitusjoner Annen kostnad lokaler Clas Ohlson AS 240
+4 Region Vest 432804 Bergen Akutts. avd. Toppe Barnevernsinstitusjoner Annen kostnad lokaler Europris Butikkdrift AS 2945,3
+4 Region Vest 432804 Bergen Akutts. avd. Toppe Barnevernsinstitusjoner Annen kostnad lokaler Biltema Norge AS 84,9
+4 Region Vest 432804 Bergen Akutts. avd. Toppe Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 161425
+4 Region Vest 432805 Bergen Akutts. avd. Toppe Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 14933
+4 Region Vest 432805 Bergen Akutts. avd. Nattland Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 459876,74
+4 Region Vest 432805 Bergen Akutts. avd. Nattland Barnevernsinstitusjoner Renhold lokaler Nor Tekstil AS 1940,03
+4 Region Vest 432806 Bergen Akutts. avd. Nattland Barnevernsinstitusjoner Renhold lokaler Effektiv Renhold Haugaland AS 11401,25
+4 Region Vest 432806 Bergen Akutts. avd. Nattland Barnevernsinstitusjoner Renhold lokaler Elkjøp Norge AS 596
+4 Region Vest 432806 Bergen Akutts. avd. Nattland Barnevernsinstitusjoner Annen kostnad lokaler Fantoft Hagesenter AS 1249,7
+4 Region Vest 432806 Bergen Akutts. avd. Nattland Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 54075
+4 Region Vest 432807 Bergen Akutts. avd. Nattland Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 9007,5
+4 Region Vest 432807 Tverrfaglig helsekartlegging avd Vestland - Team 1 Inntak Leie lokaler fra Statsbygg -76646,13
+4 Region Vest 432807 Tverrfaglig helsekartlegging avd Vestland - Team 1 Inntak Leie lokaler fra Statsbygg Statsbyggs hovedkontor 76646,13
+4 Region Vest 432807 Tverrfaglig helsekartlegging avd Vestland - Team 1 Inntak Fellesutgifter (BAD) Statsbygg -9012,5
+4 Region Vest 432901 Tverrfaglig helsekartlegging avd Vestland - Team 1 Inntak Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 9012,5
+4 Region Vest 432901 Tverrfaglig helsekartlegging avd Vestland - Team 1 Inntak Fellesutgifter Statsbygg - indre vedlikehold -1501,25
+4 Region Vest 432901 Tverrfaglig helsekartlegging avd Vestland - Team 1 Inntak Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 1501,25
+4 Region Vest 432901 Tverrfaglig helsekartlegging avd Vestland - Team 1 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Leie lokaler fra Statsbygg 76646,13
+4 Region Vest 432901 Tverrfaglig helsekartlegging avd Vestland - Team 1 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Renhold lokaler Effektiv Renhold Haugaland AS 438,75
+4 Region Vest 432901 Tverrfaglig helsekartlegging avd Vestland - Team 1 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Fellesutgifter (BAD) Statsbygg 9012,5
+4 Region Vest 432901 Tverrfaglig helsekartlegging avd Vestland - Team 1 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Fellesutgifter Statsbygg - indre vedlikehold 1501,25
+4 Region Vest 433101 Tverrfaglig helsekartlegging avd Vestland - Team 2 Inntak Leie lokaler fra Statsbygg -76646,13
+4 Region Vest 433101 Tverrfaglig helsekartlegging avd Vestland - Team 2 Inntak Leie lokaler fra Statsbygg Statsbyggs hovedkontor 76646,13
+4 Region Vest 433101 Tverrfaglig helsekartlegging avd Vestland - Team 2 Inntak Fellesutgifter (BAD) Statsbygg -9012,5
+4 Region Vest 433101 Tverrfaglig helsekartlegging avd Vestland - Team 2 Inntak Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 9012,5
+4 Region Vest 433102 Tverrfaglig helsekartlegging avd Vestland - Team 2 Inntak Fellesutgifter Statsbygg - indre vedlikehold -1501,25
+4 Region Vest 433102 Tverrfaglig helsekartlegging avd Vestland - Team 2 Inntak Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 1501,25
+4 Region Vest 433102 Tverrfaglig helsekartlegging avd Vestland - Team 2 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Leie lokaler fra Statsbygg 76646,13
+4 Region Vest 433102 Tverrfaglig helsekartlegging avd Vestland - Team 2 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Renhold lokaler Effektiv Renhold Haugaland AS 438,75
+4 Region Vest 433103 Tverrfaglig helsekartlegging avd Vestland - Team 2 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Fellesutgifter (BAD) Statsbygg 9012,5
+4 Region Vest 442604 Tverrfaglig helsekartlegging avd Vestland - Team 2 165114 Tverrfaglig helsekartlegging av barn i barnevernet Inntak Fellesutgifter Statsbygg - indre vedlikehold 1501,25
+4 Region Vest 442605 Stavanger akuttsenter - Madla Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 395336
+4 Region Vest 442701 Stavanger akuttsenter - Madla Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 265825
+4 Region Vest 442701 Stavanger akuttsenter - Madla Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 36663
+4 Region Vest 442701 Stavanger akuttsenter - Røyneberg Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 216956
+4 Region Vest 442701 Stavanger akuttsenter - Røyneberg Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 64350
+4 Region Vest 442701 Stavanger akuttsenter - Røyneberg Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 8927
+4 Region Vest 442701 Sudmannske senter for foreldre og barn Sentre for foreldre og barn Leie lokaler andre utleiere Sudmannske Stiftelse 379213
+4 Region Vest 442701 Sudmannske senter for foreldre og barn Sentre for foreldre og barn Renhold lokaler Effektiv Renhold Haugaland AS 11614,58
+4 Region Vest 442702 Sudmannske senter for foreldre og barn Sentre for foreldre og barn Annen kostnad lokaler PLANTASJEN NORGE AS 1840,95
+4 Region Vest 442702 Sudmannske senter for foreldre og barn Sentre for foreldre og barn Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 67750
+4 Region Vest 442702 Sudmannske senter for foreldre og barn Sentre for foreldre og barn Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 78046
+4 Region Vest 442702 Sudmannske senter for foreldre og barn Sentre for foreldre og barn Reparasjon og vedlikehold leide lokaler Statsbyggs hovedkontor 19092
+4 Region Vest 442703 Førde senter for foreldre og barn Sentre for foreldre og barn Leie lokaler fra Statsbygg Statsbyggs hovedkontor 315008
+4 Region Vest 442703 Førde senter for foreldre og barn Sentre for foreldre og barn Renovasjon, vann, avløp o.l. Sum Næring AS 500
+4 Region Vest 442703 Førde senter for foreldre og barn Sentre for foreldre og barn Strøm og oppvarming BKK AS 1289,81
+4 Region Vest 442703 Førde senter for foreldre og barn Sentre for foreldre og barn Renhold lokaler Nor Tekstil AS 952,53
+4 Region Vest 445101 Førde senter for foreldre og barn Sentre for foreldre og barn Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 112700
+4 Region Vest 445101 Førde senter for foreldre og barn Sentre for foreldre og barn Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 11319
+4 Region Vest 445101 Førde senter for foreldre og barn Sentre for foreldre og barn Reparasjon og vedlikehold leide lokaler NORTRONIK AS 2235
+4 Region Vest 445101 Stavanger senter for foreldre og barn Sentre for foreldre og barn Leie lokaler fra Statsbygg Statsbyggs hovedkontor 177293
+4 Region Vest 445102 Stavanger senter for foreldre og barn Sentre for foreldre og barn Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 51325
+4 Region Vest 445102 Stavanger senter for foreldre og barn Sentre for foreldre og barn Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 14728
+4 Region Vest 445102 Familievernkontoret for Bergen og omland Familieverntjeneste Leie lokaler andre utleiere Torget 10 AS 71164
+4 Region Vest 445102 Familievernkontoret for Bergen og omland Familieverntjeneste Leie lokaler andre utleiere GC Rieber Eiendom Drift AS 67968,76
+4 Region Vest 445102 Familievernkontoret for Bergen og omland Familieverntjeneste Leie lokaler andre utleiere Almerket As 83506,73
+4 Region Vest 445401 Familievernkontoret for Bergen og omland Familieverntjeneste Leie lokaler andre utleiere Motorhallen AS 257718
+4 Region Vest 445401 Familievernkontoret for Bergen og omland Familieverntjeneste Leie lokaler andre utleiere Motorhallen AS 547558
+4 Region Vest 445401 Familievernkontoret for Bergen og omland Familieverntjeneste Leie lokaler andre utleiere AAS EIGEDOM AS 13055
+4 Region Vest 445401 Familievernkontoret for Bergen og omland Familieverntjeneste Strøm og oppvarming GC Rieber Eiendom Drift AS 6017,73
+4 Region Vest 445401 Familievernkontoret for Bergen og omland Familieverntjeneste Strøm og oppvarming GC Rieber Eiendom Drift AS 14024,64
+4 Region Vest 403202 Familievernkontoret for Bergen og omland Familieverntjeneste Renhold lokaler Effektiv Renhold Haugaland AS 5152,15
+4 Region Vest 403202 Familievernkontoret for Bergen og omland Familieverntjeneste Renhold lokaler Effektiv Renhold Haugaland AS 4739,53
+4 Region Vest 403208 Familievernkontoret for Bergen og omland Familieverntjeneste Fellesutgifter andre utleiere GC Rieber Eiendom Drift AS 31991,25
+4 Region Vest 403208 Familievernkontoret for Bergen og omland Familieverntjeneste Fellesutgifter andre utleiere Almerket As 6883,95
+4 Region Vest 403208 Familiekontora for Sunnfjord og Sogn Familieverntjeneste Leie lokaler andre utleiere Futurum AS 145163,5
+4 Region Vest 403208 Familiekontora for Sunnfjord og Sogn Familieverntjeneste Leie lokaler andre utleiere Parkveien 5 AS 82081
+4 Region Vest 403208 Familiekontora for Sunnfjord og Sogn Familieverntjeneste Strøm og oppvarming Futurum AS 27397
+4 Region Vest 403208 Familiekontora for Sunnfjord og Sogn Familieverntjeneste Fellesutgifter andre utleiere Futurum AS 17940
+4 Region Vest 403209 Familiekontora for Sunnfjord og Sogn Familieverntjeneste Fellesutgifter andre utleiere Parkveien 5 AS 21732
+4 Region Vest 403209 Skjoldvegen barnevernsenter Barnevernsinstitusjoner Renhold lokaler Effektiv Renhold Haugaland AS 1899,78
+4 Region Vest 403209 Skjoldvegen Søfteland Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 118201
+4 Region Vest 403209 Skjoldvegen Søfteland Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 24050
+4 Region Vest 403209 Skjoldvegen Søfteland Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 4212
+4 Region Vest 403209 Skjoldvegen Skjold Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 267905
+4 Region Vest 403209 Skjoldvegen Skjold Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. BIR Privat AS 1320
+4 Region Vest 403209 Skjoldvegen Skjold Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. BIR Privat AS 660
+4 Region Vest 403209 Skjoldvegen Skjold Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 48100
+4 Region Vest 403209 Skjoldvegen Skjold Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 17175
+4 Region Vest 403209 Skjoldvegen barnevernsenter avd. Fyllingsdalen Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 131267
+4 Region Vest 403209 Skjoldvegen barnevernsenter avd. Fyllingsdalen Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 52725
+4 Region Vest 403210 Skjoldvegen barnevernsenter avd. Fyllingsdalen Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 9273
+4 Region Vest 403210 Stavanger ungdomssenter - avd. Lindøy Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Renovasjon Næring AS 7686
+4 Region Vest 403210 Stavanger ungdomssenter - avd. Lindøy Barnevernsinstitusjoner Renovasjon, vann, avløp o.l. Renovasjon Næring AS 4221
+4 Region Vest 403210 Stavanger ungdomssenter - avd. Lindøy Barnevernsinstitusjoner Annen kostnad lokaler Sensio AS 267,5
+4 Region Vest 403210 Stavanger ungdomssenter - avd. Lindøy Barnevernsinstitusjoner Leie parkeringsplass Stavanger Parkering KF 203
+4 Region Vest 403210 Stavanger ungdomssenter - avd. Lindøy Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 199509
+4 Region Vest 403211 Stavanger ungdomssenter - avd. Lindøy Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler Statsbyggs hovedkontor 19546
+4 Region Vest 403211 Stavanger ungdomssenter - avd. Lindøy Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler SOLLAND ELEKTRO AS 3931,25
+4 Region Vest 403211 Stavanger ungdomssenter - avd. Våland Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 186792
+4 Region Vest 403211 Stavanger ungdomssenter - avd. Våland Barnevernsinstitusjoner Strøm og oppvarming LYSE MARKED AS 9190,56
+4 Region Vest 403211 Stavanger ungdomssenter - avd. Våland Barnevernsinstitusjoner Annen kostnad lokaler Sensio AS 267
+4 Region Vest 403211 Stavanger ungdomssenter - avd. Våland Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 54850
+4 Region Vest 403211 Stavanger ungdomssenter - avd. Våland Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 10563
+4 Region Vest 403211 SFU avd.Meltunet Barnevernsinstitusjoner Leie lokaler andre utleiere DNK EIENDOM AS 10713,72
+4 Region Vest 403211 SFU avd.Meltunet Barnevernsinstitusjoner Leie lokaler andre utleiere DNK EIENDOM AS 10713,72
+4 Region Vest 403211 SFU avd.Meltunet Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 122986
+4 Region Vest 403211 SFU avd.Meltunet Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 106337
+4 Region Vest 403211 SFU avd.Meltunet Barnevernsinstitusjoner Renhold lokaler MASKE AS 1726
+4 Region Vest 403211 SFU avd.Meltunet Barnevernsinstitusjoner Renhold lokaler MASKE AS 942,34
+4 Region Vest 403211 SFU avd.Meltunet Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 52062
+4 Region Vest 403211 SFU avd.Meltunet Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 11450
+4 Region Vest 403211 SFU avd.Meltunet Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 2317
+4 Region Vest 403211 SFU avd.Meltunet Barnevernsinstitusjoner Reparasjon og vedlikehold leide lokaler E.A. Smith AS 1331
+4 Region Vest 403211 Kasa Ungdomssenter avd. adm. Barnevernsinstitusjoner Annen kostnad lokaler Flugger Norway AS 1270
+4 Region Vest 403211 Kasa Ungdomssenter avd. adm. Barnevernsinstitusjoner Annen kostnad lokaler Dustin Norway AS 95,75
+4 Region Vest 403211 Kasa Ungdomssenter avd. Sandsli Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 155139
+4 Region Vest 403211 Kasa Ungdomssenter avd. Sandsli Barnevernsinstitusjoner Renhold lokaler MASKE AS 199,85
+4 Region Vest 403211 Kasa Ungdomssenter avd. Sandsli Barnevernsinstitusjoner Annen kostnad lokaler Eurocard Norway 318
+4 Region Vest 403211 Kasa Ungdomssenter avd. Sandsli Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 25050
+4 Region Vest 403211 Kasa Ungdomssenter avd. Sandsli Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 5678
+4 Region Vest 403211 Kasa Ungdomssenter avd. Flatøy Barnevernsinstitusjoner Leie lokaler fra Statsbygg Statsbyggs hovedkontor 136458
+4 Region Vest 403211 Kasa Ungdomssenter avd. Flatøy Barnevernsinstitusjoner Annen kostnad lokaler Felleskjøpet Agri SA 279
+4 Region Vest 403211 Kasa Ungdomssenter avd. Flatøy Barnevernsinstitusjoner Annen kostnad lokaler Europris Butikkdrift AS 298,91
+4 Region Vest 403211 Kasa Ungdomssenter avd. Flatøy Barnevernsinstitusjoner Annen kostnad lokaler Flugger Norway AS 559
+4 Region Vest 403211 Kasa Ungdomssenter avd. Flatøy Barnevernsinstitusjoner Annen kostnad lokaler Biltema Norge AS 273,9
+4 Region Vest 403211 Kasa Ungdomssenter avd. Flatøy Barnevernsinstitusjoner Fellesutgifter (BAD) Statsbygg Statsbyggs hovedkontor 22050
+4 Region Vest 403211 Kasa Ungdomssenter avd. Flatøy Barnevernsinstitusjoner Fellesutgifter Statsbygg - indre vedlikehold Statsbyggs hovedkontor 5597
+4 Region Vest 403212 Kasa Ungdomssenter avd. Hop Barnevernsinstitusjoner Leie lokaler andre utleiere Kjell Aga, Nesttun (husl) 139559
+4 Region Vest 403212 Kasa Ungdomssenter avd. Hop Barnevernsinstitusjoner Renhold lokaler MASKE AS 399,7
+4 Region Vest 403212 Kasa Ungdomssenter avd. Hop Barnevernsinstitusjoner Renhold lokaler MASKE AS 5850,89

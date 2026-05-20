@@ -1,0 +1,312 @@
+@import "tailwindcss";
+
+/* dark: følger app-tema (data-theme), ikke OS prefers-color-scheme */
+@custom-variant dark (&:where([data-theme=dark], [data-theme=dark] *, [data-theme=default], [data-theme=default] *));
+
+@theme {
+  --font-sans: var(--font-geist-sans), ui-sans-serif, system-ui, sans-serif;
+  --font-mono: var(--font-geist-mono), ui-monospace, monospace;
+
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-accent: var(--accent);
+  --color-surface: var(--bg-surface);
+  --color-overlay: var(--bg-overlay);
+  --color-border: var(--border-color);
+  --color-muted: var(--text-muted);
+  --color-muted-foreground: var(--text-muted);
+
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-ring: var(--ring);
+  --color-ring-offset: var(--ring-offset);
+
+  --color-success: var(--success);
+  --color-warning: var(--warning);
+
+  /* Datavisualisering / økonomi (kan brukes som text-chart-rent osv.) */
+  --color-chart-rent: var(--chart-rent);
+  --color-chart-cost: var(--chart-cost);
+  --color-chart-budget: var(--chart-budget);
+  --color-chart-salary: var(--chart-salary);
+
+  --font-serif: var(--font-playfair), ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+}
+
+@layer base {
+
+  input,
+  textarea,
+  select {
+    @apply text-foreground bg-transparent;
+  }
+
+  body {
+    @apply bg-background text-foreground font-sans;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+    }
+  }
+
+  /* Skip link for tastaturnavigasjon */
+  .skip-link {
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform: translateY(-100%);
+    @apply bg-primary text-primary-foreground px-4 py-2 text-sm font-medium z-50;
+  }
+
+  .skip-link:focus {
+    transform: translateY(0);
+  }
+}
+
+:root {
+  /* Default: Deep Blue Enterprise (Dark Deep Blue Background & UI) */
+  --background: #020617;
+  --foreground: #f8fafc;
+
+  /* Sidebar Variables - DEEP BLUE DEFAULT */
+  --sidebar-bg: #0f172a;
+  --sidebar-border: #1e293b;
+  --sidebar-text: #94a3b8;
+  --sidebar-text-hover: #ffffff;
+  --sidebar-active-bg: #2563eb;
+  --sidebar-active-text: #ffffff;
+
+  /* Semantic Colors */
+  --primary: #3b82f6;
+  --primary-foreground: #ffffff;
+  --secondary: #64748b;
+  --accent: #60a5fa;
+
+  /* Card / Surface */
+  --bg-surface: #0f172a;
+  --border-color: #1e293b;
+  --bg-input: #1e293b;
+
+  --card: #0f172a;
+  --card-foreground: #f8fafc;
+  --popover: #0f172a;
+  --popover-foreground: #f8fafc;
+  --ring: #3b82f6;
+  --ring-offset: #020617;
+
+  /* Status */
+  --success: #10b981;
+  --warning: #f59e0b;
+  --danger: #ef4444;
+  --destructive: #ef4444;
+  --destructive-foreground: #ffffff;
+
+  --chart-rent: #38bdf8;
+  --chart-cost: #fbbf24;
+  --chart-budget: #34d399;
+  --chart-salary: #fb7185;
+
+  /* Card Styles */
+  --card-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.3);
+  --card-shadow-hover: 0 12px 40px 0 rgba(0, 0, 0, 0.45);
+
+  /* Surface Tokens - Deep Blue Glass */
+  --glass-bg: rgba(15, 23, 42, 0.6);
+  --glass-border: rgba(255, 255, 255, 0.08);
+  --glass-highlight: rgba(255, 255, 255, 0.05);
+
+  --bg-overlay: rgba(2, 6, 23, 0.8);
+  --text-muted: #94a3b8;
+  --text-label: #64748b;
+}
+
+[data-theme='light'] {
+  /* Enterprise Light – nøktern, profesjonell */
+  --background: #F8FAFC;
+  --foreground: #0F172A;
+
+  /* Sidebar */
+  --sidebar-bg: #FFFFFF;
+  --sidebar-border: #E2E8F0;
+  --sidebar-text: #64748B;
+  --sidebar-text-hover: #0F172A;
+  --sidebar-active-bg: #E0F2FE;
+  --sidebar-active-text: #0284C7;
+
+  /* Farger */
+  --primary: #0284C7;
+  --primary-foreground: #FFFFFF;
+  --secondary: #64748B;
+  --accent: #0EA5E9;
+
+  /* Card / Surface */
+  --bg-surface: #FFFFFF;
+  --border-color: #E2E8F0;
+  --bg-input: #FFFFFF;
+
+  --card: #FFFFFF;
+  --card-foreground: #0F172A;
+  --popover: #FFFFFF;
+  --popover-foreground: #0F172A;
+  --ring: #0284C7;
+  --ring-offset: #F8FAFC;
+
+  /* Status */
+  --success: #059669;
+  --warning: #D97706;
+  --danger: #DC2626;
+  --destructive: #DC2626;
+  --destructive-foreground: #ffffff;
+
+  --chart-rent: #0284C7;
+  --chart-cost: #D97706;
+  --chart-budget: #059669;
+  --chart-salary: #E11D48;
+
+  /* Card Styles */
+  --card-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -1px rgba(0, 0, 0, 0.03);
+  --card-shadow-hover: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+
+  /* Surface Tokens */
+  --glass-bg: rgba(255, 255, 255, 0.85);
+  --glass-border: rgba(226, 232, 240, 0.8);
+  --glass-highlight: rgba(248, 250, 252, 0.5);
+
+  --bg-overlay: rgba(248, 250, 252, 0.95);
+  --text-muted: #475569;
+  --text-label: #334155;
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  min-height: 100vh;
+  font-family: var(--font-geist-sans), ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  overflow-x: hidden;
+}
+
+@layer components {
+
+  /* Glass Card: Theme-aware shadow and definition */
+  .glass-card {
+    background: var(--glass-bg);
+    border: 1px solid var(--glass-border);
+    box-shadow: var(--card-shadow);
+    @apply rounded-lg transition-all duration-300;
+  }
+
+  .glass-card:hover {
+    border-color: var(--secondary);
+    box-shadow: var(--card-shadow-hover);
+  }
+
+  /* Typography Utilities - Theme-aware */
+  .text-label {
+    @apply text-[10px] sm:text-xs font-bold uppercase tracking-widest;
+    color: var(--text-label);
+  }
+
+  .text-value {
+    @apply text-lg sm:text-xl md:text-2xl font-bold tracking-tight;
+    color: var(--foreground);
+  }
+
+  /* Table Styles for Rescue Plan */
+  .enterprise-table {
+    @apply w-full text-left border-collapse;
+  }
+
+  .enterprise-table th {
+    @apply py-3 px-4 text-[10px] sm:text-xs font-bold uppercase tracking-widest border-b-2;
+    border-color: var(--border-color);
+    color: var(--text-label);
+  }
+
+  .enterprise-table td {
+    @apply py-4 px-4 text-sm font-medium border-b;
+    border-color: var(--border-color);
+    color: var(--foreground);
+    transition: all 0.2s ease;
+  }
+
+  .enterprise-table tr {
+    @apply transition-all duration-200;
+  }
+
+  .enterprise-table tr:hover {
+    background-color: var(--bg-surface);
+    opacity: 0.8;
+  }
+
+  /* Enterprise Input: Modernized */
+  .enterprise-input {
+    background: var(--bg-input, var(--glass-bg));
+    border: 1px solid var(--glass-border);
+    @apply w-full rounded-lg px-4 py-2 text-sm text-foreground transition-all;
+    color: var(--foreground);
+  }
+
+  .enterprise-input::placeholder {
+    color: var(--text-muted);
+  }
+
+  .enterprise-input:focus {
+    outline: none;
+    ring: 2px;
+    ring-color: var(--primary);
+    border-color: var(--primary);
+  }
+
+  /* Enterprise Button: Premium */
+  .enterprise-button {
+    background: var(--primary);
+    @apply inline-flex items-center justify-center rounded-lg px-5 py-2.5 text-sm font-medium text-white shadow-sm hover:brightness-110 active:scale-[0.98] transition-all;
+  }
+
+  /* Custom Scrollbar */
+  .custom-scrollbar::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+  }
+
+  .custom-scrollbar::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  .custom-scrollbar::-webkit-scrollbar-thumb {
+    background-color: var(--text-muted);
+    opacity: 0.3;
+    @apply rounded-full transition-colors;
+  }
+
+  .custom-scrollbar::-webkit-scrollbar-thumb:hover {
+    opacity: 0.5;
+  }
+}
+
+@layer utilities {
+  .bg-sidebar {
+    background-color: var(--sidebar-bg);
+  }
+
+  .text-sidebar {
+    color: var(--sidebar-text);
+  }
+
+  .border-sidebar {
+    border-color: var(--sidebar-border);
+  }
+}

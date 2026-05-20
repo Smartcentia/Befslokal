@@ -1,0 +1,695 @@
+{
+  "generated_at": "2026-04-06T14:43:09.088593+00:00",
+  "source": "SSB PxWebApi v2",
+  "queries": [
+    "barnevern",
+    "fosterhjem",
+    "institusjon barnevern",
+    "familievern",
+    "adopsjon",
+    "NEET"
+  ],
+  "count": 42,
+  "items": [
+    {
+      "id": "14565",
+      "label": "14565: Meldarar i meldingar til barnevernet, alle konklusjonar, etter meldar i melding til barnevernet (K) 2024-2025",
+      "updated": "2026-03-16T07:00:00Z",
+      "firstPeriod": "2024",
+      "lastPeriod": "2025",
+      "variableNames": [
+        "meldar i melding til barnevernet",
+        "region",
+        "statistikkvariabel",
+        "år"
+      ],
+      "sourceQuery": "barnevern",
+      "dataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/14565/data?lang=no&outputFormat=json-stat2",
+      "metadataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/14565/metadata?lang=no"
+    },
+    {
+      "id": "14354",
+      "label": "14354: Barn med melding og prosentdelen barn med melding i barnevernet, etter alder (K) 2015-2025",
+      "updated": "2026-03-16T07:00:00Z",
+      "firstPeriod": "2015",
+      "lastPeriod": "2025",
+      "variableNames": [
+        "alder",
+        "region",
+        "statistikkvariabel",
+        "år"
+      ],
+      "sourceQuery": "barnevern",
+      "dataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/14354/data?lang=no&outputFormat=json-stat2",
+      "metadataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/14354/metadata?lang=no"
+    },
+    {
+      "id": "13532",
+      "label": "13532: Barn med melding og prosentdelen barn med melding i barnevernet, alle konklusjonar, bydel (B) 2020-2025",
+      "updated": "2026-03-16T07:00:00Z",
+      "firstPeriod": "2020",
+      "lastPeriod": "2025",
+      "variableNames": [
+        "region",
+        "statistikkvariabel",
+        "år"
+      ],
+      "sourceQuery": "barnevern",
+      "dataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/13532/data?lang=no&outputFormat=json-stat2",
+      "metadataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/13532/metadata?lang=no"
+    },
+    {
+      "id": "12862",
+      "label": "12862: Undersøkingar avslutta av barnevernet, bydel, etter konklusjon på undersøking avslutta (B) 2015-2025",
+      "updated": "2026-03-16T07:00:00Z",
+      "firstPeriod": "2015",
+      "lastPeriod": "2025",
+      "variableNames": [
+        "region",
+        "konklusjon på undersøking avslutta",
+        "statistikkvariabel",
+        "år"
+      ],
+      "sourceQuery": "barnevern",
+      "dataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/12862/data?lang=no&outputFormat=json-stat2",
+      "metadataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/12862/metadata?lang=no"
+    },
+    {
+      "id": "12861",
+      "label": "12861: Undersøkingar avslutta av barnevernet, etter konklusjon på undersøking avslutta (K) 2015-2025",
+      "updated": "2026-03-16T07:00:00Z",
+      "firstPeriod": "2015",
+      "lastPeriod": "2025",
+      "variableNames": [
+        "region",
+        "konklusjon på undersøking avslutta",
+        "statistikkvariabel",
+        "år"
+      ],
+      "sourceQuery": "barnevern",
+      "dataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/12861/data?lang=no&outputFormat=json-stat2",
+      "metadataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/12861/metadata?lang=no"
+    },
+    {
+      "id": "12860",
+      "label": "12860: Undersøkingar avslutta av  barnevernet , etter handsamingstid (K) 2015-2025",
+      "updated": "2026-03-16T07:00:00Z",
+      "firstPeriod": "2015",
+      "lastPeriod": "2025",
+      "variableNames": [
+        "region",
+        "handsamingstid",
+        "statistikkvariabel",
+        "år"
+      ],
+      "sourceQuery": "barnevern",
+      "dataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/12860/data?lang=no&outputFormat=json-stat2",
+      "metadataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/12860/metadata?lang=no"
+    },
+    {
+      "id": "12859",
+      "label": "12859: Undersøkingar avslutta av  barnevernet, bydel, etter handsamingstid (B) 2015-2025",
+      "updated": "2026-03-16T07:00:00Z",
+      "firstPeriod": "2015",
+      "lastPeriod": "2025",
+      "variableNames": [
+        "region",
+        "handsamingstid",
+        "statistikkvariabel",
+        "år"
+      ],
+      "sourceQuery": "barnevern",
+      "dataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/12859/data?lang=no&outputFormat=json-stat2",
+      "metadataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/12859/metadata?lang=no"
+    },
+    {
+      "id": "12606",
+      "label": "12606: Barn med melding og prosentdelen barn med melding i barnevernet, bydel (B) 2015-2025",
+      "updated": "2026-03-16T07:00:00Z",
+      "firstPeriod": "2015",
+      "lastPeriod": "2025",
+      "variableNames": [
+        "region",
+        "statistikkvariabel",
+        "år"
+      ],
+      "sourceQuery": "barnevern",
+      "dataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/12606/data?lang=no&outputFormat=json-stat2",
+      "metadataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/12606/metadata?lang=no"
+    },
+    {
+      "id": "12605",
+      "label": "12605: Stillingar i barnevernstenesta, bydel (B) 2015-2025",
+      "updated": "2026-03-16T07:00:00Z",
+      "firstPeriod": "2015",
+      "lastPeriod": "2025",
+      "variableNames": [
+        "region",
+        "statistikkvariabel",
+        "år"
+      ],
+      "sourceQuery": "barnevern",
+      "dataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/12605/data?lang=no&outputFormat=json-stat2",
+      "metadataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/12605/metadata?lang=no"
+    },
+    {
+      "id": "12603",
+      "label": "12603: Bydelsfakta barnevernstenesta, bydel (B) 2015-2025",
+      "updated": "2026-03-16T07:00:00Z",
+      "firstPeriod": "2015",
+      "lastPeriod": "2025",
+      "variableNames": [
+        "region",
+        "statistikkvariabel",
+        "år"
+      ],
+      "sourceQuery": "barnevern",
+      "dataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/12603/data?lang=no&outputFormat=json-stat2",
+      "metadataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/12603/metadata?lang=no"
+    },
+    {
+      "id": "12601",
+      "label": "12601: Nøkkeltal utgifter barnevern, bydel (B) 2015-2025",
+      "updated": "2026-03-16T07:00:00Z",
+      "firstPeriod": "2015",
+      "lastPeriod": "2025",
+      "variableNames": [
+        "region",
+        "statistikkvariabel",
+        "år"
+      ],
+      "sourceQuery": "barnevern",
+      "dataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/12601/data?lang=no&outputFormat=json-stat2",
+      "metadataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/12601/metadata?lang=no"
+    },
+    {
+      "id": "12490",
+      "label": "12490: Barn med undersøking og prosentdelen barn med undersøking frå barnevernet, bydel (B) 2015-2025",
+      "updated": "2026-03-16T07:00:00Z",
+      "firstPeriod": "2015",
+      "lastPeriod": "2025",
+      "variableNames": [
+        "region",
+        "statistikkvariabel",
+        "år"
+      ],
+      "sourceQuery": "barnevern",
+      "dataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/12490/data?lang=no&outputFormat=json-stat2",
+      "metadataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/12490/metadata?lang=no"
+    },
+    {
+      "id": "12489",
+      "label": "12489: Meldingar til barnevernet, bydel, etter konklusjon på meldinga og handsamingstid av meldinga (B) 2015-2025",
+      "updated": "2026-03-16T07:00:00Z",
+      "firstPeriod": "2015",
+      "lastPeriod": "2025",
+      "variableNames": [
+        "region",
+        "konklusjon på meldinga",
+        "handsamingstid av meldinga",
+        "statistikkvariabel",
+        "år"
+      ],
+      "sourceQuery": "barnevern",
+      "dataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/12489/data?lang=no&outputFormat=json-stat2",
+      "metadataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/12489/metadata?lang=no"
+    },
+    {
+      "id": "12384",
+      "label": "12384: Undersøkingar i alt og undersøkingar starta av barnevernet, bydel, etter alder (B) 2015-2025",
+      "updated": "2026-03-16T07:00:00Z",
+      "firstPeriod": "2015",
+      "lastPeriod": "2025",
+      "variableNames": [
+        "region",
+        "alder",
+        "statistikkvariabel",
+        "år"
+      ],
+      "sourceQuery": "barnevern",
+      "dataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/12384/data?lang=no&outputFormat=json-stat2",
+      "metadataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/12384/metadata?lang=no"
+    },
+    {
+      "id": "12305",
+      "label": "12305: Stillingar i barnevernstenesta etter fagutdanning og funksjon (K) 2015-2025",
+      "updated": "2026-03-16T07:00:00Z",
+      "firstPeriod": "2015",
+      "lastPeriod": "2025",
+      "variableNames": [
+        "region",
+        "statistikkvariabel",
+        "år"
+      ],
+      "sourceQuery": "barnevern",
+      "dataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/12305/data?lang=no&outputFormat=json-stat2",
+      "metadataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/12305/metadata?lang=no"
+    },
+    {
+      "id": "12287",
+      "label": "12287: Undersøkingar i alt og undersøkingar starta av barnevernet, etter alder (K) 2015-2025",
+      "updated": "2026-03-16T07:00:00Z",
+      "firstPeriod": "2015",
+      "lastPeriod": "2025",
+      "variableNames": [
+        "region",
+        "alder",
+        "statistikkvariabel",
+        "år"
+      ],
+      "sourceQuery": "barnevern",
+      "dataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/12287/data?lang=no&outputFormat=json-stat2",
+      "metadataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/12287/metadata?lang=no"
+    },
+    {
+      "id": "12286",
+      "label": "12286: Barn med undersøking og prosentdelen barn med undersøking frå barnevernet (K) 2015-2025",
+      "updated": "2026-03-16T07:00:00Z",
+      "firstPeriod": "2015",
+      "lastPeriod": "2025",
+      "variableNames": [
+        "region",
+        "statistikkvariabel",
+        "år"
+      ],
+      "sourceQuery": "barnevern",
+      "dataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/12286/data?lang=no&outputFormat=json-stat2",
+      "metadataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/12286/metadata?lang=no"
+    },
+    {
+      "id": "12280",
+      "label": "12280: Kommunefakta barnevernstenesta (K) 2015-2025",
+      "updated": "2026-03-16T07:00:00Z",
+      "firstPeriod": "2015",
+      "lastPeriod": "2025",
+      "variableNames": [
+        "region",
+        "statistikkvariabel",
+        "år"
+      ],
+      "sourceQuery": "barnevern",
+      "dataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/12280/data?lang=no&outputFormat=json-stat2",
+      "metadataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/12280/metadata?lang=no"
+    },
+    {
+      "id": "12279",
+      "label": "12279: Nøkkeltal utgifter barnevern (K) 2015-2025",
+      "updated": "2026-03-16T07:00:00Z",
+      "firstPeriod": "2015",
+      "lastPeriod": "2025",
+      "variableNames": [
+        "region",
+        "statistikkvariabel",
+        "år"
+      ],
+      "sourceQuery": "barnevern",
+      "dataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/12279/data?lang=no&outputFormat=json-stat2",
+      "metadataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/12279/metadata?lang=no"
+    },
+    {
+      "id": "12189",
+      "label": "12189: Meldingar til barnevernet, etter konklusjon på meldinga og handsamingstid av meldinga (K) 2015-2025",
+      "updated": "2026-03-16T07:00:00Z",
+      "firstPeriod": "2015",
+      "lastPeriod": "2025",
+      "variableNames": [
+        "region",
+        "konklusjon på meldinga",
+        "handsamingstid av meldinga",
+        "statistikkvariabel",
+        "år"
+      ],
+      "sourceQuery": "barnevern",
+      "dataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/12189/data?lang=no&outputFormat=json-stat2",
+      "metadataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/12189/metadata?lang=no"
+    },
+    {
+      "id": "12074",
+      "label": "12074: Meldinger til barnevernet og foresatte, samt ventetid for behandlinger med narkose (F) 2015-2025",
+      "updated": "2026-03-16T07:00:00Z",
+      "firstPeriod": "2015",
+      "lastPeriod": "2025",
+      "variableNames": [
+        "region",
+        "statistikkvariabel",
+        "år"
+      ],
+      "sourceQuery": "barnevern",
+      "dataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/12074/data?lang=no&outputFormat=json-stat2",
+      "metadataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/12074/metadata?lang=no"
+    },
+    {
+      "id": "10744",
+      "label": "10744: Avtalte årsverk i familievernet, etter familievernsregion, alder og kjønn 2013-2024",
+      "updated": "2025-10-30T07:00:00Z",
+      "firstPeriod": "2013",
+      "lastPeriod": "2024",
+      "variableNames": [
+        "region",
+        "alder",
+        "kjønn",
+        "statistikkvariabel",
+        "år"
+      ],
+      "sourceQuery": "familievern",
+      "dataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/10744/data?lang=no&outputFormat=json-stat2",
+      "metadataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/10744/metadata?lang=no"
+    },
+    {
+      "id": "10743",
+      "label": "10743: Avtalte årsverk i familievernet, etter familievernsregion, yrke og kjønn 2013-2024",
+      "updated": "2025-10-30T07:00:00Z",
+      "firstPeriod": "2013",
+      "lastPeriod": "2024",
+      "variableNames": [
+        "region",
+        "yrke",
+        "kjønn",
+        "statistikkvariabel",
+        "år"
+      ],
+      "sourceQuery": "familievern",
+      "dataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/10743/data?lang=no&outputFormat=json-stat2",
+      "metadataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/10743/metadata?lang=no"
+    },
+    {
+      "id": "10742",
+      "label": "10742: Avtalte årsverk i familievernet, etter region, utdanning og kjønn 2013-2024",
+      "updated": "2025-10-30T07:00:00Z",
+      "firstPeriod": "2013",
+      "lastPeriod": "2024",
+      "variableNames": [
+        "region",
+        "utdanning",
+        "kjønn",
+        "statistikkvariabel",
+        "år"
+      ],
+      "sourceQuery": "familievern",
+      "dataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/10742/data?lang=no&outputFormat=json-stat2",
+      "metadataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/10742/metadata?lang=no"
+    },
+    {
+      "id": "10600",
+      "label": "10600: Saker i familievernet, etter hovedklientens kjønn, alder samlivsstatus og arbeidstilknytning (F) 2013-2024",
+      "updated": "2025-10-30T07:00:00Z",
+      "firstPeriod": "2013",
+      "lastPeriod": "2024",
+      "variableNames": [
+        "region",
+        "alder",
+        "kjønn",
+        "samlivsstatus",
+        "arbeidstilknytning",
+        "statistikkvariabel",
+        "år"
+      ],
+      "sourceQuery": "familievern",
+      "dataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/10600/data?lang=no&outputFormat=json-stat2",
+      "metadataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/10600/metadata?lang=no"
+    },
+    {
+      "id": "10592",
+      "label": "10592: Avslutta saker i familievernet etter hovedtema, primærklientens kjønn og familievernkontor (F) 2013-2024",
+      "updated": "2025-10-30T07:00:00Z",
+      "firstPeriod": "2013",
+      "lastPeriod": "2024",
+      "variableNames": [
+        "region",
+        "hovedtema",
+        "kjønn",
+        "statistikkvariabel",
+        "år"
+      ],
+      "sourceQuery": "familievern",
+      "dataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/10592/data?lang=no&outputFormat=json-stat2",
+      "metadataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/10592/metadata?lang=no"
+    },
+    {
+      "id": "10529",
+      "label": "10529: Hovedtall for statlig familievern 2013-2024",
+      "updated": "2025-10-30T07:00:00Z",
+      "firstPeriod": "2013",
+      "lastPeriod": "2024",
+      "variableNames": [
+        "region",
+        "statistikkvariabel",
+        "år"
+      ],
+      "sourceQuery": "familievern",
+      "dataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/10529/data?lang=no&outputFormat=json-stat2",
+      "metadataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/10529/metadata?lang=no"
+    },
+    {
+      "id": "10522",
+      "label": "10522: Nye saker i familievernet, etter henvendelsesgrunn, primærklientens kjønn og familievernkontor (F) 2013-2024",
+      "updated": "2025-10-30T07:00:00Z",
+      "firstPeriod": "2013",
+      "lastPeriod": "2024",
+      "variableNames": [
+        "region",
+        "henvendelsesgrunn",
+        "kjønn",
+        "statistikkvariabel",
+        "år"
+      ],
+      "sourceQuery": "familievern",
+      "dataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/10522/data?lang=no&outputFormat=json-stat2",
+      "metadataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/10522/metadata?lang=no"
+    },
+    {
+      "id": "07760",
+      "label": "07760: Nye saker i familievernet og ventetid, avsluttede saker i famlievernet og varighet, etter familievernkontor (F) 2008-2024",
+      "updated": "2025-10-30T07:00:00Z",
+      "firstPeriod": "2008",
+      "lastPeriod": "2024",
+      "variableNames": [
+        "region",
+        "statistikkvariabel",
+        "år"
+      ],
+      "sourceQuery": "familievern",
+      "dataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/07760/data?lang=no&outputFormat=json-stat2",
+      "metadataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/07760/metadata?lang=no"
+    },
+    {
+      "id": "07691",
+      "label": "07691: Behandlingssamtaler i familievernet. Berørte aktører og hovedtiltak i behandlingen og familievernkontor (F) 2008-2024",
+      "updated": "2025-10-30T07:00:00Z",
+      "firstPeriod": "2008",
+      "lastPeriod": "2024",
+      "variableNames": [
+        "region",
+        "statistikkvariabel",
+        "år"
+      ],
+      "sourceQuery": "familievern",
+      "dataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/07691/data?lang=no&outputFormat=json-stat2",
+      "metadataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/07691/metadata?lang=no"
+    },
+    {
+      "id": "07689",
+      "label": "07689: Saker i familievernet, etter timer brukt til direkte klientrettet arbeid og familievernkontor (F) 2008-2024",
+      "updated": "2025-10-30T07:00:00Z",
+      "firstPeriod": "2008",
+      "lastPeriod": "2024",
+      "variableNames": [
+        "region",
+        "statistikkvariabel",
+        "år"
+      ],
+      "sourceQuery": "familievern",
+      "dataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/07689/data?lang=no&outputFormat=json-stat2",
+      "metadataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/07689/metadata?lang=no"
+    },
+    {
+      "id": "07277",
+      "label": "07277: Adopsjoner, etter adopsjonstype (F) 2006-2024",
+      "updated": "2025-09-23T06:00:00Z",
+      "firstPeriod": "2006",
+      "lastPeriod": "2024",
+      "variableNames": [
+        "region",
+        "adopsjonstype",
+        "statistikkvariabel",
+        "år"
+      ],
+      "sourceQuery": "adopsjon",
+      "dataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/07277/data?lang=no&outputFormat=json-stat2",
+      "metadataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/07277/metadata?lang=no"
+    },
+    {
+      "id": "06689",
+      "label": "06689: Stebarnsadopsjoner, etter adoptivforeldrenes forhold til barnet 1970-2024",
+      "updated": "2025-09-23T06:00:00Z",
+      "firstPeriod": "1970",
+      "lastPeriod": "2024",
+      "variableNames": [
+        "forhold til barnet",
+        "statistikkvariabel",
+        "år"
+      ],
+      "sourceQuery": "adopsjon",
+      "dataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/06689/data?lang=no&outputFormat=json-stat2",
+      "metadataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/06689/metadata?lang=no"
+    },
+    {
+      "id": "06685",
+      "label": "06685: Adopterte, etter adopsjonstype, kjønn og alder 2006-2024",
+      "updated": "2025-09-23T06:00:00Z",
+      "firstPeriod": "2006",
+      "lastPeriod": "2024",
+      "variableNames": [
+        "adopsjonstype",
+        "kjønn",
+        "alder",
+        "statistikkvariabel",
+        "år"
+      ],
+      "sourceQuery": "adopsjon",
+      "dataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/06685/data?lang=no&outputFormat=json-stat2",
+      "metadataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/06685/metadata?lang=no"
+    },
+    {
+      "id": "06683",
+      "label": "06683: Adopsjoner, etter adopsjonstype 1986-2024",
+      "updated": "2025-09-23T06:00:00Z",
+      "firstPeriod": "1986",
+      "lastPeriod": "2024",
+      "variableNames": [
+        "adopsjonstype",
+        "statistikkvariabel",
+        "år"
+      ],
+      "sourceQuery": "adopsjon",
+      "dataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/06683/data?lang=no&outputFormat=json-stat2",
+      "metadataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/06683/metadata?lang=no"
+    },
+    {
+      "id": "11297",
+      "label": "11297: Undersøkingar avslutta av barnevernet, etter innvandringskategori, landbakgrunn, konklusjon, alder og kjønn 2013-2024",
+      "updated": "2025-07-04T06:00:00Z",
+      "firstPeriod": "2013",
+      "lastPeriod": "2024",
+      "variableNames": [
+        "innvandringskategori",
+        "landbakgrunn",
+        "konklusjon",
+        "alder",
+        "kjønn",
+        "statistikkvariabel",
+        "år"
+      ],
+      "sourceQuery": "barnevern",
+      "dataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/11297/data?lang=no&outputFormat=json-stat2",
+      "metadataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/11297/metadata?lang=no"
+    },
+    {
+      "id": "11296",
+      "label": "11296: Undersøkingar starta av barnevernet og barn med undersøking starta, etter innvandringskategori, landbakgrunn, alder og kjønn 2013-2024",
+      "updated": "2025-07-04T06:00:00Z",
+      "firstPeriod": "2013",
+      "lastPeriod": "2024",
+      "variableNames": [
+        "innvandringskategori",
+        "landbakgrunn",
+        "alder",
+        "kjønn",
+        "statistikkvariabel",
+        "år"
+      ],
+      "sourceQuery": "barnevern",
+      "dataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/11296/data?lang=no&outputFormat=json-stat2",
+      "metadataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/11296/metadata?lang=no"
+    },
+    {
+      "id": "11292",
+      "label": "11292: Meldingar til barnevernet og barn med melding, etter innvandringskategori, landbakgrunn, alder og kjønn 2013-2024",
+      "updated": "2025-07-04T06:00:00Z",
+      "firstPeriod": "2013",
+      "lastPeriod": "2024",
+      "variableNames": [
+        "innvandringskategori",
+        "landbakgrunn",
+        "alder",
+        "kjønn",
+        "statistikkvariabel",
+        "år"
+      ],
+      "sourceQuery": "barnevern",
+      "dataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/11292/data?lang=no&outputFormat=json-stat2",
+      "metadataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/11292/metadata?lang=no"
+    },
+    {
+      "id": "10782",
+      "label": "10782: Undersøkingar avslutta av barnevernet, etter konklusjon og grunnlag for tiltak (F) 2013-2024",
+      "updated": "2025-07-04T06:00:00Z",
+      "firstPeriod": "2013",
+      "lastPeriod": "2024",
+      "variableNames": [
+        "region",
+        "konklusjon",
+        "grunn til tiltak",
+        "statistikkvariabel",
+        "år"
+      ],
+      "sourceQuery": "barnevern",
+      "dataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/10782/data?lang=no&outputFormat=json-stat2",
+      "metadataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/10782/metadata?lang=no"
+    },
+    {
+      "id": "10760",
+      "label": "10760: Meldingar til barnevernet og barn med melding, etter alder og kjønn (F) 2013-2024",
+      "updated": "2025-07-04T06:00:00Z",
+      "firstPeriod": "2013",
+      "lastPeriod": "2024",
+      "variableNames": [
+        "region",
+        "alder",
+        "kjønn",
+        "statistikkvariabel",
+        "år"
+      ],
+      "sourceQuery": "barnevern",
+      "dataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/10760/data?lang=no&outputFormat=json-stat2",
+      "metadataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/10760/metadata?lang=no"
+    },
+    {
+      "id": "13556",
+      "label": "13556: Kommunefordelt prioritert arbeidsstyrkestatus (inkl. NEET) for personer 15-29 år, etter bosted, alder og kjønn (K) 2008-2024",
+      "updated": "2026-01-30T07:00:00Z",
+      "firstPeriod": "2008",
+      "lastPeriod": "2024",
+      "variableNames": [
+        "region",
+        "kjønn",
+        "alder",
+        "prioritert arbeidsstyrkestatus",
+        "statistikkvariabel",
+        "år"
+      ],
+      "sourceQuery": "NEET",
+      "dataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/13556/data?lang=no&outputFormat=json-stat2",
+      "metadataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/13556/metadata?lang=no"
+    },
+    {
+      "id": "12423",
+      "label": "12423: Prioritert arbeidsstyrkestatus (inkl. NEET) for personer 15 år og eldre, etter kjønn, alder, utdanningsnivå og innvandringskategori 2008-2024",
+      "updated": "2026-01-30T07:00:00Z",
+      "firstPeriod": "2008",
+      "lastPeriod": "2024",
+      "variableNames": [
+        "kjønn",
+        "alder",
+        "utdanningsnivå",
+        "innvandringskategori",
+        "prioritert arbeidsstyrkestatus",
+        "statistikkvariabel",
+        "år"
+      ],
+      "sourceQuery": "NEET",
+      "dataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/12423/data?lang=no&outputFormat=json-stat2",
+      "metadataUrl": "https://data.ssb.no/api/pxwebapi/v2/tables/12423/metadata?lang=no"
+    }
+  ]
+}

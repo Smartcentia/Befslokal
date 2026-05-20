@@ -1,0 +1,61 @@
+{
+  "timestamp": "2026-01-01T23:00:10.322507",
+  "dry_run": false,
+  "records_processed": 9,
+  "updates": [
+    {
+      "contract_id": "e1f0a980-5070-406c-ad55-753ebc391743",
+      "csv_row_id": "16",
+      "address": "Kompani Linges vei 23-25",
+      "error": "(sqlalchemy.dialects.postgresql.asyncpg.Error) <class 'asyncpg.exceptions.InvalidTextRepresentationError'>: invalid input value for enum contractstatus: \"\"\n[SQL: \n                UPDATE contracts \n                SET external_data = CAST($1 AS jsonb),\n                    updated_at = now()\n                WHERE contract_id = CAST($2 AS uuid)\n            ]\n[parameters: ('{\"opsjon\": null, \"region\": \"Vest\", \"filnavn\": null, \"utleier\": \"Statsbygg\", \"elements\": \"2023/72720-14\", \"kommentar\": null, \"p_plasser\": null, \"avtal ... (707 characters truncated) ... \": \"Leietaker dekker sn\\\\u00f8 (felleskost)\", \"termination_clause\": \"12 mnd v/omorg\", \"option_extension\": \"Reforhandling\", \"duration\": \"10 \\\\u00e5r\"}', 'e1f0a980-5070-406c-ad55-753ebc391743')]\n(Background on this error at: https://sqlalche.me/e/20/dbapi)"
+    },
+    {
+      "contract_id": "d4ae2662-5af8-43fc-827a-e028572fc69e",
+      "csv_row_id": "34",
+      "address": "Kvalvågveien 113, Frei",
+      "error": "(sqlalchemy.dialects.postgresql.asyncpg.Error) <class 'asyncpg.exceptions.InvalidTextRepresentationError'>: invalid input value for enum contractstatus: \"\"\n[SQL: \n                UPDATE contracts \n                SET external_data = CAST($1 AS jsonb),\n                    updated_at = now()\n                WHERE contract_id = CAST($2 AS uuid)\n            ]\n[parameters: ('{\"region\": \"Midt\", \"filename\": \"Husleiekontrak statsbygg Clausenenga...\", \"category\": \"Leiekontrakt\", \"parking\": \"Parkering p\\\\u00e5 eiendommen\"}', 'd4ae2662-5af8-43fc-827a-e028572fc69e')]\n(Background on this error at: https://sqlalche.me/e/20/dbapi)"
+    },
+    {
+      "contract_id": "bf0740cb-d046-4db4-b880-ebda2770797f",
+      "csv_row_id": "49",
+      "address": "Elias Smiths vei 22",
+      "error": "(sqlalchemy.dialects.postgresql.asyncpg.Error) <class 'asyncpg.exceptions.InvalidTextRepresentationError'>: invalid input value for enum contractstatus: \"\"\n[SQL: \n                UPDATE contracts \n                SET external_data = CAST($1 AS jsonb),\n                    updated_at = now()\n                WHERE contract_id = CAST($2 AS uuid)\n            ]\n[parameters: ('{\"opsjon\": null, \"region\": \"\\\\u00d8st\", \"filnavn\": null, \"utleier\": \"Sandvika Business Center AS\", \"elements\": null, \"kommentar\": \"*2 alternative lei ... (592 characters truncated) ... ng\": null, \"kontraktsleie_endring\": null, \"betaling_admin_statsbygg\": null, \"filename\": \"Leieavtale - Elias Smitths vei...\", \"category\": \"Kravspes.\"}', 'bf0740cb-d046-4db4-b880-ebda2770797f')]\n(Background on this error at: https://sqlalche.me/e/20/dbapi)"
+    },
+    {
+      "contract_id": "5ac6e930-40a0-4e45-8538-9ae2c3fb56c8",
+      "csv_row_id": "96",
+      "address": "Torolv Kveldulvsonsgt. 39",
+      "error": "(sqlalchemy.dialects.postgresql.asyncpg.Error) <class 'asyncpg.exceptions.InvalidTextRepresentationError'>: invalid input value for enum contractstatus: \"\"\n[SQL: \n                UPDATE contracts \n                SET external_data = CAST($1 AS jsonb),\n                    updated_at = now()\n                WHERE contract_id = CAST($2 AS uuid)\n            ]\n[parameters: ('{\"opsjon\": null, \"region\": \"Nord\", \"filnavn\": null, \"utleier\": \"Femur Eiendom AS\", \"elements\": null, \"kommentar\": null, \"p_plasser\": \"2 plasser\", \"av ... (501 characters truncated) ... ling_admin_statsbygg\": null, \"filename\": \"Leieavtale Torolv Kveldulvsonsgt...\", \"category\": \"Leiekontrakt\", \"parking\": \"2 opparbeidede plasser inkl\"}', '5ac6e930-40a0-4e45-8538-9ae2c3fb56c8')]\n(Background on this error at: https://sqlalche.me/e/20/dbapi)"
+    },
+    {
+      "contract_id": "b0bd06f1-dc8a-44dc-9c69-076e7fe47c10",
+      "csv_row_id": "115",
+      "address": "Østmarkveien 26 D/E",
+      "error": "(sqlalchemy.dialects.postgresql.asyncpg.Error) <class 'asyncpg.exceptions.InvalidTextRepresentationError'>: invalid input value for enum contractstatus: \"\"\n[SQL: \n                UPDATE contracts \n                SET external_data = CAST($1 AS jsonb),\n                    updated_at = now()\n                WHERE contract_id = CAST($2 AS uuid)\n            ]\n[parameters: ('{\"opsjon\": null, \"region\": \"Midt\", \"filnavn\": null, \"utleier\": \"Statsbygg\", \"elements\": null, \"kommentar\": null, \"p_plasser\": null, \"avtalenavn\": \"Vi ... (586 characters truncated) ...  null, \"filename\": \"Signert avtale ... Viktoria...\", \"category\": \"Tilleggskontrakt\", \"option_extension\": \"(Tilleggsfrist)\", \"duration\": \"31.07.2023\"}', 'b0bd06f1-dc8a-44dc-9c69-076e7fe47c10')]\n(Background on this error at: https://sqlalche.me/e/20/dbapi)"
+    },
+    {
+      "contract_id": "4fd0bd96-fcbb-4b9d-8ea8-ad967e3a8bb1",
+      "csv_row_id": "121",
+      "address": "Vikhovlia 1400",
+      "error": "(sqlalchemy.dialects.postgresql.asyncpg.Error) <class 'asyncpg.exceptions.InvalidTextRepresentationError'>: invalid input value for enum contractstatus: \"\"\n[SQL: \n                UPDATE contracts \n                SET external_data = CAST($1 AS jsonb),\n                    updated_at = now()\n                WHERE contract_id = CAST($2 AS uuid)\n            ]\n[parameters: ('{\"opsjon\": null, \"region\": \"Midt\", \"filnavn\": null, \"utleier\": \"Bybroen Bolig AS\", \"elements\": null, \"kommentar\": \"*admin gebyt p\\\\u00e5 3% i tillegg ... (464 characters truncated) ... ull, \"kontraktsleie_endring\": null, \"betaling_admin_statsbygg\": null, \"filename\": \"Signert tillegg til kontrakt Vikhovlia...\", \"category\": \"Tillegg\"}', '4fd0bd96-fcbb-4b9d-8ea8-ad967e3a8bb1')]\n(Background on this error at: https://sqlalche.me/e/20/dbapi)"
+    },
+    {
+      "contract_id": "968ca3cb-812b-47f8-91de-da5476fb350f",
+      "csv_row_id": "146",
+      "address": "Just Brochs gate 13",
+      "error": "(sqlalchemy.dialects.postgresql.asyncpg.Error) <class 'asyncpg.exceptions.InvalidTextRepresentationError'>: invalid input value for enum contractstatus: \"\"\n[SQL: \n                UPDATE contracts \n                SET external_data = CAST($1 AS jsonb),\n                    updated_at = now()\n                WHERE contract_id = CAST($2 AS uuid)\n            ]\n[parameters: ('{\"opsjon\": null, \"region\": \"\\\\u00d8st\", \"filnavn\": null, \"utleier\": \"Stiftelsen Disen Kulturveksttun\", \"elements\": null, \"kommentar\": null, \"p_plasse ... (642 characters truncated) ... ling_admin_statsbygg\": null, \"filename\": \"Ny Leieavtale...\", \"category\": \"Fil mangler\", \"option_extension\": \"Inkluderer inntil 17 parkeringsplasser\"}', '968ca3cb-812b-47f8-91de-da5476fb350f')]\n(Background on this error at: https://sqlalche.me/e/20/dbapi)"
+    },
+    {
+      "contract_id": "c5b04f79-bd0d-4911-b46e-d014d2f6aba8",
+      "csv_row_id": "149",
+      "address": "Peder Myhres vei 16",
+      "error": "(sqlalchemy.dialects.postgresql.asyncpg.Error) <class 'asyncpg.exceptions.InvalidTextRepresentationError'>: invalid input value for enum contractstatus: \"\"\n[SQL: \n                UPDATE contracts \n                SET external_data = CAST($1 AS jsonb),\n                    updated_at = now()\n                WHERE contract_id = CAST($2 AS uuid)\n            ]\n[parameters: ('{\"opsjon\": null, \"region\": \"S\\\\u00f8r\", \"filnavn\": null, \"utleier\": \"Bj\\\\u00f8rnen Eiendom AS\", \"elements\": null, \"kommentar\": null, \"p_plasser\": \"in ... (532 characters truncated) ... ginal_rent_string\": null, \"kontraktsleie_endring\": null, \"betaling_admin_statsbygg\": null, \"filename\": \"Ny Leieavtale...\", \"category\": \"Fil mangler\"}', 'c5b04f79-bd0d-4911-b46e-d014d2f6aba8')]\n(Background on this error at: https://sqlalche.me/e/20/dbapi)"
+    },
+    {
+      "contract_id": "69a8c61f-0bc3-4252-b35f-8545891403e5",
+      "csv_row_id": "157",
+      "address": "Fridtjof Nansens vei",
+      "error": "(sqlalchemy.dialects.postgresql.asyncpg.Error) <class 'asyncpg.exceptions.InvalidTextRepresentationError'>: invalid input value for enum contractstatus: \"\"\n[SQL: \n                UPDATE contracts \n                SET external_data = CAST($1 AS jsonb),\n                    updated_at = now()\n                WHERE contract_id = CAST($2 AS uuid)\n            ]\n[parameters: ('{\"opsjon\": null, \"region\": \"S\\\\u00f8r\", \"filnavn\": null, \"utleier\": \"Statsbygg\", \"elements\": null, \"kommentar\": \"* kontrakt utg\\\\u00e5tt? Eller forle ... (544 characters truncated) ... ginal_rent_string\": null, \"kontraktsleie_endring\": null, \"betaling_admin_statsbygg\": null, \"filename\": \"Ny Leieavtale...\", \"category\": \"Fil mangler\"}', '69a8c61f-0bc3-4252-b35f-8545891403e5')]\n(Background on this error at: https://sqlalche.me/e/20/dbapi)"
+    }
+  ]
+}

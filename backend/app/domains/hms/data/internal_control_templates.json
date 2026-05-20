@@ -1,0 +1,112 @@
+[
+    {
+        "template_id": "rkl6_monthly_fire",
+        "title": "Månedlig brannrunde - Risikoklasse 6 (Institusjon)",
+        "description": "Lovpålagt egenkontroll for særskilt brannobjekt (Barnevernsinstitusjon). Fokus på rømning og sikring.",
+        "type": "monthly_check",
+        "legal_references": [
+            {
+                "title": "Forskrift om brannforebygging § 8",
+                "url": "https://lovdata.no/forskrift/2015-12-17-1710/§8"
+            },
+            {
+                "title": "Internkontrollforskriften § 5",
+                "url": "https://lovdata.no/forskrift/1996-12-06-1127/§5"
+            }
+        ],
+        "days_frequency": 30,
+        "building_type": "INSTITUTION",
+        "checklist_items": [
+            {
+                "task": "Test av nødåpning på låste dører (Må låse opp ved brannalarm)",
+                "responsibility": "TENANT",
+                "criticality": "CRITICAL"
+            },
+            {
+                "task": "Sjekk av rømningsveier (Ingen lagring, fri passasje)",
+                "responsibility": "TENANT",
+                "criticality": "HIGH"
+            },
+            {
+                "task": "Sjekk av vindussperrer i 2. etasje (Sikring mot fall/rømning)",
+                "responsibility": "TENANT",
+                "criticality": "HIGH"
+            },
+            {
+                "task": "Visuell sjekk av brannsentral (Ingen feilmeldinger)",
+                "responsibility": "TENANT",
+                "criticality": "MEDIUM"
+            },
+            {
+                "task": "Sjekk at ingen ovner er tildekket på beboerrom",
+                "responsibility": "TENANT",
+                "criticality": "HIGH"
+            }
+        ]
+    },
+    {
+        "template_id": "rkl6_security_audit",
+        "title": "Sikkerhet og Adgangskontroll (RKL 6)",
+        "description": "Kontroll av fysisk sikring, håndverkere og adgang.",
+        "type": "security_audit",
+        "legal_references": [
+            {
+                "title": "Internkontrollforskriften § 5",
+                "url": "https://lovdata.no/forskrift/1996-12-06-1127/§5"
+            },
+            {
+                "title": "Barnevernloven § 10-1",
+                "url": "https://lovdata.no/lov/2021-06-18-97/§10-1"
+            }
+        ],
+        "days_frequency": 90,
+        "building_type": "INSTITUTION",
+        "checklist_items": [
+            {
+                "task": "Verifiser at alle besøkende håndverkere er loggført",
+                "responsibility": "TENANT",
+                "criticality": "MEDIUM"
+            },
+            {
+                "task": "Sjekk politiattest / ledsagerstatus for eksternt personell",
+                "responsibility": "TENANT",
+                "criticality": "HIGH"
+            },
+            {
+                "task": "Funksjonstest av overfallsalarmer / personsikring",
+                "responsibility": "TENANT",
+                "criticality": "HIGH"
+            },
+            {
+                "task": "Sjekk av skjermingsrom (Ingen løse gjenstander/skader)",
+                "responsibility": "TENANT",
+                "criticality": "HIGH"
+            }
+        ]
+    },
+    {
+        "template_id": "landlord_interface_check",
+        "title": "Grensesnittsjekk mot Gårdeier",
+        "description": "Verifisering av at utleier leverer henhold til leiekontrakt.",
+        "type": "interface_check",
+        "days_frequency": 180,
+        "building_type": "ANY",
+        "checklist_items": [
+            {
+                "task": "Sjekk status på årskontroll sprinkler (Utført av eier?)",
+                "responsibility": "LANDLORD",
+                "action": "VERIFY_REPORT"
+            },
+            {
+                "task": "Sjekk servicerapport ventilasjon (Filterbytte utført?)",
+                "responsibility": "LANDLORD",
+                "action": "VERIFY_REPORT"
+            },
+            {
+                "task": "Visuell sjekk av tak/fasade (Ingen lekkasjer/skader)",
+                "responsibility": "SHARED",
+                "criticality": "MEDIUM"
+            }
+        ]
+    }
+]

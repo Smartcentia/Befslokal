@@ -1,0 +1,787 @@
+er er en sammenstilling som kobler alle identifiserte eiendommer fra begge kildene (Kontraktslisten og Regnskapsbilagene) inn i én altomfattende tabell.
+Forklaring til tabellen:
+• Kobling: Jeg har koblet adresser fra kontraktslisten mot kostnadssteder i regnskapet.
+• Kostnad: Summerer de største observerte transaksjonene i regnskapsmaterialet (husleie, strøm, felleskostnader) for å gi et bilde av kostnadsnivået. "Ingen bilag" betyr at eiendommen står på kontraktslisten, men ikke har synlige kostnader i det utleverte regnskapsuttrekket.
+• Status: Hentet fra kontraktslisten (Active/Terminated). Hvis eiendommen kun finnes i regnskapet, er status markert som "I drift (Mangler kontrakt)".
+Altomfattende Eiendomstabell
+Eiendom / Adresse
+Region / Bruk
+Status (Kontrakt)
+Løpetid / Utløp
+Observerte Kostnader (Eks.)
+Utleier / Merknad
+Tærudgata 16 (Lillestrøm)
+Region Øst (Kontor/Adm)
+Mangler i liste
+Ukjent
+~3 400 000,-
+Portalen Kontor AS
+Solfallsveien 27 (Ås)
+Region Øst (Behandling)
+Active
+31.10.2035
+~1 850 000,-
+Statsbygg (Husleie + BAD)
+Sundløkkaveien 73m (Torp)
+Region Øst (Borg senter)
+Active
+31.12.2027
+~1 450 000,-
+Aarum Eiendom AS
+Smedsgata 49 (Oslo)
+Region Øst (Familievern)
+Mangler i liste
+Ukjent
+~1 265 000,-
+Smedgata 45 og 49 AS
+Elias Smiths vei 22-24
+Region Øst (Sandvika)
+Active
+31.01.2028
+~1 225 000,-
+Sandvika Business Center
+Øverbyvegen 104 (Gjøvik)
+Region Øst (Institusjon)
+Mangler i liste
+Ukjent
+~1 760 000,-
+Statsbygg (Husleie + Strøm)
+Kvartal 71 (Kristiansand)
+Region Sør (Kontor/Senter)
+Mangler i liste
+Ukjent
+~1 600 000,-
+Kvartal 71 AS (Stor leiepost)
+Mynten (Kongsberg)
+Region Sør (Institusjon)
+Mangler i liste
+Ukjent
+~1 150 000,-
+Statsbygg
+Solheimsviken 11 (Bergen)
+Region Vest (Fellestj.)
+Active (som Solheimsgaten)
+28.12.2030
+~1 100 000,-
+Skipsbyggerhallen / GC Rieber
+Anton Jenssens gate 2
+Region Sør (Tønsberg)
+Active
+31.12.2029
+~1 050 000,-
+Anton Jenssensgate 2 AS
+Barkåker (Tønsberg)
+Region Sør (Institusjon)
+Mangler i liste
+Ukjent
+~1 050 000,-
+Statsbygg
+Svenner
+Region Sør (Institusjon)
+Mangler i liste
+Ukjent
+~910 000,-
+Statsbygg
+Kvammen Akuttsenter
+Region Midt (Melhus)
+Mangler i liste
+Ukjent
+~900 000,-
+Statsbygg
+Silsand (Finnsnes)
+Region Nord (Institusjon)
+Mangler i liste
+Ukjent
+~880 000,-
+Consept Eiendom AS
+Oscarsgate 20 (Oslo)
+Region Øst (Familievern)
+Active
+31.12.2026
+~850 000,-
+Oscars gate 20 AS
+Kurlandveien 12 (Sarpsborg)
+Region Øst (Institusjon)
+Mangler i liste
+Ukjent
+~890 000,-
+Statsbygg
+Toppe (Bergen)
+Region Vest (Akutt)
+Mangler i liste
+Ukjent
+~816 000,-
+Statsbygg
+Energivegen 13 (Kirkenær)
+Region Øst (Omsorg)
+Active (MERGED)
+31.12.2029
+~790 000,-
+Grue Kommune
+Thorøya / Thorøyaveien 5
+Region Sør (Sandefjord)
+Active
+31.12.2025
+~720 000,-
+AS Thor Dahl
+Yttrabekken (Mo i Rana)
+Region Nord (Ungdomssenter)
+Mangler i liste
+Ukjent
+~726 000,-
+Statsbygg
+Løkkeveien 33 (Stavanger)
+Region Vest (Inntak)
+Active
+31.08.2032
+~690 000,-
+Løkkeveien 33 AS
+Knuten (Kongsberg)
+Region Sør (Institusjon)
+Mangler i liste
+Ukjent
+~673 000,-
+Statsbygg
+Torget 6 (Lillestrøm)
+Region Øst (Familievern)
+Mangler i liste
+Ukjent
+~650 000,-
+Lillestrøm Torv AS
+Uglevn 1 (Grålum)
+Region Øst (Institusjon)
+Active
+31.12.2035
+~642 000,-
+Statsbygg
+Storgata 10 (Gjøvik)
+Region Øst (Familievern)
+Active
+01.04.2023
+~630 000,-
+Storgata 10 AS
+Røvika (Fauske)
+Region Nord (Institusjon)
+Mangler i liste
+Ukjent
+~603 000,-
+Statsbygg (Skogly/Åsheim)
+Sandnes Ungdomssenter
+Region Vest (Institusjon)
+Mangler i liste
+Ukjent
+~614 000,-
+Statsbygg (Adm)
+Korpåsen 172 (Asker)
+Region Øst (Gullhella)
+Active
+31.12.2033
+~605 000,-
+Statsbygg
+Bodø Behandlingssenter
+Region Nord (Institusjon)
+Mangler i liste
+Ukjent
+~533 000,-
+Stein Johannesen AS
+Lunde behandlingssenter
+Region Sør (Institusjon)
+Mangler i liste
+Ukjent
+~503 000,-
+Statsbygg
+Lamo (Salangen)
+Region Nord (Institusjon)
+Mangler i liste
+Ukjent
+~482 000,-
+Statsbygg
+Kabelgata 2 (Oslo)
+Region Øst (Familievern)
+Active
+28.02.2034
+~480 000,-
+Østre Aker vei 31 AS
+Marmorveien 23 (Gjøvik)
+Region Øst (Seljelia)
+Active
+31.12.2033
+~475 000,-
+Statsbygg + Strøm
+Glemmengaten 55
+Region Øst (Fredrikstad)
+Active
+30.06.2030
+~455 000,-
+Glemmengaten 55 DA
+Nattland (Bergen)
+Region Vest (Akutt)
+Active (Nedre Nattland)
+30.09.2025
+~451 000,-
+Statsbygg
+Grønland 68 (Drammen)
+Region Sør (Buskerud)
+Mangler i liste
+Ukjent
+~442 000,-
+Grønland 68 AS
+Just Brochs gate 13
+Region Øst (Hamar)
+Active
+30.11.2031
+~420 000,-
+Stiftelsen Disen
+Langsæveien 6 (Arendal)
+Region Sør (Institusjon)
+Active
+30.04.2032
+~411 000,-
+Langsæveien 6 AS
+Gilantunet (Trøndelag)
+Region Midt (Ungdomshjem)
+Mangler i liste
+Ukjent
+~416 000,-
+Nils Karl Kulbrandstad
+Ranheim Vestre
+Region Midt (Institusjon)
+Mangler i liste
+Ukjent
+~380 000,-
+Bjørnen Eiendom AS
+Strandsagvegen 2 D
+Region Øst (Brumunddal)
+Active
+31.07.2032
+~379 000,-
+Golhus AS
+Energiveien 14 (Jessheim)
+Region Øst (Familievern)
+Active
+31.12.2029
+~361 000,-
+Jessheim Næringspark AS
+Storehagen 1b (Førde)
+Region Vest (Fellestj.)
+Active
+01.08.2030
+~322 000,-
+Futurum AS
+Vangsvegen 121 (Hamar)
+Region Øst (Familievern)
+Active
+15.11.2031
+~264 000,-
+Vangsvegen 121 AS
+Glynitveien 30 (Ski)
+Region Øst (Fosterhjem)
+Active
+31.12.2030
+~261 000,-
+Glynitveien 30 AS
+Rådhusgata 16 (Askim)
+Region Øst (Familievern)
+Active
+31.12.2032
+~230 000,-
+Sentrumskvartalet Askim
+Henrik Gerners gate 14
+Region Øst (Moss)
+Active
+31.12.2034
+~222 000,-
+Kvernhuset AS
+Stavanger Akuttsenter
+Region Vest (Madla)
+Mangler i liste
+Ukjent
+~216 000,-
+Statsbygg
+Storgata 70 (Tromsø)
+Region Nord (Fosterhjem)
+Active
+01.01.2029
+~215 000,-
+Storgata 70 Tromsø AS
+Kontorbygg Skien
+Region Sør (Bufetathus)
+Mangler i liste
+Ukjent
+~204 000,-
+Kontorbygg AS
+Haraldsgata 94 (Haugesund)
+Region Vest (Fellestj.)
+Active
+15.02.2026
+~199 000,-
+Kvernhuset AS
+Håkonsgt 4 (Narvik)
+Region Nord (Fosterhjem)
+Active
+31.08.2029
+~191 000,-
+Håkonsgate 4 AS
+Ramsrudveien 32
+Region Øst (Omsorg)
+Active
+01.01.2099
+~117 000,-
+H. Berger Eiendom AS
+Gågata 5 (Kongsvinger)
+Region Øst (Familievern)
+Active
+31.12.2030
+~121 000,-
+KB Gruppen Eiendom AS
+Jernbanevegen 20/70
+Region Øst (Fagernes/Kirkenær)
+Mangler i liste
+Ukjent
+~60-100k
+Østensvikgården / Grue
+Veslekila 1 (Kirkenær)
+Region Øst (Institusjon)
+Active (MERGED)
+01.11.2099
+~64 000,-
+Grue Kommune
+Skatval Ungdomssenter
+Region Midt (Prosjekt)
+Mangler i liste
+Ukjent
+Prosjekt
+Ruta Entreprenør (Rehab)
+Eikelund (Bergen)
+Region Vest (Prosjekt)
+Active (Mangler ID i regnskap)
+Ukjent
+Prosjekt
+Statsbygg (Store ombygginger)
+Aurdalslia 96
+Region Vest
+Terminated
+2025
+Ingen bilag
+(Utløper snart)
+Svanehaugvegen 3
+Region Vest
+Active
+2027
+Ingen bilag
+Kjørbekksvingen 38
+Region Sør
+Active
+2033
+Ingen bilag
+Haugane 15
+Region Vest
+Active
+2030
+Ingen bilag
+Skinflorbakkane 12
+Region Vest
+Terminated
+2040
+Ingen bilag
+(Langsiktig kontrakt, ingen kostnad?)
+Solheimsgaten 13
+Region Vest
+Active
+2030
+Ingen bilag
+Sophus Lie-vegen 5
+Region Vest
+Active
+2033
+Ingen bilag
+Skjoldvegen 51
+Region Vest
+Active
+2033
+Ingen bilag
+Vestlundveien 22a
+Region Vest
+Terminated
+2033
+Ingen bilag
+Hans Karolius vei 6
+Region Nord
+Active
+2029
+Ingen bilag
+Rogalandsgata 18
+Region Vest
+Terminated
+2033
+Ingen bilag
+Bekkegata 2A
+Region Øst (Hønefoss)
+Active
+2029
+~100 000,-
+Hole Utbygging (Omsorg)
+Hovdenveien 159
+Region Øst (Sarpsborg)
+Active
+2024
+~28 000,-
+Aberia Ung AS
+Bjørlistubben 14
+Region Øst (Vestby)
+Active
+2099
+~137 000,-
+J&B Eiendom AS
+Njords vei 11
+Region Øst (Vestby)
+Terminated
+2033
+~217 000,-
+Statsbygg
+Brennstadmoen 23
+Region Øst
+Active
+2026
+Ingen bilag
+Fiskergata 22
+Region Nord
+Active
+2029
+~3 900,-
+SOH Eiendom (Lofoten)
+Bastian Withs gt 11
+Region Nord
+Active
+2028
+Ingen bilag
+Klatrevegen 2
+Region Midt (Ålesund)
+Active
+2024
+~14 000,-
+Felleskostnader
+Solerødveien 50
+Region Sør
+Active
+2034
+~170 000,-
+Solerødveien AS
+Storveien 1404
+Region Øst
+Active
+2028
+Ingen bilag
+(Rømskog?)
+Peder Myhres vei 16
+Region Sør
+Active
+2030
+Ingen bilag
+Lundeveien 171
+Region Sør
+Active
+2031
+Ingen bilag
+Ilaugveien 1
+Region Øst
+Active
+2026
+Ingen bilag
+Vikhovlia 1400
+Region Midt
+Active
+2027
+~160 000,-
+Bybroen Bolig AS
+Horniveien 100
+Region Øst
+Active
+2025
+~11 000,-
+Kenneth Vilming
+Mindeveien 8
+Region Vest
+Active
+2029
+Ingen bilag
+Marknesringen 48
+Region Vest
+Terminated
+2024
+Ingen bilag
+Havnegata 9
+Region Sør
+Active
+2032
+Ingen bilag
+Solbakken 12
+Region Nord
+Active
+2026
+~110 000,-
+Statsbygg (Solbakken senter)
+Hanskleiva 25
+Region Sør
+Active
+2030
+Ingen bilag
+Lagårdsveien 44
+Region Vest
+Active
+2034
+~490 000,-
+Lagårdsveien 44 AS (Fosterhjem)
+Islandsbotnveien 35
+Region Nord
+Active
+2024
+Ingen bilag
+Bispegra 52
+Region Sør
+Active
+2041
+Ingen bilag
+Østmarkveien 26 D/E
+Region Midt
+Terminated
+2028
+Ingen bilag
+Furene 8 (Volda)
+Region Vest
+Active
+2032
+Ingen bilag
+Bønesskogen 333
+Region Vest
+Active
+2033
+~195 000,-
+Statsbygg
+Rådstokken 16
+Region Vest
+Active
+2033
+Ingen bilag
+Bregnetunet 15
+Region Vest
+Active
+2033
+~114 000,-
+Statsbygg (SFU)
+Kantarellveien 4
+Region Øst
+Active
+2099
+~126 000,-
+Pedersen Perspective
+Ullsvei 16
+Region Øst
+Active
+2099
+~8 800,-
+Stiftelsen Halden Ungdomsboliger
+Klukevegen 30
+Region Øst (Hamar)
+Active
+2028
+~423 000,-
+Statsbygg (Institusjon)
+Skolegata 53
+Region Øst (Sarpsborg)
+Active
+2099
+~123 000,-
+Aram Khidriyan
+Åsaveien 662
+Region Øst (Hønefoss)
+Active
+2026
+~137 000,-
+Statsbygg (Omsorg)
+Riserveien 40A/B
+Region Øst (Aurskog)
+Active
+2026
+~165 000,-
+Aurskog-Høland Kommune
+Humlevegen 92
+Region Øst
+Active
+2029
+Ingen bilag
+Lundebyveien 363
+Region Øst
+Active
+2099
+~66 000,-
+Arnstein Karlsrud
+Justøyveien 493
+Region Sør
+Active
+2034
+~300 000,-
+ULNA AS (Justøya)
+Storgata 31
+Region Sør
+Active
+2028
+Ingen bilag
+Sjukehusvegen 5
+Region Vest
+Active
+2027
+Ingen bilag
+Fredrik Selmers vei 3
+Region Øst
+Active
+2028
+Ingen bilag
+Wiulls gate 3
+Region Øst
+Active
+2099
+Ingen bilag
+Bomveien 3
+Region Midt (Steinkjer)
+Active
+2028
+~180 000,-
+Bomveien 3 AS
+Feråsvegen 13
+Region Vest
+Active
+2028
+Ingen bilag
+Askveien 132
+Region Øst
+Active
+2025
+Ingen bilag
+Torolv Kveldulvsonsgt 39
+Region Nord
+Active
+2025/33
+Ingen bilag
+Sandbrekkevegen 27
+Region Vest
+Active
+2027
+Ingen bilag
+Uttrøgata 36
+Region Midt
+Active
+2028
+Ingen bilag
+Thorøyaveien 1
+Region Sør
+Active
+2030
+Ingen bilag
+Baneveien 19
+Region Vest
+Active
+2028
+Ingen bilag
+Nygardsvegen 2 og 4
+Region Midt
+Active
+2024
+~14 000,-
+Aen Eiendom (Sunnmørsheimen)
+Liaveien 2
+Region Øst (Aurskog)
+Active
+2028
+~267 000,-
+Statsbygg (Lierfoss)
+Snorres veg 2
+Region Øst (Kirkenær)
+Active
+2026
+~132 000,-
+Statsbygg (Omsorg)
+Torleiv Kvalviks gate 9
+Region Vest
+Active
+2027
+Ingen bilag
+Jåttåvågveien 10
+Region Vest
+Active
+2035
+Ingen bilag
+Nordsetvegen 227
+Region Midt
+Active
+2036
+Ingen bilag
+Kompani Lingesvei 23
+Region Vest
+Active
+2033
+Ingen bilag
+Nedre Nattland 69
+Region Vest
+Active
+2025
+~460 000,-
+Statsbygg
+Nybøvegen 24
+Region Vest
+Active
+2014 (Hist)
+Ingen bilag
+Tertneshøyden 33b
+Region Vest
+Active
+2028
+~100 000,-
+Statsbygg (Kasa)
+Lindøy 9
+Region Vest
+Active
+2014 (Hist)
+~200 000,-
+Statsbygg (Stavanger US)
+Røldalsvegen 2
+Region Vest
+Active
+2026
+Ingen bilag
+Emma Hjortsvei 60
+Region Øst (Sandvika)
+Active
+2033
+~182 000,-
+Statsbygg
+Frogsvei 21-25
+Region Øst
+Active
+2052
+Ingen bilag
+Forbordsfjellvegen 119
+Region Midt
+Active
+2033
+Ingen bilag
+Austenå 370
+Region Sør
+Active
+2033
+Ingen bilag
+Eideveien 168
+Region Sør
+Active
+2031
+Ingen bilag
+Vågeveien 10
+Region Vest
+Active
+2028
+Ingen bilag
+Strandvn 6
+Region Nord?
+Active
+2027
+Ingen bilag

@@ -1,0 +1,50 @@
+[
+  {
+    "event": "READ_FAILED",
+    "details": {
+      "file": "backend/docs/datafiler/Leveringsadresser til Frank Vevle(Nord).csv",
+      "error": "[Errno 1] Operation not permitted: 'backend/docs/datafiler/Leveringsadresser til Frank Vevle(Nord).csv'"
+    },
+    "timestamp": "2026-02-22T16:07:01.177457"
+  },
+  {
+    "event": "READ_FAILED",
+    "details": {
+      "file": "backend/docs/datafiler/Leveringsadresser til Frank Vevle(Midt).csv",
+      "error": "[Errno 1] Operation not permitted: 'backend/docs/datafiler/Leveringsadresser til Frank Vevle(Midt).csv'"
+    },
+    "timestamp": "2026-02-22T16:07:01.179203"
+  },
+  {
+    "event": "READ_FAILED",
+    "details": {
+      "file": "backend/docs/datafiler/Leveringsadresser til Frank Vevle(Vest).csv",
+      "error": "[Errno 1] Operation not permitted: 'backend/docs/datafiler/Leveringsadresser til Frank Vevle(Vest).csv'"
+    },
+    "timestamp": "2026-02-22T16:07:01.180055"
+  },
+  {
+    "event": "READ_FAILED",
+    "details": {
+      "file": "backend/docs/datafiler/Leveringsadresser til Frank Vevle(S\u00f8r).csv",
+      "error": "[Errno 1] Operation not permitted: 'backend/docs/datafiler/Leveringsadresser til Frank Vevle(S\u00f8r).csv'"
+    },
+    "timestamp": "2026-02-22T16:07:01.180806"
+  },
+  {
+    "event": "READ_FAILED",
+    "details": {
+      "file": "backend/docs/datafiler/Leveringsadresser til Frank Vevle(\u00d8st).csv",
+      "error": "[Errno 1] Operation not permitted: 'backend/docs/datafiler/Leveringsadresser til Frank Vevle(\u00d8st).csv'"
+    },
+    "timestamp": "2026-02-22T16:07:01.181313"
+  },
+  {
+    "event": "READ_FAILED",
+    "details": {
+      "file": "backend/docs/datafiler/Leveringsadresser til Frank Vevle(Bufdir).csv",
+      "error": "[Errno 1] Operation not permitted: 'backend/docs/datafiler/Leveringsadresser til Frank Vevle(Bufdir).csv'"
+    },
+    "timestamp": "2026-02-22T16:07:01.181839"
+  }
+]

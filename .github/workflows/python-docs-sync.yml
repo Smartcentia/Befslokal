@@ -1,0 +1,30 @@
+name: Python Docs Sync
+
+on:
+  push:
+    branches: [ "main" ]
+
+jobs:
+  check-docs-sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Generate python script docs
+        run: |
+          python3 scripts/generate_python_docs.py
+
+      - name: Verify docs are in sync
+        run: |
+          if ! git diff --quiet -- docs/python.md; then
+            echo "docs/python.md is not up-to-date with generator."
+            echo "Run: python3 scripts/generate_python_docs.py and commit the changes."
+            git --no-pager diff -- docs/python.md || true
+            exit 1
+          fi

@@ -1,0 +1,250 @@
+{
+    "metadata": {
+        "kilde": "https://nbup.no",
+        "hentet_dato": "2026-01-06T12:59:18.239409",
+        "sider": [
+            "https://nbup.no/andre-nettressurser/relevante-lenker/",
+            "https://nbup.no/psykisk-helsevern-for-barn-og-unge-i-norge/hvor-er-bup-i-norge/"
+        ]
+    },
+    "lenker": {
+        "generelle_lenker": [],
+        "internasjonale_ressurser": [],
+        "kompetansesentre": []
+    },
+    "lokasjoner": {
+        "helse_sor_ost": [
+            {
+                "adresse": "Ammerudveien 45, 0958 Oslo",
+                "telefon": "+47 22 16 82 00",
+                "latitude": 59.9608,
+                "longitude": 10.8654,
+                "navn": "BUP Grorud"
+            },
+            {
+                "adresse": "Sognsvannsveien 21, 0372 Oslo",
+                "telefon": "+47 22 11 80 00",
+                "latitude": 59.9472,
+                "longitude": 10.7161,
+                "navn": "BUP Vest"
+            },
+            {
+                "adresse": "Solveien 37, 1177 Oslo",
+                "telefon": "+47 23 19 13 00",
+                "latitude": 59.8824,
+                "longitude": 10.7963,
+                "navn": "BUP Syd"
+            },
+            {
+                "adresse": "Nydalen allé 33, 0484 Oslo",
+                "telefon": "+47 22 11 80 00",
+                "latitude": 59.9502,
+                "longitude": 10.7674,
+                "navn": "BUP Nordre Aker"
+            },
+            {
+                "navn": "BUP Follo",
+                "adresse": "Ski sykehus, Vardeveien 15, 1400 Ski",
+                "telefon": "+47 64 85 90 00",
+                "latitude": 59.72624949999999,
+                "longitude": 10.843999
+            },
+            {
+                "navn": "BUP Asker",
+                "adresse": "Kirkeveien 61, 1383 Asker",
+                "telefon": "+47 67 50 20 00",
+                "latitude": 59.8540743,
+                "longitude": 10.4561679
+            },
+            {
+                "navn": "BUP Bærum",
+                "adresse": "Dønskiveien 1, 1346 Gjettum",
+                "telefon": "+47 67 50 20 00",
+                "latitude": 59.89870439999999,
+                "longitude": 10.5080293
+            },
+            {
+                "navn": "BUP Drammen",
+                "adresse": "Dronninggata 28, 3019 Drammen",
+                "telefon": "+47 32 80 30 00",
+                "latitude": 59.7486924,
+                "longitude": 10.1975089
+            },
+            {
+                "navn": "BUP Kongsvinger",
+                "adresse": "Parkvegen 35, 2212 Kongsvinger",
+                "telefon": "+47 62 88 77 00",
+                "latitude": 60.19465270000001,
+                "longitude": 11.9941553
+            },
+            {
+                "navn": "BUP Hamar",
+                "adresse": "Furnesvegen 26, 2317 Hamar",
+                "telefon": "+47 62 53 79 00",
+                "latitude": 60.79790219999999,
+                "longitude": 11.0698925
+            },
+            {
+                "navn": "BUP Lillehammer",
+                "adresse": "Anders Sandvigs veg 17, 2609 Lillehammer",
+                "telefon": "+47 61 27 20 00",
+                "latitude": 61.112241,
+                "longitude": 10.473869
+            },
+            {
+                "navn": "BUP Skien",
+                "adresse": "Ulefossvegen 55, 3710 Skien",
+                "telefon": "+47 35 00 31 00",
+                "latitude": 59.1936304,
+                "longitude": 9.5939367
+            },
+            {
+                "navn": "BUP Tønsberg",
+                "adresse": "Kjelleveien 21, 3125 Tønsberg",
+                "telefon": "+47 33 31 35 00",
+                "latitude": 59.27717699999999,
+                "longitude": 10.4020189
+            }
+        ],
+        "helse_vest": [
+            {
+                "adresse": "Ibsens gate 118, 5052 Bergen",
+                "telefon": "+47 55 97 50 00",
+                "latitude": 60.3703,
+                "longitude": 5.3524,
+                "navn": "BUP Bergen"
+            },
+            {
+                "navn": "BUP Fana",
+                "adresse": "Nesttunbrekka 95, 5221 Nesttun",
+                "telefon": "+47 55 91 84 00",
+                "latitude": 60.3116512,
+                "longitude": 5.349601799999999
+            },
+            {
+                "navn": "BUP Åsane",
+                "adresse": "Litleåsvegen 2, 5132 Nyborg",
+                "telefon": "+47 55 53 96 00",
+                "latitude": 60.46870389999999,
+                "longitude": 5.3278598
+            },
+            {
+                "navn": "BUP Stavanger",
+                "adresse": "Armauer Hansens vei 20, 4011 Stavanger",
+                "telefon": "+47 51 51 51 51",
+                "latitude": 58.95358779999999,
+                "longitude": 5.732768099999999
+            },
+            {
+                "navn": "BUP Haugesund",
+                "adresse": "Karmsundgata 120, 5528 Haugesund",
+                "telefon": "+47 52 73 20 00",
+                "latitude": 59.4090366,
+                "longitude": 5.279502300000001
+            },
+            {
+                "navn": "BUP Førde",
+                "adresse": "Vievegen 34, 6807 Førde",
+                "telefon": "+47 57 83 90 00",
+                "latitude": 61.45793939999999,
+                "longitude": 5.890541499999999
+            }
+        ],
+        "helse_midt": [
+            {
+                "adresse": "Klostertunet 1, 7030 Trondheim",
+                "telefon": "+47 72 82 50 00",
+                "latitude": 63.4194,
+                "longitude": 10.3895,
+                "navn": "BUP Trondheim"
+            },
+            {
+                "navn": "BUP Levanger",
+                "adresse": "Kirkegata 2, 7600 Levanger",
+                "telefon": "+47 74 09 80 00",
+                "latitude": 63.74206849999999,
+                "longitude": 11.2882626
+            },
+            {
+                "navn": "BUP Namsos",
+                "adresse": "Havnegata 40, 7800 Namsos",
+                "telefon": "+47 74 21 54 00",
+                "latitude": 64.46820389999999,
+                "longitude": 11.4955652
+            },
+            {
+                "navn": "BUP Kristiansund",
+                "adresse": "Herman Døhlens vei 1, 6508 Kristiansund",
+                "telefon": "+47 71 12 00 00",
+                "latitude": 63.10831700000001,
+                "longitude": 7.724324
+            },
+            {
+                "navn": "BUP Molde",
+                "adresse": "Parkvegen 84, 6412 Molde",
+                "telefon": "+47 71 12 00 00",
+                "latitude": 62.7373412,
+                "longitude": 7.137577299999999
+            },
+            {
+                "navn": "BUP Ålesund",
+                "adresse": "Åsehaugen 5, 6017 Ålesund",
+                "telefon": "+47 71 12 00 00",
+                "latitude": 62.46377889999999,
+                "longitude": 6.3132825
+            }
+        ],
+        "helse_nord": [
+            {
+                "adresse": "Hansine Hansens veg 14, 9019 Tromsø",
+                "telefon": "+47 77 62 60 00",
+                "latitude": 69.6805,
+                "longitude": 18.9734,
+                "navn": "BUP Tromsø"
+            },
+            {
+                "navn": "BUP Bodø",
+                "adresse": "Prinsens gate 164, 8005 Bodø",
+                "telefon": "+47 75 53 40 00",
+                "latitude": 67.28343250000002,
+                "longitude": 14.3975121
+            },
+            {
+                "navn": "BUP Harstad",
+                "adresse": "St. Olavs gate 70, 9406 Harstad",
+                "telefon": "+47 77 01 50 00",
+                "latitude": 68.79627409999999,
+                "longitude": 16.5249539
+            },
+            {
+                "navn": "BUP Narvik",
+                "adresse": "Sykehusveien 3, 8516 Narvik",
+                "telefon": "+47 76 96 80 00",
+                "latitude": 68.4420621,
+                "longitude": 17.4125429
+            },
+            {
+                "navn": "BUP Alta",
+                "adresse": "Markveien 31, 9510 Alta",
+                "telefon": "+47 78 45 50 00",
+                "latitude": 69.9679637,
+                "longitude": 23.2775216
+            },
+            {
+                "navn": "BUP Hammerfest",
+                "adresse": "Sykehusveien 35, 9600 Hammerfest",
+                "telefon": "+47 78 42 10 00",
+                "latitude": 70.6729916,
+                "longitude": 23.6718695
+            },
+            {
+                "navn": "BUP Kirkenes",
+                "adresse": "Skytterveien 14, 9900 Kirkenes",
+                "telefon": "+47 78 97 30 00",
+                "latitude": 69.7269192,
+                "longitude": 30.0450432
+            }
+        ],
+        "sentraliserte_ressurser": []
+    }
+}
