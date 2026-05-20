@@ -60,15 +60,13 @@ async def run_migrations_online() -> None:
     """Run migrations in 'online' mode."""
     db_url = config.get_main_option("sqlalchemy.url") or settings.DATABASE_URL
     
-    # SSL config for Supabase
-    ssl_context = ssl.create_default_context()
-    ssl_context.check_hostname = False
-    ssl_context.verify_mode = ssl.CERT_NONE
-    
-    connect_args = {
-        "ssl": ssl_context,
-        "statement_cache_size": 0,  # Required for PgBouncer (Supabase Session Pooler)
-    }
+    connect_args: dict = {"statement_cache_size": 0}
+    # SSL kun for sky-DB (Supabase/Railway), ikke lokal Postgres
+    if db_url and "localhost" not in db_url and "127.0.0.1" not in db_url:
+        ssl_context = ssl.create_default_context()
+        ssl_context.check_hostname = False
+        ssl_context.verify_mode = ssl.CERT_NONE
+        connect_args["ssl"] = ssl_context
     
     connectable = create_async_engine(
         db_url,

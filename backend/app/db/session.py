@@ -15,10 +15,14 @@ ssl_context = ssl.create_default_context()
 ssl_context.check_hostname = False
 ssl_context.verify_mode = ssl.CERT_NONE
 
-# For Railway internal .railway.internal URLs, no SSL needed
+# Ingen SSL for lokal Postgres eller Railway internal
 _ssl: object = ssl_context
-if database_url and ".railway.internal" in database_url:
-    _ssl = False  # Railway internal network is secure without SSL
+if database_url and (
+    ".railway.internal" in database_url
+    or "localhost" in database_url
+    or "127.0.0.1" in database_url
+):
+    _ssl = False
 
 connect_args = {
     "server_settings": {

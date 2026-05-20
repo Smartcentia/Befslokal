@@ -166,7 +166,7 @@ from app.api.v1.admin.user_management import router as admin_user_mgmt_router
 app.include_router(sessions_router, prefix="/api/v1", tags=["Sessions"])  # NextAuth - NO AUTH
 app.include_router(verification_router, prefix="/api/v1/auth", tags=["Email Verification"])
 app.include_router(mfa_router, prefix="/api/v1/auth", tags=["MFA"])
-# app.include_router(login_router, prefix="/api/v1/auth", tags=["Auth"])
+app.include_router(login_router, prefix="/api/v1/auth", tags=["Auth"])
 
 # ...
 

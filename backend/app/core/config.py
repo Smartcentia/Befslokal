@@ -173,7 +173,7 @@ class Settings(BaseSettings):
     SMTP_USE_TLS: bool = True
     
     # Frontend URLs (for CORS)
-    FRONTEND_URLS: List[str] = ["http://localhost:3000", "https://knowme-frontend-amber.vercel.app"]
+    FRONTEND_URLS: Union[List[str], str] = ["http://localhost:3000", "https://knowme-frontend-amber.vercel.app"]
 
     @field_validator("FRONTEND_URLS", mode="before")
     @classmethod
@@ -251,8 +251,8 @@ class Settings(BaseSettings):
     model_config = SettingsConfigDict(
         case_sensitive=True,
         extra="ignore",
-        # env_file=".env",
-        # env_file_encoding="utf-8"
+        env_file=".env",
+        env_file_encoding="utf-8",
     )
 
 settings = Settings()

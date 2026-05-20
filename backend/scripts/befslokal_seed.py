@@ -12,6 +12,7 @@ from sqlalchemy import select
 from sqlalchemy.ext.asyncio import create_async_engine, AsyncSession
 from sqlalchemy.orm import sessionmaker
 
+import app.db.base  # noqa: F401 – registrer alle modeller
 from app.domains.core.models.user import User, UserRole
 from app.core.security.pwd import get_password_hash
 
