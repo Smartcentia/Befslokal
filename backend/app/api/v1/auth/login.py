@@ -1,6 +1,6 @@
 from fastapi import APIRouter, Depends, HTTPException, status
 from pydantic import BaseModel
-from sqlalchemy.orm import Session
+from sqlalchemy.orm import Session, noload
 from sqlalchemy import select
 from app.api import deps
 from app.domains.core.models.user import User
@@ -39,7 +39,7 @@ async def validate_credentials(
         email = login_data.email.lower().strip()
         
         # Fetch user
-        stmt = select(User).where(User.email == email)
+        stmt = select(User).options(noload(User.properties)).where(User.email == email)
         result = await db.execute(stmt)
         user = result.scalar_one_or_none()
         
